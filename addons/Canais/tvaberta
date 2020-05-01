@@ -1,0 +1,190 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/trX7KtL.png" group-title="PORTUGAL | BRASIL",BRA |Globo SP FHD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/21615
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/trX7KtL.png" group-title="PORTUGAL | BRASIL",BRA |Globo SP HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/17241
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/trX7KtL.png" group-title="PORTUGAL | BRASIL",BRA |Globo SP
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/111
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/trX7KtL.png" group-title="PORTUGAL | BRASIL",BRA |Globo SP  FHD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/31624
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/trX7KtL.png" group-title="PORTUGAL | BRASIL",BRA |Globo SP Alternativo HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/18836
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/trX7KtL.png" group-title="PORTUGAL | BRASIL",BRA |Globo SP Alternativo
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/8664
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/trX7KtL.png" group-title="PORTUGAL | BRASIL",BRA |Globo SP Alternativo FHD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/38014
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/trX7KtL.png" group-title="PORTUGAL | BRASIL",BRA |Globo SP H265
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/46981
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/toqWUxf.png" group-title="PORTUGAL | BRASIL",BRA |SBT FHD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/12662
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/toqWUxf.png" group-title="PORTUGAL | BRASIL",BRA |SBT HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/1961
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/toqWUxf.png" group-title="PORTUGAL | BRASIL",BRA |Sbt
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/373
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/toqWUxf.png" group-title="PORTUGAL | BRASIL",BRA |SBT HD Alternativo
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/12886
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/toqWUxf.png" group-title="PORTUGAL | BRASIL",BRA |SBT Alternativo
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/18203
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/toqWUxf.png" group-title="PORTUGAL | BRASIL",BRA |SBT Alternativo FHD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/40386
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/toqWUxf.png" group-title="PORTUGAL | BRASIL",BRA |SBT H265
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/13825
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/DwqJcTv.png" group-title="PORTUGAL | BRASIL",BRA |RecordTV SP FHD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/21622
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/DwqJcTv.png" group-title="PORTUGAL | BRASIL",BRA |RecordTV SP HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/1694
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/DwqJcTv.png" group-title="PORTUGAL | BRASIL",BRA |RecordTV SP
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/252
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/DwqJcTv.png" group-title="PORTUGAL | BRASIL",BRA |RecordTV Alternativo SP FHD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/38017
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/DwqJcTv.png" group-title="PORTUGAL | BRASIL",BRA |RecordTV Alternativo SP HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/7045
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/DwqJcTv.png" group-title="PORTUGAL | BRASIL",BRA |RecordTV Alternativo SP
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/13532
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/DwqJcTv.png" group-title="PORTUGAL | BRASIL",BRA |RecordTV Alternativo FHD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/36353
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/9G3kFcu.png" group-title="PORTUGAL | BRASIL",BRA |Rede TV FHD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/7046
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/9G3kFcu.png" group-title="PORTUGAL | BRASIL",BRA |Rede TV HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/1862
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/9G3kFcu.png" group-title="PORTUGAL | BRASIL",BRA |Rede Tv
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/297
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/9G3kFcu.png" group-title="PORTUGAL | BRASIL",BRA |Rede TV Alternativo HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/21198
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/9G3kFcu.png" group-title="PORTUGAL | BRASIL",BRA |Rede Tv Alternativo
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/21199
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/vA0eRlz.png" group-title="PORTUGAL | BRASIL",BRA |TV Gazeta HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/18202
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/vA0eRlz.png" group-title="PORTUGAL | BRASIL",BRA |TV Gazeta
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/1929
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/SJUFfL3.png" group-title="PORTUGAL | BRASIL",BRA |Band FHD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/7047
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/SJUFfL3.png" group-title="PORTUGAL | BRASIL",BRA |Band HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/1744
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/SJUFfL3.png" group-title="PORTUGAL | BRASIL",BRA |Band
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/372
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/SJUFfL3.png" group-title="PORTUGAL | BRASIL",BRA |Band Alternativo HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/19956
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/SJUFfL3.png" group-title="PORTUGAL | BRASIL",BRA |Band Alternativo
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/21197
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/SJUFfL3.png" group-title="PORTUGAL | BRASIL",BRA |Band H265
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/46968
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/eNzt27x.png" group-title="PORTUGAL | BRASIL",BRA |TV Cultura FHD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/31272
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/eNzt27x.png" group-title="PORTUGAL | BRASIL",BRA |TV Cultura HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/31271
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/eNzt27x.png" group-title="PORTUGAL | BRASIL",BRA |TV Cultura
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/2422
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/F6AfwR5.png" group-title="PORTUGAL | BRASIL",BRA |Futura FHD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/31204
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/F6AfwR5.png" group-title="PORTUGAL | BRASIL",BRA |Futura HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/21692
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/F6AfwR5.png" group-title="PORTUGAL | BRASIL",BRA |Futura
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/6653
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/ap1Mk5s.png" group-title="PORTUGAL | BRASIL",BRA |Rede Vida FHD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/31618
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/ap1Mk5s.png" group-title="PORTUGAL | BRASIL",BRA |Rede Vida HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/31619
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/ap1Mk5s.png" group-title="PORTUGAL | BRASIL",BRA |Rede Vida
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/6657
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/eThx0uW.png" group-title="PORTUGAL | BRASIL",BRA |TV Aparecida HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/29796
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/eThx0uW.png" group-title="PORTUGAL | BRASIL",BRA |TV Aparecida
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/6550
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/CJIOw2S.png" group-title="PORTUGAL | BRASIL",BRA |Canção Nova
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/304
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/ARL0Zem.png" group-title="PORTUGAL | BRASIL",BRA |Novo tempo
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/2408
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/DF22awg.png" group-title="PORTUGAL | BRASIL",BRA |TV Mundial
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/6658
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/9sl6GF7.png" group-title="PORTUGAL | BRASIL",BRA |TV Evangelizar
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/8494
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/bnrUBc6.png" group-title="PORTUGAL | BRASIL",BRA |Boa Vontade TV
+http://infinityzamigos.ddns.me:8080/Infinity/VQ1YugzBCs/1343
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/YQWzYxt.png" group-title="PORTUGAL | BRASIL",BRA |TV Gideões
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/16790
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/ZVv1KXZ.png" group-title="PORTUGAL | BRASIL",BRA |RIT TV
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/2626
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/jG2PvZM.png" group-title="PORTUGAL | BRASIL",BRA |RBI TV
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/2627
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/jkR1HrW.png" group-title="PORTUGAL | BRASIL",BRA |Canal Promessas
+http://177.153.227.41:1935/canal/cpro/stream/PLAY.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/A377qav.png" group-title="PORTUGAL | BRASIL",BRA |TV Missao
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/17246
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/4FEeWoR.png" group-title="PORTUGAL | BRASIL",BRA |Rede 21
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/6660
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/trX7KtL.png" group-title="PORTUGAL | BRASIL",BRA |Globo RBS TV Poa H265
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/46974
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/iEV0X3l.png" group-title="PORTUGAL | BRASIL",BRA |Canal Brasil FHD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/13899
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/iEV0X3l.png" group-title="PORTUGAL | BRASIL",BRA |Canal Brasil HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/6542
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/iEV0X3l.png" group-title="PORTUGAL | BRASIL",BRA |Canal Brasil
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/237
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/iEV0X3l.png" group-title="PORTUGAL | BRASIL",BRA |Canal Brasil Alternativo HD
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/21730
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/iEV0X3l.png" group-title="PORTUGAL | BRASIL",BRA |Canal Brasil Alternativo
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/21731
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/iEV0X3l.png" group-title="PORTUGAL | BRASIL",BRA |Canal Brasil H265
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/46917
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/eWJ2yfQ.png" group-title="PORTUGAL | BRASIL",BRA |TV Brasil
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/1928
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/5BUWGIn.png" group-title="PORTUGAL | BRASIL",BRA |TV Diario
+http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/PLAY.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/9gdorjB.png" group-title="PORTUGAL | BRASIL",BRA |TV Escola
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/12108
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/lM0tzpi.png" group-title="PORTUGAL | BRASIL",BRA |TV Câmara
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/1783
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/lFsQIKA.png" group-title="PORTUGAL | BRASIL",BRA |TV Justica
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/35902
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/tNdjTJG.png" group-title="PORTUGAL | BRASIL",BRA |TV Senado
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/6651
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/rbK0H9d.png" group-title="PORTUGAL | BRASIL",BRA |NBR
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/1843
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/Jjh09x8.png" group-title="PORTUGAL | BRASIL",BRA |Terra Viva
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/17520
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/b4GYhpy.png" group-title="PORTUGAL | BRASIL",BRA |Canal Rural
+http://hls-PLAY.crur.al/hlsmedium/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AXN Alternativo" tvg-logo="https://imgur.com/1FckwKy.png" group-title="PORTUGAL | BRASIL",BRA |Rede Brasil
+plugin://plugin.video.f4mTester/?name=KALL/L-TV&NORDESTV&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/daniel1704/daniel1704/1780
+

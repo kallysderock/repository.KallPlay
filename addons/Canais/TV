@@ -1,0 +1,317 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgur.com/S292EnY.png" group-title="CANAIS | TV ABERTA", ** CANAIS | TV ABERTA **
+http://127.0.0.6
+
+#EXTINF:-1 tvg-ID="BAN" tvg-logo="https://i.imgur.com/rk7HO8y.jpg" group-title="CANAIS | TV ABERTA", Band (KallPlay)
+http://faustinotv.tk/redir.php?acesso=b4da5da411e26e12eb67fd6ee859bbea&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="GRJ" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="CANAIS | TV ABERTA", Globo RJ (KallPlay)
+http://faustinotv.tk/redir.php?acesso=03216f09b3eef08f8dd7e082d359de29&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="REC" tvg-logo="https://i.imgur.com/EQoGp6e.jpg" group-title="CANAIS | TV ABERTA", Record TV (KallPlay)
+http://faustinotv.tk/redir.php?acesso=df904cfb957dc1ecef89910c27684c37&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="SBT" tvg-logo="https://i.imgur.com/AY3ujXa.jpg" group-title="CANAIS | TV ABERTA", SBT (KallPlay)
+http://faustinotv.tk/redir.php?acesso=90af0e0660fa17a03fdac812cd9c2dd1&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="RTV" tvg-logo="https://i.imgur.com/nsisrT6.jpg" group-title="CANAIS | TV ABERTA", Rede TV (KallPlay)
+http://faustinotv.tk/redir.php?acesso=0a80635c993598daeb853eab1b0a4fb7&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/pmzSz8v.jpg" group-title="CANAIS | TV ABERTA", TV Camara (KallPlay)
+http://faustinotv.tk/redir.php?acesso=f75b05debbae528dc017efc1cfcb0f15&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="CUL" tvg-logo="https://i.imgur.com/uugRo9z.jpg" group-title="CANAIS | TV ABERTA", TV Cultura (KallPlay)
+http://faustinotv.tk/redir.php?acesso=ec0c870d6d6e61b75215b6f3c4116000&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/rIp4OdP.jpg" group-title="CANAIS | TV ABERTA", TV Justiça (KallPlay)
+http://faustinotv.tk/redir.php?acesso=37d3dc8546d6c95f3b00c5c4220843a0&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/e3fPxX4.jpg" group-title="CANAIS | TV ABERTA", TV Senado (KallPlay)
+http://faustinotv.tk/redir.php?acesso=9d7cfca73358a25e5061c4eaf314b836&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="FUT" tvg-logo="https://i.imgur.com/iOoWKng.jpg" group-title="CANAIS | TV ABERTA", Futura (KallPlay)
+http://faustinotv.tk/redir.php?acesso=fecf1e8d3ba583d395ad4d3778858b75&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+===============================================================================================================
+
+#EXTINF:-1 tvg-logo="https://imgur.com/S292EnY.png" group-title="CANAIS | FILMES & SÉRIES", ** CANAIS | FILMES & SÉRIES **
+http://127.0.0.7
+
+#EXTINF:-1 tvg-ID="MDO" tvg-logo="https://i.imgur.com/q7qEiay.jpg" group-title="CANAIS | FILMES & SÉRIES", A&E (KallPlay)
+http://faustinotv.tk/redir.php?acesso=e120a7537d7010774508ac8749a163fc&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="AMC" tvg-logo="https://i.imgur.com/MjIRIDs.jpg" group-title="CANAIS | FILMES & SÉRIES", AMC (KallPlay)
+http://faustinotv.tk/redir.php?acesso=e426a9e1845f366dcb5989f925c12201&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="AXH" tvg-logo="https://i.imgur.com/hZRzyq6.jpg" group-title="CANAIS | FILMES & SÉRIES", AXN (KallPlay)
+http://faustinotv.tk/redir.php?acesso=6973309b8041f52cd749d028c357ba36&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="MNX" tvg-logo="https://i.imgur.com/1UjkL1F.jpg" group-title="CANAIS | FILMES & SÉRIES", Cinemax (KallPlay)
+http://faustinotv.tk/redir.php?acesso=11d0113d9d894914d86191dddad6c5fe&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="FOX" tvg-logo="https://i.imgur.com/fA8hj5R.jpg" group-title="CANAIS | FILMES & SÉRIES", FOX (KallPlay)
+http://faustinotv.tk/redir.php?acesso=2d342a570e1ede6eda94ca934241fbd9&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="FLI" tvg-logo="https://i.imgur.com/Q6PSlmh.jpg" group-title="CANAIS | FILMES & SÉRIES", FOX Life (KallPlay)
+http://faustinotv.tk/redir.php?acesso=1bc919eb6476b8db92ed0db14aba8d9b&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="FXP" tvg-logo="https://i.imgur.com/WKsZQ8y.jpg" group-title="CANAIS | FILMES & SÉRIES", FOX Premium 1 (KallPlay)
+http://faustinotv.tk/redir.php?acesso=1282126ee22d500b8f2fffa9254abc4f&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="FX2" tvg-logo="https://i.imgur.com/rlgpAAe.jpg" group-title="CANAIS | FILMES & SÉRIES", FOX Premium 2 (KallPlay)
+http://faustinotv.tk/redir.php?acesso=bf7f1adfc1c1a2c3ff23167722dfd3a9&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="CFX" tvg-logo="https://i.imgur.com/z8y9oOV.jpg" group-title="CANAIS | FILMES & SÉRIES", FX (KallPlay)
+http://faustinotv.tk/redir.php?acesso=3e8a31f49b3c5392ce417e9205c6f4cb&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="HBO" tvg-logo="https://i.imgur.com/jLsyz6j.jpg" group-title="CANAIS | FILMES & SÉRIES", HBO (KallPlay)
+http://faustinotv.tk/redir.php?acesso=d4e0996385e630e23f9927f61fc0cdb3&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="HB2" tvg-logo="https://i.imgur.com/VUTD55l.jpg" group-title="CANAIS | FILMES & SÉRIES", HBO 2 (KallPlay)
+http://faustinotv.tk/redir.php?acesso=53db85b4343a86f09a2e85d63c5517b1&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="HFA" tvg-logo="https://i.imgur.com/5q4jsHZ.jpg" group-title="CANAIS | FILMES & SÉRIES", HBO Family (KallPlay)
+http://faustinotv.tk/redir.php?acesso=53ffda7acfc6a2f59319b26bae131bbc&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="HBP" tvg-logo="https://i.imgur.com/CSYVbKG.jpg" group-title="CANAIS | FILMES & SÉRIES", HBO Plus (KallPlay)
+http://faustinotv.tk/redir.php?acesso=d017c0a263189223aac3fcfc10b63579&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="HFE" tvg-logo="https://i.imgur.com/yCmP71z.jpg" group-title="CANAIS | FILMES & SÉRIES", HBO Signature (KallPlay)
+http://faustinotv.tk/redir.php?acesso=33bd3c71444c7631db78c41e1a3cbdc0&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="MXE" tvg-logo="https://i.imgur.com/qZd9dJm.jpg" group-title="CANAIS | FILMES & SÉRIES", MAX (KallPlay)
+http://faustinotv.tk/redir.php?acesso=72919889b80ee07c00c89aa7d3423380&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="MAP" tvg-logo="https://i.imgur.com/K1IAoGY.jpg" group-title="CANAIS | FILMES & SÉRIES", MAX Prime (KallPlay)
+http://faustinotv.tk/redir.php?acesso=2d873fa498faf1baaa876571c6d78474&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="MUP" tvg-logo="https://i.imgur.com/ld6sm2e.jpg" group-title="CANAIS | FILMES & SÉRIES", MAX UP (KallPlay)
+http://faustinotv.tk/redir.php?acesso=9c0f2adf6456fa7a0a1cc328cf1d1202&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="SPA" tvg-logo="https://i.imgur.com/PkFRxnM.jpg" group-title="CANAIS | FILMES & SÉRIES", Space (KallPlay)
+http://faustinotv.tk/redir.php?acesso=a6c5ab742f9ee61b67ecc7de59221356&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="SCI" tvg-logo="https://i.imgur.com/rXNClfR.jpg" group-title="CANAIS | FILMES & SÉRIES", Syfy (KallPlay)
+http://faustinotv.tk/redir.php?acesso=91e951c064462373649820ace75c7827&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="TNH" tvg-logo="https://i.imgur.com/4DVxGf7.jpg" group-title="CANAIS | FILMES & SÉRIES", TNT (KallPlay)
+http://faustinotv.tk/redir.php?acesso=2beddfcf02d86f287b4993e957cd18f1&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="TNS" tvg-logo="https://i.imgur.com/ntD0xQm.jpg" group-title="CANAIS | FILMES & SÉRIES", TNT Séries (faustinoTV)
+http://faustinotv.tk/redir.php?acesso=bc85b5f06ee625eecf9b1cf3c3ee4c6f&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="TCM" tvg-logo="https://i.imgur.com/C10C18R.jpg" group-title="CANAIS | FILMES & SÉRIES", TCM (KallPlay)
+http://faustinotv.tk/redir.php?acesso=aa997ef4e3fcd7621a934d63c5dcaddc&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="TC2" tvg-logo="http://faustinotv.tk/img/telecineaction.png" group-title="CANAIS | FILMES & SÉRIES", Telecine Action (KallPlay)
+http://faustinotv.tk/redir.php?acesso=1dd7633a69df741d74a40c6b12b96b96&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="TC5" tvg-logo="http://faustinotv.tk/img/telecinecult.png" group-title="CANAIS | FILMES & SÉRIES", Telecine Cult (KallPlay)
+http://faustinotv.tk/redir.php?acesso=91311c0eabba36086103a357499af10e&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="TC6" tvg-logo="http://faustinotv.tk/img/telecinefun.png" group-title="CANAIS | FILMES & SÉRIES", Telecine Fun (KallPlay)
+http://faustinotv.tk/redir.php?acesso=2408ca157a4161b2af16a0a63e4b4dc4&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="TC4" tvg-logo="http://faustinotv.tk/img/telecinepipoca.png" group-title="CANAIS | FILMES & SÉRIES", Telecine Pipoca (KallPlay)
+http://faustinotv.tk/redir.php?acesso=0a3a5af8573ceab8c77d0b0d4752674f&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="TC1" tvg-logo="http://faustinotv.tk/img/telecinepremium.png" group-title="CANAIS | FILMES & SÉRIES", Telecine Premium (KallPlay)
+http://faustinotv.tk/redir.php?acesso=1572a6c953efb7322ff66a6dd1d45b0e&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="TC3" tvg-logo="http://faustinotv.tk/img/telecinetouch.png" group-title="CANAIS | FILMES & SÉRIES", Telecine Touch (KallPlay)
+http://faustinotv.tk/redir.php?acesso=d32fc38865735a37ad6c18578946dd19&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="PRM" tvg-logo="https://i.imgur.com/uRBKnGr.jpg" group-title="CANAIS | FILMES & SÉRIES", Paramount (KallPlay)
+http://faustinotv.tk/redir.php?acesso=bb2de9d286af5eaf257af5b98e2e3a29&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="HAL" tvg-logo="https://i.imgur.com/JunovvC.jpg" group-title="CANAIS | FILMES & SÉRIES", Studio Universal (KallPlay)
+http://faustinotv.tk/redir.php?acesso=72546170c8f2cd0e7bcd2a4081de3314&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="WBT" tvg-logo="https://i.imgur.com/axfVBDL.jpg" group-title="CANAIS | FILMES & SÉRIES", Warner Channel (KallPlay)
+http://faustinotv.tk/redir.php?acesso=f74162683771d7c69ae82389357ea7c8&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+===============================================================================================================
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://imgur.com/S292EnY.png" group-title="CANAIS | DOCUMENTARIOS", ** CANAIS | DOCUMENTARIOS **
+http://127.0.0.8
+
+#EXTINF:-1 tvg-ID="APL" tvg-logo="https://i.imgur.com/81BajK1.jpg" group-title="CANAIS | DOCUMENTARIOS", Animal Planet (KallPlay)
+http://faustinotv.tk/redir.php?acesso=c8c1a0eb9b0397624eb2759e11205404&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="DIS" tvg-logo="https://i.imgur.com/4kx4Xws.jpg" group-title="CANAIS | DOCUMENTARIOS", Discovery Channel (KallPlay)
+http://faustinotv.tk/redir.php?acesso=28886a331855c326022a6e45be36be6e&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="DCI" tvg-logo="https://i.imgur.com/Nea2IhW.jpg" group-title="CANAIS | DOCUMENTARIOS", Discovery Civilization (KallPlay)
+http://faustinotv.tk/redir.php?acesso=12456bc3431db0111cceba0b80ca1cd4&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="HEA" tvg-logo="https://i.imgur.com/upkaXwm.jpg" group-title="CANAIS | DOCUMENTARIOS", Discovery H&H (KallPlay)
+http://faustinotv.tk/redir.php?acesso=7bc98c1275defdd74687298cbb76de43&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="DSC" tvg-logo="https://i.imgur.com/5UT8hKj.jpg" group-title="CANAIS | DOCUMENTARIOS", Discovery Science (KallPlay)
+http://faustinotv.tk/redir.php?acesso=b0d48cefa2fc370f68171dc94869cf8a&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="DHD" tvg-logo="https://i.imgur.com/s3JSMK9.jpg" group-title="CANAIS | DOCUMENTARIOS", Discovery Theater (KallPlay)
+http://faustinotv.tk/redir.php?acesso=d5cda41fdb98c74ba31d19b126b1ac44&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="DTU" tvg-logo="https://i.imgur.com/nvBsyUt.jpg" group-title="CANAIS | DOCUMENTARIOS", Discovery Turbo (KallPlay)
+http://faustinotv.tk/redir.php?acesso=bf9759e2b0ab9d241bef129397b6c930&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="DWD" tvg-logo="https://i.imgur.com/hwQDJRU.jpg" group-title="CANAIS | DOCUMENTARIOS", Discovery World (KallPlay)
+http://faustinotv.tk/redir.php?acesso=b393cbf3c59b968c88fad4a02d0e847e&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/vIO9BUi.jpg" group-title="CANAIS | DOCUMENTARIOS", H2 (KallPlay)
+http://faustinotv.tk/redir.php?acesso=d26f07cbf627cce44195bb28b84915d5&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="HIH" tvg-logo="https://i.imgur.com/bqK2dKz.jpg" group-title="CANAIS | DOCUMENTARIOS", History (KallPlay)
+http://faustinotv.tk/redir.php?acesso=bc3216dd44479854cd0d6321789caf42&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="LIV" tvg-logo="https://i.imgur.com/SrXd4OB.jpg" group-title="CANAIS | DOCUMENTARIOS", Investigação Discovery (KallPlay)
+http://faustinotv.tk/redir.php?acesso=1e7b9db04af444efc217cef5d9c383ea&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="NGH" tvg-logo="https://i.imgur.com/6kxdPRO.jpg" group-title="CANAIS | DOCUMENTARIOS", NatGeo Wild (KallPlay)
+http://faustinotv.tk/redir.php?acesso=14812e4473d32c3993f51c37d9e22c87&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="SUP" tvg-logo="https://i.imgur.com/rVBdRzV.jpg" group-title="CANAIS | DOCUMENTARIOS", National Geographic (KallPlay)
+http://faustinotv.tk/redir.php?acesso=62b7d37783f68a604fc479d431deaa8b&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/NwwmsTy.jpg" group-title="CANAIS | DOCUMENTARIOS", TLC (KallPlay)
+http://faustinotv.tk/redir.php?acesso=c84153de0940ce7b4e360f0b7bab4068&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+===============================================================================================================
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://imgur.com/S292EnY.png" group-title="CANAIS | ESPORTES", ** CANAIS | ESPORTES **
+http://127.0.0.9
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/G7KKspx.jpg" group-title="CANAIS | ESPORTES", Band Sports (KallPlay)
+http://faustinotv.tk/redir.php?acesso=b3f8cb80bb0a1f20276a8f1c9bb8f0eb&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="CANAIS | ESPORTES", Combate (KallPlay)
+http://faustinotv.tk/redir.php?acesso=852a64e8fc6b03e61f626f8db2aed110&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/M1cloRm.jpg" group-title="CANAIS | ESPORTES", ESPN 2 (KallPlay)
+http://faustinotv.tk/redir.php?acesso=e8e8712909e2d913327fa3da083d819b&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="ESB" tvg-logo="https://i.imgur.com/OsF1IWP.jpg" group-title="CANAIS | ESPORTES", ESPN Brasil (KallPlay)
+http://faustinotv.tk/redir.php?acesso=eb5e8f12429edc9e2dfd10cbe46383e8&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/wVtSd7P.jpg" group-title="CANAIS | ESPORTES", ESPN Extra (KallPlay)
+http://faustinotv.tk/redir.php?acesso=662e1ddeb469758bbc0faa0f843ccddf&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="FSP" tvg-logo="https://i.imgur.com/Bde7Q23.jpg" group-title="CANAIS | ESPORTES", FOX Sports (faustinoTV)
+http://faustinotv.tk/redir.php?acesso=f42ffced94f426d11f8ff1a30de0c6a7&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="FS2" tvg-logo="https://i.imgur.com/HiTzQCR.jpg" group-title="CANAIS | ESPORTES", FOX Sports 2 (KallPlay)
+http://faustinotv.tk/redir.php?acesso=185f6920f1955f47e1fb6858678b3ab8&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="SPO" tvg-logo="https://i.imgur.com/IJWaE9S.jpg" group-title="CANAIS | ESPORTES", SporTV (KallPlay)
+http://faustinotv.tk/redir.php?acesso=906c4edbf006140f2154590de011acf7&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="SP2" tvg-logo="https://i.imgur.com/TWG3L62.jpg" group-title="CANAIS | ESPORTES", SporTV 2 (KallPlay)
+http://faustinotv.tk/redir.php?acesso=02283cc3bcbf34677dc09ad462d6ffb1&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="SP3" tvg-logo="https://i.imgur.com/BgmMgmY.jpg" group-title="CANAIS | ESPORTES", SporTV 3 (KallPlay)
+http://faustinotv.tk/redir.php?acesso=ef3f9a90399d85941023fc2b50235cab&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+===============================================================================================================
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://imgur.com/S292EnY.png" group-title="CANAIS | PREMIERE", ** CANAIS | PREMIERE **
+http://127.0.0.10
+
+#EXTINF:-1 tvg-ID="121" tvg-logo="https://i.imgur.com/rZjCUuU.jpg" group-title="CANAIS | PREMIERE", Premiere Clubes (KallPlay)
+http://faustinotv.tk/redir.php?acesso=eab4b5053b78790a4eddf0af07ce7533&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="122" tvg-logo="https://i.imgur.com/rZjCUuU.jpg" group-title="CANAIS | PREMIERE", Premiere 2 (KallPlay)
+http://faustinotv.tk/redir.php?acesso=9ba8d327eb907fb7f0e5467cf093fbe1&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="123" tvg-logo="https://i.imgur.com/rZjCUuU.jpg" group-title="CANAIS | PREMIERE", Premiere 3 (KallPlay)
+http://faustinotv.tk/redir.php?acesso=d9d036b6510a0727349364b834651ca5&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="124" tvg-logo="https://i.imgur.com/rZjCUuU.jpg" group-title="CANAIS | PREMIERE", Premiere 4 (KallPlay)
+http://faustinotv.tk/redir.php?acesso=17d0903732076f341a9c1a39cd79fcfe&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="125" tvg-logo="https://i.imgur.com/rZjCUuU.jpg" group-title="CANAIS | PREMIERE", Premiere 5 (KallPlay)
+http://faustinotv.tk/redir.php?acesso=bd746744ce41c098e77f25c8cd813531&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="126" tvg-logo="https://i.imgur.com/rZjCUuU.jpg" group-title="CANAIS | PREMIERE", Premiere 6 (KallPlay)
+http://faustinotv.tk/redir.php?acesso=26ce936223bfe5cd2878ed95a6e180be&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="127" tvg-logo="https://i.imgur.com/rZjCUuU.jpg" group-title="CANAIS | PREMIERE", Premiere 7 (KallPlay)
+http://faustinotv.tk/redir.php?acesso=8908f221e6490a3b6386a26685f2c67f&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="128" tvg-logo="https://i.imgur.com/rZjCUuU.jpg" group-title="CANAIS | PREMIERE", Premiere 8 (KallPlay)
+http://faustinotv.tk/redir.php?acesso=dcd7bd4e34189fc4da271fad6e595dff&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+===============================================================================================================
+
+#EXTINF:-1 tvg-logo="https://imgur.com/S292EnY.png" group-title="CANAIS | KIDS", ** CANAIS | KIDS **
+http://127.0.0.11
+
+#EXTINF:-1 tvg-ID="BAB" tvg-logo="https://i.imgur.com/g2mRHj5.jpg" group-title="CANAIS | KIDS", Baby TV (KallPlay)
+http://faustinotv.tk/redir.php?acesso=f8e02446ffcf8e7d258da145e69518f8&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="BMG" tvg-logo="https://i.imgur.com/ExQtCbB.jpg" group-title="CANAIS | KIDS", Boomerang (KallPlay)
+http://faustinotv.tk/redir.php?acesso=f5fd38d732a878487f7fefdeb338ded6&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="CAR" tvg-logo="https://i.imgur.com/3YGBn05.jpg" group-title="CANAIS | KIDS", Cartoon Network (KallPlay)
+http://faustinotv.tk/redir.php?acesso=96e631c69c4feb8a314a772ecb77afa4&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="DNH" tvg-logo="https://i.imgur.com/DgP43KX.jpg" group-title="CANAIS | KIDS", Disney Channel (KallPlay)
+http://faustinotv.tk/redir.php?acesso=b8aadfcbc1a65e8818206d438ddfb6de&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="PHD" tvg-logo="https://i.imgur.com/gUUnrE2.jpg" group-title="CANAIS | KIDS", Disney JR. (KallPlay)
+http://faustinotv.tk/redir.php?acesso=fe59cfdb2919c04ae852bb61002df6a4&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="DXD" tvg-logo="https://i.imgur.com/CS1imJ2.jpg" group-title="CANAIS | KIDS", Disney XD (FaustinoTV
+http://faustinotv.tk/redir.php?acesso=3346fc4e266d2263f9fd20ac50a8337c&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="GOB" tvg-logo="https://i.imgur.com/Q6jFJsf.jpg" group-title="CANAIS | KIDS", Gloob (KallPlay)
+http://faustinotv.tk/redir.php?acesso=aa825bf3c0b25f75c2621cb4dddc2753&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="NJR" tvg-logo="https://i.imgur.com/WBUAv5q.jpg" group-title="CANAIS | KIDS", Nick JR. (KallPlay)
+http://faustinotv.tk/redir.php?acesso=ef857adfcbcc796d4e7a25cf93c16074&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="NIC" tvg-logo="https://i.imgur.com/bhvxLAM.png" group-title="CANAIS | KIDS", Nickelodeon (KallPlay)
+http://faustinotv.tk/redir.php?acesso=c6e59c104e4cb005444cdaad8783be1a&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="TOC" tvg-logo="https://i.imgur.com/grRAhl7.jpg" group-title="CANAIS | KIDS", Tooncast (KallPlay)
+http://faustinotv.tk/redir.php?acesso=82153c4808fd1f1b77363a89cb88f96d&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+===============================================================================================================
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://imgur.com/S292EnY.png" group-title="CANAIS | VARIEDADES", ** CANAIS | VARIEDADES **
+http://127.0.0.12
+
+#EXTINF:-1 tvg-ID="BQ5" tvg-logo="https://i.imgur.com/N9aCPxv.jpg" group-title="CANAIS | VARIEDADES", Arte 1 (KallPlay)
+http://faustinotv.tk/redir.php?acesso=bcd91076bc1fedb0243001062e959575&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="CCE" tvg-logo="https://i.imgur.com/rsRwcNd.jpg" group-title="CANAIS | VARIEDADES", Comedy Central (KallPlay)
+http://faustinotv.tk/redir.php?acesso=8730a65dde4ab0920986fd0b4efad944&usuario=e502ab55bf692e9bf08e33a30b9b7c61|User-Agent=NetunuPlayer/2.0
+
+#EXTINF:-1 tvg-ID="MSH" tvg-logo="https://i.imgur.com/1LVPD3C.jpg" group-title="CANAIS | VARIEDADES", BIS (KallPlay)
+http://faustinotv.tk/redir.php?acesso=b4da8167a285ec9b3d045369446a6112&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/aZYK3jA.jpg" group-title="CANAIS | VARIEDADES", Curta (KallPlay)
+http://faustinotv.tk/redir.php?acesso=e1f332ee8d6ee02793db50a0f20ba22c&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="MTV" tvg-logo="https://i.imgur.com/RH5E3vn.jpg" group-title="CANAIS | VARIEDADES", MTV (KallPlay)
+http://faustinotv.tk/redir.php?acesso=5968a971df8d849c29eeec6082b3dc81&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="MSW" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="CANAIS | VARIEDADES", Multishow (KallPlay)
+http://faustinotv.tk/redir.php?acesso=9954a8a45e44483b1ccfb5b6b3086e9c&usuario=53d61b8c8083ffc76f76f6a70f88cb79
+
+#EXTINF:-1 tvg-ID="MTH" tvg-logo="https://i.imgur.com/kYsJEyZ.jpg" group-title="CANAIS | VARIEDADES", VH1 Megahist (KallPlay)
+http://faustinotv.tk/redir.php?acesso=84593eb27487835d3438adc262580ed7&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+===============================================================================================================
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://imgur.com/S292EnY.png" group-title="CANAIS | NOTÍCIAS", *** CANAIS | NOTÍCIAS ***
+http://127.0.0.13
+
+#EXTINF:-1 tvg-ID="NEW" tvg-logo="https://i.imgur.com/tw7bpts.jpg" group-title="CANAIS | NOTÍCIAS", Band News (KallPlay)
+http://faustinotv.tk/redir.php?acesso=9a4d52624337ac23abe6373db363f6d2&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="GLN" tvg-logo="https://i.imgur.com/ed1vuNc.jpg" group-title="CANAIS | NOTÍCIAS", Globo News (KallPlay)
+http://faustinotv.tk/redir.php?acesso=4beb32c53c5c141fe39e7d47862d7c8b&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
+#EXTINF:-1 tvg-ID="RCN" tvg-logo="https://i.imgur.com/wgt9r5S.jpg" group-title="CANAIS | NOTÍCIAS", Record News (KallPlay)
+http://faustinotv.tk/redir.php?acesso=e38a71e4ff0b9fd67af5765c41a40184&usuario=e502ab55bf692e9bf08e33a30b9b7c61
