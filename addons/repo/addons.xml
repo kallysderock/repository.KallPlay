@@ -135,7 +135,7 @@
 <import addon="script.module.addon.common"/>
 <import addon="script.module.addon.signals"/>
 </requires>
-<extension point="xbmc.addon.repository" name="KallPlay Repository">
+<extension point="xbmc.addon.repository" name="repository.KallPlay">
 <info compressed="false">https://raw.github.com/kallysderock/KallPlay/master/addons/addon.xml</info>
 <checksum>https://raw.github.com/kallysderock/KallPlay/master/addons/repo/addons.xml.md5</checksum>
 <datadir zip="true">https://raw.github.com/kallysderock/KallPlay/master/addons/repo/Plugins/</datadir>
