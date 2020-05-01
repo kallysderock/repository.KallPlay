@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BBB HD MOSAICO         
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59300
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BBB 20 FHD         
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59197
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BBB 20 HD         
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59196
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BBB - CAM01         
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59289
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BBB - CAM02         
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59290
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BBB - CAM03         
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59291
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BBB - CAM04         
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59292
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BBB - CAM05         
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59293
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BBB - CAM06         
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59294
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BBB - CAM07         
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59295
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BBB - CAM08         
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59296
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BBB - CAM09         
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59297
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJpL2TS.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BBB - CAM010         
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59432

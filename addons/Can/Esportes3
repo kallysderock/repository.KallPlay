@@ -1,0 +1,159 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/kallysderock/KallPlay/raw/master/imgs/KallPlaytv.jpg" tvg-logo="" group-title="",[B][COLOR limegreen]===== [/COLOR][COLOR yellow] ESPORTE 1 [/COLOR][COLOR limegreen] =====[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://letmein.fun:8080/sitefeminino10/4olVMzsFiq/3428
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png" tvg-logo="" group-title="",[B][COLOR limegreen]===== [/COLOR][COLOR yellow] ACTUALIZADO EM  07.04.2020[/COLOR][COLOR limegreen] =====[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://orbit-iptv.com:2500/live
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: ESPN 2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN EXTRA [HD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: ESPN EXTRA [HD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: ESPN [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2090.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BR:  ESPN BRASIL [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR:  ESPN BRASIL [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2059.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: COMBATE [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: COMBATE [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2073.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 2 [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: FOX SPORTS 2 [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: FOX SPORTS [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2097.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 2 [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: PREMIERE 2 [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 3 [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: PREMIERE 3 [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 4 [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: PREMIERE 4 [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 5 [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: PREMIERE 5 [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 6 [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: PREMIERE 6 [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE CLUBES HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE CLUBES [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: PREMIERE CLUBES [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2135.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 1 [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: SPORTV 1 [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2 [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: SPORTV 2 [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3 [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: SPORTV 3 [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2143.m3u8
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cld.pt/dl/download/a31e53ca-3048-4f38-bcf0-15796a58ffa6/Brasil.jpg" tvg-logo="" group-title="",[B][COLOR limegreen]===== [/COLOR][COLOR yellow] ESPORTE 2 [/COLOR][COLOR limegreen] =====[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://letmein.fun:8080/sitefeminino10/4olVMzsFiq/3428
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+#EXTINF:0 tvg-logo"http://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png" group-title"ESPORTES"0,[COLOR cyan][B] KALLPLAY [/B][/COLOR] RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+ 
+
+#EXTINF:-1, [B][COLOR aqua] KALLPLAY[/B][/COLOR]  [B][COLOR lime] TV [/B][/COLOR]  SPORT 2 HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1, [B][COLOR aqua] KALLPLAY[/B][/COLOR]  [B][COLOR lime] TV [/B][/COLOR]  REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1, [B][COLOR aqua] KALLPLAY[/B][/COLOR]  [B][COLOR lime] TV [/B][/COLOR]  AUTOMOTO
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+
+
+
+#EXTINF:-1, [B][COLOR aqua] KALLPLAY[/B][/COLOR]  [B][COLOR lime] TV [/B][/COLOR]  Viasat Sport
+http://persik.by/stream/2944/263250/10249.m3u8
+#EXTINF:-1, [B][COLOR aqua] KALLPLAY[/B][/COLOR]  [B][COLOR lime] TV [/B][/COLOR]  ESPORTE INTERATIVO
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+#EXTINF:-1, [B][COLOR aqua] KALLPLAY[/B][/COLOR]  [B][COLOR lime] TV [/B][/COLOR]  ESPORTE INTERATIVO
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/580126d58e928419094b5527/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+#EXTINF:-1, [B][COLOR aqua] KALLPLAY[/B][/COLOR]  [B][COLOR lime] TV [/B][/COLOR]  ESPORTE INTERATIVO 2
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+#EXTINF:-1, [B][COLOR aqua] KALLPLAY[/B][/COLOR]  [B][COLOR lime] TV [/B][/COLOR]  ESPORTE INTERATIVO BR
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/58121908685da2dd08de7ec5/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+
+
+#EXTINF:-1, [B][COLOR aqua] KALLPLAY[/B][/COLOR]  [B][COLOR lime] TV [/B][/COLOR]  Viasat Sport | SD
+http://persik.by/stream/2944/263250/10249.m3u8
+
+
+
+#EXTINF:-1, [B][COLOR aqua] KALLPLAY[/B][/COLOR]  [B][COLOR lime] TV [/B][/COLOR]  Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+
+#EXTINF:-1, [B][COLOR aqua] KALLPLAY[/B][/COLOR]  [B][COLOR lime] TV [/B][/COLOR]  REAL MADRID TV HD (ON)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1, [B][COLOR aqua] KALLPLAY[/B][/COLOR]  [B][COLOR lime] TV [/B][/COLOR]  Real Madrid TV SD (ON)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+
+
+#EXTINF:-1, [B][COLOR aqua] KALLPLAY[/B][/COLOR]  [B][COLOR lime] TV [/B][/COLOR]  REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1, [B][COLOR aqua] KALLPLAY[/B][/COLOR]  [B][COLOR lime] TV [/B][/COLOR]  Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1, [B][COLOR aqua] KALLPLAY[/B][/COLOR]  [B][COLOR lime] TV [/B][/COLOR]  ESPORTE INTERATIVO 2
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+
+
+#EXTINF:-1, [B][COLOR aqua] KALLPLAY[/B][/COLOR]  [B][COLOR lime] TV [/B][/COLOR]  Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1, [B][COLOR aqua] KALLPLAY[/B][/COLOR]  [B][COLOR lime] TV [/B][/COLOR]  Viasat Sport
+http://persik.by/stream/2944/263250/10249.m3u8?Arlen
+
+
+
+
+
+http://189.86.89.116:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1, [B][COLOR aqua] KALLPLAY[/B][/COLOR]  [B][COLOR lime] TV [/B][/COLOR]  Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1, [B][COLOR aqua] KALLPLAY[/B][/COLOR]  [B][COLOR lime] TV [/B][/COLOR]  Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1, [B][COLOR aqua] KALLPLAY[/B][/COLOR]  [B][COLOR lime] TV [/B][/COLOR]  Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1, [B][COLOR aqua] KALLPLAY[/B][/COLOR]  [B][COLOR lime] TV [/B][/COLOR]  Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1, [B][COLOR aqua] KALLPLAY[/B][/COLOR]  [B][COLOR lime] TV [/B][/COLOR]  Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+
+
+
+#EXTINF:-1, [B][COLOR aqua] KALLPLAY[/B][/COLOR]  [B][COLOR lime] TV [/B][/COLOR]  REAL MADRID TV (ON)
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+
+
+
+#EXTINF:-1, [B][COLOR aqua] KALLPLAY[/B][/COLOR]  [B][COLOR aqua] TV [/B][/COLOR]  WGN NEWS CHICAGO (US)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:0 tvg-logo="https://www.pinclipart.com/picdir/middle/39-399793_red-bull-tv-png-clipart.png" group-title="MUNDO", [B][COLOR aqua]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+ 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Real_Madrid.png" group-title="MUNDO", [B][COLOR aqua]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="ESPORTES", [B][COLOR aqua]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    FOX SPORTS SD
+http://placartv.futeboltv.com:8081/live/4/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="https://i.imgur.com/xgOp4rb.png" group-title="ESPORTES", [B][COLOR aqua]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    SPORTV SD
+http://placartv.futeboltv.com:8081/live/5/playlist.m3u8
+ 
+#EXTINF:0 tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="ESPORTES", [B][COLOR aqua]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    ESPN BRASIL
+http://placartv.futeboltv.com:8081/live/3/playlist.m3u8

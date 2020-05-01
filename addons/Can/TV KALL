@@ -1,0 +1,46 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y4HunzZ.png" group-title="movies", [COLOR red][B]ºººººººººººº[/B][/COLOR][COLOR yellow][B]BBB 20[/B][/COLOR][COLOR red][B]ºººººººººººº [/B][/COLOR]                                                            
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=https://raw.githubusercontent.com/kallysderock/KallPlay/master/Can/realy
+
+    
+                                                    
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y4HunzZ.png" group-title="movies", [COLOR red][B]ºººººººººººº[/B][/COLOR][COLOR yellow][B]TV ABERTA[/B][/COLOR][COLOR red][B]ºººººººººººº [/B][/COLOR]                     
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=https://raw.githubusercontent.com/kallysderock/KallPlay/master/Can/tvaber                                                
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y4HunzZ.png" group-title="movies", [COLOR red][B]ºººººººººººº[/B][/COLOR][COLOR yellow][B]FILMES E SERIES[/B][/COLOR][COLOR red][B]ºººººººººººº [/B][/COLOR]                                                             
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=https://raw.githubusercontent.com/kallysderock/KallPlay/master/Can/filser                                                            
+
+
+                                                              
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y4HunzZ.png" group-title="movies", [COLOR red][B]ºººººººººººº[/B][/COLOR][COLOR yellow][B]ESPORTES[/B][/COLOR][COLOR red][B]ºººººººººººº [/B][/COLOR]                                                            
+https://raw.githubusercontent.com/kallysderock/KallPlay/master/Can/ept                                                              
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y4HunzZ.png" group-title="movies", [COLOR red][B]ºººººººººººº[/B][/COLOR][COLOR yellow][B]NOTICIAS[/B][/COLOR][COLOR red][B]ºººººººººººº [/B][/COLOR]                                                                
+https://raw.githubusercontent.com/kallysderock/KallPlay/master/Can/notic
+ 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y4HunzZ.png" group-title="movies", [COLOR red][B]ºººººººººººº[/B][/COLOR][COLOR yellow][B]DESENHOS[/B][/COLOR][COLOR red][B]ºººººººººººº [/B][/COLOR]                                                                                                                           
+https://raw.githubusercontent.com/kallysderock/KallPlay/master/Can/dso                                                                
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y4HunzZ.png" group-title="movies", [COLOR red][B]ºººººººººººº[/B][/COLOR][COLOR yellow][B]DOCUMENTARIOS[/B][/COLOR][COLOR red][B]ºººººººººººº [/B][/COLOR]                                                              
+ https://raw.githubusercontent.com/kallysderock/KallPlay/master/Can/dcmo                                                             
+                               
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y4HunzZ.png" group-title="movies", [COLOR red][B]ºººººººººººº[/B][/COLOR][COLOR yellow][B]VARIEDADES[/B][/COLOR][COLOR red][B]ºººººººººººº [/B][/COLOR]
+https://raw.githubusercontent.com/kallysderock/KallPlay/master/Can/vrde
+
+
+                                                              

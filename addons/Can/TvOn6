@@ -1,0 +1,1053 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-ID="" tvg-name="-----Tv-On-----" tvg-logo="https://github.com/kallysderock/KallPlay/raw/master/imgs/KallPlaytv.png" group-title="Tv-On 5",[B][COLOR cyan]ooooo [B][COLOR orange]===== Tv-On 5=====[/B][/COLOR]
+
+###########15.04.2020##########################
+
+
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] A&E FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23460
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] A&E HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22960
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] A&E SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23142
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ALADIN 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23289
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] AMC FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23461
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] AMC HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22961
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] AMC SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23143
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Animal Planet FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24236
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Animal Planet HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22962
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Animal Planet SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23144
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ANOS 2000
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23387
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ANOS 70
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23397
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ANOS 80
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23400
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] As Meninas Superpoderosas 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23290
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] AXN HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22963
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] AXN SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23145
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Baby TV SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23146
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BAND Bahia SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23147
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Band BSB HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23073
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BAND CAMPINAS HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23074
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Band News FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23500
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Band News SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23149
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Band RJ FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23495
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Band RJ HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23075
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Band RS FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23496
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Band RS HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23076
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Band Sergipe HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23077
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Band SP FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23497
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Band SP HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23078
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Band Sports FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23447
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Band Sports HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22964
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Band Sports SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23150
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Bandeirantes SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23148
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 2020 HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24489
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 2020 SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24490
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB-20-Cam01-Acompanhe-a-Casa
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24427
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB-20-Cam010-Acompanhe-A-casa-2
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24438
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB-20-Cam011-Mosaico
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24439
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB-20-Cam02-Jardim-Camarote
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24428
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB-20-Cam03-Cozinha-Camarote
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24429
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB-20-Cam04-Quarto-Villa
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24430
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB-20-Cam05-Quarto-Camarote-1
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24431
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB-20-Cam06-Piscina
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24432
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB-20-Cam07-Cozinha-Vip
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24433
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB-20-Cam08-Confessionario
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24434
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB-20-Cam09-Quarto-Ceu
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24435
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BEN 10 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23291
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BIS FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23486
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BIS HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22965
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BIS SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23151
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Bita e os Animais 24hrs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23378
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BOB ESPONJA 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23292
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Boomerang FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23479
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Boomerang SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23152
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BOSSA NOVA
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23385
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Breaking Bad 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23293
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BREGAS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23396
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CAMPEONATO CATARINENSE (JOGO 1)
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24449
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CAMPEONATO CATARINENSE (JOGO2)
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24448
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CAMPEONATO CATARINENSE (JOGO3)
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24450
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CAMPEONATO CATARINENSE (JOGO4)
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24451
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Canal Brasil SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23153
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Canal Sony HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22966
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Canal Sony SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23155
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Canaldo Boi SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23154
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Cancao Nova SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23156
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CAO CORAGEM 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23294
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Cartoon Network HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22967
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CartoonNetwork SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23157
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Caverna do Dragão 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23295
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Chapolin Colorado 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23296
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CHAVES 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23297
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CHAVES DESENHO 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23298
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Cinemax HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22968
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Cinemax SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23158
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CNN Brasil HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/32130
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Combate FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23452
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Combate HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22969
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Combate SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23159
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Comedy Central HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22970
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ComedyCentral SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23160
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] COPA DO NORDESTE 2020 (JOGO 2)
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24452
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] COPA DO NORDESTE 2020 (JOGO 3)
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24453
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] COPA DO NORDESTE 2020 (JOGO 4)
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24454
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] COPA DO NORDESTE 2020 (JOGO1)
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24455
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] COPA LIBERTADORES¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/31531
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] COPA NORDESTE 2020
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24436
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Corrida Maluca¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/32123
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Curta ! SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23161
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DAZN 01 HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23079
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DAZN 02 HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23080
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DAZN 03 HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23081
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DAZN 04 HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23082
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Denis o Pimentinha 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23299
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Desenhos Biblicos 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23300
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Desenhos Disney 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23301
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Digimon 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23302
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Discovery Channel FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23467
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Discovery Channel HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22971
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Discovery Channel SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23162
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Discovery HeH FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23468
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Discovery HEH SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23163
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Discovery Home & Health HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22973
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Discovery Investigation FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23470
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Discovery Kids FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23478
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Discovery Kids HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22974
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Discovery Science FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23471
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Discovery Science HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22975
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Discovery Theater FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23472
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Discovery Theater HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22976
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Discovery Turbo FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23473
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Discovery Turbo HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22977
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Discovery Turbo SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23165
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Discovery World FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23474
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Discovery World HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22978
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DiscoveryKids SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23164
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Disney channel HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22979
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Disney Junior HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22980
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Disney SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23166
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Disney XD SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23168
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DisneyJunior SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23167
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Dois Homens e Meio 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23303
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Doug 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23304
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DRAGON BALL 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23305
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DRAGON BALL SUPER 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23306
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DRAGON BALL Z 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23307
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DUBSTEP
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23394
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] E HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22981
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] E! SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23169
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] EI Plus FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23451
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] EiMax  SD¹ Jogos02
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23084
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] EiMax  SD¹ Jogos03
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23085
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] EiMax SD¹  
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23086
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] EiMax SD¹ Jogos01
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23083
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] EiMax SD¹ Jogos04
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24519
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] EiPlus HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23087
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ELETRO HOUSE
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23393
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] EPTV CAMPINAS FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24442
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] EPTV CAMPINAS HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24441
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] EPTV Campinas SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23171
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] EPTV Sao Carlos SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23170
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] EPTVRibeiraoPreto SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23172
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ESPN 2 FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23449
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ESPN 2 HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22982
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ESPN 2 SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23174
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ESPN Brasil FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23450
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ESPN Brasil HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22983
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ESPN Brasil SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23175
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ESPN Extra HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22985
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ESPN HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22984
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ESPN SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23173
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Eu a Patroa e as Crianças 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23308
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Film & Arts SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23176
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Fish TV SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23177
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Flamengo - Fla Tv
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/31555
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Food Network FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23483
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Food Network HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22986
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Food Network SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23178
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Formiga Atómica 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23309
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FORRO
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23392
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Fox FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23465
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22987
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Fox Life FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23466
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX Life HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22988
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Fox Life SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23180
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Fox Premium 1 HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22989
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Fox Premium 2 HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22990
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Fox Premium FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23464
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23179
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Fox Sports 2 FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23446
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Fox Sports 2 HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22991
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Fox Sports 2 SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23182
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Fox Sports FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23445
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Fox Sports HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22992
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Fox Sports SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23181
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Futura SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23183
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FX HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22993
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FX SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23184
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Galinha Pintadinha 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23310
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GAZETA SP HD¹ 
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23090
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Globo BRASILIA HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24520
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Globo Brasilia SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23185
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Globo BSB HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23091
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO GAZETA SUL ES SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23092
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO GAZETA SUL ES. FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23093
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO GAZETA SUL ES. HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23094
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Globo Inter TV Cabugi SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23200
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Globo Internacional HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23095
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Globo Manaus HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24444
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Globo Minas FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23438
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Globo Minas HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23135
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Globo Minas SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23186
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Globo News FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23498
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Globo News SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23187
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Globo Nordeste SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23188
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Globo Paraiba HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24604
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Globo RJ FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23436
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Globo RJ FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/32125
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Globo RJ HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23096
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Globo RJ SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23189
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Globo Sergipe HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23097
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Globo SP FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23437
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Globo SP HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23098
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Globo SP SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23190
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GloboNews HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22994
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Globosat HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22995
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Gloob HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22996
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Gloob SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23191
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GNT HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22997
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GNT SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23192
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Guardiões da Galaxia 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23311
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO 1 FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23501
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO 2 FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23502
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO 2 HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22998
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO FAMILY FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23503
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO Family HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22999
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO Family SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23194
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23000
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO PLUS FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23504
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO Plus HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23001
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO Plus SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23195
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23193
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO SIGNATURE FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23505
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO Signature HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23002
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO Signature SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23196
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO2 SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23197
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] He-Man 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23312
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HGTV HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/22972
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Historias Disney 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24813
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] History 2 FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23482
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] History 2 HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23003
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] History 2 SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23198
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] History FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23481
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] History HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23004
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] History SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23285
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HOMEM ARANHA 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24814
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Homem de Ferro 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24815
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HOMEMS DE PRETO 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24816
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Hércules 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24812
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ID - Investigacao Discovery SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23199
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Incrível Hulk 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24817
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] InterTv Cabo Frio HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24423
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Investigation Discovery HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23005
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Jack-Chan 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24818
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Jaspion 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23320
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] JIRAYA O Incrível Ninja 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23321
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] JOVEM GUARDA
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23391
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Kenan e Kel 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24819
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Lifetime HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23006
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Lifetime SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23201
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Liga da Justica 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23379
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] LOVE NATURE FULL HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/32129
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] LOVE SONGS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23390
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Luluzinha 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23323
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Mais Globosat SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23202
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Max HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23007
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Max Prime FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23455
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MAX Prime HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23008
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MAX Prime SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23204
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MAX SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23203
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Max UP FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23454
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MAX UP HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23009
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MAX UP SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23205
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Medabots 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24820
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MegaMan 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23325
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Megapix FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23453
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Megapix HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23010
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MegaPix SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23206
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Mortal Kombat 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24821
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Mr.Ben 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23327
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MTV FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23485
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MTV HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23011
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MTV SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23207
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Multishow FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23484
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Multishow HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23012
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Multishow SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23208
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Music Box Brazil HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23210
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Music Box Brazil SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23209
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MUSICAS INFANTIS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23395
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NARUTO 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23328
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Naruto Shippuden DUB 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24822
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Nat Geo Wild SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23212
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NatGeo FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23480
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NatGeo HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23013
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NatGeo Kids FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23475
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NatGeo Kids HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23014
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NatGeo Wild HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23015
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NatGeoKids SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23211
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] National Geographic SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23213
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NEW ROCK
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23389
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NHK SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23214
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Nick JR FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23476
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Nick.Jr SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23215
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Nickelodeon FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23477
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Nickelodeon HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23016
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Nickelodeon SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23216
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NickJr HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23017
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NSC TV Florianopolis HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/32124
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NSC TV Santa Catarina HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23131
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] O Fantástico Mundo de Bobby 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23330
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] O INSPETOR 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23331
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] O MASKARA 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23332
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] OFF FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23488
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] OFF HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23018
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] OFF SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23217
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Os Anjinhos - Rugrats 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24823
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] OS CAVALEIROS DO ZODIACO 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23334
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] OS FLINTSTONES 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23335
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] OS SIMPSONS 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23336
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Os Vingadores 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23337
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Papa-Léguas 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23338
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Paramount HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23019
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Paramount SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23218
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Peppa Pig 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23339
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PERNALONGA 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23340
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Phineas e Ferb 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23341
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PICA PAU 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23342
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Pink-e-Cerebro 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23343
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Playkids SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23099
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PlayTV SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23220
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] POKEMON 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23344
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Polishop TV SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23221
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] POP ROCK
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23388
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Popeye O Marinheiro 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23345
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE 2 FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23507
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Premiere 2 HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23020
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Premiere 2 SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23222
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE 3 FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23508
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Premiere 3 HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23021
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Premiere 3 SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23223
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE 4 FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23509
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Premiere 4 HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23022
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Premiere 4 SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23224
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE 5 FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23510
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Premiere 5 HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23023
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Premiere 5 SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23225
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE 6 FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23511
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Premiere 6 HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23024
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Premiere 6 SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23226
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE 7 FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23512
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Premiere 7 HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23025
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Premiere 7 SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23227
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Premiere 8 SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23228
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Premiere 9 SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23229
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE CLUBES FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23506
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Premiere Clubes HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23026
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Premiere Clubes SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23230
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Prime Box Brazil SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23231
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Rambo 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23346
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RBS TV PortoAlegre FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23441
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RBS TV PortoAlegre HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23100
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RBS TV PortoAlegre SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23232
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Record BSB HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23101
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RECORD NEWS ES
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23102
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RECORD NEWS ES FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23103
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RECORD NEWS ES HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23104
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Record News SC HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23134
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Record News SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23233
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Record RJ FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23490
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Record RJ HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23112
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Record RS HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23105
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Record Sao Jose Rio Preto HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23106
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Record Sergipe HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23107
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Record SP FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23489
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Record SP HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23108
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Record TV belem HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23109
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RECORD TV GOIANIA HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23027
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RECORD TV LITORAL HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23110
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Record TV Minas HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23111
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Record Tv Parana HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23140
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Record Tv Santa Catarina HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23132
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RECORD TV SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23234
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Rede Amazonica Manaus SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23235
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Rede Brasil SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23236
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Rede TV FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23491
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Rede TV HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23028
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Rede TV SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23237
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Rede Vida SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23238
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] REGGAE
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23384
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ROBERTO CARLOS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23383
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ROCK CLASSICO
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23382
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RPC Parana HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23137
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RPC TV Curitiba SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23239
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SBT BSB HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23113
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SBT Parana HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23139
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SBT RJ FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23492
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SBT RJ HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23114
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SBT RS HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23115
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Sbt Santa Catarina HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23133
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SBT SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23240
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SBT Sergipe HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23116
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SBT SP FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23493
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Sbt SP HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23117
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Scooby-Doo 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23347
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SERTANEJO
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23399
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SERTANEJO 2
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23398
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SERTANEJO RAIZ
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23386
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Smallville 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23348
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Sobrenatural 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23349
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] South Park 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23350
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Space FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23458
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Space HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23029
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Space SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23243
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SporTV 2 FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23443
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SporTV 2 HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23030
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SporTV 2 SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23245
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SporTV 3 FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23444
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SporTV 3 HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23031
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SporTV 3 SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23246
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SporTV FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24424
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SporTV HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23032
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SporTV SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23244
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Steven Universe 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23351
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Studio Universal FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23459
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Studio Universal HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23033
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Studio Universal SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23247
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Super Choque 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24827
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Superman 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23352
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SYFY FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23463
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SYFY HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23034
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Syfy SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23248
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TARTARUGAS NINJAS 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23353
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TBS HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23035
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TBS SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23249
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TCM SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23250
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Telecine Action FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23435
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Telecine Action HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23036
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Telecine Action SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23251
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Telecine Cult FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23434
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Telecine Cult HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23037
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Telecine Cult SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23252
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Telecine Fun FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23433
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Telecine Fun HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23038
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Telecine Fun SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23253
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Telecine Pipoca FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23432
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Telecine Pipoca HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23039
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Telecine Pipoca SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23254
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Telecine Premium FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23431
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Telecine Premium HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23040
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Telecine Premium SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23255
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TELECINE TOUCH FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23427
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Telecine Touch HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23041
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Telecine Touch SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23256
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Terra Viva SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23257
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Thundercats 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23354
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TIMAO E PUMBA 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23355
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TLC FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24425
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TLC HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23042
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TLC SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23258
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TNT FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23456
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TNT HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23043
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TNT SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23259
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TNT Series FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23457
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TNT Series HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23044
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TNT Series SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23260
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TODO MUNDO ODEIA O CHRIS 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23356
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Tom & Jerry 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23357
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Tooncast SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23261
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Tres Espias Demais 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23358
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TruTV SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23262
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TruTV SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23263
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Tv Alterosa HD¹ [SBT MG]
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23136
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Tv Anhaguera HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23045
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Anhanguera Goiania SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23264
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Aparecida SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23265
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Aratu HD¹ SBT Bahia
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23118
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Asa branca HD Globo Caruaru PE¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/32127
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Bahia SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23266
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Cabralia HD¹ Bahia Record
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23119
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Camara SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23267
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Centro America Cuiaba SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23268
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV CLUBE ( GLOBO PIAUI) HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24605
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Cultura SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23269
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV DIARIO HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24437
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV GLOBINHO SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23288
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Tv Goiania Band HD¹ 
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23046
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Justica SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23270
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Liberal Belem HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24488
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Liberal Belem SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23271
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Tv Mirante HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24443
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Morena Ponta Pora HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23120
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV NOVO TEMPO SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23287
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Paranaíba HD¹ Record -Uberlandia-MG
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23121
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Ra Tim Bum HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23047
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Ra tim bum SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23272
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Tv Rio Sul HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24445
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Santa Cruz TV Bahia HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23122
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Senado SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23273
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Tv Serra Dourada HD¹ (Sbt)
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23048
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Subae (globo bahia HD)
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23123
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Tv Taroba HD¹ 
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23138
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Tem Bauru SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23274
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Tem Sao Jose do Rio Preto SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23275
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Tem Sorocaba SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23276
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV TRIBUNA ES - SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23124
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV TRIBUNA ES FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23125
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV TRIBUNA ES HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23126
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Tribuna Santos SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23277
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Vanguarda dos Campos SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23278
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Verdes Mares Fortaleza SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23279
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV Verdes Mares HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24487
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV VITORIA ES FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23128
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV VITORIA ES HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23129
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV VITORIA ES SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23127
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TVB Record Campinas FHD H.265¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23141
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TVB Record Campinas HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23130
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] UM MALUCO NO PEDAÇO 24HS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23359
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Uma Família da Pesada 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23360
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Universal TV HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23049
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Universal TV SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23286
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Ursinhos Carinhos 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23361
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] VAI QUE COLA 24HRS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24825
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Vai Que Cola 24hs
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23381
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Vai Que Cola 24hs¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/24826
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] VH1 FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23487
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] VH1 HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23050
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] VH1 Megahits SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23280
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Viva HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23051
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Viva SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23281
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Warner Channel FHD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23462
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Warner Channel HD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23052
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Warner Channel SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23282
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Woohoo SD¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://smarterplay.xyz:25461/samuel/samuel/23283

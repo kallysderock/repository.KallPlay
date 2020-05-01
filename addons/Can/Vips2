@@ -1,0 +1,221 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name=" VIPS 2 " tvg-logo="https://github.com/kallysderock/KallPlay/raw/master/imgs/KallPlaytv.png" group-title="",[B][COLOR limegreen]===== VIP[/COLOR][COLOR yellow]S 2 [COLOR limegreen][/COLOR][COLOR yellow] =====[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://letmein.fun:8080/s
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png" tvg-logo="" group-title="",[B][COLOR limegreen]===== [/COLOR][COLOR yellow] ACTUALIZADO EM 07.04.2020[/COLOR][COLOR limegreen] =====[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://orbit-iptv.com:2500/live
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BR:  ESPN BRASIL [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR:  ESPN BRASIL [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: A&E" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: A&E
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: AMC FHD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: AMC FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: ANIMAL PLANET" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: ANIMAL PLANET
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2062.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: ANIMAL PLANET HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2063.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: ARTE 1 HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: ARTE 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2064.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: AXN HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: AXN HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: BABY TV SD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: BABY TV SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: BAND
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND NEWS HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: BAND NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2068.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND SPORTS HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: BAND SPORTS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: BIS HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: BIS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: CANAL BRASIL [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: CANAL BRASIL [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINEMAX HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: CINEMAX HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: COMBATE [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: COMBATE [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: COMEDY CENTRAL HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: CURTA! [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: CURTA! [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY CHANNEL" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY CIVILIZATION HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: DISCOVERY CIVILIZATION HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2077.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY KIDS" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY SCIENCE HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2079.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY THEATER HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: DISCOVERY THEATER HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY TURBO" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: DISCOVERY TURBO
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2081.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY WORLD HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISNEY CHANNEL SD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: DISNEY CHANNEL SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISNEY CHANNEL [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: DISNEY CHANNEL [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISNEY JR SD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: DISNEY JR SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISNEY XD SD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: DISNEY XD SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: E!" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: E!
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: ESPN 2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN EXTRA [HD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: ESPN EXTRA [HD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: ESPN [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOOD NETWORK" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: FOOD NETWORK
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: FOX HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX LIFE HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX PREMIUM 1 [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: FOX PREMIUM 1 [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2094.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX PREMIUM 2 HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: FOX PREMIUM 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 2 [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: FOX SPORTS 2 [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: FOX SPORTS [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: FX HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: FX HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: GLOBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NEWS HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NEWS [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: GLOBO NEWS [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO PREMIUM" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: GLOBO PREMIUM
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO RJ [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: GLOBO RJ [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO SP HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: GLOBO SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO SP [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: GLOBO SP [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOOB HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: GLOOB HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GNT  [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: GNT  [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: H2 HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: H2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO 2 HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: HBO 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO FAMILY" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: HBO FAMILY
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO FAMILY HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: HBO FAMILY HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: HBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO PLUS HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: HBO PLUS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO SIGNATURE HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: HBO [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: HISTORY CHANNEL HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: HISTORY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: ID - INVESTIGACAO DISCOVERY HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: ID - INVESTIGACAO DISCOVERY HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: MAX HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: MAX HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: MAX PRIME HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: MAX PRIME HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: MAX UP HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: MAX UP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: MEGAPIX HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: MEGAPIX HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: MULTISHOW [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: MULTISHOW [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: NATGEO FHD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: NATGEO FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: NATGEO KIDS HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: NATGEO KIDS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: NATGEO WILD HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: NATGEO WILD HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: NICK JR" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: NICK JR
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: NICKELODEON SD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: NICKELODEON SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: PARAMOUNT CHANNEL HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: PARAMOUNT CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 2 [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: PREMIERE 2 [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 3 [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: PREMIERE 3 [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 4 [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: PREMIERE 4 [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 5 [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: PREMIERE 5 [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 6 [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: PREMIERE 6 [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE CLUBES HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE CLUBES [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: PREMIERE CLUBES [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: RECORD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD NEWS HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: RECORD NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: SBT
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: SONY HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: SONY HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPACE HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: SPACE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 1 [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: SPORTV 1 [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2 [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: SPORTV 2 [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3 [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: SPORTV 3 [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: STUDIO UNIVERSAL HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: SYFY HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: SYFY HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TBS SD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: TBS SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TCM SD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: TCM SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE ACTION [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: TELECINE ACTION [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE CULT [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: TELECINE CULT [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE FUN [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: TELECINE FUN [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE PIPOCA [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: TELECINE PIPOCA [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE PREMIUM [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: TELECINE PREMIUM [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TLC [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: TLC [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: TNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT SERIES [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: TNT SERIES [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TOONCAST SD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: TOONCAST SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV GAZETA [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: TV GAZETA [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: UNIVERSAL CHANNEL HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: UNIVERSAL CHANNEL [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: UNIVERSAL CHANNEL [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: VIVA [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: VIVA [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: WARNER CHANNEL HD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: WARNER CHANNEL [FHD]" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: WARNER CHANNEL [FHD]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: ZOOMOO SD" tvg-logo="" group-title="BRAZIL", [B][COLOR red]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  BR: ZOOMOO SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://tek.mv2.link:8080/live/manuelsenra/jDHEqLoOW4/2163.m3u8

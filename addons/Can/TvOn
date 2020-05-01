@@ -1,0 +1,1230 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-ID="" tvg-name="-----Tv-On-----" tvg-logo="https://github.com/kallysderock/KallPlay/raw/master/imgs/KallPlaytv.png" group-title="Tv On",[B][COLOR cyan]ooooo [B][COLOR fuchsia]Tv-On [B][COLOR cyan]ooooo [/B][/COLOR]
+
+########15.04.2020#############################
+
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB 2020 HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11924
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11925
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11926
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 2
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11927
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 1 *
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11928
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11929
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 3
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11930
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11931
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 4
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11932
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11933
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 5
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11934
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 6 HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11935
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 6
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11936
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 10
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11937
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 10 HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11938
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 9
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11939
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 9 HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11940
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 8
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11941
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 8 HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11942
+
+
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] A&E
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/898
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] A&E HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4203
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] A&E [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4167
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] AMC
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5077
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] AMC HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5076
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] AMC [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4644
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] AXN
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/893
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] AXN HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/892
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] AXN HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4165
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Animal Planet
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/897
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Animal Planet HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/896
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Animal Planet Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5436
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Animal Planet [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4166
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Arte 1
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/894
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Arte 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5329
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Baby TV
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5078
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BIS
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/886
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BIS HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/885
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BIS Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5447
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BIS HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4162
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Band
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/887
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Band HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/891
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Band Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5475
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Band HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4164
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Band News
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/890
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Band News HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5162
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Band News Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5435
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Band News [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4163
+
+
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Canal Brasil
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/883
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Rede Boa Vontade
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5328
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Boomerang
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/884
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Boomerang HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5327
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Boomerang Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5434
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Canção Nova
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/879
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Cartoon Network
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/878
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/877
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Cartoon Network [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4159
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Cinemax
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/876
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Cinemax HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1495
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Cinemax HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5124
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Comedy Central
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/873
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Comedy Central HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5326
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Comedy Central HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1833
+
+
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Curta!
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/872
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Curta! HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5325
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery Home & Health
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/868
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery Home & Health HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/867
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery Home & Health Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5433
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery Home & Health [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4156
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery Civilization
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/869
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery Civilization HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5324
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery Civilization [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4157
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery Channel
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/871
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/870
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery Channel Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5448
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery Channel HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1834
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery Kids
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/866
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1494
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery kids Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5432
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery Kids HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1835
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery Science
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/865
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery Science HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5075
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery Science [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4154
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery Theater
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5323
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery Theater HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/864
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery Theater HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4153
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery World
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5322
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery World HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/861
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery World Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5430
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery World [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4151
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Disney Channel
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/860
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Disney Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1493
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Disney Channel Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5446
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Disney Channel HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4150
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Disney Junior
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/859
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Disney Junior HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5562
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Disney XD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/858
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Disney XD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4149
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery Turbo
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/863
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery Turbo HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/862
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery Turbo Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5431
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Discovery Turbo HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4152
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] E!
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/857
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] E! HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4204
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] EI PLUS SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11483
+
+
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Food Network
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/845
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Food Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1491
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Food Network [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4145
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FOX
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/844
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FOX HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/841
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Fox Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5473
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FOX [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1842
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Fox Premium
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5318
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FOX Premium HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/843
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FOX Premium HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4144
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Fox Premium 2
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5317
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FOX Premium 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/842
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Fox Premium 2 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5429
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FOX Premium 2 HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4143
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Fox Life
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/840
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FOX Life HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/839
+
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Futura
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/834
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Futura HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5316
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FX
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/833
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FX HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/832
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FX HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1845
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo Brasília
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/831
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo Brasilia HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5315
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo TV Centro America
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5127
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo EPTV Campinas
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5130
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5314
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo EPTV Sao Carlos
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5129
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo Ribeirão Preto
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5312
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo Ribeirão Preto HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5313
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo - TV Bahia
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5071
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo - TV Bahia HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5309
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo Minas
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/830
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo Minas HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5093
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo Minas Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5472
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo News
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/826
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo News HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1498
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo News Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5442
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo News HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1846
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo Nordeste
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5067
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo Nordeste HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5073
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo - RBS TV
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/764
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo - RBS TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5311
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo RJ
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/829
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo RJ HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/828
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo RJ Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5471
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo Rede HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1847
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo NSC TV Florianopolis
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5421
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo NSC TV Florianopolis HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5420
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo Curitiba
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5128
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo Curitiba HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5310
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo RPC Curitiba Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5469
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo SP
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/827
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5095
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo TV Gazeta Vitória
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/12077
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo TV Gazeta Vitória Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/12078
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo TV Gazeta Vitória HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/12079
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo TV Gazeta SUL ES Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/12080
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo TV Gazeta ES HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/12081
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo SP Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5470
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo SP HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5528
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo Anhaguera Goiania
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5074
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo Goias - TV Anhanguera HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5072
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo TV Tribuna Santos
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5126
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TV Vanguarda Sao Jose dos Campos
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5125
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo Para (Belem) - TV Liberal
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5069
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo TV TEM S.J. Rio Preto
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5307
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo TV TEM S.J. Rio Preto HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5308
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo - TV TEM Bauru
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/714
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo - TV TEM Sorocaba
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/713
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Globo - TV Verdes Mares
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5068
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] +Globosat
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/804
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] +Globosat HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1488
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] +Globosat HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4135
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Gloob
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/825
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Gloob HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1490
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Gloob Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5441
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Gloob HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1848
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Gloobinho
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5306
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Gloobinho HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5305
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GNT
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/824
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/823
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GNT HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4142
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] H2
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/822
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] H2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/821
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] H2 [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4141
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/820
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/816
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5467
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1850
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO 2
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/810
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/819
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO 2 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5468
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO 2 HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1849
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO Family
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/818
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO Family HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/817
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO Family HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4140
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO Plus
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/815
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO Plus HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/813
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO Plus HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4139
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO Signature
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/812
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO Signature HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/811
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO Signature HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4138
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] History
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/726
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] History HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/809
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] History Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5424
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] History HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4137
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] ID
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/807
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] ID HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/806
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] ID HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4155
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Lifetime
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/805
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Lifetime HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1489
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Lifetime [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4136
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO MUNDI
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/803
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO MUNDI HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1497
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO XTREME
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/802
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Sony
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/881
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Sony HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/880
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Sony HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4115
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO Xtreme HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1487
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Maxup HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4134
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] MegaPix
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/799
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Megapix HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/798
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Megapix HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1851
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] MTV
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/797
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] MTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1485
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] MTV HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4133
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Multishow
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/796
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Multishow HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/795
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Multishow HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4131
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Music Box Brasil
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/794
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Music Box Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5304
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] NatGeo Wild
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/793
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] NatGeo Wild HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/702
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Nat Geo Wild Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5428
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Natgeo Kids
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5303
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Natgeo Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5302
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] National Geographic
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/792
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] National Geographic HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/791
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] National Geographic [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4129
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] NHK
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/789
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Nickelodeon
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/787
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Nickelodeon HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1484
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Nicklodeon Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5426
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Nickelodeon HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4128
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Nick Jr.
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/788
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Nick Jr. HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5301
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Nick JR Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5427
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] OFF
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/785
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] OFF HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/784
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] OFF HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4125
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Paramount Channel
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/783
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Paramount Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/782
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Paramount HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4124
+
+
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PFC 2
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/779
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PFC 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/778
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PFC 2 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5454
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PFC 2 [ALTERNATIVO]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1853
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PFC 3
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/777
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PFC 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/776
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PFC 3 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5453
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PFC 3 [ALTERNATIVO]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1854
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PFC 4
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/775
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PFC 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/774
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PFC 4 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5452
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PFC 4 [ALTERNATIVO]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1855
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PFC 5
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/773
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PFC 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/772
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PFC 5 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5451
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PFC 5 [ALTERNATIVO]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1856
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PFC 6 [ALTERNATIVO]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5330
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PFC 7
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/770
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PFC 7 HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4122
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PFC 7 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5449
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PFC 7 [ALTERNATIVO]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5331
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Prime Box Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5300
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Record
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/761
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Record HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/763
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Record Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5466
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Record BA
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11072
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Record BA HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11071
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Record DF
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11069
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Record DF HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11068
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Record MG
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/7565
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Record MG HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/7566
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Record RJ
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/7567
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Record RJ HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/7568
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Record RS
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11066
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Record RS HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11065
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Record Internacional
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/899
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Record News
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/762
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] RedeTV!
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/759
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] RedeTV! HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/758
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] RedeTV! HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4119
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Rede Vida
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/757
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Rede Vida HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5653
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SBT
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/756
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SBT HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/755
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SBT Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5465
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SBT HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1858
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SBT SP Interior
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5297
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Smithsonian Channel
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11419
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Smithsonian Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11420
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] RTP Internacional
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/574
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Space
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/753
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Space HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/752
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Space HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4114
+
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Studio Universal
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/743
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Studio Universal HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1480
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Studio Universal HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4113
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Syfy
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/742
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Syfy HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1483
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SyFy HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4111
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TBS
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/741
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TBS HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/740
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TBS [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4110
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TCM
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/734
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TCM HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4109
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TCV INTERNACIONAL
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/983
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Telecine Action
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/733
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Telecine Action HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/739
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Telecine Action Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5464
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Telecine Action HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1862
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Telecine Cult
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/732
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Telecine Cult HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1482
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Telecine Cult HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4108
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Telecine Fun
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/731
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Telecine Fun HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/738
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Telecine Fun Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5463
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Telecine Fun HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1863
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Telecine Pipoca
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/730
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/737
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Telecine Pipoca Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5462
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Telecine Pipoca HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1864
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Telecine Premium
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/729
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Telecine Premium HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/736
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Telecine Premium Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5461
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Telecine Premium HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1865
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Telecine Touch
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/728
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Telecine Touch HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/735
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Telecine Touch Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5460
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Telecine Touch HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1866
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Terra Viva
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/727
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TLC
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/725
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TLC HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1481
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TLC HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1867
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TV Justica
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5293
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TNT
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/724
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/723
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TNT HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1868
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TNT Séries
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/722
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TNT Séries HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/721
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TNT Series HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4107
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PlayKids
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/7563
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PlayKids HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/7564
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Tooncast
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/720
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Tooncast HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4106
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TruTV
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/719
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TruTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5291
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TV Aparecida
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/895
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TV Cultura
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5161
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TV Cultura HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5656
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TV Brasil
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/717
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TV Câmara
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/602
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TV Diário Fortaleza
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11063
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TV Diário Fortaleza HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11062
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TV Rá Tim Bum
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/715
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TV Ra Tim Bum HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5292
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Universal Channel
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/711
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Universal Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/710
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Universal Channel HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4103
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] VH1
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5290
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] VH1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1479
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] VH1 HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4101
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] VH1 Mega Hits
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/709
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Viva
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/708
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Viva HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/707
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Viva Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5437
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Viva HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4100
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Warner Channel
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/706
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Warner Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/705
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Warner Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5425
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Warner Channel HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4099
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Woohoo
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/704
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Woohoo HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5657
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Anos 70
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/932
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Anos 80
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/931
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Anos 90
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/930
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Bossa Nova
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/929
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Eletrônica
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/928
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Festa
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/927
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Forró
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/926
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Gospel
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/925
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Hip Hop
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/924
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Jazz
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/923
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Lounge
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/921
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Pagode
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/919
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Pop Hits
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/918
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Rock Clássico
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/916
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Reggae
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/917
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Românticas
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/915

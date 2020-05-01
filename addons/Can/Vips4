@@ -1,0 +1,456 @@
+#EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name=" VIPS 2 " tvg-logo="https://github.com/kallysderock/KallPlay/raw/master/imgs/KallPlaytv.png" group-title="",[B][COLOR limegreen]===== BRA[/COLOR][COLOR yellow]SIL [COLOR limegreen][/COLOR][COLOR yellow] =====[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://letmein.fun:8080/s
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png" tvg-logo="" group-title="",[B][COLOR limegreen]===== [/COLOR][COLOR yellow] ACTUALIZADO EM 15.04.2020[/COLOR][COLOR limegreen] =====[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://orbit-iptv.com:2500/live
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png" tvg-logo="" group-title="",[B][COLOR limegreen]===== [/COLOR][COLOR yellow]CRÉDITOS A [B][COLOR blue][B]KALLPLAY[/B][/COLOR][B][COLOR limegreen] =====[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://orbit-iptv.com:2500/live
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+on 21.03
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SBT.png" group-title="VIPS 2",[B][COLOR blue][B]KALLPLAY[/B][/COLOR] SBT (Copyright © 2019 - TeamBlue)
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w827923360_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SBT.png" group-title="VIPS 2",[B][COLOR blue][B]KALLPLAY[/B][/COLOR] SBT HD (Copyright © 2019 - TeamBlue)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png" group-title="VIPS 2",[B][COLOR blue][B]KALLPLAY[/B][/COLOR] BLOOMBERG (Copyright © 2019 - TeamBlue)
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/APARECIDA.png" group-title="VIPS 2",[B][COLOR blue][B]KALLPLAY[/B][/COLOR] TV APARECIDA (Copyright © 2019 - TeamBlue)
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NOVOTEMPO.png" group-title="VIPS 2",[B][COLOR blue][B]KALLPLAY[/B][/COLOR] TV NOVO TEMPO (Copyright © 2019 - TeamBlue)
+http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
+
+
+
+
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxx
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name=" VIPS 2 " tvg-logo="https://cld.pt/dl/download/a31e53ca-3048-4f38-bcf0-15796a58ffa6/Brasil.jpg" group-title="",[B][COLOR limegreen]===== BRA[/COLOR][COLOR yellow]SIL [COLOR limegreen][/COLOR][COLOR yellow] =====[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://letmein.fun:8080/s
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS ABERTOS", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   SBT (PE)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
+
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS ABERTOS", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   SBT (CE)
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1147872746_b216000_sleng.m3u8
+
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS ABERTOS", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   SBT (PI)
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS ABERTOS", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   SBT (MA)
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="CANAIS ABERTOS", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    GLOBO SD
+http://placartv.futeboltv.com:8081/live/6/playlist.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/200px-Logotipo_da_Record.png" group-title="CANAIS ABERTOS", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    TV RECORD (AM)
+https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b1155072.m3u8?sts=st=1557102741~exp=1557109341~acl=/*~hmac=7acb1281c68cd011d9ac192673fb62d8cc6571e547aaf3de0b5b60f6bfa39dbf
+
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8d/Logotipo_da_TV_A_Cr%C3%ADtica_%282017%E2%80%932019%29.png" group-title="CANAIS ABERTOS", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    TV A CRITICA (RECORD AM)
+https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b1155072.m3u8?sts=st=1565293256~exp=1565299856~acl=/*~hmac=be22263b6e00438e10d314ed8a94beae816a47301f279fb25c9ba9c6e8c23234
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1d/LOGO_REDETV%21.png/200px-LOGO_REDETV%21.png" group-title="CANAIS ABERTOS", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   REDE TV
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1209374997.m3u8
+
+
+
+
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Q7mXAkQ-L.png" group-title="CANAIS ABERTOS", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    CBTV
+https://sa-all17.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1715393501.m3u8
+
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/no1Al0A.png" group-title="CANAIS ABERTOS" , [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    TV CAMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="CANAIS ABERTOS", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    CULTURA (PA)
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://catve.akamaized.net/portal/img/aovivo.jpg" group-title="CANAIS ABERTOS", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    CATVE (CULTURA PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w2140063674.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/200px-Canal_Futura.png" group-title="CANAIS ABERTOS", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    FUTURA
+https://tv.unisc.br/hls/test.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="CANAIS ABERTOS", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    TVE VIPS 2
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/SescTV_%282013%29.png" group-title="CANAIS ABERTOS", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    SescTV
+https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist_b2723840.m3u8?sts=st=1565289181~exp=1565295781~acl=/*~hmac=c7a1ed79862cc39ae31f4737d98663ece8bd6f8a237e000fdc9ebac2e3768053
+
+
+on 17.2  até aqui
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+########################################################### RELIGIÃO
+sambatech
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-yph9XIZBxiA/Wd6D3LSyqII/AAAAAAAAsIQ/GRlsrsyNWwMcr8Pw9tw1VTWpivoY3FYNQCLcBGAs/s1600/LOGO-TV_institucional.png" group-title="RELIGIÃO", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    TV APARECIDA 
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w404485210.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/pH6htYz.png?1" group-title="RELIGIÃO", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    TV EVANGELIZAR
+http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w309622185.m3u8
+
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rede_Vida_logo.png/200px-Rede_Vida_logo.png" group-title="RELIGIÃO", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    REDE VIDA
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b1296000.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/iurd-logo.png" group-title="RELIGIÃO", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    TV UNIVERSAL HD
+https://r7iurdgeobrhls-lh.akamaihd.net/i/r7iurdgeobrhls_1@125410/index_720_av-b.m3u8?sd=10&rebase=on
+
+
+########################################################### NOTICIAS
+
+
+#EXTINF:0 tvg-logo="http://cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="NOTICIAS", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    TV CBN
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/539378282978742273/-kOhKE4u_400x400.png" group-title="NOTICIAS", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    JORNAL TV
+http://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_w653587283.m3u8
+
+
+
+########################################################### MUNDO
+
+
+#EXTINF:0 tvg-logo="https://www.afsc.org/sites/default/files/styles/maxsize/public/images/Bloomberg.png?itok=Yi7zgFpO" group-title="MUNDO", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    BLOOMBERG
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/XR3C9Nd.png?1" group-title="MUNDO", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    FOX 25
+https://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://www.pinclipart.com/picdir/middle/39-399793_red-bull-tv-png-clipart.png" group-title="MUNDO", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Real_Madrid.png" group-title="MUNDO", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
+
+
+########################################################### VARIEDADES
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/fwmQYUI.png" group-title="VARIEDADES", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    TOP TV
+https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w1076175471.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="VARIEDADES", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+
+
+
+########################################################### ESPORTES
+
+
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="ESPORTES", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    FOX SPORTS SD
+http://placartv.futeboltv.com:8081/live/4/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/xgOp4rb.png" group-title="ESPORTES", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    SPORTV SD
+http://placartv.futeboltv.com:8081/live/5/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="ESPORTES", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    ESPN VIPS 2
+http://placartv.futeboltv.com:8081/live/3/playlist.m3u8
+
+
+########################################################### FILMES/SERIES
+
+
+#EXTINF:0 tvg-logo="https://static.tumblr.com/b0305ebabfd70f5124993f78570c1520/tfeircd/H8loj9vfx/tumblr_static_65akcisiw0co8s40cwc444s8g.png" group-title="FILMES/SERIES", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    TV FILMES
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://scontent.fjdo1-1.fna.fbcdn.net/v/t1.0-9/20031894_1983506025196250_2760868674093796336_n.png?_nc_cat=108&_nc_ht=scontent.fjdo1-1.fna&oh=32c756f63e307ce5f6b8d210f97b71cd&oe=5D54F205" group-title="FILMES/SERIES", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    CLASSIQUE TV
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8 
+
+
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-eNLDK5O1Nbs/TbxYOimwaPI/AAAAAAAAAZk/aR5CYVQlxgo/s1600/LOGO.jpg" group-title="FILMES/SERIES", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    CINE GOSPEL 
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+
+
+########################################################### INFANTIL
+
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/Bd0Jlv1UsNzZUJhaCLbTDMxLBVVDUphpwkEG94KtWc-r1vq4IqNGr8a_x3R2AY5wgaI" group-title="INFANTIL", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    GOSPEL CARTOON
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+
+
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-yO8_nM3g3Gg/XNDGwAZmyHI/AAAAAAAAGs0/IG5xgSkT3v4ClGttboTm96-IE-_1sToQQCK4BGAYYCw/s320/KURIAKOS%2BKIDS.png" group-title="INFANTIL", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    KURIAKOS KIDS
+http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
+
+
+########################################################### REGIONAIS
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/WWOTXQp.png" group-title="REGIONAIS", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   TV MACEIÓ [AL]
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:0 tvg-logo="https://tvmar.tv.br/img/logo.png" group-title="REGIONAIS", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    TV MAR [AL]
+https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w1508959925.m3u8
+
+#EXTINF:0  tvg-logo="https://i.imgur.com/Mhumyod.png" group-title="REGIONAIS", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   REDE RC [BA]
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+
+#EXTINF:0  tvg-logo="http://tvjsid.com.br/wp-content/uploads/2017/10/Simbolo-tv-Jsid-sem-fundo-120x120.png" group-title="REGIONAIS", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    TV J.SID [BA]
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=1531615987
+
+#EXTINF:0  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/a-cara-da-bahia-218x150.png" group-title="REGIONAIS", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    TV CARA DA BAHIA [BA]
+http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/chunklist_w1224721706.m3u8
+
+
+
+
+
+
+
+#EXTINF:0  tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/logotvambiental1.png" group-title="REGIONAIS", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    TV AMBIENTAL [ES]
+https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1091858751.m3u8
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/l0TyXIA.png" group-title="REGIONAIS", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    TV PANTANAL [MS]
+https://5ca42828c3a79.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w1320184666.m3u8
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/837637013243326464/p9XHZuW3.jpg" group-title="REGIONAIS" , [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    REDE MINAS [MG]
+https://slbps-sambatech.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b954368.m3u8?sts=st=1555716938~exp=1555723538~acl=/*~hmac=a68a349d7dc8af5c07cde745ba4ebbfc2e1de74a038364c6988a0651a934bc9d
+
+
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/y5OtzDTuJw27j-WZrxDbmO_YWyCQqBNVmjEeQGKwU5CER-aD7tmy3i4N7kwPU5s-6w=s180" group-title="REGIONAIS", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    TV DIÁRIO DO SERTÃO [PB]
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+
+
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/5eb82f6fd9799db20a7129633e7a605b.png" group-title="REGIONAIS" , [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    MUNDO TV [PR]
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w1443453872.m3u8
+
+#EXTINF:0 tvg-logo="http://alepi.pi.gov.br/upload/logoTransparente2019.png" group-title="REGIONAIS" , [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    TV ASSEMBLEIA [PI]
+https://59e4b6c1beddc.streamlock.net/ronaldoalepi/ronaldoalepi/chunklist_w89004813.m3u8
+
+
+
+#EXTINF:0 tvg-logo="http://www.tvnatal.com.br/img/logo%20img.png" group-title="REGIONAIS", [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    TV NATAL [RN]
+http://stmv6.conectastm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8?wowzasessionid=1108698460
+
+
+#EXTINF:0 tvg-logo="https://scontent.fjdo1-1.fna.fbcdn.net/v/t1.0-9/26804666_1554371427931226_6811292190421938023_n.png?_nc_cat=111&_nc_ht=scontent.fjdo1-1.fna&oh=635ffc3acdf3904ffa312cb6a447b6a3&oe=5D45B8A5" group-title="REGIONAIS" , [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    TV FAAP [SP]
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:0 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/tvitapetinga.png" group-title="REGIONAIS" , [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    TV ITAPETINGA [SP]
+http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8
+
+
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/a/AGF-l7_VZLukWUk4gh_Szm44JhNqdMrcgmqCMu0A-g=s288-mo-c-c0xffffffff-rj-k-no" group-title="REGIONAIS" , [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    TV ALESE [SE]
+https://digilab.cds.ebtcvd.net/live-tvalese/stream1/chunklist.m3u8
+
+streamtheworld
+########################################################### SOUND
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   ANOS 70
+http://192.99.150.31:8241/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   ANOS 80
+http://192.99.150.31:8697/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   ANOS 90
+http://192.99.150.31:8056/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   ANOS 2000
+http://6d9a.webradio.upx.net.br:9940/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   AXÉ
+http://192.99.150.31:8305/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   BOSSA NOVA
+http://6d9a.webradio.upx.net.br:9974/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   BREGA
+http://192.99.150.31:9007/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   ELETRÔNICA
+http://192.99.150.31:9095/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   FESTA
+http://6d9a.webradio.upx.net.br:9070/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   FORRÓ
+http://192.99.150.31:9019/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   FUNK
+http://192.99.150.31:9089/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   GOSPEL
+http://192.99.150.31:9101/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   HIP HOP
+http://192.99.150.31:8721/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   HISTORINHA INFANTIL
+http://192.99.150.31:8371/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   KIDS
+http://192.99.150.31:9431/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   JAZZ
+http://192.99.150.31:8042/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   LOUNGE
+http://6d9a.webradio.upx.net.br:9064/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   METAL
+http://6d9a.webradio.upx.net.br:9898/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   MPB
+http://192.99.150.31:8775/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   MÚSICA CLÁSSICA
+http://6d9a.webradio.upx.net.br:9970/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   NEW ROCK
+http://6d9a.webradio.upx.net.br:8028/stream? 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   PAGODE
+http://6d9a.webradio.upx.net.br:9061/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   POP HITS
+http://6d9a.webradio.upx.net.br:9046/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   POP ROCK
+http://6d9a.webradio.upx.net.br:8016/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   SERTANEJO UNIVERSITÁRIO
+http://192.99.150.31:9191/stream?
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]   TRILHAS SONORAS
+http://6d9a.webradio.upx.net.br:9896/stream?  
+ 
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    SERTANEJO RAIZES
+http://192.99.150.31:9155/stream
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    RAP NACIONAL
+http://192.99.150.31:8377/stream
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    REGGAE
+http://192.99.150.31:8715/stream
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    ROBERTO CARLOS
+http://192.99.150.31:9137/stream
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    ROCK CLASSICO
+http://192.99.150.31:9125/stream
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    RODEIO
+http://192.99.150.31:9473/stream
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    SERTANEJO
+http://192.99.150.31:9485/stream
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    SMOOTH JAZZ
+http://192.99.150.31:8042/stream
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    TECHNO
+http://192.99.150.31:8301/stream
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    TECNO BREGA
+http://192.99.150.31:8989/stream
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    STUDIO DO AMOR
+http://192.99.150.31:8962/stream
+
+########################################################### RÁDIOS
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio10705_1483434697.jpg" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    Radio Caicó AM 1290
+http://149.56.167.236:8089/.ogg
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio14387_1439401460.JPG" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    Rádio Rural 830 AM
+http://str.radiorural.com:8011/stream
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio17270_1439401503.JPG" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    Rádio Rural 95 FM
+http://str.radiorural.com:8010/live
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio14642_1516615140.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    Rádio Solidariedade 106 FM
+http://149.56.167.236:8081/stream
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio14474_1535454461.jpg" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    Jovem Pan Seridó
+http://wz3.dnip.com.br/93seridohd/93seridohd.stream/chunklist_w173503393.m3u8
+
+
+globo
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio14216_1493299107.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    Rádio Verdes Mares AM 810
+http://srv4.zoeweb.tv:1935/z18-live/stream/chunklist_w483075415.m3u8
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio11839_1481542862.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    Rádio Clube 105.5 FM
+http://5940.live.upx.net.br:9082/stream
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio13213_1489754950.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    Rádio FM O Dia FM 100.5
+http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist.m3u8
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio10358_1526480428.jpg" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    Rádio Band FM 96.1
+http://evpp.mm.uol.com.br/band/bandfm_sp/chunklist_w1986330582.m3u8
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio24477_1526479632.jpg" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    Rádio Bandnews SP 96.9 FM
+https://evpp.mm.uol.com.br/band/bandnewsfm_sp/chunklist_w574835524.m3u8
+
+
+
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio11886_1439401393.jpg" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    Rádio Clube do Pará 690 AM
+http://ice01.kshost.com.br:8000/live
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio14_1439400387.jpg" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    Rádio Itatiaia 610 AM 95.7 FM
+http://1c3e26e6-c938-41ce-a27f-a6535039b307.8903.brasilstream.com.br:8903/stream
+
+130
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio14040_1526481130.jpg" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    Rádio Nativa FM 95.3
+http://evpp.mm.uol.com.br/band/nativa_sp/chunklist_w453707469.m3u8
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio10410_1526480127.jpg" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    Rádio Bandeirantes AM 840 FM 90.9
+https://evpp.mm.uol.com.br/band/radiobandeirantes_sp/chunklist_w1714639095.m3u8
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio13955_1532353280.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    Rádio Mix FM 106.3
+http://tuneinmix.crossradio.com.br:8008/stream
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio14742_1503923573.PNG" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    Rádio Transamérica Hits FM 95.5
+http://ice11.crossradio.com.br:8206/live.mp3
+
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio13176_1484822550.jpg" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    Rádio Gaúcha AM 600 FM 93.7
+https://722747t.ha.azioncdn.net/2747t/_definst_/gaucha_rbs.sdp/chunklist_fa6b8cff-486f-42e1-8242-bf0823275256.m3u8
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Logotipo_da_Mix_FM_Jo%C3%A3o_Pessoa.png" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    MIX FM - JOÃO PESSOA
+http://158.69.117.161:8016/live
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio14655_1439401463.JPG" TVG-NAME=''RADIO=TRUE, [B][COLOR lime]KALLPLAY[/B][/COLOR][B][COLOR red]    [/B][/COLOR]    104 FM SOUSA
+http://stream.7br.com.br:10018/;
+
+
+
+21.03   on
+
+
+
+

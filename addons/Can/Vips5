@@ -1,0 +1,159 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/kallysderock/KallPlay/raw/master/imgs/KallPlaytv.jpg" tvg-logo="" group-title="",[B][COLOR limegreen]===== [/COLOR][COLOR yellow] VIPS 2 [/COLOR][COLOR limegreen] =====[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://letmein.fun:8080/sitefeminino10/4olVMzsFiq/3428
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png" tvg-logo="" group-title="",[B][COLOR limegreen]===== [/COLOR][COLOR yellow] ACTUALIZADO EM  15.04.2020[/COLOR][COLOR limegreen] =====[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://orbit-iptv.com:2500/live
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ 
+
+
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  Brazil 1 FTA
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/De6ty9h.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  Canal Ricos
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/022014/untitled-1_11.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  Canção Nova (Opt-1)
+https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/chunklist_b1155072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  Canção Nova (Opt-2)
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  Canção Nova (Opt-3)
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  CBTV Internacional [1080p]
+https://na-all7.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1097631749.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/07/cine-sky.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  Cine Sky
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/SYPYeHt.jpg" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  Cine+
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.aen.pr.gov.br/modules/galeria/uploads/42816/destaque_logo_vertical_eparana_site02.jpg" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  E-Parana
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sQ5BKun.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  Estudio O Dia 100.5 FM RJ
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8?fluxustv.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SGupCEL.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  In Paradise TV
+https://cdn.jmvstream.com/w/inpara/_definst_/inpara/chunklist_w1305866021.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elcorteingles.es/centroscomerciales/uploads/service/logo/68/medium_ITV.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  Itú TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IOw4QoE.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  Nossa TV
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  Novo Tempo (Brazil)
+http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/LcpPNw" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  PUC TV Goias
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://listaiptvbrasil.com/logos/recordtv.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  RecordTV
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2WmdjU9.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  Rede Metropole
+http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  Rede TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1d/LOGO_REDETV%21.png/200px-LOGO_REDETV%21.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  Rede TV (Opt-1)
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1209374997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  Rede TV (Opt-2)
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  Rede TV (Opt-3)
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  Rede TV (Opt-4)
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDETV" tvg-logo="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  Rede TV (Opt-5)
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  Rede TV (Opt-6)
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/LOGO_REDETV%21.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  RedeTV!
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Wajw4nv.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  SBT (New!)
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  SBT [720p]
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/3Y9a7ri.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  SBT PE Interior
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Wajw4nv.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  SBT Pernambuco
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  SBT Piaui
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/800px-Logotipo_do_SBT.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  SBT São Paulo
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YrBt8gZ.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  Summer TV
+http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  TV APARECIDA 2
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bno.nl/theme_bno/static/src/img/icon/BNO.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  TV BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MCz5V0g.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  TV Capital Lucelia
+http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/554708270472912896/vAb4KwyJ_400x400.jpeg" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  TV Caxias (Opt-1)
+http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/e2be27y.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  TV Caxias (Opt-2)
+http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  TV Cultura GO
+http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Oy6Nrzb.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  TV Cultura PA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jpEJYfT.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  TV Destak
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lalabee.com.br/f/logo_destak.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  TV Destak
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VqIzaFz.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  TV Digital Birigui
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  TV Faap
+http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvjsid.com.br/wp-content/uploads/2017/10/Simbolo-tv-Jsid-sem-fundo-120x120.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  TV J.SID
+http://stmv2.euroti.com.br:1935/tvjsid/tvjsid/live.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8qwFc7d.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  TV Japi (New!)
+http://wse3.player.tv.br:1935/tvjapi/tvjapi/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvjornaldelimeira.com.br/novosite/front/imgs/logo.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  TV Jornal Limeira
+http://flash1.crossdigital.com.br:1935/1998/1998/live.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/heB14zY.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  TV Metropolitana Rio
+https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w981877315.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1mRw1.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  TV Panorama
+http://streaming03.zas.media:1935/panorama/panorama/chunklist_w425951872.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvriopreto.com.br/home/wp-content/uploads/TVN-2.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  TV Rio Preto
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7bTT8mw.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  TV Transamerica 59
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://diocesetb.org.br/f/i/dioceseTubaraoLogoTvTuba.jpg" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  TV Tuba
+http://69.46.0.170:1935/rcr_tuba/tv.stream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NlB8ioY.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  TVCI
+http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s11.postimg.org/l4gjn0o4j/TV_Di_rio_do_Sert_o.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  TVDS
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  TVE Rio Grande do Sul (Opt-1)
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s20.postimg.org/65vfkdnzh/TVE.png" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  TVE Rio Grande do Sul (Opt-2)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1677441762/logo_nova_400x400.jpg" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  TVN Brasil
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  WEB TV MINAS
+http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
+
+
+#EXTINF:-1 tvg-id="Rede TV.igor" tvg-logo="Rede-TV.png" tvg-logo="http://goo.gl/A1WBTk" group-title="TV Aberta", REDE TV 
+http://evp.mm.uol.com.br:1935/redetv2/redetv2/live.", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]  
+
+
+
+#EXTINF:-1 tvg-logo="bandsports2.png" tvg-id="VIPS 2IPTV - Band Sports" tvg-logo="https://sites.google.com/site/logosiptv/bandsports2.png" group-title="ESPORTES", Band Sports HD
+http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/live.", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR pink]   [/B][/COLOR]

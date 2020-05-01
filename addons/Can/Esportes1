@@ -1,0 +1,152 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-ID="" tvg-name="-----Tv-On-----" tvg-logo="https://github.com/kallysderock/KallPlay/raw/master/imgs/KallPlaytv.png" group-title="Tv-On",[B][COLOR cyan]ooooo [B][COLOR fuchsia]Esportes [B][COLOR cyan]ooooo [/B][/COLOR]
+
+
+###########15.04.2020##########################
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SporTV
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/748
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SporTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/749
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Sportv Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5438
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SporTV HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1859
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SporTV2
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/747
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SporTV2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/751
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Sportv 2 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5439
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SporTV2 HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1860
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SporTV3
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/745
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SporTV3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/750
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Sportv 3 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5440
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SporTV3 HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1861
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DAZN HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/11443
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DAZN2
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/12028
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DAZN3
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/12029
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Band Sports
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/889
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Band Sports HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/888
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Band Sports [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1831
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Combate
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/875
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Combate HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/874
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Combate Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5474
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Combate HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1832
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] ESPN
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4643
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] ESPN HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/848
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] ESPN Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5458
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] ESPN HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1839
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] ESPN +  HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/851
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] ESPN EXTRA HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1837
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] ESPN Brasil
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/850
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] ESPN Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/849
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] ESPN Brasil Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5459
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] ESPN Brasil HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1838
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Espn Extra
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5321
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Espn Extra HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5320
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] ESPN Extra Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5457
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Fish TV
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/846
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Fish TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5319
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Fox Sports
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/837
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Fox Sports HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/838
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Fox Sports Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5418
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Fox Sports HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1844
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Fox Sports 2
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/836
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FOX Sports 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/835
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Fox Sports 2 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5456
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FOX Sports 2 HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1843
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Premiere Clubes
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/767
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Premiere Clubes HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/780
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Premiere Clubes Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/5455
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] Premiere Clubes HD [ALTERNATIVO]
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/1852

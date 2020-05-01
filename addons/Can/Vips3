@@ -1,0 +1,676 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name=" VIPS 2 " tvg-logo="https://github.com/kallysderock/KallPlay/raw/master/imgs/KallPlaytv.png" group-title="",[B][COLOR limegreen]===== VIP[/COLOR][COLOR yellow]S 2 [COLOR limegreen][/COLOR][COLOR yellow] =====[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://letmein.fun:8080/s
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png" tvg-logo="" group-title="",[B][COLOR limegreen]===== [/COLOR][COLOR yellow] ACTUALIZADO EM 28.03.20[/COLOR][COLOR limegreen] =====[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://orbit-iptv.com:2500/live
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/0583e810e22331487864c7d159297c53.png" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  Canal Ricos
+https://ch.iptvmate.net/d652fb63320e93aafdac8a042ffe36ef.m3u8
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/772c0f82a734f6e48bd2d51c5e540058.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  Canção Nova
+https://ch.iptvmate.net/7521cf6e326ab732d9b53cdf362f1350.m3u8
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Canção Nova" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/772c0f82a734f6e48bd2d51c5e540058.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  Canção Nova
+https://ch.iptvmate.net/f2013cb39c20d899e04698581a51bb30.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/bd268bfafd7cdca32b4d3a119117d4fb.png" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  FM O Dia
+https://ch.iptvmate.net/975aebd1126176ff95894a1c998f72cb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/fd434518f596003250210ed27795a339.png" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  IMPD TV
+https://ch.iptvmate.net/eb0ce24b16c67ba6dbb797819f4143a3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/67fb3ee38ad5ed9a3af8752abaf9bdaa.png" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  In Paradise TV
+https://ch.iptvmate.net/2f752cf3ee597489d7c55aa08b9717e9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/6db612e36a8946443d1005f9687406c2.png" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  Itú TV
+https://ch.iptvmate.net/4cb4c817b2c825a385500c31a78efa1e.m3u8
+#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/8b4099c524e92a69998b422b49842aca.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="Religious", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  Novo Tempo
+https://ch.iptvmate.net/5438050e85d892cf77ba229997baad75.m3u8
+#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/8b4099c524e92a69998b422b49842aca.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="Religious", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  Novo Tempo
+https://ch.iptvmate.net/37550034060b880da425157198eeb31e.m3u8
+#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/8b4099c524e92a69998b422b49842aca.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="Religious", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  Novo Tempo
+https://ch.iptvmate.net/e583af88cbab1a7ea49db035e3eef3fa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/7b9aa25ce66bffad234cf63b393929ab.png" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  RCI
+https://ch.iptvmate.net/2e854371803c8b353ac746221dd4dc8f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/07cca0aa966170032d63c47f8b2eff7f.png" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  RecordTV
+https://ch.iptvmate.net/9019da1385da220f3b7199f3759e9c74.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/2a6871084c8ed04c7814cdfa4ed812c4.png" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  Rede Metropole
+https://ch.iptvmate.net/4629cd4f9c5a7060d7ba7d8fc4a5512c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/5bad4ae18dd618fd9d9ab19f4050d1f1.png" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  Rede Super
+https://ch.iptvmate.net/99f13f49ce0ae60f1a68ca3fe22d394f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/5bad4ae18dd618fd9d9ab19f4050d1f1.png" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  Rede Super
+https://ch.iptvmate.net/99f13f49ce0ae60f1a68ca3fe22d394f.m3u8?IPTVPLENITUDE
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/6f4e6b36faba52b431097556e44de261.jpg" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  Rede Vida
+https://ch.iptvmate.net/fdf3f6fef2323f596daa5f830d991cd8.m3u8
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/842d2948df74648a7f722ccf3de0e843.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  RedeTV!
+https://ch.iptvmate.net/413e60555cfd286ca3397b5f6bc0d0c1.m3u8
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/842d2948df74648a7f722ccf3de0e843.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  RedeTV!
+https://ch.iptvmate.net/b8a152ff24a338059754d139f7b157ab.m3u8
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/842d2948df74648a7f722ccf3de0e843.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  RedeTV!
+https://ch.iptvmate.net/b2aba5cb52a6bbf1a38b6518bac64eee.m3u8
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/842d2948df74648a7f722ccf3de0e843.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  RedeTV!
+https://ch.iptvmate.net/1525bd43453124795eeef47de9924aa5.m3u8
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/842d2948df74648a7f722ccf3de0e843.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  RedeTV!
+https://ch.iptvmate.net/0e078e5ead5b8451d5e1dac9d1ffda99.m3u8
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/842d2948df74648a7f722ccf3de0e843.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  RedeTV!
+https://ch.iptvmate.net/f49fe582059a0ad8535bab17bdc0f10f.m3u8
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/842d2948df74648a7f722ccf3de0e843.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  RedeTV!
+https://ch.iptvmate.net/715f38e861975cd6316bc3e315b54af3.m3u8
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/842d2948df74648a7f722ccf3de0e843.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  RedeTV!
+https://ch.iptvmate.net/ce35c89cb0ec51053a36e085446a0379.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/88cbb6aadb8b5e555d55570826036373.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  SBT
+https://ch.iptvmate.net/8b171498cd3ed594361b946a9dc86438.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/88cbb6aadb8b5e555d55570826036373.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  SBT
+https://ch.iptvmate.net/a5d9e5e80ad186831d15ee1dcded293b.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/88cbb6aadb8b5e555d55570826036373.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  SBT
+https://ch.iptvmate.net/c5aa48a13163c83dbab835167d71f0dd.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/88cbb6aadb8b5e555d55570826036373.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  SBT
+https://ch.iptvmate.net/bfc5caa99ff91b1807f051e2c4b79163.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/88cbb6aadb8b5e555d55570826036373.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  SBT
+https://ch.iptvmate.net/668409c57c2997fcf19fa4e66e98bc74.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/88cbb6aadb8b5e555d55570826036373.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  SBT
+https://ch.iptvmate.net/d11abf09312c53da8dc11f671cbe67eb.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/88cbb6aadb8b5e555d55570826036373.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  SBT
+https://ch.iptvmate.net/f6e656c95b326987382ad6ab7b9457e5.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/88cbb6aadb8b5e555d55570826036373.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  SBT
+https://ch.iptvmate.net/bee01b7cafaf45b426b0fa86f1317824.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/88cbb6aadb8b5e555d55570826036373.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  SBT
+https://ch.iptvmate.net/e057d1480ee3b42c63959d949a30fa9e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/3837f3332a2e95c978847e45d3f7e922.png" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  Sesc TV
+https://ch.iptvmate.net/6826b0d718d327355642d6b8b92cb0a3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/b38b37082faa81bdbe4a17ddceb7c63c.png" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  Summer TV
+https://ch.iptvmate.net/e7b8914df1fd6bdc8f9672a7eea164c7.m3u8
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/411bcf2fd69ee671136e7a011dd3c99a.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  TV Aparecida
+https://ch.iptvmate.net/c15c207629c87dcbbb767d1e35bc10a8.m3u8
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/411bcf2fd69ee671136e7a011dd3c99a.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  TV Aparecida
+https://ch.iptvmate.net/8f235a47c8e27453fe10c4c6f7e295fe.m3u8
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/411bcf2fd69ee671136e7a011dd3c99a.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  TV Aparecida
+https://ch.iptvmate.net/8f235a47c8e27453fe10c4c6f7e295fe.m3u8?FORMIGATV
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/411bcf2fd69ee671136e7a011dd3c99a.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  TV Aparecida
+https://ch.iptvmate.net/8f235a47c8e27453fe10c4c6f7e295fe.m3u8?TvFogoHD
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/411bcf2fd69ee671136e7a011dd3c99a.png" tvg-country="BR" tvg-url="http://infinitytv.xyz/guide.xml" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  TV Aparecida
+https://ch.iptvmate.net/823fcf7d67fe883093ecdc4150642922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/f2a7c104242826caa5e7a034fac61cda.png" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  TV BNO
+https://ch.iptvmate.net/f9ac7c4c6edb5fd8f388b82768ccbf02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/d4b2df2e0ad0e58de25f158c49d9e850.png" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  TV Destak
+https://ch.iptvmate.net/fed3cacfd3b1ce8e6a866bfacc9e552e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/d4b2df2e0ad0e58de25f158c49d9e850.png" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  TV Destak
+https://ch.iptvmate.net/fed3cacfd3b1ce8e6a866bfacc9e552e.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/41970e095e5da60d91a495ce1dfc3822.png" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  TV Digital Birigui
+https://ch.iptvmate.net/f72ffbc3828cb78c3b26949831051386.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/450528ea70dab33e85fcf42e3ff212f8.png" tvg-country="BR" tvg-url="" group-title="Education", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  TV Educativa de Porto Alegre
+https://ch.iptvmate.net/43f67d382100fc55cfd95c9c05fd619c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/f462e982f200d5f948fd56476f45f87e.jpg" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  TV Faap
+https://ch.iptvmate.net/e84fd17021c6b45ff579b59f408d77f0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/f462e982f200d5f948fd56476f45f87e.jpg" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  TV Faap
+https://ch.iptvmate.net/f1722f193c963372c55c106422fe473f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/b1a3dd6afac61a459e16ebe1b79d397d.png" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  TV Gidoes
+https://ch.iptvmate.net/4848b4d3770f94834cfc2ef700b9a456.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/a3741ece878fef2af87ba5a7bf03766c.jpg" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  TV MCJ
+https://ch.iptvmate.net/e38a156a53ee92c6fd8206352cddceaf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/206051b1c37a526004a1418a024a0220.jpg" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  TV Paraná
+https://ch.iptvmate.net/08b6a143dcedb905c32d08884ec0a8a4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/b3262277b6a281be954de763821ec5b2.png" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  TV Rio Preto
+https://ch.iptvmate.net/ede6badd030777ef8b1ebe7816cabb84.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/4c853e5578c17dcaad5e6966a96922a6.png" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  TV Transamérica
+https://ch.iptvmate.net/a52e577fd092a912451fb9eda0529f6b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/8b815acf000f3a20ccfa091df5a1c8d0.png" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  TV Verdes Campos
+https://ch.iptvmate.net/c5ef69861a03018940739270cecdf2ce.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/1fbcd8eae6f5bc8d59b6ac73da7678c8.png" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  TVCI
+https://ch.iptvmate.net/c713e544a1bb4594e622a6fa1bc5b1ae.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/b715084af327ea025244721905c0baf3.png" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  TVDS
+https://ch.iptvmate.net/964f95f10885cac4bb1beb12ba756027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/fe267e0fc53ec48fddb1923113b33c80.jpg" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  TVN Brasil
+https://ch.iptvmate.net/e565a51b1dd5dbceb7fbfbd77d387e9a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://img.iptvmate.net/7a5f81504eeb4ff4ff52d45ca714cbd0.jpg" tvg-country="BR" tvg-url="" group-title="", [B][COLOR cyan]KALLPLAY[/B][/COLOR] [B][COLOR orange]  [/B][/COLOR]  Web TV Minas
+https://ch.iptvmate.net/ec654f8580034bb8dffb34eb9ef814c4.m3u8
+
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR]  SBT
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w133088733.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR]  SBT SP
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+
+
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR]  ONE 0
+http://rtmp.one.by:1200
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR]  ONE 1 HD
+http://rtmp.one.by:1300
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR]  m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR]  Retrô
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR]  Gospel Cartoon
+http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR]  SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
+
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR]  Automoto
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR]  SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR]  Gospel Movies Television
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR]  filmes 1
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR]  Classique TV
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8
+
+
+
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR]  Retro Music
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] SBT PE SD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2020510264_b131000_sleng.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] SBT CARUARU
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] CULTURA PR
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] CULTURA PA
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
+
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] CINE SKY
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?CANALANDRONALTAS
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Tv Aparecida
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?AndreOid
+
+
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR]  TV Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR]  TV Igreja Mundial
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR]  Rede Brasil De Comunicacão PE SD
+http://rbc.directradios.com:1935/rbc/rbc_360p/playlist.m3u8
+
+ 
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Kids
+http://192.99.150.31:9431/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] MPB
+http://192.99.150.31:8775/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Forró
+http://192.99.150.31:9019/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Pagode
+http://6d9a.webradio.upx.net.br:9061/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Sertanejo
+http://192.99.150.31:9485/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Funk
+http://192.99.150.31:9089/;
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Rock Clássico
+http://192.99.150.31:9125/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Lounge
+http://6d9a.webradio.upx.net.br:9064/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Anos 70
+http://192.99.150.31:8241/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Anos 80
+http://192.99.150.31:8697/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Anos 90
+http://192.99.150.31:8056/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Românticas
+http://192.99.150.31:8962/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Rap Nacional
+http://192.99.150.31:8377/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Eletrônica
+http://192.99.150.31:9095/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Festa
+http://6d9a.webradio.upx.net.br:9070/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Gospel
+http://192.99.150.31:9101/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Hip Hop
+http://192.99.150.31:8721/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Jazz
+http://192.99.150.31:8042/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Axé
+http://192.99.150.31:8305/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Brega
+http://192.99.150.31:9007/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Música Clássica
+http://6d9a.webradio.upx.net.br:9970/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] New Rock
+http://6d9a.webradio.upx.net.br:8028/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Reggae
+http://192.99.150.31:8715/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Sertanejo Universitário
+http://192.99.150.31:9191/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Metal
+http://6d9a.webradio.upx.net.br:9898/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR]  FM O DIA TV
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR]  FM O DIA
+http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist_w1559633248.m3u8
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Fanatica FM
+http://noasrv.caster.fm:10156/live
+
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Transamerica
+http://transamerica.crossradio.com.br:9114/live.mp3
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] truckers fm
+https://radio.truckers.fm/
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Vagalume Vibe
+https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Vagalume Funk
+https://stream.vagalume.fm/hls/1470154922349875/index.m3u8
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR] Vagalume Sertanejo Hits
+https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   BRASIL SBT RJ
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?ChannelsON
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   BRASIL SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?ChannelsON
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   BRASIL SBT Caruaru
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?ChannelsON
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   BRASIL SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8?ChannelsON
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   BRASIL SBT Imperatriz
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8?ChannelsON
+
+
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   BRASIL Aparecida
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?ChannelsON
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   BRASIL Web TV Minas
+http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8?ChannelsON
+
+
+
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   BRASIL CATVE
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?ChannelsON
+
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   BRASIL TV Novo Tempo
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w86202803_b2128000_slpor.m3u8?ChannelsON
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   BRASIL TV Verdade
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8?ChannelsON
+
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   BRASIL IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?ChannelsON?
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   BRASIL WEB TV Leao de Juda
+http://streaming63.sitehosting.com.br:1935/juda/juda/live.m3u8?ChannelsON
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   BRASIL TV Gideoes
+http://streaming02.zas.media:1935/gideoes/programacao/live.m3u8?ChannelsON
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   BRAZIL: RBC Salvador
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   BRAZIL:TV Diario do Sertao
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   BRAZIL:TV Faap
+http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
+
+
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   BRAZIL:TV Rio Preto
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   BRAZIL:TVE Rio Grande do Sul (Opt-1)
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   BRAZIL:Web TV Minas
+http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
+
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]  CANÇÃO NOVA [720p]
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]  CANÇÃO NOVA [720p]
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+
+
+
+
+
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]  SBT [720p]
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u8
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]  TV APARECIDA 2
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]  TV MCJ
+http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
+
+
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]  SBT PE Interior
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?
+
+
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]  TV Cultura GO
+http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8?
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]  Cine+
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]  SBT Piaui
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]  Novo Tempo (Brazil)
+http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
+
+
+
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]  TV Gidoes (Brazil)
+http://streaming02.zas.media:1935/gideoes/_definst_/mp4:programacao_360p/chunklist_w93290010.m3u8
+
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]  SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?CANAISGLAU
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] SBT
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w827923360_b216000_sleng.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] BLOOMBERG
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] TV APARECIDA
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] TV5 MONDE
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR]  CLASSIQUE TV
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR]  CINE GOSPEL
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR]  GOSPEL CARTOON
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] TV MACEIÓ [AL]
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] REDE RC [BA]
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR]  TV CARA DA BAHIA [BA]
+http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/chunklist_w1224721706.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR]  TV AMBIENTAL [ES]
+https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1091858751.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR]  TV DIÁRIO DO SERTÃO [PB]
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR]  TV ASSEMBLEIA [RN]
+https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w591050354.m3u8
+
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] TV FAAP [SP]
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
+
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   TV NATAL [RN]
+http://stmv6.conectastm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8?wowzasessionid=1108698460
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] REDE EVANGELIZAR
+http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] CAT TVE
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] TV CULTURA PA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   TV MOÇAMBIQUE
+http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_w831770220_b364000_slpor.m3u8
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w74613450_b216000_sleng.m3u8
+
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   Programação do Telecine Play
+http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1819838770.m3u8
+
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   SBT
+http://bitly.com:80/Sbt-hd
+
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   GOSPEL MOVIES TELEVISION
+http://stmv2.euroti.com.br:1935/gospelf/gospelf/live.m3u8
+
+
+
+
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   SBT HD 2
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
+
+
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   CINE SKY 2
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR]   CARTOON NETWORK- Canal FutucAndroiD
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR]   TiVu
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
+
+#EXTINF:-1,[COLOR cyan][B]KALLPLAY [/B][/COLOR]   KURIAKOS KIDS
+http://c2.manasat.com:1935/kkids/kkids3/TeamBlue.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] ITU TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+
+
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] TV ALMG
+http://streaming.almg.gov.br:80/live/tvalmg.m3u8
+
+
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] TV BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] TV CÂMARA JACAREÍ
+http://svideo.nipbr.com.br:1935/tvcamarajacarei/aovivo/live.m3u8
+
+
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] TV CAXIAS
+http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] TV CI
+http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] TV DESTAK
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?LISTADASGLAU
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] TV DIFUSORA SUL HD
+http://srv3.zoeweb.tv:1935/z438-live/stream/livestream.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] TV DIGITAL BIRIGUI
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] TV EVANGELIZAR
+http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] TV FÁTIMA PARATIBE
+http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8
+
+
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] TV GIDEÕES HD
+http://streaming02.zas.media:1935/gideoes/programacao/live.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] TV MCJ
+http://wse5.player.tv.br:1935/tvmcj/tvmcj/live.m3u8
+
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] TV MISSÃO
+http://wse7.player.tv.br:1935/tvmissao/tvmissao/live.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] TV MONTEIRO
+http://stmv1.euroti.com.br:1935/tvmonteiro/tvmonteiro/live.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] TV MUNDIAL
+http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
+
+
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] TV RIO PRETO
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] TV VIANNEY
+http://wse7.player.tv.br:1935/iolandomauriciodasilva800/iolandomauriciodasilva800/live.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] TV ZAINE
+https://593d7fe3c9b0d.streamlock.net/tvzaine/tvzaine/chunklist_w163222574.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] TVCOM MACEIÓ
+http://srv6.zoeweb.tv:1935/z883-live/stream/livestream.m3u8
+
+
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] WEB TV LEÃO DE JUDÁ
+http://streaming63.sitehosting.com.br:1935/juda/juda/live.m3u8
+
+
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] REDE RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] SBT - MA | IMPERATRIZ
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
+
+#EXTINF:-1,[B][COLOR cyan][B]KALLPLAY[/B][/COLOR] SBT - PE | CARUARÚ
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+
+
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR][B][COLOR yellow]  • [/B][/COLOR]  BR| Novo Tempo RS
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8
+
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR][B][COLOR yellow]  • [/B][/COLOR]  BR| CARIOCA SD
+http://wse01.logicahost.com.br:1935/cariocainterativo/cariocainterativo/chunklist_w779093766.m3u8
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR][B][COLOR yellow]  • [/B][/COLOR]  BR| Tv Capital 777
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w616283281.m3u8
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR][B][COLOR yellow]  • [/B][/COLOR]  BR| TV DIGITAL BIRIGUI HD
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+
+#EXTINF:-1,[B][COLOR cyan]KALLPLAY[/B][/COLOR][B][COLOR yellow]  • [/B][/COLOR]  BR| TV CATOLIC HD
+http://stmv2.euroti.com.br:1935/tvcatolic/tvcatolic/live.m3u8
+
+
+
+
+
+on 28.3
+
+
+==================================================

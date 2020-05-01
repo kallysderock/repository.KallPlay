@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kiapoTw.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][ESPECIAL] LIVE PREMIUM 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/57360
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ME5E8oo.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]VAI QUE COLA 24h
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/5770
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRuqcEz.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]UM MALUCO NO PEDACO 24h
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/5586
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPGUKjV.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]LA CASA DE PAPEL 24h
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/7470
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hv3Wl7B.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]LUCIFER 24h
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/7550
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f1HJyuR.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]O MENTALISTA 24h
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/14099
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yQ7MT1q.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]TODO MUNDO ODEIA O CHRIS 24h
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/16189
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yQ7MT1q.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24H] TODO MUNDO ODEIA O CHRIS 1ª TEMP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/54085
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yQ7MT1q.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]TODO MUNDO ODEIA O CHRIS 2ª TEMP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/54088
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yQ7MT1q.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]TODO MUNDO ODEIA O CHRIS 3ª TEMP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/54105
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yQ7MT1q.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]TODO MUNDO ODEIA O CHRIS 4ª TEMP 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/54106
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XzNyWx4.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]TOMA LA DA CA 24h
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/23507
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ml2nzXo.jpg" group-title="movies", [COLOR red][B]º[/B][/COLOR]IRMÃOS A OBRA 24h
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/22623
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fKZES2T.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]MASTER CHEF (1ª TEMP) 24h
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/16775
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XPy7QC3.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]MASTER CHEF JUNIOR 24h
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/23505
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v078MZM.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24H] DOCUMENTÁRIOS MEGACONSTRUÇÕES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/54340
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9n9AY3K.jpg" group-title="movies", [COLOR red][B]º[/B][/COLOR][24H] LADY NIGHT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/54415
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IV62v9C.jpg" group-title="movies", [COLOR red][B]º[/B][/COLOR][24H] PISCINAS INCRÍVEIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/55572
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RVuP6UI.jpg" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] DE FÉRIAS COM O EX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/56991
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YeEH3O5.gif" group-title="movies", [COLOR red][B]º[/B][/COLOR][24H] FLASH GORDON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/56871
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGx3gn6.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][ESPECIAL] LIVE TERROR 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/57195
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P1RKL05.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][COLEÇÃO] HARRY POTTER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/57347
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z9L2Ryh.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24H] CSI: MIAMI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/57403
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u9Wujr9.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24H] ICARLY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/57570
+#EXTINF:-1 tvg-logo="https://imgur.com/UW8wjes.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24H] A GRANDE FAMILIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/57583
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xS4EJpJ.jpg" group-title="movies", [COLOR red][B]º[/B][/COLOR][COLEÇÃO] VELOZES E FURIOSOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/57616
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6VVcDej.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][ESPECIAL] LIVE RELIGIOSOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/57686
+#EXTINF:-1 tvg-logo="https://imgur.com/wUGj9Br.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24H] BRASIL VISTO DE CIMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/57736
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42dUtFf.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] BRASIL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59153
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QoDAMHo.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]JASPION 24hs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/54111
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5C22ZcZ.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]JIRAYA 24hs 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/54112
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LxQZzMz.jpg" group-title="movies", [COLOR red][B]º[/B][/COLOR][24H] POLICIA 24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/58978
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VNURDxE.jpg" group-title="movies", [COLOR red][B]º[/B][/COLOR]LIVE FAMILIA 24h
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/16456
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yJKrQX7.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] DOIS HOMENS E MEIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/58995
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c5Ii4lG.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] HOMEM ARANHA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/58998
+#EXTINF:-1 tvg-logo="https://i.imgur.com/smIcV4l.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] HOMEM DE FERRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/58999
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgSczJW.jpg" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] HOMEMS DE PRETO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59000
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ap67fRn.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] INCRIVEL HULK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59001
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ekxI9dR.jpg" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] OS NORMAIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59100
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YtiUSO0.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] HARRY POTTER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59107
+#EXTINF:-1 tvg-logo="https://i.imgur.com/esleLx8.jpg" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] ARMACAO ILIMITADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59121
+#EXTINF:-1 tvg-logo="https://i.imgur.com/irLQLlK.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] MACGYVER 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59129
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8t7C4eX.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] POWER RANGERS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59135
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hNTSYJm.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] TV PIRATA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59136
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QdCm9UY.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] SMALLVILLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59138
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4gIxZ2X.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] SOBRENATURAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59139
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lybIxeV.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] SUPERMAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59140
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MyCxwuv.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] VINGADORES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59142
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tfEK0GR.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] X-MEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59143
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eeIeWZf.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] XENA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59144
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KWBcKoG.jpg" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] EU: A PATROA E AS CRIANCAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59145
+#EXTINF:-1 tvg-logo="https://i.imgur.com/snSk7m0.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] INCRIVEL HULK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59146
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VzEuCN8.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] FILMES LEGO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59160
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h2CDS4u.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] FILMES PIXAR 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59161
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YOtOPdv.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] GAME OF THRONES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59162
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LP3ol3q.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24H] O SÓCIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59168
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l21rcsa.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] PEGADINHAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59170
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TsHo7DL.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] ROCK BALBOA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59171

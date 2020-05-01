@@ -1,0 +1,48 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UM5O3Kn.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][SHOW] FERNANDO E SOROCABA: O CHAMADO DA FLORESTA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/55540
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aLfv0yi.jpg" group-title="movies", [COLOR red][B]º[/B][/COLOR][SHOW] WESLEY SAFADÃO: MAIS UMA VEZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/55541
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wtw3RLG.jpg" group-title="movies", [COLOR red][B]º[/B][/COLOR][SHOW] ZÉ NETO E CRISTIANO: ESQUECE O MUNDO LÁ FORA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/55542
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fHypCAU.jpg" group-title="movies", [COLOR red][B]º[/B][/COLOR][SHOW] FELIPE ARAÚJO: POR INTEIRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/55571
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9TrqcL5.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][SHOW] MARÍLIA MENDONÇA: TODOS OS CANTOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/55569
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vij922I.jpg" group-title="movies", [COLOR red][B]º[/B][/COLOR][SHOW] MATHEUS & KAUAN: TEM MODA PRA TUDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/55570
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HK01hPt.jpg" group-title="movies", [COLOR red][B]º[/B][/COLOR][SHOW] GUSTTAVO LIMA: O EMBAIXADOR 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/55688
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wTBkRkG.jpg" group-title="movies", [COLOR red][B]º[/B][/COLOR][SHOW] JORGE & MATEUS - TERRA SEM CEP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/55689
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s6gNc5J.jpg" group-title="movies", [COLOR red][B]º[/B][/COLOR][SHOW] LEONARDO E EDUARDO COSTA - CABARÉ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/57175
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tYTz1nI.jpg" group-title="movies", [COLOR red][B]º[/B][/COLOR][SHOW] LUAN SANTANA - VIVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/58075
+#EXTINF:-1 tvg-logo="https://imgur.com/WvGFhML.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][CLIPES] MELHORES DO SERTANEJO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/58125
+#EXTINF:-1 tvg-logo="https://imgur.com/a86bYaC.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][SHOW] MILIONARIO E MARCIANO - LENDAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/58126
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hR0plyF.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] MUSIC SERTANEJO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59167
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iTKs5YG.jpg" group-title="movies", [COLOR red][B]º[/B][/COLOR][SHOW] ROUPA NOVA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/56798
+#EXTINF:-1 tvg-logo="https://imgur.com/ccethD1.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][CLIPES] METALLICA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/57801
+#EXTINF:-1 tvg-logo="https://imgur.com/PZGE3SD.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][CLIPES] QUEEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/57784
+#EXTINF:-1 tvg-logo="https://imgur.com/cuGVn0J.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][CLIPES] IRON MAIDEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/57846
+#EXTINF:-1 tvg-logo="https://imgur.com/m1TxfHE.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][CLIPES] COLDPLAY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/58116
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Majb1I8.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] MUSIC ROCK N ROLL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59166
+#EXTINF:-1 tvg-logo="https://imgur.com/bpY6Yiy.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][SHOW] PONTO DE EQUILIBRIO - REPUBLICA DO REGGAE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/58124
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eQJPebl.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][CLIPES] MELHORES DO HIP HOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/57176
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dVs92Sb.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] MUSIC FUNK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59165
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UW97OkS.png" group-title="movies", [COLOR red][B]º[/B][/COLOR][24h] LUCCAS NETO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59164

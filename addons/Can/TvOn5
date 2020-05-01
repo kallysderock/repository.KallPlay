@@ -1,0 +1,1288 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-ID="" tvg-name="-----Tv-On-----" tvg-logo="https://github.com/kallysderock/KallPlay/raw/master/imgs/KallPlaytv.png" group-title="Tv-On 4",[B][COLOR cyan]ooooo [B][COLOR orange]===== Tv-On 4=====[/B][/COLOR]
+
+###########15.04.2020##########################
+
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24- Pegadinha Silvio Santos
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758585
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24- To de Graça
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758579
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24-Boom Pegadinhas
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/74117
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24-Chaves
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758580
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24-Mayday! Desastres Aéreos
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758584
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24-Pegadinha João Kleber
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/74122
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24-Pesadelo na Cozinha 1
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758573
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24-Pesadelo na Cozinha 2
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758574
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24-Pesadelo na Cozinha 3
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758575
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24-Pesadelo na Cozinha 5
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758577
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24-Pesadelo na Cozinha 6
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758578
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24-Pronto Socorro Historia de Emergencia
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758582
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24-Teste de Fidelidade
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/74127
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24-Trapalões
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758581
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24-Trato Feito
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/74139
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24-Vai que Cola
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/26590
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24-Video Cassetadas Faustão
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758583
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - EU A PATROA E AS CRIANÇAS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/26588
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] A&E FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758351
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] A&E HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758350
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] A&E SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758349
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ANIMAL PLANET FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758307
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758308
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ANIMAL PLANET SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758309
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ARTE 1 FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758090
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ARTE 1 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758089
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ARTE 1 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758088
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] AXN FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758093
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] AXN HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758092
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] AXN SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758091
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BABY FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758036
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BABY HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758035
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BABY TV SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758034
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BAND FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758324
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BAND HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758323
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BAND NEWS FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758075
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BAND NEWS HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758074
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BAND NEWS SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758073
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BAND SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758322
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BAND SPORTS FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758261
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BAND SPORTS HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758260
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BAND SPORTS SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758259
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 1 *
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757811
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 1 HD*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757812
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 10 HD*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757827
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 10*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757828
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 2 HD*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757814
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 2*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757813
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 3 HD*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757816
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 3*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757815
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 4 HD*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757818
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 4*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757817
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 5 HD*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757820
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 5*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757819
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 6 HD*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757822
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 6*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757821
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 7 HD*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757824
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 7*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757823
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 8 HD*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757826
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 8*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757825
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 9 HD*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757830
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 9*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757829
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB2020 FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757832
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB2020 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757831
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BIS FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758354
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BIS HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758353
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BIS SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758352
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BOOMERANG FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758015
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BOOMERANG HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758014
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BOOMERANG SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758013
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CAMPEONATO CATARINENSE (JOGO 1)
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758411
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CAMPEONATO CATARINENSE (JOGO2)
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758413
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CAMPEONATO CATARINENSE (JOGO3)
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758415
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CAMPEONATO CATARINENSE (JOGO4)
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758416
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CANAL BRASIL FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758327
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758326
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CANAL BRASIL SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758325
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CANAL DO BOI SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758328
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CANÇÃO NOVA SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/74024
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CARTOON NETWORK FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758039
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758038
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CARTOON NETWORK SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758037
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CHEF TV FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758403
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CHEF TV HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758402
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CHEF TV SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758401
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CINEMAX FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758096
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CINEMAX HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758095
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CINEMAX SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758094
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CNN ESPANHOL FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758078
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CNN ESPANHOL HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758077
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CNN ESPANHOL SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758076
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CNN INTERNACIONAL FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758081
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CNN INTERNACIONAL HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758080
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CNN INTERNACIONAL SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758079
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] COMBATE FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758225
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] COMBATE HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758224
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] COMBATE SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758223
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] COMEDY CENTRAL FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758357
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758356
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] COMEDY CENTRAL SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758355
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] COPA CATARINENSE *
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758263
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] COPA CATARINENSE 2 *
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758264
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] COPA CATARINENSE 2 HD *
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758265
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] COPA CATARINENSE HD *
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758266
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] COPA DO NORDESTE *
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758267
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] COPA DO NORDESTE 2 *
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758268
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] COPA DO NORDESTE 2 HD *
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758269
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] COPA DO NORDESTE 2020 (JOGO 2)
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758412
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] COPA DO NORDESTE 2020 (JOGO 3)
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758414
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] COPA DO NORDESTE 2020 (JOGO 4)
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758417
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] COPA DO NORDESTE 2020 (JOGO1)
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758410
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] COPA DO NORDESTE HD *
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758270
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CURTA! FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758360
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CURTA! HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758359
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CURTA! SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758358
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DAZN  funcionamento horário de jogo
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758271
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DAZN FULLHD funcionamento horário de jogos
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758272
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISCOVERY CHANNEL FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758285
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758284
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISCOVERY CHANNEL SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758283
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISCOVERY HOME & HEALTH FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758288
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISCOVERY HOME & HEALTH HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758287
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISCOVERY HOME & HEALTH SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758286
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISCOVERY ID FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758291
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISCOVERY ID HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758290
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISCOVERY ID SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758289
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISCOVERY KIDS FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758018
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758017
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISCOVERY KIDS SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758016
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISCOVERY SCIENCE FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758294
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758293
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISCOVERY SCIENCE SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758292
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISCOVERY THEATHER FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758297
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISCOVERY THEATHER HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758296
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISCOVERY THEATHER SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758295
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISCOVERY TURBO FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758300
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758299
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISCOVERY TURBO SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758298
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISCOVERY WORLD FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758303
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758302
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISCOVERY WORLD SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758301
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISNEY CHANNEL FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758021
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758020
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISNEY CHANNEL SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758019
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISNEY JR FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758024
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISNEY JR HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758023
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISNEY JR SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758022
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISNEY XD FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758027
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISNEY XD HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758026
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISNEY XD SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758025
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] E! FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758363
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] E! HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758362
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] E! SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758361
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] EIPLUS 2 *
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758273
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] EIPLUS 2 HD *
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758274
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] EIPLUS 3 *
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758275
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] EIPLUS 3 HD *
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758276
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] EIPLUS 4 *
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758277
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] EIPLUS 4 HD *
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758278
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] EIPLUS 5 *
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758279
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] EIPLUS 5 HD *
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758280
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] EIPLUS 6 *
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758281
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] EIPLUS 6 HD *
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758282
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ESPN 2 FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758228
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758227
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ESPN 2 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758226
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ESPN BRASIL FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758231
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758230
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ESPN BRASIL SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758229
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758233
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ESPN EXTRA SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758232
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ESPN FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758236
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ESPN HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758235
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ESPN SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758234
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ESPORTE INTERATIVO *
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758237
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ESPORTE INTERATIVO *
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758238
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ESPORTE INTERATIVO HD *
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758239
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ESPORTE INTERATIVO HD *
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758240
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FISH TV FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758243
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FISH TV HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758242
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FISH TV SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758241
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOOD NETWORK FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758366
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758365
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOOD NETWORK SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758364
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758129
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758128
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX LIFE FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758369
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758368
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX LIFE SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758367
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX NEWS FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758082
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX NEWS HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758083
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX NEWS SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758084
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX PREMIUM 1 FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758132
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX PREMIUM 1 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758131
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX PREMIUM 1 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758130
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX PREMIUM 2 FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758135
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX PREMIUM 2 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758134
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX PREMIUM 2 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758133
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758127
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX SPORT HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758245
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX SPORTS 2 FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758249
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758248
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX SPORTS 2 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758247
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX SPORTS FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758246
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX SPORTS SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758244
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FX FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758138
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FX HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758137
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FX SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758136
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO BRASILIA HD#
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757934
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO BRASILIA SD#
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757933
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO CENTRO AMERICA FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757937
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO CENTRO AMERICA HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757936
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO EPTV CAMPINAS FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757940
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757939
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO EPTV CAMPINAS SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757938
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO EPTV CAMPINAS SD#
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757941
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO EPTV RIBEIRÃO PRETO SD#
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757942
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO EPTV SUL DE MINAS FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757944
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO EPTV SUL DE MINAS HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757943
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO INTER TV CABUGI SD#
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757945
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO INTER TV GRANDE MINAS FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757947
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO INTER TV GRANDE MINAS HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757946
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO MINAS FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757950
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO MINAS HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757949
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO MINAS SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757948
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO NEWS FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758072
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758071
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO NEWS SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758070
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO NORDESTE FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757954
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO NORDESTE HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757951
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO NORDESTE HD#
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757953
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO NORDESTE SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757955
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO NORDESTE SD#
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757952
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO NSC FLORIANOPOLIS FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757958
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO NSC FLORIANOPOLIS HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757957
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO NSC FLORIANOPOLIS SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757956
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO RBS PORTO ALEGRE SD#
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757960
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO RBS TV POA FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757963
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO RBS TV POA HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757962
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO RBS TV POA SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757961
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO REDE AMAZÔNICA MANAUS SD#
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757964
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO RIO HD#
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757965
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO RJ FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757966
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO RPC PARANAENSE FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757969
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO RPC PARANAENSE HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757968
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO RPC PARANAENSE SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757967
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO RPC TV CURITIBA SD#
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757970
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO SP FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757976
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO SP HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757971
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO SP HD#
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757975
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO SP SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757972
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO SP SD#2
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757973
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO SP SD#3
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757974
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO TV ANHANGUERA  SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757977
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO TV ANHANGUERA GOIÂNIA SD#
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757978
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO TV BAHIA FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757981
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO TV BAHIA HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757980
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO TV BAHIA SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757979
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO TV BAHIA SD#
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757982
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO TV BELEM FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757985
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO TV BELEM HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757984
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO TV BELEM SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757983
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO TV BRASILIA FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757935
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO TV LIBERAL BELEM SD#
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757986
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO TV MIRANTE FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757989
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO TV MIRANTE HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757988
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO TV MIRANTE SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757987
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO TV MORENA FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757992
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO TV MORENA HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757991
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO TV MORENA SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757990
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO TV TEM BAURU SD#
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757993
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO TV TEM SOROCABA SD#
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757994
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO TV TRIBUNA SANTOS SD#
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757995
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS SD#
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757996
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO TV VERDES MARES FORTALEZA SD#
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757997
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO TV VERDES MARES FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758000
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO TV VERDES MARES HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757999
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO TV VERDES MARES SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757998
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBOTV ANHANGUERA FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758003
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBOTV ANHANGUERA HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758001
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOOB FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758030
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOOB HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758029
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOOB SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758028
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOOBINHO FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758033
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOOBINHO HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758032
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOOBINHO SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758031
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GNT FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758372
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GNT HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758371
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GNT SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758370
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] H2 FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758319
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] H2 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758320
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] H2 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758321
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO 2 FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758060
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO 2 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758059
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO 2 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758058
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO FAMILY FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758063
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO FAMILY HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758062
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO FAMILY SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758061
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758057
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758056
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO PLUS FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758066
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO PLUS HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758065
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO PLUS SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758064
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758055
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO SIGNATURE FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758069
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758068
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO SIGNATURE SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758067
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HGTV FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758406
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HGTV HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758405
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HGTV SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758404
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] INTER TV DOS VALES FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758002
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] LIFETIME FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758397
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] LIFETIME HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758396
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] LIFETIME SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758395
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MAIS GLOBOSAT FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758400
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MAIS GLOBOSAT HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758399
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MAIS GLOBOSAT SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758398
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO MUNDI FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758147
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO MUNDI HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758146
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO EXTREME FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758150
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO EXTREME HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758149
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO EXTREME SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758148
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO MUNDI SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758145
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO POP FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758141
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO POP HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758140
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] HBO POP SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758139
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MEGAPIX FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758144
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MEGAPIX HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758143
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MEGAPIX SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758142
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MTV FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758375
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MTV HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758374
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MTV SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758373
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MULTISHOW FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758378
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MULTISHOW HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758377
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MULTISHOW SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758376
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MUSIC BOX BRASIL FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758381
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MUSIC BOX BRASIL HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758380
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MUSIC BOX BRASIL SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758379
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NATGEO FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758310
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NATGEO HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758311
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NATGEO KIDS FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758042
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NATGEO KIDS HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758041
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NATGEO KIDS SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758040
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NATGEO SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758312
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NATGEO WILD FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758313
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NATGEO WILD HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758314
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NATGEO WILD SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758315
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NICK FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758045
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NICK HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758044
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NICK JR FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758048
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NICK JR HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758047
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NICK JR SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758046
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NICK SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758043
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NSC TV BLUMENAU FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757959
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] OFF FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758384
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] OFF HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758383
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] OFF SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758382
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PARAMOUNT CHANNEL FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758153
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PARAMOUNT CHANNEL HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758152
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PARAMOUNT SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758151
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PLAY TV FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758387
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PLAY TV HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758386
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PLAY TV SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758385
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PR.CHAVES
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/27320
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE 2 FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757898
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757897
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE 2 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757896
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE 3 FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757901
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757900
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE 3 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757899
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE 4 FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757904
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757903
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE 4 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757902
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE 5 FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757907
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757906
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE 5 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757905
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE 6 FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757910
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757909
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE 6 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757908
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE 7 FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757913
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757912
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE 7 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757911
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE CLUBES FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757895
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757894
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE CLUBES SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757893
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PRIME BOX BRASIL FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758156
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PRIME BOX BRASIL HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758155
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PRIME BOX BRASIL SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758154
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] REAL MADRID SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758262
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RECORD  FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758331
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RECORD  HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758329
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RECORD BAHIA HD*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758332
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RECORD BELEM*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758333
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RECORD BRASILIA HD*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758334
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RECORD GOIAS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758335
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RECORD HD*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758330
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RECORD MINAS HD*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758337
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RECORD MINAS*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758336
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RECORD NEWS FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758087
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RECORD NEWS HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758086
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RECORD NEWS SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758085
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RECORD RJ HD*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758338
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RECORD RS HD*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758339
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RECORD RS*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758340
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RECORD*
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758341
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] REDE SUPER FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758342
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] REDE TV FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758345
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] REDE TV HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758344
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] REDE TV SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758343
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RIT SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/751806
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SBT FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758348
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SBT HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758347
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SBT SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758346
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SHOPTIME FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758394
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SONY FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758099
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SONY HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758098
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SONY SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758097
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SPACE FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758102
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SPACE HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758101
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SPACE SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758100
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SPORTV 2 FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758250
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SPORTV 2 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758252
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SPORTV 2 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758251
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SPORTV 3 FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758255
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SPORTV 3 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758254
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SPORTV 3 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758253
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SPORTV FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758258
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SPORTV HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758257
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SPORTV SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758256
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] STUDIO UNIVERSAL FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758105
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758104
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] STUDIO UNIVERSAL SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758103
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SYFY FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758108
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SYFY HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758107
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SYFY SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758106
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TBS FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758111
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TBS HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758110
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TBS SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758109
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TC ACTION FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757916
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TC ACTION HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757915
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TC ACTION SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757914
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TC CULT FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757919
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TC CULT HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757918
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TC CULT SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757917
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TC FUN FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757922
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TC FUN HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757921
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TC FUN SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757920
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TC PIPOCA FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757925
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TC PIPOCA HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757924
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TC PIPOCA SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757923
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TC PREMIUM FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757928
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TC PREMIUM HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757927
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TC PREMIUM SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757926
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TC TOUCH FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757931
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TC TOUCH HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757930
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TC TOUCH SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/757929
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TCM FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758114
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TCM HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758113
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TCM SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758112
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] THE HISTORY FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758316
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] THE HISTORY HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758317
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] THE HISTORY SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758318
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TLC FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758306
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TLC HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758305
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TLC SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758304
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TNT FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758117
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TNT HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758116
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TNT SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758115
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TNT SERIES FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758120
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TNT SERIES HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758119
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TNT SERIES SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758118
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TOONCAST FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758051
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TOONCAST HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758050
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TOONCAST SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758049
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TRU TV FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758409
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TRU TV HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758408
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TRU TV SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758407
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV APARECIDA SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/26794
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV NOVO TEMPO
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/748896
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV RA TIM BUM FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758054
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV RA TIM BUM HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758053
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TV RA TIM BUM SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758052
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] UNIVERSAL CHANNEL FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758123
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758122
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] UNIVERSAL CHANNEL SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758121
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] VH1 MEGA HITS FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758390
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] VH1 MEGA HITS HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758389
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] VH1 MEGA HITS SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758388
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] VIVA FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758393
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] VIVA HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758392
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] VIVA SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758391
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] WARNER CHANNEL FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758126
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758125
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] WARNER CHANNEL SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758124
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] XX: PLAYBOY FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758006
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] XX: PLAYBOY HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758005
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] XX: PLAYBOY TV SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758004
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] XX: SEX PRIVE FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758009
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] XX: SEX PRIVE HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758008
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] XX: SEX PRIVE SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758007
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] XX: SEXY HOT FULLHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758012
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] XX: SEXY HOT HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758011
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] XX: SEXY HOT SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758010
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] REDE BRASIL
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758759
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] AMC 
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/758420
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Dazn alternativo
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/760191
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] Gazeta Sp HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/761327
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] LIBERTADORES  - Funciona Apenas em dias de Jogos
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/768745
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ANIMAL PLANET 4K
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772877
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BAND 4K
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772878
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CARTOON NETWORK 4K
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772879
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] COMBATE 4K
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772880
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] DISCOVERY CHANNEL 4K
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772881
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] ESPN 4K
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772882
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX SPORTS 2 4K
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772883
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] FOX SPORTS 4K
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772884
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GAZETA 4K
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772885
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] GLOBO 4K
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772886
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MEGAPIX 4K
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772887
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] MULTISHOW 4K
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772888
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] NAT GEO 4K
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772889
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] PREMIERE CLUBES 4K
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772890
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] RECORD 4K
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772891
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] REDE TV 4K
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772892
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SBT 4K
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772893
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SPACE 4K
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772894
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] SPORTV 4K
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772895
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TELECINE PREMIUM 4K
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772896
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TNT 4K
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772897
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] TNT SERIES 4K
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772898
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] CNN Brasil HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772909
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - He Man
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772911
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - Cebolinha e Casc
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772912
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - Homem Aranha
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772913
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - Batman A Saga Completa
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772914
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - Turma da Monica
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772915
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - Moranguinho Especial
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772916
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - Luluzinha
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772917
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - Manda Chuva
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772918
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - OS FLINSTONES
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772919
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Wally Gator
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772920
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Zatch Bell
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772921
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Z
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772922
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - As Tartarugas Ninjas
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772923
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Asterix e Obelix
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772924
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Billy e Mandy
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772925
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Cavalo de Fogo
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772926
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - DC Super Hero Girls
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772927
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Dennis o Pimentinha
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772928
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Don Quixote
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772929
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Familia Urso
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772930
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Homem Aranha
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772931
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Jambo e Ruivao
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772932
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Mr Magoo
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772933
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Os Tres Porquinhos
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772934
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Os Vingadores
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772935
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - O Show da Luna
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772936
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Street Fighter
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772937
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Turma da Monica
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772938
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Patati Patata
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772939
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Speed Racer A Nova Geracao
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772940
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Super Mario Bross 3
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772941
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Tim
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772942
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Tutubar
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772943
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Ultramen
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772944
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Coragem o  C
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772945
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - 3 Palavinhas
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772946
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Corrida Maluca
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772947
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Gasparzinho
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772948
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Bob Esponja
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772949
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - A Pequena Sereia
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772950
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Jonny Quest
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772951
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Caverna do Drag
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772952
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Marinheiro Popeye
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772953
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Show do Looney Tones
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772954
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Sitio do PicaPau Amarelo
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772955
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - A Nossa Turma
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772956
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Charlie e Lola
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772957
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Space Ghost
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772958
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Os Padrinhos Magicos
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772959
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Pepa Pig
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772960
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - CAVERNA DO DRAGAO
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772961
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - FAISCA E FUMACA
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772962
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - FESTIVAL DE DESENHOS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772963
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - IRMAO DO JOREL
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772964
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - PATATIPATATA
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772965
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - POCOYO
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772966
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - SHAZAM
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772967
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - SUPER DRAGON BALL HEROES
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772968
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - DRAGON BALL SUPER
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772969
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - DRAGON BALL Z
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772970
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - DRAGON BALL KAI
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772971
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - DRAGON BALL GT
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772972
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - Andy Panda
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772973
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - A Turma do Pateta
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772974
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - CARMEM SANDIEGO
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772975
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - DE VOLTA PARA O FUTURO
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772976
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - GARFIELD E SEUS AMIGOS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772977
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - GATO FELIX
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772978
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - KND A TURMA DO BAIRRO
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772979
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - Ligeirinho
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772980
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - Maguila o Gorila
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772981
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - Meu Amigo Da Escola 
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772982
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - MIB Homens de Preto
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772983
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - Mr Bean
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772984
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - Tom & Jerry
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772985
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - O Pequeno Scooby Doo
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772986
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - O Que ha de Novo Scooby Doo
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772987
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - Pinky E C
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772988
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - O Xod
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772989
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - Riquinho
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772990
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - Os Jetsons
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772991
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - Taz Mania
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772992
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - O M
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772993
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - Pernalonga e sua Turma
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772994
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - Os Sete Monstrinhos
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772995
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - Eu Sou o Maximo
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772996
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - Mosquito Mosquete e Moscardo
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772997
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - Thomas e Seus Amigos
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772998
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - O Show Do Z
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/772999
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - Recruta Zero
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/773000
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - BIBO PAI E BOB FILHO
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/773001
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - COELHO RICOCHETE E BLAU BLAU
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/773002
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - ESQUILO SEM GRILO
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/773003
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - GALINHA PINTADINHA
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/773004
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - GASPARZINHO O FANTASMA ESPACIAL
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/773005
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - MUNDO BITA
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/773006
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - OS MELHORES DA HANNA-BARBERA
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/773007
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - ROAD RUNNER AND WILE E COYOTE
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/773008
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - TARTARUGA TOUCHE E DUM DUM
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/773009
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - O VALE DOS DINOSSAUROS
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/773010
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - Aladdin
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/773011
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - A PANTERA COR DE ROSA
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/773012
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - DORA A AVENTUREIRA
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/773013
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24 Horas - DuckTales Os Ca
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/773014
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Mutante Rex
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/773015
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - O Show Do Novo Pica Pau
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/773016
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Os Jovens Titas
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/773017
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Tarzan O Rei da Selva
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/773018
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - Ursinhos Carinhosos
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/773019
+#EXTINF:-1,[B][COLOR orange][B]KALLPLAY[/B][/COLOR] 24H - X-MEN EVOLUTION
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/victoria/victoria/773020

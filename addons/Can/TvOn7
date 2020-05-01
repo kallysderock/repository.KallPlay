@@ -1,0 +1,650 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="-----PORTUGAL-----" tvg-logo="https://github.com/kallysderock/KallPlay/raw/master/imgs/KallPlaytv.jpg" group-title="Tv-On",-----Tv-On 6-----
+««««««««««««««««««««««««««««««««««««
+[Foto]
+#EXTINF:-1 tvg-id="" tvg-name=" Meninas super poderosas" tvg-logo="https://3.bp.blogspot.com/-86sGS6zAnOY/WgMr3QyaU3I/AAAAAAAAL9w/-ygP6QZCJLQQwoPMT8_k58Nom8w426MGQCLcBGAs/s320/meninas_super_poderosas_1.png" group-title="CANAIS 24 HORAS ", Meninas super poderosas
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10241
+#EXTINF:-1 tvg-id="" tvg-name="101 Dalmatas" tvg-logo="https://1.bp.blogspot.com/-tv6kGEkgBG8/V65X4dHy9fI/AAAAAAABC0g/mMZUILXgZTQFcii-G30YhA660zjPH-NTgCLcB/s1600/101%2BDalmatas%2B%25281%2529.png" group-title="CANAIS 24 HORAS ",101 Dalmatas
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/8126
+#EXTINF:-1 tvg-id="" tvg-name="3 espíam" tvg-logo="https://4.bp.blogspot.com/-6H9AZKksFSg/Xm_DuvqY2GI/AAAAAAAACX4/djIYYKFPTswafGIGKoSuiJkFpE0DAix5QCK4BGAYYCw/s320/tr%25C3%25AAs%2Bespi%25C3%25A3s%2Bdemais.png" group-title="CANAIS 24 HORAS ",3 espíam
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7645
+#EXTINF:-1 tvg-id="" tvg-name="A Formiga Atômica" tvg-logo="https://3.bp.blogspot.com/-RtSBXI4eoJg/WNG-qJi5_hI/AAAAAAABX4w/Bh1yL08KqcMGUq6wA9_qCKWjoLc537EGACLcB/s1600/tumblr_nwduc0W1YW1uircpzo1_540.png" group-title="CANAIS 24 HORAS ",A Formiga Atômica
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/11268
+#EXTINF:-1 tvg-id="" tvg-name="a pequena sereia" tvg-logo="https://i.pinimg.com/originals/74/ab/7d/74ab7d2f7a79ae2a269312285627ec52.png" group-title="CANAIS 24 HORAS ",a pequena sereia
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10233
+#EXTINF:-1 tvg-id="" tvg-name="a praça e nossa" tvg-logo="https://4.bp.blogspot.com/-bvLEXha4udE/Xn9UFNfOfcI/AAAAAAAACdE/5B_mUxpDIdAnhZV_LO0W6V_U8ukFGe7tACK4BGAYYCw/s320/jqbgv36a.png" group-title="CANAIS 24 HORAS ",a praça e nossa
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/16749
+#EXTINF:-1 tvg-id="" tvg-name="A Vila" tvg-logo="https://2.bp.blogspot.com/-pKekYLK4VFI/Xk2eYHwG2LI/AAAAAAAACC0/eqhADrfIMUole3dxzCxqy0VjSXPUdnF7gCK4BGAYYCw/s320/A%2BVila.png" group-title="CANAIS 24 HORAS ",A Vila
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/8633
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E FHD" tvg-logo="https://1.bp.blogspot.com/-KVAJJtXKXUE/XmQOw0jLTMI/AAAAAAAACRo/GORUzAEatRU7S0MPBE7yXcIRsXTYmwN0QCK4BGAYYCw/s400/A%2526E.png" group-title="FILMES E SERIES",A&E FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/789
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="https://1.bp.blogspot.com/-KVAJJtXKXUE/XmQOw0jLTMI/AAAAAAAACRo/GORUzAEatRU7S0MPBE7yXcIRsXTYmwN0QCK4BGAYYCw/s400/A%2526E.png" group-title="FILMES E SERIES",A&E HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/787
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD H.265" tvg-logo="https://1.bp.blogspot.com/-KVAJJtXKXUE/XmQOw0jLTMI/AAAAAAAACRo/GORUzAEatRU7S0MPBE7yXcIRsXTYmwN0QCK4BGAYYCw/s400/A%2526E.png" group-title="CANAIS H265",A&E HD H.265
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/13120
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD H.265" tvg-logo="https://1.bp.blogspot.com/-KVAJJtXKXUE/XmQOw0jLTMI/AAAAAAAACRo/GORUzAEatRU7S0MPBE7yXcIRsXTYmwN0QCK4BGAYYCw/s400/A%2526E.png" group-title="CANAIS H265",A&E HD H.265
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/13104
+#EXTINF:-1 tvg-id="" tvg-name="adventure time" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/the-adventure-time-png-7.png" group-title="CANAIS 24 HORAS ",adventure time
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10884
+#EXTINF:-1 tvg-id="" tvg-name="Aladdin" tvg-logo="https://i.pinimg.com/originals/1b/10/6b/1b106b13132032defee9af11502067d0.png" group-title="CANAIS 24 HORAS ",Aladdin
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/8683
+#EXTINF:-1 tvg-id="" tvg-name="aline barro" tvg-logo="https://3.bp.blogspot.com/-wKGrMW3Jknc/Xn9UDUcMGVI/AAAAAAAACc8/FNS4MOWm7GQy0bZssSTJKI6uFF6iKAwlQCK4BGAYYCw/s400/b7c1xva5.png" group-title="CANAIS 24 HORAS ",aline barro
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/16942
+#EXTINF:-1 tvg-id="" tvg-name="AMC FHD" tvg-logo="https://4.bp.blogspot.com/-BmCyUz8X3A0/XmQWD7ze5gI/AAAAAAAACSA/_d2wlKKsAHYzfU44Qc98JkHlJtpB724-gCK4BGAYYCw/s400/AMC.png" group-title="FILMES E SERIES",AMC FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/788
+#EXTINF:-1 tvg-id="" tvg-name="AMC FHD  H.265" tvg-logo="https://4.bp.blogspot.com/-BmCyUz8X3A0/XmQWD7ze5gI/AAAAAAAACSA/_d2wlKKsAHYzfU44Qc98JkHlJtpB724-gCK4BGAYYCw/s400/AMC.png" group-title="CANAIS H265",AMC FHD  H.265
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/13114
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://4.bp.blogspot.com/-BmCyUz8X3A0/XmQWD7ze5gI/AAAAAAAACSA/_d2wlKKsAHYzfU44Qc98JkHlJtpB724-gCK4BGAYYCw/s400/AMC.png" group-title="FILMES E SERIES",AMC HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/786
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://1.bp.blogspot.com/-Umzjn4GxBm4/Xk70MrYC09I/AAAAAAAACDU/9GwM2dyQ3dMYVEkiWwaLXOq86emiSUPVACLcBGAsYHQ/s1600/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1010
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET HD" tvg-logo="https://1.bp.blogspot.com/-Umzjn4GxBm4/Xk70MrYC09I/AAAAAAAACDU/9GwM2dyQ3dMYVEkiWwaLXOq86emiSUPVACLcBGAsYHQ/s1600/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1011
+#EXTINF:-1 tvg-id="" tvg-name="Apenas Um Show" tvg-logo="https://3.bp.blogspot.com/-7wX2bnjz044/XnKvYi2kAyI/AAAAAAAACZI/qbMXsvUmkPY_f3UAJNlgnJuez6jrP5XlACK4BGAYYCw/s1600/uocwnwcm.png" group-title="CANAIS 24 HORAS ",Apenas Um Show
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/14754
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras De Jackie Chan" tvg-logo="https://1.bp.blogspot.com/-FjUfeo-qS04/Xl1fOjDLswI/AAAAAAAACLQ/nlHC27lZI-0Su7nMtwtnBp6S3HHK4jQzwCK4BGAYYCw/s320/ytrnkhka.png" group-title="CANAIS 24 HORAS ",As Aventuras De Jackie Chan
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10243
+#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninja" tvg-logo="https://1.bp.blogspot.com/-_oiaf3o9YZs/XnZMKRFHa6I/AAAAAAAACbE/KnOK2QGeU0Ei9YXyv3r1FCo4WvR7TZ6rwCK4BGAYYCw/s320/c2nax3jg.png" group-title="CANAIS 24 HORAS ",As Tartarugas Ninja
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/16037
+#EXTINF:-1 tvg-id="" tvg-name="ASSEMBLEIA" tvg-logo="" group-title="RELIGIOSOS ",ASSEMBLEIA
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7820
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="https://2.bp.blogspot.com/-nBtQ5UkiBI4/XmQcIAhLVYI/AAAAAAAACSk/posGzR9eqD4zllrPY3vGIk6wsFYBJtlRQCK4BGAYYCw/s400/AXN.png" group-title="FILMES E SERIES",AXN FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/790
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="https://2.bp.blogspot.com/-nBtQ5UkiBI4/XmQcIAhLVYI/AAAAAAAACSk/posGzR9eqD4zllrPY3vGIk6wsFYBJtlRQCK4BGAYYCw/s400/AXN.png" group-title="FILMES E SERIES",AXN HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/791
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV²" tvg-logo="http://mytv.tv.br/canais/babytv.png" group-title="INFANTIL",BABY TV²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7821
+#EXTINF:-1 tvg-id="" tvg-name="BabyLooneyTunes" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/baby-looney-tunes-png-2.png" group-title="CANAIS 24 HORAS ",BabyLooneyTunes
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10103
+#EXTINF:-1 tvg-id="" tvg-name="BAND 4K" tvg-logo="https://1.bp.blogspot.com/-7wD5BCJxD9Y/Xk70MQFgPEI/AAAAAAAACDQ/BpR4PcQ1ou48cOLmC77yc1mz9xkZ0zssgCLcBGAsYHQ/s1600/band_2.png" group-title="CANAIS 4K",BAND 4K
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/12411
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="https://1.bp.blogspot.com/-gKeB31JX8Xo/Xk70NkypJQI/AAAAAAAACDY/WvdRe4gJKEUygQHJTlYRheW18D3S3WGDwCLcBGAsYHQ/s1600/bandnews.png" group-title="NOTICIAS ",BAND NEWS
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7917
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS FHD" tvg-logo="https://1.bp.blogspot.com/-gKeB31JX8Xo/Xk70NkypJQI/AAAAAAAACDY/WvdRe4gJKEUygQHJTlYRheW18D3S3WGDwCLcBGAsYHQ/s1600/bandnews.png" group-title="NOTICIAS ",BAND NEWS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/955
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD" tvg-logo="https://1.bp.blogspot.com/-gKeB31JX8Xo/Xk70NkypJQI/AAAAAAAACDY/WvdRe4gJKEUygQHJTlYRheW18D3S3WGDwCLcBGAsYHQ/s1600/bandnews.png" group-title="NOTICIAS ",BAND NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/956
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS²" tvg-logo="https://1.bp.blogspot.com/-gKeB31JX8Xo/Xk70NkypJQI/AAAAAAAACDY/WvdRe4gJKEUygQHJTlYRheW18D3S3WGDwCLcBGAsYHQ/s1600/bandnews.png" group-title="NOTICIAS ",BAND NEWS²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7818
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS²" tvg-logo="http://mytv.tv.br/canais/bandnews.png" group-title="NOTICIAS ",BAND NEWS²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7822
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND RECIFE FHD" tvg-logo="https://1.bp.blogspot.com/-7wD5BCJxD9Y/Xk70MQFgPEI/AAAAAAAACDQ/BpR4PcQ1ou48cOLmC77yc1mz9xkZ0zssgCLcBGAsYHQ/s1600/band_2.png" group-title="ABERTOS",BAND RECIFE FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7918
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND RECIFE²" tvg-logo="https://1.bp.blogspot.com/-7wD5BCJxD9Y/Xk70MQFgPEI/AAAAAAAACDQ/BpR4PcQ1ou48cOLmC77yc1mz9xkZ0zssgCLcBGAsYHQ/s1600/band_2.png" group-title="ABERTOS",BAND RECIFE²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7823
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND SP FHD" tvg-logo="https://1.bp.blogspot.com/-7wD5BCJxD9Y/Xk70MQFgPEI/AAAAAAAACDQ/BpR4PcQ1ou48cOLmC77yc1mz9xkZ0zssgCLcBGAsYHQ/s1600/band_2.png" group-title="ABERTOS",BAND SP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/954
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND SP HD" tvg-logo="https://1.bp.blogspot.com/-7wD5BCJxD9Y/Xk70MQFgPEI/AAAAAAAACDQ/BpR4PcQ1ou48cOLmC77yc1mz9xkZ0zssgCLcBGAsYHQ/s1600/band_2.png" group-title="ABERTOS",BAND SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1040
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS HD" tvg-logo="https://1.bp.blogspot.com/-w_-8bx1hzcI/XmUJ5N5F7VI/AAAAAAAACVA/xJhpJpOiCMEJfcx7tucUtNqdLs53IFp-QCK4BGAYYCw/s400/BAND%2BSPORT.png" group-title="SPORT",BAND SPORTS HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1041
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS HD" tvg-logo="https://1.bp.blogspot.com/-w_-8bx1hzcI/XmUJ5N5F7VI/AAAAAAAACVA/xJhpJpOiCMEJfcx7tucUtNqdLs53IFp-QCK4BGAYYCw/s400/BAND%2BSPORT.png" group-title="SPORT",BAND SPORTS HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7394
+#EXTINF:-1 tvg-id="" tvg-name="barbie" tvg-logo="https://i.dlpng.com/static/png/290561_preview.png" group-title="CANAIS 24 HORAS ",barbie
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10101
+#EXTINF:-1 tvg-id="" tvg-name="BBB-00" tvg-logo="https://3.bp.blogspot.com/-lVmpBtt7FWo/XmP3l8iK-QI/AAAAAAAACPA/P-7-qYRjK7Un-VRRbXcp3WwAc8IttzioQCK4BGAYYCw/s400/BIG%2BBROTHER.png" group-title="BBB20",BBB-00
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/11342
+#EXTINF:-1 tvg-id="" tvg-name="BBB-1" tvg-logo="https://3.bp.blogspot.com/-lVmpBtt7FWo/XmP3l8iK-QI/AAAAAAAACPA/P-7-qYRjK7Un-VRRbXcp3WwAc8IttzioQCK4BGAYYCw/s400/BIG%2BBROTHER.png" group-title="BBB20",BBB-1
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/5147
+#EXTINF:-1 tvg-id="" tvg-name="BBB-1¹" tvg-logo="https://3.bp.blogspot.com/-lVmpBtt7FWo/XmP3l8iK-QI/AAAAAAAACPA/P-7-qYRjK7Un-VRRbXcp3WwAc8IttzioQCK4BGAYYCw/s400/BIG%2BBROTHER.png" group-title="BBB20",BBB-1¹
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/14813
+#EXTINF:-1 tvg-id="" tvg-name="BBB-2" tvg-logo="https://3.bp.blogspot.com/-lVmpBtt7FWo/XmP3l8iK-QI/AAAAAAAACPA/P-7-qYRjK7Un-VRRbXcp3WwAc8IttzioQCK4BGAYYCw/s400/BIG%2BBROTHER.png" group-title="BBB20",BBB-2
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/5148
+#EXTINF:-1 tvg-id="" tvg-name="BBB-3" tvg-logo="https://3.bp.blogspot.com/-lVmpBtt7FWo/XmP3l8iK-QI/AAAAAAAACPA/P-7-qYRjK7Un-VRRbXcp3WwAc8IttzioQCK4BGAYYCw/s400/BIG%2BBROTHER.png" group-title="BBB20",BBB-3
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/5149
+#EXTINF:-1 tvg-id="" tvg-name="BBB-4" tvg-logo="https://3.bp.blogspot.com/-lVmpBtt7FWo/XmP3l8iK-QI/AAAAAAAACPA/P-7-qYRjK7Un-VRRbXcp3WwAc8IttzioQCK4BGAYYCw/s400/BIG%2BBROTHER.png" group-title="BBB20",BBB-4
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/5150
+#EXTINF:-1 tvg-id="" tvg-name="BBB-5" tvg-logo="https://3.bp.blogspot.com/-lVmpBtt7FWo/XmP3l8iK-QI/AAAAAAAACPA/P-7-qYRjK7Un-VRRbXcp3WwAc8IttzioQCK4BGAYYCw/s400/BIG%2BBROTHER.png" group-title="BBB20",BBB-5
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/5151
+#EXTINF:-1 tvg-id="" tvg-name="BBB-6" tvg-logo="https://3.bp.blogspot.com/-lVmpBtt7FWo/XmP3l8iK-QI/AAAAAAAACPA/P-7-qYRjK7Un-VRRbXcp3WwAc8IttzioQCK4BGAYYCw/s400/BIG%2BBROTHER.png" group-title="BBB20",BBB-6
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/5152
+#EXTINF:-1 tvg-id="" tvg-name="BBB-7" tvg-logo="https://3.bp.blogspot.com/-lVmpBtt7FWo/XmP3l8iK-QI/AAAAAAAACPA/P-7-qYRjK7Un-VRRbXcp3WwAc8IttzioQCK4BGAYYCw/s400/BIG%2BBROTHER.png" group-title="BBB20",BBB-7
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/5153
+#EXTINF:-1 tvg-id="" tvg-name="BBB-8" tvg-logo="https://3.bp.blogspot.com/-lVmpBtt7FWo/XmP3l8iK-QI/AAAAAAAACPA/P-7-qYRjK7Un-VRRbXcp3WwAc8IttzioQCK4BGAYYCw/s400/BIG%2BBROTHER.png" group-title="BBB20",BBB-8
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/5154
+#EXTINF:-1 tvg-id="" tvg-name="BBB-9" tvg-logo="https://3.bp.blogspot.com/-lVmpBtt7FWo/XmP3l8iK-QI/AAAAAAAACPA/P-7-qYRjK7Un-VRRbXcp3WwAc8IttzioQCK4BGAYYCw/s400/BIG%2BBROTHER.png" group-title="BBB20",BBB-9
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/5155
+#EXTINF:-1 tvg-id="" tvg-name="BBB-10" tvg-logo="https://3.bp.blogspot.com/-lVmpBtt7FWo/XmP3l8iK-QI/AAAAAAAACPA/P-7-qYRjK7Un-VRRbXcp3WwAc8IttzioQCK4BGAYYCw/s400/BIG%2BBROTHER.png" group-title="BBB20",BBB-10
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/8161
+#EXTINF:-1 tvg-id="" tvg-name="BBB MOSAICO¹" tvg-logo="https://3.bp.blogspot.com/-lVmpBtt7FWo/XmP3l8iK-QI/AAAAAAAACPA/P-7-qYRjK7Un-VRRbXcp3WwAc8IttzioQCK4BGAYYCw/s400/BIG%2BBROTHER.png" group-title="BBB20",BBB MOSAICO¹
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/14367
+#EXTINF:-1 tvg-id="" tvg-name="BEM 10" tvg-logo="https://i.pinimg.com/originals/e6/19/0f/e6190f71ff9a421a591e8aa3f4001fdd.png" group-title="CANAIS 24 HORAS ",BEM 10
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7911
+#EXTINF:-1 tvg-id="" tvg-name="beyblade" tvg-logo="https://4.bp.blogspot.com/-tdbEj69OdgU/XoJJgBzH3KI/AAAAAAAACfU/QbG4odO9cvM10VI-ufhJGbCdZgi3HBCwgCK4BGAYYCw/s320/beyblade-png-5.png" group-title="CANAIS 24 HORAS ",beyblade
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/16992
+#EXTINF:-1 tvg-id="" tvg-name="BIBO PAI E BOB FILHO" tvg-logo="https://3.bp.blogspot.com/-fBA9hEt0UEc/XnthrKBBwkI/AAAAAAAACb4/q_46ErKKNi8hGnYxeTMt_YoCLwp2wpycQCK4BGAYYCw/s320/ingqjbah.png" group-title="CANAIS 24 HORAS ",BIBO PAI E BOB FILHO
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/16041
+#EXTINF:-1 tvg-id="" tvg-name="BIS FHD" tvg-logo="https://4.bp.blogspot.com/-1lBy2BsVKo8/XmP52js4MKI/AAAAAAAACPM/DGdF4eWF2igS-O3RBpQ7TDZjTSCGA9anACK4BGAYYCw/s400/BIS.png" group-title="VARIEDADE",BIS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/931
+#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="https://4.bp.blogspot.com/-1lBy2BsVKo8/XmP52js4MKI/AAAAAAAACPM/DGdF4eWF2igS-O3RBpQ7TDZjTSCGA9anACK4BGAYYCw/s400/BIS.png" group-title="VARIEDADE",BIS HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/930
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG INTERNATIONAL FHD" tvg-logo="" group-title="CANAIS INTERNACIONAL",BLOOMBERG INTERNATIONAL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/12645
+#EXTINF:-1 tvg-id="" tvg-name="Blue TV" tvg-logo="https://img-medianova.mncdn.com/wp-content/uploads/2019/06/blutv_logo.png" group-title="ABERTOS VARIEDADES",Blue TV
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1692
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="https://1.bp.blogspot.com/-j4Ki8YyD7kQ/WD8HODeu1eI/AAAAAAAAB9A/WzguSQQjJj8lheiEnNAAw_N8lVpYNzstgCLcB/s1600/png_bob_6.png" group-title="CANAIS 24 HORAS ",BOB ESPONJA
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7915
+#EXTINF:-1 tvg-id="" tvg-name="Bob o trem" tvg-logo="https://4.bp.blogspot.com/-ejN78mRBUwE/XoDi4SG0bbI/AAAAAAAACdg/1AVp-RhiimA_i5N2MnfYhM4Pw_qtwlG8ACK4BGAYYCw/s320/jtxzppwy.png" group-title="CANAIS 24 HORAS ",Bob o trem
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/16943
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom" tvg-logo="https://2.bp.blogspot.com/-X6PRbZrRzww/XoJQ52ZOZ-I/AAAAAAAACfg/io9h0cq0pvkSIYwgn4VWND0kgFem6Xl8wCK4BGAYYCw/s320/AAAABVBD8pn3vBGCY6yVgjtHuUwP0RTegIaO0Ir00EttE1U7IC.png" group-title="CANAIS 24 HORAS ",Bob Zoom
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/16993
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG FHD" tvg-logo="https://1.bp.blogspot.com/-n17CiRTaCyE/Xk70Nj_rjpI/AAAAAAAACDc/TsDf_fpQBlosivwrkLjoygIHYogbaV70ACLcBGAsYHQ/s1600/boomerang.png" group-title="INFANTIL",BOOMERANG FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/979
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD" tvg-logo="https://1.bp.blogspot.com/-n17CiRTaCyE/Xk70Nj_rjpI/AAAAAAAACDc/TsDf_fpQBlosivwrkLjoygIHYogbaV70ACLcBGAsYHQ/s1600/boomerang.png" group-title="INFANTIL",BOOMERANG HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/981
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG²" tvg-logo="https://1.bp.blogspot.com/-n17CiRTaCyE/Xk70Nj_rjpI/AAAAAAAACDc/TsDf_fpQBlosivwrkLjoygIHYogbaV70ACLcBGAsYHQ/s1600/boomerang.png" group-title="INFANTIL",BOOMERANG²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7824
+#EXTINF:-1 tvg-id="" tvg-name="Caca-Fantasma" tvg-logo="https://i.pinimg.com/originals/65/f6/54/65f65418088be17e84cbc2eeb5cfadb6.png" group-title="CANAIS 24 HORAS ",Caca-Fantasma
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/8036
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL FHD" tvg-logo="" group-title="ABERTOS",CANAL BRASIL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/12580
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL HD" tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/c/c0/Canalbrasil.jpg/revision/latest?cb=20171106204353&path-prefix=pt-br" group-title="ABERTOS VARIEDADES",CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/12884
+#EXTINF:-1 tvg-id="" tvg-name="Canal de São Paulo" tvg-logo="http://www.canalsp.com.br/wp-content/uploads/2019/07/logotipo.png" group-title="ABERTOS VARIEDADES",Canal de São Paulo
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1699
+#EXTINF:-1 tvg-id="" tvg-name="Canal Executivo IASD" tvg-logo="http://iasdcentralicoaraci.com.br/wp-content/uploads/2015/05/logo_2009_3_Executivo.png" group-title="ABERTOS VARIEDADES",Canal Executivo IASD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1684
+#EXTINF:-1 tvg-id="" tvg-name="Canal Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/240px-Canal_Futura.png" group-title="ABERTOS VARIEDADES",Canal Futura
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1633
+#EXTINF:-1 tvg-id="" tvg-name="Canção Nova" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/cancao-nova-logo.png" group-title="RELIGIOSOS ",Canção Nova
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/4480
+#EXTINF:-1 tvg-id="" tvg-name="capitão planeta" tvg-logo="https://2.bp.blogspot.com/-YlgUFebsrV8/Xl-fp-IhAZI/AAAAAAAACMA/Dp_hNkbHruAhbceDsroQUp1YoSMcV4E2ACK4BGAYYCw/s320/bgheszm7.png" group-title="CANAIS 24 HORAS ",capitão planeta
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10883
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://1.bp.blogspot.com/-aondLW2i3Nw/Xk70ObLd84I/AAAAAAAACDk/UaL7ElNQW-AaFhG-9gEv2FSWp28Cci5hACLcBGAsYHQ/s1600/cartoonnetwork.png" group-title="INFANTIL",CARTOON NETWORK FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/978
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD" tvg-logo="https://1.bp.blogspot.com/-aondLW2i3Nw/Xk70ObLd84I/AAAAAAAACDk/UaL7ElNQW-AaFhG-9gEv2FSWp28Cci5hACLcBGAsYHQ/s1600/cartoonnetwork.png" group-title="INFANTIL",CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/980
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK²" tvg-logo="https://1.bp.blogspot.com/-aondLW2i3Nw/Xk70ObLd84I/AAAAAAAACDk/UaL7ElNQW-AaFhG-9gEv2FSWp28Cci5hACLcBGAsYHQ/s1600/cartoonnetwork.png" group-title="INFANTIL",CARTOON NETWORK²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7825
+#EXTINF:-1 tvg-id="" tvg-name="cavaleiros do zodiaco" tvg-logo="https://78.media.tumblr.com/87c9fe945f0d040e98e3e989b4cd23c4/tumblr_p5lpj5Rjbd1uln9dno1_1280.png" group-title="CANAIS 24 HORAS ",cavaleiros do zodiaco
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/13581
+#EXTINF:-1 tvg-id="" tvg-name="Cavalo de Fogo" tvg-logo="https://1.bp.blogspot.com/-38xhtuLU7m8/Xl2DPjsjwzI/AAAAAAAACLc/zup0WohBa-wf8atHmvsy3ijjSK95f9sCACK4BGAYYCw/s320/2iqevs01.png" group-title="CANAIS 24 HORAS ",Cavalo de Fogo
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10246
+#EXTINF:-1 tvg-id="" tvg-name="Caverna Do Dragão" tvg-logo="https://4.bp.blogspot.com/-e2Bp6Oi9zP0/Xk85j2FfLyI/AAAAAAAACKQ/DFcKRyTixDQdY0CvK7Yz7iUTX7uBoBRuQCK4BGAYYCw/s1600/bb4gev48.png" group-title="CANAIS 24 HORAS ",Caverna Do Dragão
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/8820
+#EXTINF:-1 tvg-id="" tvg-name="chapolin" tvg-logo="https://4.bp.blogspot.com/-8njeVK8BIVk/XkK3JcSmJsI/AAAAAAAACAU/2g9kWT5QbRkm60rCp7hY6sctX6TiIl_MwCK4BGAYYCw/s320/RWsS5YD.png" group-title="CANAIS 24 HORAS ",chapolin
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7333
+#EXTINF:-1 tvg-id="" tvg-name="chaves" tvg-logo="https://4.bp.blogspot.com/-PQNavGqRO6E/XkK3T0D4iAI/AAAAAAAACAg/6KbRna968msck82XpQdPlZYn3d1PlVQjwCK4BGAYYCw/s320/jh393Li.png" group-title="CANAIS 24 HORAS ",chaves
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10893
+#EXTINF:-1 tvg-id="" tvg-name="chaves desenho" tvg-logo="https://i.pinimg.com/originals/18/3e/33/183e33bb7c3d4152a16b4e8a645ca46e.png" group-title="CANAIS 24 HORAS ",chaves desenho
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7643
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX" tvg-logo="https://2.bp.blogspot.com/-Pv-Nhnad2FE/XmQd6C0TObI/AAAAAAAACS8/bIFwGCAlgyQPppDIppaHqzF4js5Z4F4aQCK4BGAYYCw/s400/CINEMAX.png" group-title="FILMES E SERIES",CINEMAX
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7826
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX FHD" tvg-logo="https://2.bp.blogspot.com/-Pv-Nhnad2FE/XmQd6C0TObI/AAAAAAAACS8/bIFwGCAlgyQPppDIppaHqzF4js5Z4F4aQCK4BGAYYCw/s400/CINEMAX.png" group-title="FILMES E SERIES",CINEMAX FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/779
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD" tvg-logo="https://2.bp.blogspot.com/-Pv-Nhnad2FE/XmQd6C0TObI/AAAAAAAACS8/bIFwGCAlgyQPppDIppaHqzF4js5Z4F4aQCK4BGAYYCw/s400/CINEMAX.png" group-title="FILMES E SERIES",CINEMAX HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/785
+#EXTINF:-1 tvg-id="" tvg-name="cinesky 2" tvg-logo="https://2.bp.blogspot.com/-5rElpP7ACus/XmRKAALfotI/AAAAAAAACTk/fK5O-JvgPWoEjzNIABGY-e88sIZhSnVHQCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="FILMES E SERIES",cinesky 2
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/2328
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL FHD" tvg-logo="https://lh3.googleusercontent.com/proxy/3FLzXwtXATDfPzgswaeqS9NZxUHgmWBCuaUfgF0iGSsn84ns2ehuv3uJMIHmirndQTgXsdSH5duP7JdZ_y8OxjWw4EyrL20Xt2zL78jpxO23tgChYBigQ5RgB47F" group-title="NOTICIAS ",CNN BRASIL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/14368
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL FHD²" tvg-logo="https://lh3.googleusercontent.com/proxy/3FLzXwtXATDfPzgswaeqS9NZxUHgmWBCuaUfgF0iGSsn84ns2ehuv3uJMIHmirndQTgXsdSH5duP7JdZ_y8OxjWw4EyrL20Xt2zL78jpxO23tgChYBigQ5RgB47F" group-title="NOTICIAS ",CNN BRASIL FHD²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/14369
+#EXTINF:-1 tvg-id="CNN INTERNACIONAL" tvg-name="CNN INTERNACIONAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="CANAIS INTERNACIONAL",CNN INTERNACIONAL SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/12676
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE FHD" tvg-logo="https://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="SPORT",COMBATE FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1043
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE FHD H265" tvg-logo="https://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="CANAIS H265",COMBATE FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/13102
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD" tvg-logo="https://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="SPORT",COMBATE HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1042
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE²" tvg-logo="https://1.bp.blogspot.com/-ya115tslPUU/Xk70OyJbtYI/AAAAAAAACDs/dp5hFTRJ54cf0cv0c855d-MKSr5ov_-xgCLcBGAsYHQ/s1600/combate.png" group-title="SPORT",COMBATE²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7827
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://1.bp.blogspot.com/-Nbl1xKywDX4/Xk70PRed9GI/AAAAAAAACDw/0MAoqSfWmZIhGxK8iGzKN3Q0HjHS-bYOgCLcBGAsYHQ/s1600/comedycentral.png" group-title="VARIEDADE",COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7828
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://1.bp.blogspot.com/-Nbl1xKywDX4/Xk70PRed9GI/AAAAAAAACDw/0MAoqSfWmZIhGxK8iGzKN3Q0HjHS-bYOgCLcBGAsYHQ/s1600/comedycentral.png" group-title="VARIEDADE",COMEDY CENTRAL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/928
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://1.bp.blogspot.com/-Nbl1xKywDX4/Xk70PRed9GI/AAAAAAAACDw/0MAoqSfWmZIhGxK8iGzKN3Q0HjHS-bYOgCLcBGAsYHQ/s1600/comedycentral.png" group-title="VARIEDADE",COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/929
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY FHD H.265" tvg-logo="https://1.bp.blogspot.com/-Nbl1xKywDX4/Xk70PRed9GI/AAAAAAAACDw/0MAoqSfWmZIhGxK8iGzKN3Q0HjHS-bYOgCLcBGAsYHQ/s1600/comedycentral.png" group-title="CANAIS H265",COMEDY FHD H.265
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/13115
+#EXTINF:-1 tvg-id="" tvg-name="Conectv" tvg-logo="https://irp-cdn.multiscreensite.com/ec690164/dms3rep/multi/mobile/logo+horizontal+300x91+d.png" group-title="ABERTOS VARIEDADES",Conectv
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1666
+#EXTINF:-1 tvg-id="" tvg-name="Contos de Fadas" tvg-logo="https://3.bp.blogspot.com/-U6LDmGrQtt4/XnZL0z_rv4I/AAAAAAAACas/-ZPpDyOSkk4jQ-qw9IBtf9CoYakd4auLgCK4BGAYYCw/s400/Hist%25C3%25B3rias-Infantis-300x178.png" group-title="CANAIS 24 HORAS ",Contos de Fadas
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/16040
+#EXTINF:-1 tvg-id="" tvg-name="coragem o cão covarde" tvg-logo="https://vignette1.wikia.nocookie.net/coragem/images/2/25/Courage.png/revision/latest?cb=20130423015403&path-prefix=pt-br" group-title="CANAIS 24 HORAS ",coragem o cão covarde
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/13395
+#EXTINF:-1 tvg-id="" tvg-name="corrida maluca" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/corrida-maluca-png.png" group-title="CANAIS 24 HORAS ",corrida maluca
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7928
+#EXTINF:-1 tvg-id="" tvg-name="coxinha e doquinha" tvg-logo="https://2.bp.blogspot.com/-Dgi6jxJl1EM/XoOt3mZupmI/AAAAAAAACgY/gx0eubHT8-kembrpmtFYya2KN_cJjiK_QCK4BGAYYCw/s320/jrqsg5uk.png" group-title="CANAIS 24 HORAS ",coxinha e doquinha
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/17457
+#EXTINF:-1 tvg-id="" tvg-name="Daniel Tigre" tvg-logo="https://i.pinimg.com/originals/37/bb/4c/37bb4ce6f5ce7ad2a2fe20db37841247.png" group-title="CANAIS 24 HORAS ",Daniel Tigre
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/11166
+#EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="https://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="SPORT",DAZN
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/11160
+#EXTINF:-1 tvg-id="TV Cidade" tvg-name="DAZN 3 HD" tvg-logo="https://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="SPORT",DAZN 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/13753
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BRASIL FHD" tvg-logo="https://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="SPORT",DAZN BRASIL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1044
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BRASIL HD" tvg-logo="https://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="SPORT",DAZN BRASIL HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7389
+#EXTINF:-1 tvg-id="" tvg-name="DAZN HD³" tvg-logo="https://2.bp.blogspot.com/-u13bfQHZkvs/XmUO_j1oEgI/AAAAAAAACVw/z-2xZpbmHiIew6ut2UB0AvDLtPDNlBbmQCK4BGAYYCw/s400/DANZ.png" group-title="SPORT",DAZN HD³
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10899
+#EXTINF:-1 tvg-id="" tvg-name="death note" tvg-logo="https://1.bp.blogspot.com/-Ex5BT2_lz8A/Xe6ewjzShLI/AAAAAAAAB4U/pRJ1WcNekqYVEiKgEVGhkNptSM5hzwNHACLcBGAsYHQ/s320/kira-y-ryuk-by-ai.png" group-title="CANAIS 24 HORAS ",death note
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/13940
+#EXTINF:-1 tvg-id="" tvg-name="Dennis  O Pimentinha" tvg-logo="https://2.bp.blogspot.com/-CZ5UbexzAKg/VetZ9TBCR_I/AAAAAAACeUM/CG5sD4ERpEI/s1600/14.png" group-title="CANAIS 24 HORAS ",Dennis  O Pimentinha
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/13579
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://1.bp.blogspot.com/-gO9KQOa5_VM/Xk70PmiUxFI/AAAAAAAACD0/bActYU1lpyUhbKJQrR-parzrrGHAVIEkgCLcBGAsYHQ/s1600/discoverychannel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1021
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL FHD³" tvg-logo="https://1.bp.blogspot.com/-gO9KQOa5_VM/Xk70PmiUxFI/AAAAAAAACD0/bActYU1lpyUhbKJQrR-parzrrGHAVIEkgCLcBGAsYHQ/s1600/discoverychannel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL FHD³
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10847
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-gO9KQOa5_VM/Xk70PmiUxFI/AAAAAAAACD0/bActYU1lpyUhbKJQrR-parzrrGHAVIEkgCLcBGAsYHQ/s1600/discoverychannel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1003
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL²" tvg-logo="https://1.bp.blogspot.com/-gO9KQOa5_VM/Xk70PmiUxFI/AAAAAAAACD0/bActYU1lpyUhbKJQrR-parzrrGHAVIEkgCLcBGAsYHQ/s1600/discoverychannel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7829
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="https://1.bp.blogspot.com/-rcT1Fa94uEY/Xk70QDg9_VI/AAAAAAAACD8/dx5QGsd5jY4q9mzoovf_KlUpuD56__JwQCLcBGAsYHQ/s1600/discoveryhomehealth.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1022
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://1.bp.blogspot.com/-rcT1Fa94uEY/Xk70QDg9_VI/AAAAAAAACD8/dx5QGsd5jY4q9mzoovf_KlUpuD56__JwQCLcBGAsYHQ/s1600/discoveryhomehealth.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1004
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="DISCOVERY HOME & HEALTH²" tvg-logo="https://1.bp.blogspot.com/-rcT1Fa94uEY/Xk70QDg9_VI/AAAAAAAACD8/dx5QGsd5jY4q9mzoovf_KlUpuD56__JwQCLcBGAsYHQ/s1600/discoveryhomehealth.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7830
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://1.bp.blogspot.com/-2AIyN1vVYJ4/Xk70P2tZPSI/AAAAAAAACD4/dB9uQ47TzcAMEu4qJU-lYcaBoscJWYKhgCLcBGAsYHQ/s1600/discoverykids.png" group-title="INFANTIL",DISCOVERY KIDS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1019
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://1.bp.blogspot.com/-2AIyN1vVYJ4/Xk70P2tZPSI/AAAAAAAACD4/dB9uQ47TzcAMEu4qJU-lYcaBoscJWYKhgCLcBGAsYHQ/s1600/discoverykids.png" group-title="INFANTIL",DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1001
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS²" tvg-logo="https://1.bp.blogspot.com/-2AIyN1vVYJ4/Xk70P2tZPSI/AAAAAAAACD4/dB9uQ47TzcAMEu4qJU-lYcaBoscJWYKhgCLcBGAsYHQ/s1600/discoverykids.png" group-title="INFANTIL",DISCOVERY KIDS²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7832
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://1.bp.blogspot.com/-Nn1tKtDj6sY/Xk70QqLw0DI/AAAAAAAACEA/0RwNd0pPQzsv-qwLGMcUIBRCgLK-Vs50ACLcBGAsYHQ/s1600/discoveryscience.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1018
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://1.bp.blogspot.com/-Nn1tKtDj6sY/Xk70QqLw0DI/AAAAAAAACEA/0RwNd0pPQzsv-qwLGMcUIBRCgLK-Vs50ACLcBGAsYHQ/s1600/discoveryscience.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1000
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE²" tvg-logo="https://1.bp.blogspot.com/-Nn1tKtDj6sY/Xk70QqLw0DI/AAAAAAAACEA/0RwNd0pPQzsv-qwLGMcUIBRCgLK-Vs50ACLcBGAsYHQ/s1600/discoveryscience.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7835
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://1.bp.blogspot.com/-zmhzL_q8BuE/Xk70Q4GLrTI/AAAAAAAACEE/5VO8WJ7wWMAq17Ha1OP0hbtgrqoF1vFrQCLcBGAsYHQ/s1600/discoverytheater.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1017
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC TV CURITIBA " tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO RPC TV CURITIBA 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/16725
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER HD³" tvg-logo="https://1.bp.blogspot.com/-zmhzL_q8BuE/Xk70Q4GLrTI/AAAAAAAACEE/5VO8WJ7wWMAq17Ha1OP0hbtgrqoF1vFrQCLcBGAsYHQ/s1600/discoverytheater.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD³
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10852
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://1.bp.blogspot.com/-zmhzL_q8BuE/Xk70Q4GLrTI/AAAAAAAACEE/5VO8WJ7wWMAq17Ha1OP0hbtgrqoF1vFrQCLcBGAsYHQ/s1600/discoverytheater.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/999
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER²" tvg-logo="https://1.bp.blogspot.com/-zmhzL_q8BuE/Xk70Q4GLrTI/AAAAAAAACEE/5VO8WJ7wWMAq17Ha1OP0hbtgrqoF1vFrQCLcBGAsYHQ/s1600/discoverytheater.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7833
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC FHD" tvg-logo="https://2.bp.blogspot.com/-kIUVI9_YPPE/XmP60ycdyPI/AAAAAAAACPY/r6d1IMJFvDQsE-Il4Cic1BnuJN47QvI0ACK4BGAYYCw/s400/TLC.png" group-title="VARIEDADE",DISCOVERY TLC FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/946
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC HD" tvg-logo="https://2.bp.blogspot.com/-kIUVI9_YPPE/XmP60ycdyPI/AAAAAAAACPY/r6d1IMJFvDQsE-Il4Cic1BnuJN47QvI0ACK4BGAYYCw/s400/TLC.png" group-title="VARIEDADE",DISCOVERY TLC HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/947
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://1.bp.blogspot.com/--Gnd1cKRE40/Xk70Rq5scQI/AAAAAAAACEI/zJ6OQb7ctNUtUrNztpfVTBOevy9BVW6fwCLcBGAsYHQ/s1600/discoveryturbo.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1016
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://1.bp.blogspot.com/--Gnd1cKRE40/Xk70Rq5scQI/AAAAAAAACEI/zJ6OQb7ctNUtUrNztpfVTBOevy9BVW6fwCLcBGAsYHQ/s1600/discoveryturbo.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/998
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="DISCOVERY TURBO²" tvg-logo="https://1.bp.blogspot.com/--Gnd1cKRE40/Xk70Rq5scQI/AAAAAAAACEI/zJ6OQb7ctNUtUrNztpfVTBOevy9BVW6fwCLcBGAsYHQ/s1600/discoveryturbo.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7834
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://1.bp.blogspot.com/-nb1EQ-vyLXg/Xk70RwCpZSI/AAAAAAAACEM/6W2YKWTTrLEyrgWbh52Q7ixjjsGSlWnhgCLcBGAsYHQ/s1600/discoveryworld.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1015
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://1.bp.blogspot.com/-nb1EQ-vyLXg/Xk70RwCpZSI/AAAAAAAACEM/6W2YKWTTrLEyrgWbh52Q7ixjjsGSlWnhgCLcBGAsYHQ/s1600/discoveryworld.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/997
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD³" tvg-logo="https://1.bp.blogspot.com/-nb1EQ-vyLXg/Xk70RwCpZSI/AAAAAAAACEM/6W2YKWTTrLEyrgWbh52Q7ixjjsGSlWnhgCLcBGAsYHQ/s1600/discoveryworld.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD³
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10831
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD²" tvg-logo="https://1.bp.blogspot.com/-nb1EQ-vyLXg/Xk70RwCpZSI/AAAAAAAACEM/6W2YKWTTrLEyrgWbh52Q7ixjjsGSlWnhgCLcBGAsYHQ/s1600/discoveryworld.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7836
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL FHD" tvg-logo="https://1.bp.blogspot.com/-f_MnRNkGGcY/Xk70R5VDZxI/AAAAAAAACEQ/43wt8gXzHSANGSAsyKXz5GH1Xq0lzk7WgCLcBGAsYHQ/s1600/disneychannel.png" group-title="INFANTIL",DISNEY CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1014
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-f_MnRNkGGcY/Xk70R5VDZxI/AAAAAAAACEQ/43wt8gXzHSANGSAsyKXz5GH1Xq0lzk7WgCLcBGAsYHQ/s1600/disneychannel.png" group-title="INFANTIL",DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/982
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL²" tvg-logo="https://1.bp.blogspot.com/-f_MnRNkGGcY/Xk70R5VDZxI/AAAAAAAACEQ/43wt8gXzHSANGSAsyKXz5GH1Xq0lzk7WgCLcBGAsYHQ/s1600/disneychannel.png" group-title="INFANTIL",DISNEY CHANNEL²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7837
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR HD" tvg-logo="https://1.bp.blogspot.com/-bfde7opL_i0/Xk70SpDIsPI/AAAAAAAACEY/l1HAmMtwRNoboEhcBJoF2tGT8KOLg56QgCLcBGAsYHQ/s1600/disneyjunior.png" group-title="INFANTIL",DISNEY JR HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/985
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR²" tvg-logo="https://1.bp.blogspot.com/-bfde7opL_i0/Xk70SpDIsPI/AAAAAAAACEY/l1HAmMtwRNoboEhcBJoF2tGT8KOLg56QgCLcBGAsYHQ/s1600/disneyjunior.png" group-title="INFANTIL",DISNEY JR²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7838
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD FHD" tvg-logo="https://1.bp.blogspot.com/-L5egZ4tZsiM/Xk70SqgChEI/AAAAAAAACEU/GKMgJEfqkMIzYi0uJ8b11UAcxXt5th9bwCLcBGAsYHQ/s1600/disneyxd.png" group-title="INFANTIL",DISNEY XD FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/983
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD FHD" tvg-logo="https://1.bp.blogspot.com/-L5egZ4tZsiM/Xk70SqgChEI/AAAAAAAACEU/GKMgJEfqkMIzYi0uJ8b11UAcxXt5th9bwCLcBGAsYHQ/s1600/disneyxd.png" group-title="INFANTIL",DISNEY XD FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7839
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD FHD³" tvg-logo="https://1.bp.blogspot.com/-L5egZ4tZsiM/Xk70SqgChEI/AAAAAAAACEU/GKMgJEfqkMIzYi0uJ8b11UAcxXt5th9bwCLcBGAsYHQ/s1600/disneyxd.png" group-title="INFANTIL",DISNEY XD FHD³
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10832
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD HD" tvg-logo="https://1.bp.blogspot.com/-L5egZ4tZsiM/Xk70SqgChEI/AAAAAAAACEU/GKMgJEfqkMIzYi0uJ8b11UAcxXt5th9bwCLcBGAsYHQ/s1600/disneyxd.png" group-title="INFANTIL",DISNEY XD HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/984
+#EXTINF:-1 tvg-id="" tvg-name="Donald Duck" tvg-logo="https://4.bp.blogspot.com/-Q5meIAtfZcU/Xn9UOExewSI/AAAAAAAACdM/Y_sFRQnwHSUA88eadqnTFJzZvcNvqQt-gCK4BGAYYCw/s320/8tvm898c.png" group-title="CANAIS 24 HORAS ",Donald Duck
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/16944
+#EXTINF:-1 tvg-id="" tvg-name="dora" tvg-logo="https://1.bp.blogspot.com/-T4R53E112i4/Xe6euWfPiUI/AAAAAAAAB30/fW8m7F_qyNEhfPYbd7LDo8ZLM9aqDvoZgCLcBGAsYHQ/s320/A1Logo_dora_2010.png" group-title="CANAIS 24 HORAS ",dora
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/8494
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Clássico" tvg-logo="https://1.bp.blogspot.com/-Q1o2Ayu3Hgg/VMfyRct_FVI/AAAAAAAAATo/Ejwu29gkJ8s/s1600/DragonBall.png" group-title="CANAIS 24 HORAS ",Dragon Ball Clássico
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/8037
+#EXTINF:-1 tvg-id="" tvg-name="dragon ball GT 1" tvg-logo="https://vignette.wikia.nocookie.net/anicrossbr/images/b/be/Goku_dragon_rojo_by_bardocksonic-d5wknxm.png/revision/latest/scale-to-width-down/340?cb=20160828155856&path-prefix=pt-br" group-title="CANAIS 24 HORAS ",dragon ball GT 1
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/8652
+#EXTINF:-1 tvg-id="" tvg-name="dragon ball gt 2" tvg-logo="https://i.pinimg.com/originals/25/d4/47/25d447ce19cc047365292673a958554e.png" group-title="CANAIS 24 HORAS ",dragon ball gt 2
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/8682
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/2002dec3-6af5-4baa-bb16-f4de9ad016d8/d8zo096-139036bf-f753-422f-826e-dd610dabd7d0.png" group-title="CANAIS 24 HORAS ",Dragon Ball Super
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10889
+#EXTINF:-1 tvg-id="" tvg-name="Dragon.Ball.Ka" tvg-logo="https://4.bp.blogspot.com/-Dbnl48JM5D8/XkSTyE0dd-I/AAAAAAAACBQ/JIE6R8ixW48yGP4tqhT17NaF2prR3nOngCK4BGAYYCw/s320/unnamed.png" group-title="CANAIS 24 HORAS ",Dragon.Ball.Ka
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/6323
+#EXTINF:-1 tvg-id="" tvg-name="Dragon.Ball.Kai.Parte.2" tvg-logo="https://1.bp.blogspot.com/-Oky5Or8Rsok/XkSTxZ197wI/AAAAAAAACBI/IHjpMSV1cW48xAeDPKN9cSZi2N1E0131ACK4BGAYYCw/s400/d8la1ax-fefaf6a0-9570-41b7-a73c-fdecb7d5b998.png" group-title="CANAIS 24 HORAS ",Dragon.Ball.Kai.Parte.2
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7328
+#EXTINF:-1 tvg-id="" tvg-name="Drama Total - ilha dos desafios" tvg-logo="https://4.bp.blogspot.com/-JV05W1vX9bI/XoDjQPDVmRI/AAAAAAAACeI/MPeRSBLa0BszHrnqIk7a1ZX7pTHpgMnogCK4BGAYYCw/s320/a24qjyok.png" group-title="CANAIS 24 HORAS ",Drama Total - ilha dos desafios
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/16945
+#EXTINF:-1 tvg-id="" tvg-name="DW DEUTSCHE WELLE" tvg-logo="https://lh3.googleusercontent.com/proxy/G5uIOHFvtJhAEj2oK3OCXFWgBkuCy_BpOoU7wfrs7yf_zvr5KYzsSiM84Y2lweimhfI4vlCY5Z6nuBLuvr_oL0hHTofhTaMiLYb4kPRyUe66Ydnl2Q7wpw0KjdNneVfTdA" group-title="CANAIS INTERNACIONAL",DW DEUTSCHE WELLE
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/14402
+#EXTINF:-1 tvg-id="" tvg-name="DW ESPANHOL" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/418huI7urFL.png" group-title="CANAIS INTERNACIONAL",DW ESPANHOL
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/14401
+#EXTINF:-1 tvg-id="" tvg-name="E! FHD" tvg-logo="https://3.bp.blogspot.com/-p11362iIZW8/XmP736_KsGI/AAAAAAAACPk/ViHbgXo2BDkd_p85Qs4rWKx-nUei_z5tQCK4BGAYYCw/s400/E.png" group-title="VARIEDADE",E! FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/932
+#EXTINF:-1 tvg-id="" tvg-name="E! HD" tvg-logo="https://3.bp.blogspot.com/-p11362iIZW8/XmP736_KsGI/AAAAAAAACPk/ViHbgXo2BDkd_p85Qs4rWKx-nUei_z5tQCK4BGAYYCw/s400/E.png" group-title="VARIEDADE",E! HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/933
+#EXTINF:-1 tvg-id="" tvg-name="EI PLUS 1 HD³" tvg-logo="https://2.bp.blogspot.com/-NEffp_RGNiM/XmUQU5jf--I/AAAAAAAACV8/7LChkgvFPMgBrPra9tu9mxX1so1s8ZoSgCK4BGAYYCw/s400/IE%2BPLUS.png" group-title="SPORT",EI PLUS 1 HD³
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10829
+#EXTINF:-1 tvg-id="" tvg-name="Escolinha do professo raimundo" tvg-logo="https://2.bp.blogspot.com/-SZJiXIs-bPw/XoDjEgcZ1YI/AAAAAAAACd4/gdAyIliBslAeixnchAwU00ss6XQPpv8-ACK4BGAYYCw/s320/gtpie6ak.png" group-title="CANAIS 24 HORAS ",Escolinha do professo raimundo
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/16946
+#EXTINF:-1 tvg-id="" tvg-name="ESPN  HD" tvg-logo="https://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="SPORT",ESPN  HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1048
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 2" tvg-logo="https://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" group-title="SPORT",ESPN 2
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7841
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD³" tvg-logo="https://4.bp.blogspot.com/-QEKZP5wwMMk/XmUOLIjM24I/AAAAAAAACVk/vYZXgfpe2V8F0hGEdRxhsJ6RACB0jei_gCK4BGAYYCw/s400/ESPN%2B2.png" group-title="SPORT",ESPN 2 FHD³
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10881
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL FHD H.265" tvg-logo="https://1.bp.blogspot.com/-FTbrDbCUpeI/Xk70UAen8UI/AAAAAAAACEk/01DRE2kNgK0DXCQpzyo7qDusryQfvdQAgCLcBGAsYHQ/s1600/espnbrasil.png" group-title="CANAIS H265",ESPN BRASIL FHD H.265
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/13096
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL HD³" tvg-logo="https://1.bp.blogspot.com/-FTbrDbCUpeI/Xk70UAen8UI/AAAAAAAACEk/01DRE2kNgK0DXCQpzyo7qDusryQfvdQAgCLcBGAsYHQ/s1600/espnbrasil.png" group-title="SPORT",ESPN BRASIL HD³
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10879
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL HD" tvg-logo="https://1.bp.blogspot.com/-FTbrDbCUpeI/Xk70UAen8UI/AAAAAAAACEk/01DRE2kNgK0DXCQpzyo7qDusryQfvdQAgCLcBGAsYHQ/s1600/espnbrasil.png" group-title="SPORT",ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1049
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL HD³" tvg-logo="https://1.bp.blogspot.com/-FTbrDbCUpeI/Xk70UAen8UI/AAAAAAAACEk/01DRE2kNgK0DXCQpzyo7qDusryQfvdQAgCLcBGAsYHQ/s1600/espnbrasil.png" group-title="SPORT",ESPN BRASIL HD³
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10880
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL²" tvg-logo="https://1.bp.blogspot.com/-FTbrDbCUpeI/Xk70UAen8UI/AAAAAAAACEk/01DRE2kNgK0DXCQpzyo7qDusryQfvdQAgCLcBGAsYHQ/s1600/espnbrasil.png" group-title="SPORT",ESPN BRASIL²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7842
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA HD³" tvg-logo="https://2.bp.blogspot.com/-IrchTJzKX_Y/XmUM5jakpdI/AAAAAAAACVY/W4Em0dmFMC8nkeEFnd3fcxhDEpp6RCIvQCK4BGAYYCw/s400/ESPN%2BEX.png" group-title="SPORT",ESPN EXTRA HD³
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10877
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA HD ³" tvg-logo="https://2.bp.blogspot.com/-IrchTJzKX_Y/XmUM5jakpdI/AAAAAAAACVY/W4Em0dmFMC8nkeEFnd3fcxhDEpp6RCIvQCK4BGAYYCw/s400/ESPN%2BEX.png" group-title="SPORT",ESPN EXTRA HD ³
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10878
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD³" tvg-logo="https://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="SPORT",ESPN HD³
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10882
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN²" tvg-logo="https://1.bp.blogspot.com/-6WHUXIszhSo/Xk70ThUHf7I/AAAAAAAACEg/SiQTddgay9gyeGmfwBsvm57Fd4glh4wfgCLcBGAsYHQ/s1600/espn.png" group-title="SPORT",ESPN²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7840
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-name="ESPORTE INTERATIVO HD" tvg-logo="https://suplementacaolavras.files.wordpress.com/2014/03/b358e-esportein-bmp.jpg?w=376&h=235" group-title="SPORT",ESPORTE INTERATIVO HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/13181
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-name="ESPORTE INTERATIVO²" tvg-logo="http://mytv.tv.br/canais/ei.png" group-title="SPORT",ESPORTE INTERATIVO²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7843
+#EXTINF:-1 tvg-id="" tvg-name="eu apatroa e as crianças" tvg-logo="https://3.bp.blogspot.com/-AZPGBcaszvg/XnYmNcGVCQI/AAAAAAAACZ8/l8N4-6oc0Xgz6hyj_5QNeaShkqL6KAtewCK4BGAYYCw/s320/7omjlw5j.png" group-title="CANAIS 24 HORAS ",eu apatroa e as crianças
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/14894
+#EXTINF:-1 tvg-id="" tvg-name="EUROCHANNEL FHD Dual Audio " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Logo_Eurochannel.png" group-title="CANAIS INTERNACIONAL",EUROCHANNEL FHD Dual Audio 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/12632
+#EXTINF:-1 tvg-id="" tvg-name="EVANGELIZAR" tvg-logo="" group-title="RELIGIOSOS ",EVANGELIZAR
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7844
+#EXTINF:-1 tvg-id="" tvg-name="Facebook/Youtube/Outros HD" tvg-logo="https://i.imgur.com/nX1rn0e.jpg" group-title="SPORT",Facebook/Youtube/Outros HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/13750
+#EXTINF:-1 tvg-id="" tvg-name="Facebook/Youtube/Outros HD 2" tvg-logo="https://i.imgur.com/nX1rn0e.jpg" group-title="SPORT",Facebook/Youtube/Outros HD 2
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/13751
+#EXTINF:-1 tvg-id="" tvg-name="família dinossauro" tvg-logo="https://1.bp.blogspot.com/-NJZ8rndlXX8/XjdhL9PddTI/AAAAAAAAB_A/blU8-rRO3Z4cQoN7qwGyFI9IqDu7RPClwCLcBGAsYHQ/s320/cb34l4e1.png" group-title="CANAIS 24 HORAS ",família dinossauro
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/13577
+#EXTINF:-1 tvg-id="" tvg-name="Faísca e Fumaça" tvg-logo="https://1.bp.blogspot.com/-vzXjwwJVXNI/XoD_J9jX5QI/AAAAAAAACeo/tmbKoTPWxIIoZpsVdH0-jO-n9dom5oLeACK4BGAYYCw/s320/wp200mq8.png" group-title="CANAIS 24 HORAS ",Faísca e Fumaça
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/17458
+#EXTINF:-1 tvg-id="FISH TV" tvg-name="FISH TV FHD" tvg-logo="https://2.bp.blogspot.com/-WkDVS4pbZUI/XmBBcYkuGyI/AAAAAAAACMY/vQW_GWMw5sMLFhcqeHvGXlge8RqdwVMHwCK4BGAYYCw/s400/FISH%2BTV.png" group-title="DOCUMENTARIOS",FISH TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/952
+#EXTINF:-1 tvg-id="FISH TV" tvg-name="FISH TV HD" tvg-logo="https://2.bp.blogspot.com/-WkDVS4pbZUI/XmBBcYkuGyI/AAAAAAAACMY/vQW_GWMw5sMLFhcqeHvGXlge8RqdwVMHwCK4BGAYYCw/s400/FISH%2BTV.png" group-title="DOCUMENTARIOS",FISH TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/953
+#EXTINF:-1 tvg-id="" tvg-name="Flashman" tvg-logo="https://seriesraras.com.br/product_images/s/569/flashman__97426_zoom.png" group-title="CANAIS 24 HORAS ",Flashman
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/8391
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://2.bp.blogspot.com/-NV7YyPJDcdE/XmP88hrWo6I/AAAAAAAACPw/lIOC5Ros_oA7HQOzAk__lJJb7Gd_aYQMwCK4BGAYYCw/s400/FOOD.png" group-title="VARIEDADE",FOOD NETWORK
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7845
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK FHD" tvg-logo="https://2.bp.blogspot.com/-NV7YyPJDcdE/XmP88hrWo6I/AAAAAAAACPw/lIOC5Ros_oA7HQOzAk__lJJb7Gd_aYQMwCK4BGAYYCw/s400/FOOD.png" group-title="VARIEDADE",FOOD NETWORK FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/935
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK FHD H.265" tvg-logo="https://2.bp.blogspot.com/-NV7YyPJDcdE/XmP88hrWo6I/AAAAAAAACPw/lIOC5Ros_oA7HQOzAk__lJJb7Gd_aYQMwCK4BGAYYCw/s400/FOOD.png" group-title="CANAIS H265",FOOD NETWORK FHD H.265
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/13098
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX CHANNEL" tvg-logo="https://1.bp.blogspot.com/-P6cQUUDS-Ws/Xk70VNVJJCI/AAAAAAAACEw/HZclRp1OCPkrLP-4bjNk2NCxXssDKGNqQCLcBGAsYHQ/s1600/foxchannel.png" group-title="FILMES E SERIES",FOX CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7846
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX FHD" tvg-logo="https://1.bp.blogspot.com/-P6cQUUDS-Ws/Xk70VNVJJCI/AAAAAAAACEw/HZclRp1OCPkrLP-4bjNk2NCxXssDKGNqQCLcBGAsYHQ/s1600/foxchannel.png" group-title="FILMES E SERIES",FOX FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/769
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX HD³" tvg-logo="https://1.bp.blogspot.com/-P6cQUUDS-Ws/Xk70VNVJJCI/AAAAAAAACEw/HZclRp1OCPkrLP-4bjNk2NCxXssDKGNqQCLcBGAsYHQ/s1600/foxchannel.png" group-title="FILMES E SERIES",FOX HD³
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10876
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX HD" tvg-logo="https://1.bp.blogspot.com/-P6cQUUDS-Ws/Xk70VNVJJCI/AAAAAAAACEw/HZclRp1OCPkrLP-4bjNk2NCxXssDKGNqQCLcBGAsYHQ/s1600/foxchannel.png" group-title="FILMES E SERIES",FOX HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/763
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="FOX LIFE FHD" tvg-logo="https://2.bp.blogspot.com/-mGDXAKJkuC0/XmQdJSVar8I/AAAAAAAACSw/tsSwZI89a2oy4Ebgd98Nnb-BxT163OMLQCK4BGAYYCw/s400/FOX%2BLIFE.png" group-title="FILMES E SERIES",FOX LIFE FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/768
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="FOX LIFE HD" tvg-logo="https://2.bp.blogspot.com/-mGDXAKJkuC0/XmQdJSVar8I/AAAAAAAACSw/tsSwZI89a2oy4Ebgd98Nnb-BxT163OMLQCK4BGAYYCw/s400/FOX%2BLIFE.png" group-title="FILMES E SERIES",FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/762
+#EXTINF:-1 tvg-id="FOX Premium 1" tvg-name="FOX PREMIUM 1 FHD" tvg-logo="https://1.bp.blogspot.com/-O5pJ8u14kA0/Xk70VKd4yOI/AAAAAAAACE0/6zWyqoc4GCwN5liLZt4KZWPok1IX0ZRfACLcBGAsYHQ/s1600/foxpremium1.png" group-title="FILMES E SERIES",FOX PREMIUM 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/767
+#EXTINF:-1 tvg-id="FOX Premium 1" tvg-name="FOX PREMIUM 1 HD" tvg-logo="https://1.bp.blogspot.com/-O5pJ8u14kA0/Xk70VKd4yOI/AAAAAAAACE0/6zWyqoc4GCwN5liLZt4KZWPok1IX0ZRfACLcBGAsYHQ/s1600/foxpremium1.png" group-title="FILMES E SERIES",FOX PREMIUM 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/761
+#EXTINF:-1 tvg-id="FOX Premium 1" tvg-name="FOX PREMIUM 1 HD³" tvg-logo="https://1.bp.blogspot.com/-O5pJ8u14kA0/Xk70VKd4yOI/AAAAAAAACE0/6zWyqoc4GCwN5liLZt4KZWPok1IX0ZRfACLcBGAsYHQ/s1600/foxpremium1.png" group-title="FILMES E SERIES",FOX PREMIUM 1 HD³
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10839
+#EXTINF:-1 tvg-id="FOX Premium 1" tvg-name="FOX PREMIUM 1¹" tvg-logo="https://1.bp.blogspot.com/-O5pJ8u14kA0/Xk70VKd4yOI/AAAAAAAACE0/6zWyqoc4GCwN5liLZt4KZWPok1IX0ZRfACLcBGAsYHQ/s1600/foxpremium1.png" group-title="FILMES E SERIES",FOX PREMIUM 1¹
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7847
+#EXTINF:-1 tvg-id="FOX Premium 2" tvg-name="FOX PREMIUM 2 FHD" tvg-logo="https://1.bp.blogspot.com/-oY_j0lWUEK8/Xk70VU06WDI/AAAAAAAACE4/b-3iELzjF7k3YzBqk9QW-6vfIR076iKXQCLcBGAsYHQ/s1600/foxpremium2.png" group-title="FILMES E SERIES",FOX PREMIUM 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/766
+#EXTINF:-1 tvg-id="FOX Premium 2" tvg-name="FOX PREMIUM 2 HD" tvg-logo="https://1.bp.blogspot.com/-oY_j0lWUEK8/Xk70VU06WDI/AAAAAAAACE4/b-3iELzjF7k3YzBqk9QW-6vfIR076iKXQCLcBGAsYHQ/s1600/foxpremium2.png" group-title="FILMES E SERIES",FOX PREMIUM 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/760
+#EXTINF:-1 tvg-id="FOX Premium 2" tvg-name="FOX PREMIUM 2¹" tvg-logo="https://1.bp.blogspot.com/-oY_j0lWUEK8/Xk70VU06WDI/AAAAAAAACE4/b-3iELzjF7k3YzBqk9QW-6vfIR076iKXQCLcBGAsYHQ/s1600/foxpremium2.png" group-title="FILMES E SERIES",FOX PREMIUM 2¹
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7848
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="FOX SPORT 2 FHD" tvg-logo="http://mytv.tv.br/canais/foxsports2.png" group-title="SPORT",FOX SPORT 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7850
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://1.bp.blogspot.com/-Y1idTqzDjf8/Xk70WeyglQI/AAAAAAAACFA/RlnC7tHjSFsXZ7E3GzXOhnT6kWFW3UsEACLcBGAsYHQ/s1600/foxsports2.png" group-title="SPORT",FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1038
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="FOX SPORTS FHD" tvg-logo="https://1.bp.blogspot.com/-Qfv-pzAkyp4/Xk70WOOR6MI/AAAAAAAACE8/kp60S7231rMmZf4fsrwavNjIAJpE7QllACLcBGAsYHQ/s1600/foxsports.png" group-title="SPORT",FOX SPORTS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7849
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS FHD³" tvg-logo="https://1.bp.blogspot.com/-Qfv-pzAkyp4/Xk70WOOR6MI/AAAAAAAACE8/kp60S7231rMmZf4fsrwavNjIAJpE7QllACLcBGAsYHQ/s1600/foxsports.png" group-title="SPORT",FOX SPORTS FHD³
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10875
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD" tvg-logo="https://1.bp.blogspot.com/-Qfv-pzAkyp4/Xk70WOOR6MI/AAAAAAAACE8/kp60S7231rMmZf4fsrwavNjIAJpE7QllACLcBGAsYHQ/s1600/foxsports.png" group-title="SPORT",FOX SPORTS HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1037
+#EXTINF:-1 tvg-id="" tvg-name="FURG TV" tvg-logo="http://2.bp.blogspot.com/-Ubq8mgRDX40/TzGfE9VYNmI/AAAAAAAAADA/jUAhUM1XDbo/s1600/logo_furg.gif" group-title="ABERTOS VARIEDADES",FURG TV
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1648
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA" tvg-logo="https://4.bp.blogspot.com/-31w8xd-dTds/XmPtcCnCx3I/AAAAAAAACOE/HPJz-lDsiW0gUe8HmgKg8TM2ol18LkyzACK4BGAYYCw/s400/FUTURA.png" group-title="ABERTOS",FUTURA
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7896
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="https://2.bp.blogspot.com/-fOTJe1eLQu8/XmRL8F5zoiI/AAAAAAAACT4/jtwEeYduL-Eduk2F_RswbLvxRrKl6jgsQCK4BGAYYCw/s400/FX.png" group-title="FILMES E SERIES",FX HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/5593
+#EXTINF:-1 tvg-id="" tvg-name="galinha pintadinha" tvg-logo="https://www.galinhapintadinha.com.br/mini/pt/mini/images/mobile/06-GPMNT_Hotsite568_pers.png" group-title="CANAIS 24 HORAS ",galinha pintadinha
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10896
+#EXTINF:-1 tvg-id="" tvg-name="GATO FELIX" tvg-logo="https://1.bp.blogspot.com/-I98ZPbA5kIA/VdjolMQZUbI/AAAAAAAAlQk/WxkHO5Sd-zk/s1600/gato-felix-em-png-vetorizado-queroimagem-cei%25C3%25A7a-crispim%2B%25282%2529.png" group-title="CANAIS 24 HORAS ",GATO FELIX
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7912
+#EXTINF:-1 tvg-id="" tvg-name="Gen Tv" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmdlbnR2b2ZpY2lhbF9zY3JlZW5fMF8xNTQ4MDQ4OTUzXzA2MQ/screen-0.jpg?fakeurl=1&type=.jpg" group-title="ABERTOS VARIEDADES",Gen Tv
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1655
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO " tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/12378
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO 4K" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="CANAIS 4K",GLOBO 4K
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/12414
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO AMAZONAS" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO AMAZONAS
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/8823
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA " tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO BAHIA 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/8822
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO BRASILIA
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/8821
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA ²" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO BRASILIA ²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10873
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA SD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO BRASILIA SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/11159
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO CURITIBA" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO CURITIBA
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/8825
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/866
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/899
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO GOIANIA" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO GOIANIA
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/8824
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO HD 2 RJ Dual Audio" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO HD 2 RJ Dual Audio
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/12646
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO MINAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/870
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO MINAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/903
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS HD³" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO MINAS HD³
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10857
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS³" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO MINAS³
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10814
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS" tvg-logo="http://mytv.tv.br/canais/globonews.png" group-title="NOTICIAS ",GLOBO NEWS
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7851
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS HD" tvg-logo="https://1.bp.blogspot.com/-JElazdWUyUo/Xk70WwgDZCI/AAAAAAAACFE/Fj8OKkbTSp03ONDEPgW9PzMlDWSmMx52QCLcBGAsYHQ/s1600/globonews.png" group-title="NOTICIAS ",GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/872
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS HD³" tvg-logo="https://1.bp.blogspot.com/-JElazdWUyUo/Xk70WwgDZCI/AAAAAAAACFE/Fj8OKkbTSp03ONDEPgW9PzMlDWSmMx52QCLcBGAsYHQ/s1600/globonews.png" group-title="NOTICIAS ",GLOBO NEWS HD³
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10872
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO NORDESTE
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/874
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE FHD³" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO NORDESTE FHD³
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10858
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO NORDESTE HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/875
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC FLORIANOPOLIS HD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO NSC FLORIANOPOLIS HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/12660
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS FHD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO RBS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/12661
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS HD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO RBS HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/12662
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PORTO ALEGRE SD " tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO RBS PORTO ALEGRE SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/12794
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RECIFE²" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO RECIFE²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7852
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIBEIRAO PRETO" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO RIBEIRAO PRETO
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10894
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO CLARO" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO RIO CLARO
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10895
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ FHD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO RJ FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/12669
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO RJ HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/880
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ HD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO RJ HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/12778
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ³" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO RJ³
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10812
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC TV CURITIBA HD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO RPC TV CURITIBA HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/12653
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SAT" tvg-logo="https://2.bp.blogspot.com/-T3wNQjBL814/XmP9_5Y9JuI/AAAAAAAACP8/J92txNFHDe49NEBtmghcIXZrUJbDxuKtACK4BGAYYCw/s400/GLOBOSAT.png" group-title="VARIEDADE",GLOBO SAT
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7861
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP FHD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO SP FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/917
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP FHD³" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO SP FHD³
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10856
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP FHD¹" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO SP FHD¹
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10874
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/918
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP³" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO SP³
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10813
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU SD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO TV TEM BAURU SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/922
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO TV TEM SOROCABA
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/14757
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA SANTOS FHD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO TV TRIBUNA SANTOS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10886
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO TV VERDES MARES
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/5845
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES FORTALEZA" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO TV VERDES MARES FORTALEZA
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/13582
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VERDES MARES HD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO VERDES MARES HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/12658
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOSAT HD" tvg-logo="https://2.bp.blogspot.com/-T3wNQjBL814/XmP9_5Y9JuI/AAAAAAAACP8/J92txNFHDe49NEBtmghcIXZrUJbDxuKtACK4BGAYYCw/s400/GLOBOSAT.png" group-title="VARIEDADE",GLOBOSAT HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/927
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOSAT HD³" tvg-logo="https://2.bp.blogspot.com/-T3wNQjBL814/XmP9_5Y9JuI/AAAAAAAACP8/J92txNFHDe49NEBtmghcIXZrUJbDxuKtACK4BGAYYCw/s400/GLOBOSAT.png" group-title="VARIEDADE",GLOBOSAT HD³
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10870
+#EXTINF:-1 tvg-id="" tvg-name="GLOBOTV TRIBUNA SANTOS SD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBOTV TRIBUNA SANTOS SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10885
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO HD³" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="GLOBO",GLOBO HD³
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10825
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB FHD" tvg-logo="https://1.bp.blogspot.com/-_Sup4b2u1Fw/Xk70XYrRbSI/AAAAAAAACFM/dltfrlbQAWw-oxFUijzgnnskPf-06OVJACLcBGAsYHQ/s1600/gloob.png" group-title="INFANTIL",GLOOB FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/986
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB HD" tvg-logo="https://1.bp.blogspot.com/-_Sup4b2u1Fw/Xk70XYrRbSI/AAAAAAAACFM/dltfrlbQAWw-oxFUijzgnnskPf-06OVJACLcBGAsYHQ/s1600/gloob.png" group-title="INFANTIL",GLOOB HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/987
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB²" tvg-logo="https://1.bp.blogspot.com/-_Sup4b2u1Fw/Xk70XYrRbSI/AAAAAAAACFM/dltfrlbQAWw-oxFUijzgnnskPf-06OVJACLcBGAsYHQ/s1600/gloob.png" group-title="INFANTIL",GLOOB²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7853
+#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="https://3.bp.blogspot.com/-iCbjYIDrwhE/XmP_eN3d_iI/AAAAAAAACQI/gVXF4j0G4Dwz8ZDiKaI8Qgth5DSUrcscgCK4BGAYYCw/s400/GNT.png" group-title="VARIEDADE",GNT
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7854
+#EXTINF:-1 tvg-id="" tvg-name="GNT FHD" tvg-logo="https://3.bp.blogspot.com/-iCbjYIDrwhE/XmP_eN3d_iI/AAAAAAAACQI/gVXF4j0G4Dwz8ZDiKaI8Qgth5DSUrcscgCK4BGAYYCw/s400/GNT.png" group-title="VARIEDADE",GNT FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/937
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD ³" tvg-logo="https://3.bp.blogspot.com/-iCbjYIDrwhE/XmP_eN3d_iI/AAAAAAAACQI/gVXF4j0G4Dwz8ZDiKaI8Qgth5DSUrcscgCK4BGAYYCw/s400/GNT.png" group-title="VARIEDADE",GNT HD ³
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10871
+#EXTINF:-1 tvg-id="" tvg-name="Gostei Gospel Tv" tvg-logo="http://cdn-radiotime-logos.tunein.com/s287840g.png" group-title="RELIGIOSOS ",Gostei Gospel Tv
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1691
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 FHD" tvg-logo="https://1.bp.blogspot.com/-uh9tauhKWww/Xk70ZxoWtWI/AAAAAAAACFo/MthwzRm9VcY96cemup2ZY_4hclxsCYvygCLcBGAsYHQ/s1600/history2.png" group-title="DOCUMENTARIOS",H2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1009
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 HD" tvg-logo="https://1.bp.blogspot.com/-uh9tauhKWww/Xk70ZxoWtWI/AAAAAAAACFo/MthwzRm9VcY96cemup2ZY_4hclxsCYvygCLcBGAsYHQ/s1600/history2.png" group-title="DOCUMENTARIOS",H2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1008
+#EXTINF:-1 tvg-id="H2" tvg-name="H2²" tvg-logo="https://1.bp.blogspot.com/-uh9tauhKWww/Xk70ZxoWtWI/AAAAAAAACFo/MthwzRm9VcY96cemup2ZY_4hclxsCYvygCLcBGAsYHQ/s1600/history2.png" group-title="DOCUMENTARIOS",H2²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7859
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 FHD" tvg-logo="https://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png" group-title="HBO",HBO 2 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1030
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="https://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png" group-title="HBO",HBO 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1036
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO HD 2²" tvg-logo="https://1.bp.blogspot.com/-lDifYsJ1bkU/Xk70YgIlO9I/AAAAAAAACFY/H1zNEDSJMCwy4RC_c_8ol0eGstwkb4R7gCLcBGAsYHQ/s1600/hbo2.png" group-title="HBO",HBO HD 2²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7856
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO FAMILY HD" tvg-logo="https://3.bp.blogspot.com/-aGkAuFCyafk/Xk8yLrRrrOI/AAAAAAAACJs/i7YTgH5c8WonAcJEje8dgmN1qTB7LOZKwCK4BGAYYCw/s400/HBO%2BFAMILY.png" group-title="HBO",HBO FAMILY HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1029
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO FAMILY HD" tvg-logo="https://3.bp.blogspot.com/-aGkAuFCyafk/Xk8yLrRrrOI/AAAAAAAACJs/i7YTgH5c8WonAcJEje8dgmN1qTB7LOZKwCK4BGAYYCw/s400/HBO%2BFAMILY.png" group-title="HBO",HBO FAMILY HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1035
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO FHD" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png" group-title="HBO",HBO FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1028
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png" group-title="HBO",HBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1034
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI FHD" tvg-logo="https://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png" group-title="HBO",HBO MUNDI FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/778
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI HD" tvg-logo="https://1.bp.blogspot.com/-iDOUNw5LOkk/Xk8wvRpCdNI/AAAAAAAACJU/pBSJbJCTe8QU0img-Ad3NJlUVfXGKfapQCK4BGAYYCw/s400/HBO%2BMUND.png" group-title="HBO",HBO MUNDI HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/783
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS FHD" tvg-logo="https://1.bp.blogspot.com/-IaVubC3e0w4/Xk70YuLghmI/AAAAAAAACFc/dfLAePYpBlwPazBj_MIh10M25XiQDMIpgCLcBGAsYHQ/s1600/hboplus.png" group-title="HBO",HBO PLUS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1027
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO PLUS HD" tvg-logo="https://1.bp.blogspot.com/-IaVubC3e0w4/Xk70YuLghmI/AAAAAAAACFc/dfLAePYpBlwPazBj_MIh10M25XiQDMIpgCLcBGAsYHQ/s1600/hboplus.png" group-title="HBO",HBO PLUS HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1033
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS*E HD" tvg-logo="https://3.bp.blogspot.com/-eiZtvevBrLw/Xk8vl-ROKpI/AAAAAAAACJI/mKLZZWnx_p0F22K2pGojXuttcYJopQmEACK4BGAYYCw/s400/HBO%2BPLUS%2BE.png" group-title="HBO",HBO PLUS*E HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1026
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO PLUS*E HD" tvg-logo="https://3.bp.blogspot.com/-eiZtvevBrLw/Xk8vl-ROKpI/AAAAAAAACJI/mKLZZWnx_p0F22K2pGojXuttcYJopQmEACK4BGAYYCw/s400/HBO%2BPLUS%2BE.png" group-title="HBO",HBO PLUS*E HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1032
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="https://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png" group-title="HBO",HBO POP HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/775
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="https://3.bp.blogspot.com/-cTWZC_SgeNg/Xk8w0j0Lk6I/AAAAAAAACJc/XYy3GlG6s7MGUPoSHeQ-f0ptS8qA3wmAACK4BGAYYCw/s400/HBO%2BPOP.png" group-title="HBO",HBO POP HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/781
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://3.bp.blogspot.com/-PPCtBFK9aH8/Xk8zIlyv2MI/AAAAAAAACJ4/POMyrI-OG9whF3UoiOEqS431LuwZmSVGQCK4BGAYYCw/s400/HBO%2BSIGNATURE.png" group-title="HBO",HBO SIGNATURE FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7353
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO SIGNATURE FHD²" tvg-logo="https://3.bp.blogspot.com/-PPCtBFK9aH8/Xk8zIlyv2MI/AAAAAAAACJ4/POMyrI-OG9whF3UoiOEqS431LuwZmSVGQCK4BGAYYCw/s400/HBO%2BSIGNATURE.png" group-title="HBO",HBO SIGNATURE FHD²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7858
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO SIGNATURE HD" tvg-logo="https://3.bp.blogspot.com/-PPCtBFK9aH8/Xk8zIlyv2MI/AAAAAAAACJ4/POMyrI-OG9whF3UoiOEqS431LuwZmSVGQCK4BGAYYCw/s400/HBO%2BSIGNATURE.png" group-title="HBO",HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1031
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme HD" tvg-logo="https://3.bp.blogspot.com/-wpkT1kBB508/XmQfxsbum-I/AAAAAAAACTI/CWh7uRsUWmsEWbF8du8SchSJrkHM3-EAwCK4BGAYYCw/s400/HBO%2BXTRE.png" group-title="HBO",HBO Xtreme HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/776
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme HD" tvg-logo="https://3.bp.blogspot.com/-wpkT1kBB508/XmQfxsbum-I/AAAAAAAACTI/CWh7uRsUWmsEWbF8du8SchSJrkHM3-EAwCK4BGAYYCw/s400/HBO%2BXTRE.png" group-title="HBO",HBO Xtreme HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/782
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO+ FHD" tvg-logo="https://1.bp.blogspot.com/-IaVubC3e0w4/Xk70YuLghmI/AAAAAAAACFc/dfLAePYpBlwPazBj_MIh10M25XiQDMIpgCLcBGAsYHQ/s1600/hboplus.png" group-title="HBO",HBO+ FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7351
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO+ FHD²" tvg-logo="https://1.bp.blogspot.com/-IaVubC3e0w4/Xk70YuLghmI/AAAAAAAACFc/dfLAePYpBlwPazBj_MIh10M25XiQDMIpgCLcBGAsYHQ/s1600/hboplus.png" group-title="HBO",HBO+ FHD²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7857
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO²" tvg-logo="http://mytv.tv.br/canais/hbo.png" group-title="HBO",HBO²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7855
+#EXTINF:-1 tvg-id="" tvg-name="He-Man" tvg-logo="https://1.bp.blogspot.com/-DvLj9DRjXNs/XkIRfFtTSiI/AAAAAAAAB_4/K9bkEzGXxIAuW9-hhesxZcYzCwtc4DmDQCLcBGAsYHQ/s320/He-Man.png" group-title="CANAIS 24 HORAS ",He-Man
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/5665
+#EXTINF:-1 tvg-id="" tvg-name="He-Man- E os Mestres do Universo" tvg-logo="https://4.bp.blogspot.com/-vRSuFct-zJM/XoD_Lyfa2xI/AAAAAAAACew/1UyEKR3W7jgbHM9Z4_CPZKXkyL8uG5FaQCK4BGAYYCw/s320/sheha-e-heman-em-png-queroimagem-cei%25C3%25A7a-crispim.png" group-title="CANAIS 24 HORAS ",He-Man- E os Mestres do Universo
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/17456
+#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD" tvg-logo="https://1.bp.blogspot.com/-BXGlMOVHnMs/Xk8rh1-AnnI/AAAAAAAACIk/f8OG9cGj4usH-PydVM-T9P7c1t5PFWjdQCK4BGAYYCw/s400/HGTV.png" group-title="DOCUMENTARIOS",HGTV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1020
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD²" tvg-logo="https://1.bp.blogspot.com/-BXGlMOVHnMs/Xk8rh1-AnnI/AAAAAAAACIk/f8OG9cGj4usH-PydVM-T9P7c1t5PFWjdQCK4BGAYYCw/s400/HGTV.png" group-title="DOCUMENTARIOS",HGTV HD²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1002
+#EXTINF:-1 tvg-id="History" tvg-name="HISTORY CHANNEL FHD" tvg-logo="https://1.bp.blogspot.com/-A_BkkBW2TRg/Xk70ZvLLFqI/AAAAAAAACFk/UdNNhHr_eyIX7YInVJ1owphUbFoBmsq4ACLcBGAsYHQ/s1600/history.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1006
+#EXTINF:-1 tvg-id="History" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-A_BkkBW2TRg/Xk70ZvLLFqI/AAAAAAAACFk/UdNNhHr_eyIX7YInVJ1owphUbFoBmsq4ACLcBGAsYHQ/s1600/history.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1007
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY FHD H.265" tvg-logo="https://1.bp.blogspot.com/-A_BkkBW2TRg/Xk70ZvLLFqI/AAAAAAAACFk/UdNNhHr_eyIX7YInVJ1owphUbFoBmsq4ACLcBGAsYHQ/s1600/history.png" group-title="CANAIS H265",HISTORY FHD H.265
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/13109
+#EXTINF:-1 tvg-id="History" tvg-name="HISTORY²" tvg-logo="https://1.bp.blogspot.com/-A_BkkBW2TRg/Xk70ZvLLFqI/AAAAAAAACFk/UdNNhHr_eyIX7YInVJ1owphUbFoBmsq4ACLcBGAsYHQ/s1600/history.png" group-title="DOCUMENTARIOS",HISTORY²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7860
+#EXTINF:-1 tvg-id="" tvg-name="Histórias da Bíblia" tvg-logo="https://3.bp.blogspot.com/-U6LDmGrQtt4/XnZL0z_rv4I/AAAAAAAACas/-ZPpDyOSkk4jQ-qw9IBtf9CoYakd4auLgCK4BGAYYCw/s400/Hist%25C3%25B3rias-Infantis-300x178.png" group-title="CANAIS 24 HORAS ",Histórias da Bíblia
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/17455
+#EXTINF:-1 tvg-id="" tvg-name="Homem.Aranha" tvg-logo="https://4.bp.blogspot.com/-anuXcExqbec/XoOxFj2YlTI/AAAAAAAACgk/nA_5XQncm58i5GHewHCHlP5JE7apvCYAwCK4BGAYYCw/s320/qw3pgezc.png" group-title="CANAIS 24 HORAS ",Homem.Aranha
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/17459
+#EXTINF:-1 tvg-id="" tvg-name="Hunter x Hunter" tvg-logo="https://4.bp.blogspot.com/-bvzEPIKypmM/XoOydgYsjfI/AAAAAAAACgw/-zqN0y3xDKgLI9XbKYD91zEpTaczx1ZkACK4BGAYYCw/s320/wvtlh2kl.png" group-title="CANAIS 24 HORAS ",Hunter x Hunter
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/17460
+#EXTINF:-1 tvg-id="" tvg-name="Hércules" tvg-logo="https://3.bp.blogspot.com/-LnpTYhSWBNg/XkwX80-1BzI/AAAAAAAACCI/_Z7gelJMkmE_Zuu6PUFLEa-uPKVxfu4wACK4BGAYYCw/s1600/hercules-the-legendary-journeys-5be02a4ac2dde.png" group-title="CANAIS 24 HORAS ",Hércules
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/8390
+#EXTINF:-1 tvg-id="Discovery ID" tvg-name="ID - INVESTIGAÇÃO DISCOVERY FHD" tvg-logo="https://1.bp.blogspot.com/-Gecf4_UVW7Y/Xk70aNhiV0I/AAAAAAAACFs/1iczvzGT0XMxMqNaIWca9KCEgxaiuPuEgCLcBGAsYHQ/s1600/investigationdiscovery.png" group-title="DOCUMENTARIOS",ID - INVESTIGAÇÃO DISCOVERY FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7831
+#EXTINF:-1 tvg-id="Discovery ID" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD" tvg-logo="https://1.bp.blogspot.com/-Gecf4_UVW7Y/Xk70aNhiV0I/AAAAAAAACFs/1iczvzGT0XMxMqNaIWca9KCEgxaiuPuEgCLcBGAsYHQ/s1600/investigationdiscovery.png" group-title="DOCUMENTARIOS",ID - INVESTIGAÇÃO DISCOVERY HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/1005
+#EXTINF:-1 tvg-id="Discovery ID" tvg-name="ID - INVESTIGAÇÃO DISCOVERY HD²" tvg-logo="https://1.bp.blogspot.com/-Gecf4_UVW7Y/Xk70aNhiV0I/AAAAAAAACFs/1iczvzGT0XMxMqNaIWca9KCEgxaiuPuEgCLcBGAsYHQ/s1600/investigationdiscovery.png" group-title="DOCUMENTARIOS",ID - INVESTIGAÇÃO DISCOVERY HD²
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/996
+#EXTINF:-1 tvg-id="" tvg-name="IMPD TV" tvg-logo="https://lh3.googleusercontent.com/lHZVmRkY3VE8O2a0JGndY53_ZiNq-EZY862w8Ha72yUsaP_KGahe8EnVzbsuqc2V_iA" group-title="RELIGIOSOS ",IMPD TV
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/4765
+#EXTINF:-1 tvg-id="" tvg-name="Império Selvagem" tvg-logo="https://1.bp.blogspot.com/-GmOURuDfj_8/Xntl00u8yGI/AAAAAAAACcE/GEbmpCo8xLoeJWwylt50quPPVRsxbBFbQCK4BGAYYCw/s320/a2h876y8.png" group-title="CANAIS 24 HORAS ",Império Selvagem
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/16043
+#EXTINF:-1 tvg-id="" tvg-name="Johnny Bravo" tvg-logo="https://2.bp.blogspot.com/-6mMR6bMtiC0/VGvwAx8_s_I/AAAAAAAAh1c/WEb0byHvoAk/s1600/Johnny-Bravo-em-png-queroimagem-cei%C3%A7a-crispim.png" group-title="CANAIS 24 HORAS ",Johnny Bravo
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7914
+#EXTINF:-1 tvg-id="" tvg-name="Kick Buttowski" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/38/Kick_Buttowski_%28character%29.png" group-title="CANAIS 24 HORAS ",Kick Buttowski
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/7644
+#EXTINF:-1 tvg-id="" tvg-name="KND- A Turma do Bairro" tvg-logo="https://4.bp.blogspot.com/-AevfdYaEZrg/XoO1muMMR3I/AAAAAAAAChc/Zr4iuD6VRKE87LKfxpPHyJNSCXlya-Y2gCK4BGAYYCw/s320/gwj8a02r.png" group-title="CANAIS 24 HORAS ",KND- A Turma do Bairro
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/17461
+#EXTINF:-1 tvg-id="" tvg-name="Krypto o Supercao" tvg-logo="https://3.bp.blogspot.com/-vKPtOArm7wM/XoO6x3bqRSI/AAAAAAAACho/k63ID72ij1IAp7H-A0YB4Dws1_VjdZUmQCK4BGAYYCw/s320/4ywvd8n4.png" group-title="CANAIS 24 HORAS ",Krypto o Supercao
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/17462
+#EXTINF:-1 tvg-id="" tvg-name="LARVA" tvg-logo="https://4.bp.blogspot.com/-WNjC-nOV8FE/XoDi7AxJpbI/AAAAAAAACdo/TdL62b6ksRQxhzp5cA4P2v55u2hP1bvUwCK4BGAYYCw/s320/5ab111997603fc558cffc0f3.png" group-title="CANAIS 24 HORAS ",LARVA
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/16947
+#EXTINF:-1 tvg-id="" tvg-name="Léo o caminhão" tvg-logo="https://4.bp.blogspot.com/-czxpIkZrsOM/XoO1G7RbvDI/AAAAAAAAChM/nUW3nAA9fRIjbqvdTRKsAiS9km4CiUSOgCK4BGAYYCw/s320/ez82jv61.png" group-title="CANAIS 24 HORAS ",Léo o caminhão
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/17463
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME FHD" tvg-logo="https://1.bp.blogspot.com/-wgZfmWOMWuY/XmQAYXiZ9JI/AAAAAAAACQU/Lb4tELo4R5Iv65QlzWta3f6sBcq4eg7GwCK4BGAYYCw/s400/LIFETIME.png" group-title="VARIEDADE",LIFETIME FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/938
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD" tvg-logo="https://1.bp.blogspot.com/-wgZfmWOMWuY/XmQAYXiZ9JI/AAAAAAAACQU/Lb4tELo4R5Iv65QlzWta3f6sBcq4eg7GwCK4BGAYYCw/s400/LIFETIME.png" group-title="VARIEDADE",LIFETIME HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/939
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça" tvg-logo="https://i.pinimg.com/originals/0f/54/78/0f5478645982b355d7ad56729a6bd8ab.png" group-title="CANAIS 24 HORAS ",Liga da Justiça
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/10809
+#EXTINF:-1 tvg-id="" tvg-name="Little Ange" tvg-logo="https://3.bp.blogspot.com/-xivV5OZw91U/XoPsKrqnJmI/AAAAAAAACh0/6K0bvAAT2_cEJfE9QK4KJef52c8EFrrcACK4BGAYYCw/s320/vvdu824t.png" group-title="CANAIS 24 HORAS ",Little Ange
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://grtsvk.life:8080/internet1/internet1/17464

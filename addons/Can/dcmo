@@ -1,0 +1,171 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3kUMILT.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]ANIMAL PLANET FHD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/13493
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3kUMILT.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]ANIMAL PLANET FHD H265   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/45606
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3kUMILT.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]ANIMAL PLANET HD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8145
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3kUMILT.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]ANIMAL PLANET HD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1283
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3kUMILT.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]ANIMAL PLANET SD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8146
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3kUMILT.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]ANIMAL PLANET SD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1057
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VkB9FCN.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY CHANNEL FHD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/13436
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VkB9FCN.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY CHANNEL FHD H265   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/48443
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VkB9FCN.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY CHANNEL HD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8112
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VkB9FCN.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY CHANNEL HD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/24208
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VkB9FCN.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY CHANNEL SD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8113
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VkB9FCN.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY CHANNEL SD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1049
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nf3QoBH.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY TURBO FHD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/13500
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nf3QoBH.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY TURBO FHD H265   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/49797
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nf3QoBH.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY TURBO HD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8100
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nf3QoBH.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY TURBO HD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1242
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nf3QoBH.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY TURBO SD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8101
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nf3QoBH.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY TURBO SD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1046
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I5FO01n.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY THEATER FHD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/13482
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I5FO01n.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY THEATER FHD H265   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/45604
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I5FO01n.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY THEATER HD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8102
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I5FO01n.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY THEATER HD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1243
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I5FO01n.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY THEATER SD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8103
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I5FO01n.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY THEATER SD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1047
+
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/246-2465443_hgtv-logo-large-home-and-garden-tv-logo.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]HGTV FHD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/13498
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/246-2465443_hgtv-logo-large-home-and-garden-tv-logo.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]HGTV FHD H265   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/24223
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/246-2465443_hgtv-logo-large-home-and-garden-tv-logo.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]HGTV HD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8110
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/246-2465443_hgtv-logo-large-home-and-garden-tv-logo.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]HGTV HD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1248
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/246-2465443_hgtv-logo-large-home-and-garden-tv-logo.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]HGTV SD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8111
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/246-2465443_hgtv-logo-large-home-and-garden-tv-logo.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]HGTV SD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/49201
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VBnnhPE.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY SCIENCE FHD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/13499
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VBnnhPE.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY SCIENCE FHD H265   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/24222
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VBnnhPE.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY SCIENCE HD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8104
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VBnnhPE.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY SCIENCE HD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/5792
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VBnnhPE.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY SCIENCE SD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8105
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VBnnhPE.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY SCIENCE SD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1244
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qk44xUU.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY H&H FHD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/13484
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qk44xUU.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY H&H FHD H265   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/49801
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qk44xUU.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY H&H HD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8108
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qk44xUU.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY H&H HD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1247
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qk44xUU.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY H&H SD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8109
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qk44xUU.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY H&H SD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1048
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8iRoTpO.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY WORLD FHD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/13481
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8iRoTpO.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY WORLD HD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8098
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8iRoTpO.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY WORLD HD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1241
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8iRoTpO.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY WORLD SD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8099
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8iRoTpO.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]DISCOVERY WORLD SD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/7228
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qQC3Tpc.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]ID - INVESTIGACAO DISCOVERY FHD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/13464
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qQC3Tpc.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]ID - INVESTIGACAO DISCOVERY FHD H265   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/24237
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qQC3Tpc.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]ID - INVESTIGACAO DISCOVERY HD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8003
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qQC3Tpc.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]ID - INVESTIGACAO DISCOVERY HD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1180
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qQC3Tpc.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]ID - INVESTIGACAO DISCOVERY SD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8004
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qQC3Tpc.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]ID - INVESTIGACAO DISCOVERY SD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1030
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/013fpEW.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]HISTORY CHANNEL FHD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/13465
+#EXTINF:-1 tvg-logo="https://i.imgur.com/013fpEW.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]HISTORY CHANNEL FHD H265   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/24238
+#EXTINF:-1 tvg-logo="https://i.imgur.com/013fpEW.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]HISTORY CHANNEL HD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8005
+#EXTINF:-1 tvg-logo="https://i.imgur.com/013fpEW.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]HISTORY CHANNEL HD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1097
+#EXTINF:-1 tvg-logo="https://i.imgur.com/013fpEW.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]HISTORY CHANNEL SD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8006
+#EXTINF:-1 tvg-logo="https://i.imgur.com/013fpEW.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]HISTORY CHANNEL SD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1098
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ikThPFd.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]H2 FHD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/13468
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ikThPFd.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]H2 FHD H265   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/45602
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ikThPFd.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]H2 HD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8018
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ikThPFd.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]H2 HD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/5626
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ikThPFd.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]H2 SD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8019
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ikThPFd.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]H2 SD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/4592
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FvE6p6P.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]NAT GEO FHD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/13506
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FvE6p6P.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]NAT GEO FHD H265   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/24243
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FvE6p6P.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]NAT GEO HD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/7982
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FvE6p6P.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]NAT GEO HD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1167
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FvE6p6P.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]NAT GEO SD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/7983
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FvE6p6P.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]NAT GEO SD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1022
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JObgBxU.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]NAT GEO WILD FHD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/13507
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JObgBxU.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]NAT GEO WILD FHD H265   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/24241
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JObgBxU.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]NAT GEO WILD HD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/7979
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JObgBxU.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]NAT GEO WILD HD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1165
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JObgBxU.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]NAT GEO WILD SD   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/7978
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JObgBxU.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]NAT GEO WILD SD1   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1024
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aLkyv57.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]SMITHSONIAN CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/54002

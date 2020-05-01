@@ -1,0 +1,840 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-ID="" tvg-name="-----Tv-On-----" tvg-logo="https://github.com/kallysderock/KallPlay/raw/master/imgs/KallPlaytv.png" group-title="Tv",[B][COLOR cyan]ooooo [B][COLOR fuchsia]TV On 1 [B][COLOR cyan]ooooo [/B][/COLOR]
+
+########15.04.2020#############################
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB CAM 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14029
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB CAM 1 SD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23144
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB CAM 2 SD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23146
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB CAM 3 HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23147
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB CAM 3 SD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23149
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB CAM 4 HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23148
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB CAM 4 SD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23150
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB CAM 5 HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23151
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB CAM 5 SD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23152
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB CAM 6 HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23153
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB CAM 6 SD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23154
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB CAM 7 HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23155
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB CAM 7 SD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23156
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB CAM 8 HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23157
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB CAM 8 SD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23158
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB CAM 9 HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23159
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB CAM 9 SD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23160
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB CAM 10 HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23161
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BBB CAM 10 SD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23162
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] A&E FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9020
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] A&E HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9068
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] AMC FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9019
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] AMC SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9067
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] ANIMAL PLANET FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8947
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8946
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] ARTE 1  FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14304
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] ARTE 1 HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14305
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] ARTE 1 SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9266
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] AXN FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9018
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] AXN SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9065
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BABY TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9126
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BABY TV SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9127
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BAND FHD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8879
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BAND HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8524
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BAND RECIFE FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14163
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BAND NEWS FHD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9147
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BAND NEWS SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9148
+
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BIS FHD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/11108
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BIS HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9141
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BOOMERANG FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9124
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] BOOMERANG HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14240
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] CANAL BRASIL HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14196
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9061
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] CANAL BRASIL SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/11093
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] CANCAO NOVA FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9219
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TV EVANGELIZAR
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9220
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] CARTOON NETWORK FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14241
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] CARTOON NETWORK HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14242
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] CINEMAX SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9063
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] COMEDY CENTRAL FHD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9262
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] COMEDY CENTRAL HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9261
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] CURTA!  FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14307
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISCOVERY CHANNEL FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14266
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISCOVERY CHANNEL HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14274
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISCOVERY CHANNEL SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8945
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISCOVERY CIVILIZATOR HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14278
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISCOVERY HOME & HEALTH FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14272
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISCOVERY HOME & HEALTH HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14280
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISCOVERY HOME & HEALTH SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8939
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISCOVERY KIDS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8935
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISCOVERY KIDS SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8936
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISCOVERY SCIENCE FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8932
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8931
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISCOVERY THEATER FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14267
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISCOVERY THEATER HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14275
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISCOVERY THEATER SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8930
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISCOVERY TURBO FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8926
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8925
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISCOVERY WORLD FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14268
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISCOVERY WORLD HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14276
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISCOVERY WORLD SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8924
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISNEY CHANNEL HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14246
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISNEY CHANNEL SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9119
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISNEY JUNIOR FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9092
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9114
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISNEY XD FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14249
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISNEY XD HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14250
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DISNEY XD SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9113
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] DOG TV HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9109
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] E! HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14308
+
+
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FOOD NETWORK FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14309
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FOOD NETWORK HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14310
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FOOD NETWORK SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9256
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FOX FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9015
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FOX HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9059
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FOX LIFE FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14201
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FOX LIFE HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14202
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FOX LIFE SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9058
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FOX PREMIUM 1 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9014
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FOX PREMIUM 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9055
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FOX PREMIUM 2 FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14205
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FOX PREMIUM 2 HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14206
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FX FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14207
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FX FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9008
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO RJ HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8549
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO TV GAZETA VITÓRIA FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23114
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO TV GAZETA VITORIA HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/16429
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO TV GAZETA ALAGOAS FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23112
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO BAHIA FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/13847
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO BAHIA HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8554
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO BAHIA SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/13828
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO BRASILIA FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23115
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO BRASILIA HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9208
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO BRASILIA SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8571
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO ANHANGUERA HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8573
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO TV MIRANTE COCAIS FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/13830
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO TV MIRANTE COCAIS HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8574
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO TV CENTRO AMERICA HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8558
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO EPTV SUL DE MINAS FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23120
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO EPTV SAO CARLOS SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9192
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO TV MORENA HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9190
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO INTER TV DOS VALES FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23111
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO INTER TV GRANDE MINHAS HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23117
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO INTERTV CABUGI SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8562
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO MINAS HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9200
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO MINAS SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9202
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO NORDESTE HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9197
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO NSC BLUMENAU FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23122
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO NSC FLORIENOPOLIS HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9205
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO NORDESTE HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9174
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO RBS TV POA HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/13848
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO GRANDE RIO FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9195
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO RPC CURITIBA HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8572
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO TV LIBERAL BELEM SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8569
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO SERGIPE FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23110
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO TV TEM BAURU SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9185
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO TV TRIBUNA SANTOS SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9183
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO TV VERDES MARES FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9181
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO VERDES MARES HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8551
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO NEWS FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14327
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO NEWS HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14328
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOBO NEWS SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9150
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SBT FHD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8886
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SBT HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8884
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SBT RECIFE FHD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14155
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SBT PARANA SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8883
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] MAIS GLOBOSAT FHD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14324
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] MAIS GLOBOSAT HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9179
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOOBINHO FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14251
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOOB FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14253
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOOB HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14254
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GLOOB SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9107
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GNT FHD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/11104
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] GNT HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9252
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] H2 FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14281
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] H2 HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14283
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14129
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14134
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9087
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO 2 FHD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9085
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO 2 HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9084
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO FAMILY FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14131
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO FAMILY HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14136
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO FAMILY SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9083
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO PLUS FHD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9078
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO PLUS HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9077
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO SIGNATURE FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14133
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO SIGNATURE HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14138
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO SIGNATURE SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9074
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO MUNDI FHD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9049
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO XTREME FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14185
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO XTREME HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14188
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO XTREME SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9048
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO POP FHD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9043
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HBO POP HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8404
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HISTORY CHANNEL FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14282
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HISTORY CHANNEL HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14284
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] HISTORY CHANNEL SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8912
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] ID - INVESTIGAÇÃO DISCOVERY FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8920
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] ID - INVESTIGAÇÃO DISCOVERY HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8919
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] I-SAT FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14209
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] LIFETIME FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14313
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] LIFETIME HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14314
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] LIFETIME SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9268
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] MEGAPIX FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9003
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] MEGAPIX HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9041
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] MTV FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14333
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] MTV HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14334
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] MTV SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9140
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] MTV LIVE HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9136
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] MULTISHOW FHD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9133
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] MULTISHOW HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9132
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] MUSIC BOX BRASIL FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14339
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] MUSIC BOX BRAZIL SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9128
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] NAT GEO KIDS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9103
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] NAT GEO KIDS HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9102
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] NAT GEO WILD FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14286
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] NAT GEO WILD HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14288
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] NAT GEO WILD SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8907
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] NATIONAL GEOGRAPHIC FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8903
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8902
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] NHK HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8890
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] NICK JUNIOR FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14257
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] NICK JUNIOR HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14258
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] NICK JUNIOR SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9101
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] NICKELODEON HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14260
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] NICKELODEON SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9098
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] OFF FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14115
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] OFF HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14116
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] OFF SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8954
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PARAMOUNT FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9002
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PARAMOUNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9039
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PLAY TV FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14317
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PLAY TV SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9251
+
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PRIME BOX BRASIL FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14215
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] PRIME BOX BRAZIL SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/11095
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] RECORD SP FHD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8893
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] RECORD SP HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8894
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] RECORD NORDESTE FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14154
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] RECORD PARANA HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8898
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] RECORD NEWS FHD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9144
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] RECORD NEWS HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9143
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] REDE TV FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14164
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] REDE TV HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8875
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] REDE VIDA HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b1296000.m3u8
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] REDE GOSPEL SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/11076
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SONY FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9000
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SONY HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9037
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SPACE FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14219
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SPACE HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14220
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SPACE SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9036
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] STUDIO UNIVERSAL FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8998
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9033
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SYFY FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14223
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SYFY HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14224
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] SYFY SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9032
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TBS FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8889
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TBS HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9090
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TCM FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14227
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TCM SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9029
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TELECINE ACTION FHD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9241
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TELECINE ACTION HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9240
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TELECINE CULT FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14118
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TELECINE CULT HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14124
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TELECINE CULT SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9239
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TELECINE FUN FHD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9235
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TELECINE FUN HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9234
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TELECINE PIPOCA FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14120
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TELECINE PIPOCA HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14126
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TELECINE PIPOCA SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8373
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TELECINE PREMIUM FHD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9229
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TELECINE PREMIUM HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9228
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TELECINE TOUCH FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14122
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TELECINE TOUCH HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14128
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TELECINE TOUCH SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8369
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TLC FHD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/11106
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TLC HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9249
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TNT FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14229
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TNT HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14230
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TNT SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9028
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TNT SERIES FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8994
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TNT SÉRIES HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9025
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] NICKELODEON FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14259
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TOONCAST HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14262
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TOONCAST SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9096
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TRUTV HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14321
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TV CULTURA FHD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8874
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TV CULTURA SD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/8512
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] UNIVERSAL CHANNEL HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14234
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] VH1 MEGAHITS FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14337
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] VH1 MEGAHITS HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14338
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] VH1 MEGAHITS SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9130
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] VIVA FHD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9248
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] VIVA HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9245
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] WARNER CHANNEL FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14235
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] WARNER CHANNEL HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14236
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] WARNER CHANNEL SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9022
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] WOOHOO SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/9244
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] IDEAL TV SD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/11097
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] FASHION TV HD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/11092
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TERRA VIVA FHD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14166
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TV ESTACAO FHD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/14172
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] ZOOMO FHD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/11111
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] TV DIÁRIO HD¹
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23119
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] REDE GENESIS FHD H265
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/23124
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] CNN BRASIL HD
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/27305
+
+#EXTINF:-1,[B][COLOR fuchsia][B]KALLPLAY[/B][/COLOR] WOOHOO FHD²
+plugin://plugin.video.f4mTester/?name=[COLOR Rose][B]KALLPLAY addon[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://p2prime.xyz:80/1000011/1000011/11107

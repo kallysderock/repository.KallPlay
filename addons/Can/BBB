@@ -1,0 +1,113 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-ID="" tvg-name="-----Tv-On-----" tvg-logo="https://github.com/kallysderock/KallPlay/raw/master/imgs/KallPlaytv.png" group-title="BBB 24H",[B][COLOR cyan]ooooo [B][COLOR orange]===== BBB 24H =====[/B][/COLOR]
+
+###########15.04.2020##########################
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 8 HD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 8 HD ³
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70433
+#EXTINF:-1 tvg-id="" tvg-name="BBB MOSAICO HD ¹" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB MOSAICO HD ¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/66595
+#EXTINF:-1 tvg-id="" tvg-name="BBB TELA 1 SD ¹" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB TELA 1 SD ¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70410
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 1 HD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 1 HD ³
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70414
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 2 HD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 2 HD ³
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70415
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 2 SD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 2 SD ³
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70416
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 1 SD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 1 SD ³
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70417
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 3 HD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 3 HD ³
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70418
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 3 SD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 3 SD ³
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70419
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 4 HD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 4 HD ³
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70420
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 4 SD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 4 SD ³
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70421
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 5 HD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 5 HD ³
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70422
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 5 SD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 5 SD ³
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70423
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 6 HD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 6 HD ³
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70424
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 6 SD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 6 SD ³
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70425
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 7 HD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 7 HD ³
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70426
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 7 SD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 7 SD ³
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70427
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 10 SD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 10 SD ³
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70428
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 10 HD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 10 HD ³
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70429
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 9 SD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 9 SD ³
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70430
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 9 HD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 9 HD ³
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70431
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 8 SD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 8 SD ³
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70432
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://cld.pt/dl/download/fd810b72-aeb6-4e74-a529-764b3942e89b/zeus.jpg" ,[B][COLOR orange]===== BBB 24H =====[/B][/COLOR]
+http://master1.ipfox.onl
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM:01 SD" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/big-brother-brasil.jpg" group-title="Reality",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM:01 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://iptv.appino.tv:80/live/Iceboy/lq4wudyl/23011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM:02 HD" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/big-brother-brasil.jpg" group-title="Reality",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM:02 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://iptv.appino.tv:80/live/Iceboy/lq4wudyl/23012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM:02 SD" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/big-brother-brasil.jpg" group-title="Reality",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM:02 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://iptv.appino.tv:80/live/Iceboy/lq4wudyl/23013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM:03 HD" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/big-brother-brasil.jpg" group-title="Reality",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM:03 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://iptv.appino.tv:80/live/Iceboy/lq4wudyl/23014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM:03 SD" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/big-brother-brasil.jpg" group-title="Reality",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM:03 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://iptv.appino.tv:80/live/Iceboy/lq4wudyl/23015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM:04 HD" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/big-brother-brasil.jpg" group-title="Reality",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM:04 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://iptv.appino.tv:80/live/Iceboy/lq4wudyl/23016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM:04 SD" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/big-brother-brasil.jpg" group-title="Reality",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM:04 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://iptv.appino.tv:80/live/Iceboy/lq4wudyl/23017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM:05 HD" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/big-brother-brasil.jpg" group-title="Reality",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM:05 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://iptv.appino.tv:80/live/Iceboy/lq4wudyl/23018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM:05 SD" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/big-brother-brasil.jpg" group-title="Reality",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM:05 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://iptv.appino.tv:80/live/Iceboy/lq4wudyl/23019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM:06 HD" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/big-brother-brasil.jpg" group-title="Reality",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM:06 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://iptv.appino.tv:80/live/Iceboy/lq4wudyl/23020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM:06 SD" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/big-brother-brasil.jpg" group-title="Reality",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM:06 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://iptv.appino.tv:80/live/Iceboy/lq4wudyl/23021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM:07 HD" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/big-brother-brasil.jpg" group-title="Reality",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM:07 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://iptv.appino.tv:80/live/Iceboy/lq4wudyl/23022.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM:07 SD" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/big-brother-brasil.jpg" group-title="Reality",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM:07 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://iptv.appino.tv:80/live/Iceboy/lq4wudyl/23023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM:08 HD" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/big-brother-brasil.jpg" group-title="Reality",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM:08 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://iptv.appino.tv:80/live/Iceboy/lq4wudyl/23024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM:08 SD" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/big-brother-brasil.jpg" group-title="Reality",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM:08 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://iptv.appino.tv:80/live/Iceboy/lq4wudyl/23025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM:09 HD" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/big-brother-brasil.jpg" group-title="Reality",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM:09 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://iptv.appino.tv:80/live/Iceboy/lq4wudyl/23026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM:09 SD" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/big-brother-brasil.jpg" group-title="Reality",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM:09 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://iptv.appino.tv:80/live/Iceboy/lq4wudyl/23027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM:10 HD" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/big-brother-brasil.jpg" group-title="Reality",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM:10 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://iptv.appino.tv:80/live/Iceboy/lq4wudyl/23028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM:10 SD" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/big-brother-brasil.jpg" group-title="Reality",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM:10 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://iptv.appino.tv:80/live/Iceboy/lq4wudyl/23029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 FHD" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/big-brother-brasil.jpg" group-title="Reality",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 FHD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://iptv.appino.tv:80/live/Iceboy/lq4wudyl/23009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 HD" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/big-brother-brasil.jpg" group-title="Reality",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://iptv.appino.tv:80/live/Iceboy/lq4wudyl/23008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 MOSAICO HD" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/big-brother-brasil.jpg" group-title="Reality",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 MOSAICO HD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://iptv.appino.tv:80/live/Iceboy/lq4wudyl/23010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 20 SD" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/big-brother-brasil.jpg" group-title="Reality",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 SD
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=HLSRETRY&amp;url=http://iptv.appino.tv:80/live/Iceboy/lq4wudyl/23007.m3u8
