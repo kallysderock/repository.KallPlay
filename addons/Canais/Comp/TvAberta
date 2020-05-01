@@ -1,0 +1,123 @@
+#EXTM3U
+#EXTINF:-1,Band FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/7047.m3u8
+#EXTINF:-1,Band HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1744.m3u8
+#EXTINF:-1,Band
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/372.m3u8
+#EXTINF:-1,Band Alternativo HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19956.m3u8
+#EXTINF:-1,Band Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21197.m3u8
+#EXTINF:-1,BAND HD²
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11111.m3u8
+#EXTINF:-1,BAND HD¹
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11185.m3u8
+#EXTINF:-1,CANAL BRASIL²
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11098.m3u8
+#EXTINF:-1,GLOBO FHD SP
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11173.m3u8
+#EXTINF:-1,Globo SP FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21615.m3u8
+#EXTINF:-1,Globo SP  FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31624.m3u8
+#EXTINF:-1,GLOBO HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11172.m3u8
+#EXTINF:-1,Globo SP HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17241.m3u8
+#EXTINF:-1,Globo SP
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/111.m3u8
+#EXTINF:-1,Globo SP Alternativo HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/18836.m3u8
+#EXTINF:-1,Globo SP Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/8664.m3u8
+#EXTINF:-1,Globo Now
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/226.m3u8
+#EXTINF:-1,Globo Now Aternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31094.m3u8
+#EXTINF:-1,RecordTV SP FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21622.m3u8
+#EXTINF:-1,RecordTV Alternativo SP FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/38017.m3u8
+#EXTINF:-1,RECORD FHD²
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11130.m3u8
+#EXTINF:-1,RecordTV SP HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1694.m3u8
+#EXTINF:-1,RecordTV SP
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/252.m3u8
+#EXTINF:-1,RecordTV Alternativo SP HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/7045.m3u8
+#EXTINF:-1,RecordTV Alternativo SP
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13532.m3u8
+#EXTINF:-1,RECORD SD²
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11188.m3u8
+#EXTINF:-1,Rede TV FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/7046.m3u8
+#EXTINF:-1,Rede TV HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1862.m3u8
+#EXTINF:-1,Rede Tv
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/297.m3u8
+#EXTINF:-1,Rede TV Alternativo HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21198.m3u8
+#EXTINF:-1,Rede Tv Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21199.m3u8
+#EXTINF:-1,SBT FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12662.m3u8
+#EXTINF:-1,SBT FHD²
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11140.m3u8
+#EXTINF:-1,SBT HD¹
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11139.m3u8
+#EXTINF:-1,SBT HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1961.m3u8
+#EXTINF:-1,Sbt
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/373.m3u8
+#EXTINF:-1,SBT HD Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12886.m3u8
+#EXTINF:-1,SBT Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/18203.m3u8
+#EXTINF:-1,TV Cultura FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31272.m3u8
+#EXTINF:-1,TV Cultura HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31271.m3u8
+#EXTINF:-1,TV Cultura
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/2422.m3u8
+#EXTINF:-1,TV Brasil
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1928.m3u8
+#EXTINF:-1,TV Diario
+plugin://plugin.video.f4mTester/?url=http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8.m3u8
+#EXTINF:-1,TV Gazeta HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/18202.m3u8
+#EXTINF:-1,TV Gazeta
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1929.m3u8
+#EXTINF:-1,TV Escola
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12108.m3u8
+#EXTINF:-1,TV Câmara
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1783.m3u8
+#EXTINF:-1,TV Justica
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/35902.m3u8
+#EXTINF:-1,TV Senado
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/6651.m3u8
+#EXTINF:-1,Canal Brasil FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13899.m3u8
+#EXTINF:-1,Canal Brasil HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/6542.m3u8
+#EXTINF:-1,Canal Brasil
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/237.m3u8
+#EXTINF:-1,Canal Brasil Alternativo HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21730.m3u8
+#EXTINF:-1,Canal Brasil Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21731.m3u8
+#EXTINF:-1,Futura FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31204.m3u8
+#EXTINF:-1,Futura HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21692.m3u8
+#EXTINF:-1,Futura
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/6653.m3u8
+#EXTINF:-1,NBR
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1843.m3u8
+#EXTINF:-1,Terra Viva
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17520.m3u8
+#EXTINF:-1,Canal Rural
+plugin://plugin.video.f4mTester/?url=http://hls-live.crur.al/hlsmedium/playlist.m3u8.m3u8
+#EXTINF:-1,Rede Brasil
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1780.m3u8

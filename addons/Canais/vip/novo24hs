@@ -1,0 +1,253 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Black Lightning 24h" tvg-logo="" group-title="Canais | 24 Horas",Black Lightning 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62277.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom 24h" tvg-logo="" group-title="Canais | 24 Horas",Bob Zoom 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62278.ts
+#EXTINF:-1 tvg-id="" tvg-name="Carcereiros 24h" tvg-logo="" group-title="Canais | 24 Horas",Carcereiros 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62279.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cavalo de Fogo 24h" tvg-logo="" group-title="Canais | 24 Horas",Cavalo de Fogo 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62272.ts
+#EXTINF:-1 tvg-id="" tvg-name="Damnation 24h" tvg-logo="" group-title="Canais | 24 Horas",Damnation 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62280.ts
+#EXTINF:-1 tvg-id="" tvg-name="Diario de Um Vampiro 1 24h" tvg-logo="" group-title="Canais | 24 Horas",Diario de Um Vampiro 1 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62281.ts
+#EXTINF:-1 tvg-id="" tvg-name="El Chapo 1 24h" tvg-logo="" group-title="Canais | 24 Horas",El Chapo 1 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62282.ts
+#EXTINF:-1 tvg-id="" tvg-name="Frequency 24h" tvg-logo="" group-title="Canais | 24 Horas",Frequency 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62283.ts
+#EXTINF:-1 tvg-id="" tvg-name="Future Man 24h" tvg-logo="" group-title="Canais | 24 Horas",Future Man 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62284.ts
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 24h" tvg-logo="" group-title="Canais | 24 Horas",Galinha Pintadinha 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62285.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gothan 1 24h" tvg-logo="" group-title="Canais | 24 Horas",Gothan 1 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62286.ts
+#EXTINF:-1 tvg-id="" tvg-name="Greys Anatomy 1 24h" tvg-logo="" group-title="Canais | 24 Horas",Greys Anatomy 1 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62287.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hannibal 1 24h" tvg-logo="" group-title="Canais | 24 Horas",Hannibal 1 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62288.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jaspion & Jonny Quest 24h" tvg-logo="" group-title="Canais | 24 Horas",Jaspion & Jonny Quest 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62273.ts
+#EXTINF:-1 tvg-id="" tvg-name="Justiceiro 1 24h" tvg-logo="" group-title="Canais | 24 Horas",Justiceiro 1 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62289.ts
+#EXTINF:-1 tvg-id="" tvg-name="La Casa Papel 1 24h" tvg-logo="" group-title="Canais | 24 Horas",La Casa Papel 1 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62290.ts
+#EXTINF:-1 tvg-id="" tvg-name="La Casa Papel 2 24h" tvg-logo="" group-title="Canais | 24 Horas",La Casa Papel 2 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62291.ts
+#EXTINF:-1 tvg-id="" tvg-name="Luluzinha 24h" tvg-logo="" group-title="Canais | 24 Horas",Luluzinha 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62274.ts
+#EXTINF:-1 tvg-id="" tvg-name="Macgyver 1 24h" tvg-logo="" group-title="Canais | 24 Horas",Macgyver 1 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62292.ts
+#EXTINF:-1 tvg-id="" tvg-name="Maquina Mortifera 1 24h" tvg-logo="" group-title="Canais | 24 Horas",Maquina Mortifera 1 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62293.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mecanismo 24h" tvg-logo="" group-title="Canais | 24 Horas",Mecanismo 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62294.ts
+#EXTINF:-1 tvg-id="" tvg-name="Narcos 1 24h" tvg-logo="" group-title="Canais | 24 Horas",Narcos 1 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62295.ts
+#EXTINF:-1 tvg-id="" tvg-name="Narcos 2 24h" tvg-logo="" group-title="Canais | 24 Horas",Narcos 2 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62296.ts
+#EXTINF:-1 tvg-id="" tvg-name="Outsiders 1 24h" tvg-logo="" group-title="Canais | 24 Horas",Outsiders 1 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62297.ts
+#EXTINF:-1 tvg-id="" tvg-name="Outsiders 2 24h" tvg-logo="" group-title="Canais | 24 Horas",Outsiders 2 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62298.ts
+#EXTINF:-1 tvg-id="" tvg-name="Padrinhos Magicos e Pica Pau 24h" tvg-logo="" group-title="Canais | 24 Horas",Padrinhos Magicos e Pica Pau 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62275.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pica Pau Tom e Jerry 24h" tvg-logo="" group-title="Canais | 24 Horas",Pica Pau Tom e Jerry 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62276.ts
+#EXTINF:-1 tvg-id="" tvg-name="Planeta Terra  24h" tvg-logo="" group-title="Canais | 24 Horas",Planeta Terra  24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62299.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prision Break 1 24h" tvg-logo="" group-title="Canais | 24 Horas",Prision Break 1 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62300.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prison Break 2 24h" tvg-logo="" group-title="Canais | 24 Horas",Prison Break 2 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62301.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prison Break 3 24h" tvg-logo="" group-title="Canais | 24 Horas",Prison Break 3 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62302.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prison Break 4 24h" tvg-logo="" group-title="Canais | 24 Horas",Prison Break 4 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62303.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prison Break 5 24h" tvg-logo="" group-title="Canais | 24 Horas",Prison Break 5 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62304.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sete Segundos 24h" tvg-logo="" group-title="Canais | 24 Horas",Sete Segundos 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62305.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek 1 24h" tvg-logo="" group-title="Canais | 24 Horas",Star Trek 1 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62306.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek 2 24h" tvg-logo="" group-title="Canais | Full HD",Star Trek 2 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62307.ts
+#EXTINF:-1 tvg-id="" tvg-name="Stranger Things 2 24h" tvg-logo="" group-title="Canais | 24 Horas",Stranger Things 2 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62308.ts
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural 1 24h" tvg-logo="" group-title="Canais | 24 Horas",Supernatural 1 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62309.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory 1 24h" tvg-logo="" group-title="Canais | 24 Horas",The Big Bang Theory 1 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62310.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory 2 24h" tvg-logo="" group-title="Canais | 24 Horas",The Big Bang Theory 2 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62311.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory 3 24h" tvg-logo="" group-title="Canais | 24 Horas",The Big Bang Theory 3 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62312.ts
+#EXTINF:-1 tvg-id="" tvg-name="Turma da Monica 24h" tvg-logo="" group-title="Canais | 24 Horas",Turma da Monica 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/62313.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Pantera Cor de Rosa [24h]" tvg-logo="http://kitdepontos.com.br/wp-content/uploads/2016/09/ponto-pantera-cor-de-rosa-kitdepontos.com_.br_.png" group-title="Canais | 24 Horas",A Pantera Cor de Rosa [24h]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/39576.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom [24h]" tvg-logo="https://static1.squarespace.com/static/5a79ba25bce176147984e73b/5a79bb0a652deaeb2153b2ab/5a79dd3fe4966b5472c5bcec/1517939443178/ch_bobzoom.png" group-title="Canais | 24 Horas",Bob Zoom [24h]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/40745.ts
+#EXTINF:-1 tvg-id="" tvg-name="Charlie e Lola [24h]" tvg-logo="http://www.mag2u.com/images/custom/cnl/charlielola.png" group-title="Canais | 24 Horas",Charlie e Lola [24h]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/39579.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chaves [24h]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/LP_Chaves.jpg" group-title="Canais | 24 Horas",Chaves [24h]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/39762.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cocoricó [24h]" tvg-logo="https://i.pinimg.com/originals/d9/85/04/d985040b90dac7529ac94816b0dadcd9.png" group-title="Canais | 24 Horas",Cocoricó [24h]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/39582.ts
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos Biblicos [24h]" tvg-logo="http://2.bp.blogspot.com/-6HEU0pJ2gqI/VOyIbDax8kI/AAAAAAAANGU/6B8x_EOaMOk/s1600/Desenhos%2BBiblicos%2B%2B1.png" group-title="Canais | 24 Horas",Desenhos Biblicos [24h]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/39780.ts
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha [24h]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e7/Galinha_Pintadinha.png/255px-Galinha_Pintadinha.png" group-title="Canais | 24 Horas",Galinha Pintadinha [24h]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/39570.ts
+#EXTINF:-1 tvg-id="" tvg-name="He Man [24h]" tvg-logo="https://www.impaktovisual.com.br/3759-large_default/display-de-festa-infantil.jpg" group-title="Canais | 24 Horas",He Man [24h]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/39776.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ligeirinho [24h]" tvg-logo="http://urlcurta.ml/Hpr3T" group-title="Canais | 24 Horas",Ligeirinho [24h]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/41893.ts
+#EXTINF:-1 tvg-id="" tvg-name="Looney Tones [24h]" tvg-logo="https://orig00.deviantart.net/214b/f/2012/009/6/9/69a53eac14e46b5ac302935d314246cc-d2ub40a.png" group-title="Canais | 24 Horas",Looney Tones [24h]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/39575.ts
+#EXTINF:-1 tvg-id="" tvg-name="Manda Chuva [24h]" tvg-logo="http://urlcurta.ml/Fs6PS" group-title="Canais | 24 Horas",Manda Chuva [24h]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/41894.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Incrivel Mundo de Gumball [24h]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/The_Amazing_World_of_Gumball_logo.png" group-title="Canais | 24 Horas",O Incrivel Mundo de Gumball [24h]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/39774.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Maskara [24h]" tvg-logo="http://urlcurta.ml/ccKVj" group-title="Canais | 24 Horas",O Maskara [24h]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/41895.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Padrinhos Magicos [24h]" tvg-logo="https://colorir.org/wp-content/uploads/2015/03/os-padrinhos-magicos-para-colorir.png" group-title="Canais | 24 Horas",Os Padrinhos Magicos [24h]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/39574.ts
+#EXTINF:-1 tvg-id="" tvg-name="PATATI PATATA [24h]" tvg-logo="https://occ-0-901-999.1.nflxso.net/art/3dbf7/2ae0a5ddd191aa9565d566c729882104f063dbf7.png" group-title="Canais | 24 Horas",PATATI PATATA [24h]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/39781.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pepe Legal [24h]" tvg-logo="http://urlcurta.ml/T7qCj" group-title="Canais | 24 Horas",Pepe Legal [24h]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/41897.ts
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig [24h]" tvg-logo="http://urlcurta.ml/u5WDN" group-title="Canais | 24 Horas",Peppa Pig [24h]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/39572.ts
+#EXTINF:-1 tvg-id="" tvg-name="PJ Masks [24h]" tvg-logo="https://i1.wp.com/disneynews.us/wp-content/uploads/2018/04/l4406_4419_PJ-Masks.png" group-title="Canais | 24 Horas",PJ Masks [24h]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/39775.ts
+#EXTINF:-1 tvg-id="" tvg-name="Popeye [24h]" tvg-logo="https://i.pinimg.com/originals/3a/c3/ac/3ac3ac9a957f934708c7ce785ece3dc0.png" group-title="Canais | 24 Horas",Popeye [24h]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/39777.ts
+#EXTINF:-1 tvg-id="" tvg-name="Teletubbies [24h]" tvg-logo="https://2.bp.blogspot.com/-ldyYvygC3tA/V2KchfdiSaI/AAAAAAAAXXw/Q_kpOc1OGfAMWQUuefQ-Iwt7jW7r--MoACLcB/s640/teletubbies-brand-image_v5.png" group-title="Canais | 24 Horas",Teletubbies [24h]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/39583.ts
+#EXTINF:-1 tvg-id="" tvg-name="Turma da Monica [24h]" tvg-logo="http://1.bp.blogspot.com/-ksg1L-EuEJ0/UxfPcWiYZNI/AAAAAAAABi0/PFDR7T8OY2c/s1600/turma-da-monica.png" group-title="Canais | 24 Horas",Turma da Monica [24h]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/39571.ts
+#EXTINF:-1 tvg-id="" tvg-name="Doug 24h" tvg-logo="" group-title="Canais | 24 Horas",Doug 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/51003.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xuxa só para Baixinhos 24h" tvg-logo="" group-title="Canais | 24 Horas",Xuxa só para Baixinhos 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/50956.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Ação 24h" tvg-logo="" group-title="Canais | 24 Horas",Cine Ação 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/58947.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Comedia 24h" tvg-logo="" group-title="Canais | 24 Horas",Cine Comedia 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/58948.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Infantil 24h" tvg-logo="" group-title="Canais | 24 Horas",Cine Infantil 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/58945.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Terror 24h" tvg-logo="" group-title="Canais | 24 Horas",Cine Terror 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/58946.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ligeirinho 24h" tvg-logo="https://i.imgur.com/HAioUEM.jpg" group-title="Canais | 24 Horas",Ligeirinho 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/58943.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons [24h]" tvg-logo="" group-title="Canais | 24 Horas",Os Simpsons [24h]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/53051.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pica Pau [24h]" tvg-logo="" group-title="Canais | 24 Horas",Pica Pau [24h]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/53025.ts
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO 24HS" tvg-logo="" group-title="Canais | 24 Horas",NARUTO 24HS
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/56465.ts
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuuden 24hs" tvg-logo="" group-title="Canais | 24 Horas",Naruto Shippuuden 24hs
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/56466.ts
+#EXTINF:-1 tvg-id="" tvg-name="YU-GI-OH 24hs" tvg-logo="" group-title="Canais | 24 Horas",YU-GI-OH 24hs
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/56468.ts
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia O cris" tvg-logo="" group-title="Canais | 24 Horas",Todo Mundo Odeia O cris
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/56467.ts
+#EXTINF:-1 tvg-id="" tvg-name="Coragem 24horas" tvg-logo="" group-title="Canais | 24 Horas",Coragem 24horas
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/56623.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pepe Legal 24h" tvg-logo="" group-title="Canais | 24 Horas",Pepe Legal 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/56833.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animaniacs 24h" tvg-logo="" group-title="Canais | 24 Horas",Animaniacs 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/56839.ts
+#EXTINF:-1 tvg-id="" tvg-name="Baby Looney Tunes 24h" tvg-logo="" group-title="Canais | 24 Horas",Baby Looney Tunes 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/56838.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chowder 24h" tvg-logo="" group-title="Canais | 24 Horas",Chowder 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/56835.ts
+#EXTINF:-1 tvg-id="" tvg-name="Esquilo sem Grilo 24h" tvg-logo="" group-title="Canais | 24 Horas",Esquilo sem Grilo 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/56836.ts
+#EXTINF:-1 tvg-id="" tvg-name="Incrivel Hulk 24h" tvg-logo="" group-title="Canais | 24 Horas",Incrivel Hulk 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/56837.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mosquete, Mosquito e Moscardo 24h" tvg-logo="" group-title="Canais | 24 Horas",Mosquete, Mosquito e Moscardo 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/56834.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Pequeno Urso 24h" tvg-logo="" group-title="Canais | 24 Horas",O Pequeno Urso 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/56831.ts
+#EXTINF:-1 tvg-id="" tvg-name="Popeye 24h" tvg-logo="" group-title="Canais | 24 Horas",Popeye 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/56832.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super [24h]" tvg-logo="" group-title="Canais | 24 Horas",Dragon Ball Super [24h]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/57186.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kenan e Kel 24hs" tvg-logo="" group-title="Canais | 24 Horas",Kenan e Kel 24hs
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/57340.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mib-homens-de-preto 24hs" tvg-logo="" group-title="Canais | 24 Horas",Mib-homens-de-preto 24hs
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/57342.ts
+#EXTINF:-1 tvg-id="" tvg-name="O Fantástico Mundo de Bobby 24hs" tvg-logo="" group-title="Canais | 24 Horas",O Fantástico Mundo de Bobby 24hs
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/57341.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodiaco 24hs" tvg-logo="" group-title="Canais | 24 Horas",Os Cavaleiros do Zodiaco 24hs
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/57344.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pink-e-Cerebro 24hs" tvg-logo="" group-title="Canais | 24 Horas",Pink-e-Cerebro 24hs
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/57343.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Ursinhos Carinhosos 24HS" tvg-logo="" group-title="Canais | 24 Horas",Os Ursinhos Carinhosos 24HS
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/57681.ts
+#EXTINF:-1 tvg-id="" tvg-name="South Park 24hs" tvg-logo="" group-title="Canais | 24 Horas",South Park 24hs
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/57682.ts
+#EXTINF:-1 tvg-id="" tvg-name="Formiga Atómica 24hs" tvg-logo="https://bit.ly/2VPyXgu" group-title="Canais | 24 Horas",Formiga Atómica 24hs
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/58095.ts
+#EXTINF:-1 tvg-id="" tvg-name="Guardiões da Galaxia 24hs" tvg-logo="https://bit.ly/30uV7Ug" group-title="Canais | 24 Horas",Guardiões da Galaxia 24hs
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/58092.ts
+#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores 24hs" tvg-logo="https://bit.ly/2Jt8uik" group-title="Canais | 24 Horas",Os Vingadores 24hs
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/58094.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural 24hs" tvg-logo="https://bit.ly/2waa4wM" group-title="Canais | 24 Horas",Sobrenatural 24hs
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/58093.ts
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad 24hs" tvg-logo="" group-title="Canais | 24 Horas",Breaking Bad 24hs
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/59102.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado 24hs" tvg-logo="" group-title="Canais | 24 Horas",Chapolin Colorado 24hs
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/59100.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hércules 24hs" tvg-logo="" group-title="Canais | 24 Horas",Hércules 24hs
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/59099.ts
+#EXTINF:-1 tvg-id="" tvg-name="Smallville 24hs" tvg-logo="" group-title="Canais | 24 Horas",Smallville 24hs
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/59103.ts
+#EXTINF:-1 tvg-id="" tvg-name="Xena 24hs" tvg-logo="" group-title="Canais | 24 Horas",Xena 24hs
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/59101.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zé Buscapé 24h" tvg-logo="https://i.imgur.com/nk6ipE7.jpg" group-title="",Zé Buscapé 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/58944.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALADIN 24HS" tvg-logo="" group-title="Canais | 24 Horas",ALADIN 24HS
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/59743.ts
+#EXTINF:-1 tvg-id="" tvg-name="As Meninas Superpoderosas 24HS" tvg-logo="" group-title="Canais | 24 Horas",As Meninas Superpoderosas 24HS
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/59744.ts
+#EXTINF:-1 tvg-id="" tvg-name="As tartarugas ninjas 24HS" tvg-logo="" group-title="Canais | 24 Horas",As tartarugas ninjas 24HS
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/59745.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10 24HS" tvg-logo="" group-title="Canais | 24 Horas",Ben 10 24HS
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/59747.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja 24HS" tvg-logo="" group-title="Canais | 24 Horas",Bob Esponja 24HS
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/59746.ts
+#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão 24HS" tvg-logo="" group-title="Canais | 24 Horas",Caverna do Dragão 24HS
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/59748.ts
+#EXTINF:-1 tvg-id="" tvg-name="Digimon 24HS" tvg-logo="" group-title="Canais | 24 Horas",Digimon 24HS
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/59749.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio 24HS" tvg-logo="" group-title="Canais | 24 Horas",Dois Homens e Meio 24HS
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/59750.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Cartoon 24HS" tvg-logo="" group-title="Canais | 24 Horas",Gospel Cartoon 24HS
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/59751.ts
+#EXTINF:-1 tvg-id="" tvg-name="Historias da Disney 24HS" tvg-logo="" group-title="Canais | 24 Horas",Historias da Disney 24HS
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/59753.ts
+#EXTINF:-1 tvg-id="" tvg-name="Apenas Um Show 24h" tvg-logo="" group-title="Canais | 24 Horas",Apenas Um Show 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/61882.ts
+#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninja 24h" tvg-logo="" group-title="Canais | 24 Horas",As Tartarugas Ninja 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/61883.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cascão Maratona 24h" tvg-logo="" group-title="Canais | 24 Horas",Cascão Maratona 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/61884.ts
+#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão 24h" tvg-logo="" group-title="Canais | 24 Horas",Caverna do Dragão 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/61885.ts
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos Mickey Mouse,  Pato Donald, Tico E Teco 24h" tvg-logo="" group-title="Canais | 24 Horas",Desenhos Mickey Mouse,  Pato Donald, Tico E Teco 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/61886.ts
+#EXTINF:-1 tvg-id="" tvg-name="Masha e o Urso 24h" tvg-logo="" group-title="Canais | 24 Horas",Masha e o Urso 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/61887.ts
+#EXTINF:-1 tvg-id="" tvg-name="Monkeys 24h" tvg-logo="" group-title="Canais | 24 Horas",Monkeys 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/61880.ts
+#EXTINF:-1 tvg-id="" tvg-name="Palavrinhas  24h" tvg-logo="" group-title="Canais | 24 Horas",Palavrinhas  24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/61881.ts
+#EXTINF:-1 tvg-id="" tvg-name="POCOYO 24h" tvg-logo="" group-title="Canais | 24 Horas",POCOYO 24h
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/61888.ts
+#EXTINF:-1 tvg-id="" tvg-name="X-Men" tvg-logo="" group-title="Canais | 24 Horas",X-Men
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/56470.ts
+#EXTINF:-1 tvg-id="" tvg-name="amigaozao [24h]" tvg-logo="https://media.fstatic.com/yx2ORRqyHCShqDHo1PhyHdy7Qd4=/fit-in/290x478/smart/media/movies/covers/2017/01/amigaozao.png" group-title="Canais | 24 Horas",amigaozao [24h]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/40786.ts

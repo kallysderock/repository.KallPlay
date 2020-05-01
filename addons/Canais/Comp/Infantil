@@ -1,0 +1,149 @@
+#EXTM3U
+#EXTINF:-1,PlayKids FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31267.m3u8
+#EXTINF:-1,PlayKids HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31268.m3u8
+#EXTINF:-1,PlayKids
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31269.m3u8
+#EXTINF:-1,Disney Channel FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13807.m3u8
+#EXTINF:-1,Disney Channel
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1486.m3u8
+#EXTINF:-1,Disney Channel Alternativo HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21178.m3u8
+#EXTINF:-1,Disney Channel Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21179.m3u8
+#EXTINF:-1,Cartoon Network FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13803.m3u8
+#EXTINF:-1,Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13756.m3u8
+#EXTINF:-1,Cartoon Network
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/377.m3u8
+#EXTINF:-1,Cartoon Network ‐FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31196.m3u8
+#EXTINF:-1,Cartoon Network Alternativo HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21174.m3u8
+#EXTINF:-1,Cartoon Network Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21175.m3u8
+#EXTINF:-1,Disney Jr FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/20879.m3u8
+#EXTINF:-1,Disney Jr HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/8483.m3u8
+#EXTINF:-1,Disney Jr
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/181.m3u8
+#EXTINF:-1,Disney Jr Alternativo HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21185.m3u8
+#EXTINF:-1,Disney Jr Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21186.m3u8
+#EXTINF:-1,Nickelodeon FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13809.m3u8
+#EXTINF:-1,Nickelodeon HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/7020.m3u8
+#EXTINF:-1,Nickelodeon
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/126.m3u8
+#EXTINF:-1,Nickelodeon Alternativo HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21182.m3u8
+#EXTINF:-1,Nickelodeon Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21183.m3u8
+#EXTINF:-1,Nick JR FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13889.m3u8
+#EXTINF:-1,Nick Jr HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21189.m3u8
+#EXTINF:-1,Nick Jr
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/286.m3u8
+#EXTINF:-1,Nick Jr Alternativo HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21187.m3u8
+#EXTINF:-1,Nick Jr Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21188.m3u8
+#EXTINF:-1,Gloob FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13811.m3u8
+#EXTINF:-1,Gloob HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/5899.m3u8
+#EXTINF:-1,Gloob
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/378.m3u8
+#EXTINF:-1,Gloob Alternativo HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21184.m3u8
+#EXTINF:-1,Gloob Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12272.m3u8
+#EXTINF:-1,Boomerang FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/20878.m3u8
+#EXTINF:-1,Boomerang HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/8484.m3u8
+#EXTINF:-1,Boomerang
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/187.m3u8
+#EXTINF:-1,Boomerang Alternativo HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21190.m3u8
+#EXTINF:-1,Boomerang Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21191.m3u8
+#EXTINF:-1,Globinho FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31192.m3u8
+#EXTINF:-1,Globinho HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/9453.m3u8
+#EXTINF:-1,Globinho
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/9454.m3u8
+#EXTINF:-1,Nat Geo Kids FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13808.m3u8
+#EXTINF:-1,Nat Geo Kids HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/7042.m3u8
+#EXTINF:-1,Nat Geo Kids
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/6541.m3u8
+#EXTINF:-1,Nat Geo Kids Alternativo HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21180.m3u8
+#EXTINF:-1,Nat Geo Kids Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21181.m3u8
+#EXTINF:-1,TV Rá Tim Bum FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31195.m3u8
+#EXTINF:-1,TV Rá Tim Bum HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21654.m3u8
+#EXTINF:-1,TV Rá Tim Bum
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/6135.m3u8
+#EXTINF:-1,Tooncast
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/127.m3u8
+#EXTINF:-1,Tooncast Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/40388.m3u8
+#EXTINF:-1,Baby - TV
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/5904.m3u8
+#EXTINF:-1,Baby TV -Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31518.m3u8
+#EXTINF:-1,Disney XD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/277.m3u8
+#EXTINF:-1,Zoomoo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19994.m3u8
+#EXTINF:-1,Cartoon Network Alternativo FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/38009.m3u8
+#EXTINF:-1,CARTOON NETWORK HD²
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11179.m3u8
+#EXTINF:-1,Gloob -FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17053.m3u8
+#EXTINF:-1,Gloob Alternativo FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37949.m3u8
+#EXTINF:-1,Nat Geo Kids -FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31252.m3u8
+#EXTINF:-1,NATGEO KIDS FHD²
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11116.m3u8
+#EXTINF:-1,NATGEOKIDS SD²
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11104.m3u8
+#EXTINF:-1,Nick Jr -FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31251.m3u8
+#EXTINF:-1,Nick Jr HD²
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11150.m3u8
+#EXTINF:-1,Nickelodeon -FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21652.m3u8
+#EXTINF:-1,Disney Channel -FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17046.m3u8
+#EXTINF:-1,Disney Channel H265
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41929.m3u8
+#EXTINF:-1,Boomerang -FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21653.m3u8
+#EXTINF:-1,Discovery Kids -FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31232.m3u8
+#EXTINF:-1,Discovery Kids Alternativo FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37966.m3u8
+#EXTINF:-1,Discovery Kids FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21651.m3u8
+#EXTINF:-1,Discovery Kids
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/426.m3u8
+#EXTINF:-1,Discovery Kids Alternativo HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21176.m3u8
+#EXTINF:-1,Discovery Kids Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21177.m3u8

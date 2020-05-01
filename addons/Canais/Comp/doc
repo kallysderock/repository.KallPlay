@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layouttype>thumbnail</layouttype>
+
+
+<item>
+<title>[COLOR red][B] ≤≤≤ [/B][/COLOR][COLOR magenta][B]"CANAIS[/B][/COLOR] [COLOR aqua][B]DOCUMENTÁRIOS"[/B][/COLOR][COLOR red][B] ≥≥≥ [/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/YiS1X9T.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]ANIMAL PLANET[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]animalplanet.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/06/animalplanet.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]DISCOVERY CHANNEL[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]discovery.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/06/discovery.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]DISCOVERY SCIENCE[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]discoverysience.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/06/discoverycience.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]DISCOVERY WORD[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]discoveryworld.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/06/discoveryworld.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]DISCOVERY CIVILIZATION[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]discoverycivilization.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/06/discoverycivilization.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]INVESTIGAÇÃO DISCOVERY[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]investigacaodiscovery.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/06/investigacaodiscovery.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]DISCOVERY TURBO[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]discoveryturbo.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/06/discoveryturbo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]HISTORY[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]history.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/07/history.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]H2[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]history2.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/07/h2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]NAT GEO[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]natgeo.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/06/natgeo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]NAT GEO WILD[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]natgeowild.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/06/natgeowild.jpg</thumbnail>
+</item>

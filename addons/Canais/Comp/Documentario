@@ -1,0 +1,135 @@
+#EXTM3U
+#EXTINF:-1,Animal Planet FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/18631.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/94.m3u8
+#EXTINF:-1,Animal Planet Alternativo HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/18832.m3u8
+#EXTINF:-1,Animal Planet Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12895.m3u8
+#EXTINF:-1,Discovery Channel FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17040.m3u8
+#EXTINF:-1,Discovery Channel HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1611.m3u8
+#EXTINF:-1,Discovery Channel
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1497.m3u8
+#EXTINF:-1,Discovery Channel Alternativo HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19962.m3u8
+#EXTINF:-1,Discovery Channel Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/16178.m3u8
+#EXTINF:-1,Discovery Turbo  FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17182.m3u8
+#EXTINF:-1,Discovery Turbo HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1612.m3u8
+#EXTINF:-1,Discovery Turbo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/183.m3u8
+#EXTINF:-1,Discovery Turbo Alternativo HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19969.m3u8
+#EXTINF:-1,Discovery Turbo Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19970.m3u8
+#EXTINF:-1,DISCOVERY TURBO FHD²
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11180/live.m3u8
+#EXTINF:-1,DISCOVERY TURBO HD²
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11138.m3u8
+#EXTINF:-1,Discovery H&H FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17183.m3u8
+#EXTINF:-1,Discovery H&H HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1610.m3u8
+#EXTINF:-1,Discovery H&H
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/359.m3u8
+#EXTINF:-1,Discovery H&H Alternativo HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19963.m3u8
+#EXTINF:-1,Discovery H&H Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19964.m3u8
+#EXTINF:-1,Discovery Civilization FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13804.m3u8
+#EXTINF:-1,Discovery Civilization HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13785.m3u8
+#EXTINF:-1,Discovery Civilization
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/26380.m3u8
+#EXTINF:-1,Discovery Science FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13805.m3u8
+#EXTINF:-1,Discovery Science HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13784.m3u8
+#EXTINF:-1,Discovery Science
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/26381.m3u8
+#EXTINF:-1,Discovery World FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17184.m3u8
+#EXTINF:-1,Discovery World HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1779.m3u8
+#EXTINF:-1,Discovery Theater FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/20990.m3u8
+#EXTINF:-1,Discovery Theater HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/3016.m3u8
+#EXTINF:-1,Discovery Theather FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31229.m3u8
+#EXTINF:-1,History FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17185.m3u8
+#EXTINF:-1,History HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1627.m3u8
+#EXTINF:-1,History
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/172.m3u8
+#EXTINF:-1,History Alternativo HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19965.m3u8
+#EXTINF:-1,History Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/8681.m3u8
+#EXTINF:-1,H2 FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/20882.m3u8
+#EXTINF:-1,H2 HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1598.m3u8
+#EXTINF:-1,H2
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/222.m3u8
+#EXTINF:-1,H2 Alternativo HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19966.m3u8
+#EXTINF:-1,H2 Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19967.m3u8
+#EXTINF:-1,H2 HD²
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11127.m3u8
+#EXTINF:-1,Investigação Discovery FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31246.m3u8
+#EXTINF:-1,ID -  Investigação Discovery HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1613.m3u8
+#EXTINF:-1,ID - Investigation Discovery
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/393.m3u8
+#EXTINF:-1,ID - Investigation Discovery Alternativo HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21356.m3u8
+#EXTINF:-1,ID - Investigation Discovery Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21357.m3u8
+#EXTINF:-1,ID-INVESTIGAÇÃO DISCOVERY HD²
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11118.m3u8
+#EXTINF:-1,National Geografic HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1749.m3u8
+#EXTINF:-1,National Geographic
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/392.m3u8
+#EXTINF:-1,National Geografic Alternativo HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19968.m3u8
+#EXTINF:-1,National Geografic Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31255.m3u8
+#EXTINF:-1,NATGEO HD²
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11151.m3u8
+#EXTINF:-1,Nat Geo Wild FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31243.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1747.m3u8
+#EXTINF:-1,Nat Geo Wild
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/375.m3u8
+#EXTINF:-1,Nat Geo Wild Alternativo HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31244.m3u8
+#EXTINF:-1,Nat Geo Wild Alternativo
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31245.m3u8
+#EXTINF:-1,Smithsonian Channel FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/47216.m3u8
+#EXTINF:-1,Smithsonian Channel HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/47217.m3u8
+#EXTINF:-1,Smithsonian Channel
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/47218.m3u8
+#EXTINF:-1,Fish TV FHD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/30182.m3u8
+#EXTINF:-1,Fish TV HD
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21675.m3u8
+#EXTINF:-1,Fish Tv
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1488.m3u8
+#EXTINF:-1,NHK WORLD HD²
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11124.m3u8
+#EXTINF:-1,TLC HD²
+plugin://plugin.video.f4mTester/?name=KallPlay-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11099.m3u8

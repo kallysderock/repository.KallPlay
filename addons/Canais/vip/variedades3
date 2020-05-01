@@ -1,0 +1,61 @@
+#EXTM3U
+
+#EXTINF:-1,A&E
+http://hvod.imirun.net:8080/A&E/index.m3u8
+#EXTINF:-1,A&E HD
+http://hvod.imirun.net:8080/A&E-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , A&E  
+http://hvod.imirun.net:8080/A&E-HD/index.m3u8
+#EXTINF:-1,ARTE 1
+http://hvod.imirun.net:8080/Arte1/index.m3u8
+#EXTINF:-1,ARTE 1 HD
+http://hvod.imirun.net:8080/Arte1-hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ARTE 1 
+http://hvod.imirun.net:8080/Arte1-hd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BIS 
+http://playback.imirun.net:8080//BIS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,COMEDY CENTRAL 
+http://playback.imirun.net:8080//ComedyCentral/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , E! 
+http://playback.imirun.net:8080//E!HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , Food NETWORK  
+http://playback.imirun.net:8080//FoodNetworkHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , LIFE TIME 
+http://playback.imirun.net:8080/Lifetime-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FISH TV
+http://hvod.imirun.net:8080/Fish-TV/index.m3u8
+#EXTINF:-1,FISH TV HD
+http://hvod.imirun.net:8080/Fish-TV-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GNT 
+http://playback.imirun.net:8080//GNT-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , LIFE TIME 
+http://playback.imirun.net:8080//Lifetime-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MULTI SHOW 
+http://hvod.imirun.net:8080/Multishow/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MTV 
+http://playback.imirun.net:8080//MTVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MULTI SHOW 
+http://playback.imirun.net:8080//MultishowHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , OFF 
+http://playback.imirun.net:8080//OFF/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TNT
+http://hvod.imirun.net:8080/TNT/index.m3u8
+#EXTINF:-1,TNT HD
+http://hvod.imirun.net:8080/TNT-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TNT 
+http://hvod.imirun.net:8080/TNT-HD/index.m3u8
+#EXTINF:-1,TLC
+http://hvod.imirun.net:8080/TLC/index.m3u8
+#EXTINF:-1,MTV
+http://hvod.imirun.net:8080/MTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TBS 
+http://playback.imirun.net:8080//TBSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TLC 
+http://playback.imirun.net:8080//TLC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TNT 
+http://hvod.imirun.net:8080/TNT-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TBS 
+http://playback.imirun.net:8080//TBS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,WOOHOO 
+http://playback.imirun.net:8080//Woohoo/tracks-v1a1/mono.m3u8

@@ -1,0 +1,168 @@
+#EXTM3U
+#EXTINF:-1,A&E
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]AeE[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36929
+#EXTINF:-1,AMC
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]AMC[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36928
+#EXTINF:-1,AXN
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]AXN[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36991
+#EXTINF:-1,Cinemax
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]CINEMAX[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36926
+#EXTINF:-1,Fox Channel
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]FOX[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/50747
+#EXTINF:-1,Fox Premium 1
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]FOX+PREMIUM+1[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/50750
+#EXTINF:-1,Fox Premium 2
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]FOX+PREMIUM2[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/50751
+#EXTINF:-1,FoxLife
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]FOX+LIFE[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/50748
+#EXTINF:-1,FX
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]FX[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36969
+#EXTINF:-1,GNT
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/37088
+#EXTINF:-1,GNT HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36967
+#EXTINF:-1,HBO
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]HBO[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36964
+#EXTINF:-1,HBO 2
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]HBO+2[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36966
+#EXTINF:-1,HBO Family
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]HBO+FAMILY[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36965
+#EXTINF:-1,HBO Plus
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]HBO+PLUS[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/41487
+#EXTINF:-1,HBO Signature
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]HBO+SIGNATURE[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36962
+#EXTINF:-1,Max
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]MAX[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36913
+#EXTINF:-1,Max Prime HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]MAX+PRIME[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36912
+#EXTINF:-1,Max UP
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]MAX+UP[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36911
+#EXTINF:-1,Megapix
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/37072
+#EXTINF:-1,Megapix HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36958
+#EXTINF:-1,Off
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/37063
+#EXTINF:-1,Off HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36954
+#EXTINF:-1,Paramount Channel
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]PARAMOOUNT[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36953
+#EXTINF:-1,Sony Channel
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/37007
+#EXTINF:-1,Sony Channel HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36987
+#EXTINF:-1,Space
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]SPACE[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36944
+#EXTINF:-1,Studio Universal
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]STUDIO+UNIVERSAL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36904
+#EXTINF:-1,Syfy
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]SYFY[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36903
+#EXTINF:-1,TCM
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]TCM[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/37037
+#EXTINF:-1,Telecine Action
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]TELECINE+ACTION[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36939
+#EXTINF:-1,Telecine Cult
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]TELECINE+CULT[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36901
+#EXTINF:-1,Telecine Fun
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]TELECINE+FUN[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36938
+#EXTINF:-1,Telecine Pipoca
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]TELECINE+PIPOCA[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36937
+#EXTINF:-1,Telecine Premium
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]TELECINE+PREMIUM[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36936
+#EXTINF:-1,Telecine Touch
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]TELECINE+TOUCH[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36935
+#EXTINF:-1,TNT
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]TNT[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36934
+#EXTINF:-1,TNT Séries
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]TNT+SÉRIES[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36933
+#EXTINF:-1,Warner Channel
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]WARNER+CHANNEL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36930
+#EXTINF:-1,Tooncast
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/37033
+#EXTINF:-1,Universal Channel
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/37027
+#EXTINF:-1,Universal Channel HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36932
+#EXTINF:-1,AXN HD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50646
+#EXTINF:-1,AXN SD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50647
+#EXTINF:-1,CINEMAX HD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50669
+#EXTINF:-1,FOX H265
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50544
+#EXTINF:-1,FOX HD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50747
+#EXTINF:-1,FOX LIFE HD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50748
+#EXTINF:-1,FOX LIFE SD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50749
+#EXTINF:-1,FOX PREMIUM 1 HD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50750
+#EXTINF:-1,FOX PREMIUM 2 HD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50751
+#EXTINF:-1,FOX SD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50752
+#EXTINF:-1,FX HD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50770
+#EXTINF:-1,FX SD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50771
+#EXTINF:-1,GNT HD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50775
+#EXTINF:-1,GNT SD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50781
+#EXTINF:-1,MAX HD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50842
+#EXTINF:-1,MAX PRIME SD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50845
+#EXTINF:-1,MAX SD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50849
+#EXTINF:-1,MAX UP HD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50851
+#EXTINF:-1,MAX UP SD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50852
+#EXTINF:-1,MEGAPIX HD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50853
+#EXTINF:-1,MEGAPIX SD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50854
+#EXTINF:-1,OFF HD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50937
+#EXTINF:-1,PARAMOUNT CHANNEL HD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50938
+#EXTINF:-1,PARAMOUNT CHANNEL SD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50945
+#EXTINF:-1,STUDIO UNIVERSAL HD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/51077
+#EXTINF:-1,STUDIO UNIVERSAL SD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/51081
+#EXTINF:-1,TELECINE ACTION HD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/51083
+#EXTINF:-1,TELECINE ACTION SD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/51084
+#EXTINF:-1,TELECINE CULT HD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/51085
+#EXTINF:-1,TELECINE FUN HD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/51087
+#EXTINF:-1,TELECINE FUN SD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/51088
+#EXTINF:-1,TELECINE PIPOCA HD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/51089
+#EXTINF:-1,TELECINE PIPOCA SD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/51090
+#EXTINF:-1,TELECINE PREMIUM HD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/51104
+#EXTINF:-1,TELECINE PREMIUM SD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/51109
+#EXTINF:-1,TELECINE TOUCH HD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/51113
+#EXTINF:-1,TELECINE TOUCH SD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/51115
+#EXTINF:-1,TNT HD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/51119
+#EXTINF:-1,TNT SD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/51120
+#EXTINF:-1,TNT SERIES HD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/51121
+
+#EXTINF:-1,Warner HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36930

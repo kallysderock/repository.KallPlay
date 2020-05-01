@@ -1,0 +1,123 @@
+
+<channels>
+<channel>
+<name>[COLOR aqua][B]»»[/B][/COLOR][COLOR beige][B]Lançamentos[/B][/COLOR]</name>
+<thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
+<externallink>https://cld.pt/dl/download/a96b8460-0292-4df5-965b-18d9d6788709/lancamentos2017.xml</externallink>
+<fanart>https://www.oficinadanet.com.br/imagens/post/23817/filmes.jpg</fanart>
+<info>
+
+
+[COLOR gold]|[/COLOR]-  O MELHOR ENTRETENIMENTO PARA A SUA CASA -[COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR aqua][B]»»[/B][/COLOR][COLOR beige][B]Animação[/B][/COLOR]</name>
+<thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
+<externallink>https://cld.pt/dl/download/2143a502-6305-4c50-9cda-564db7ab1d0f/Anima%C3%A7%C3%A3o.xml</externallink>
+<fanart>https://cinepop.com.br/wp-content/uploads/2018/06/Animation-750x380.jpg</fanart>
+<info>
+
+
+[COLOR gold]|[/COLOR]-  O MELHOR ENTRETENIMENTO PARA A SUA CASA -[COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR aqua][B]»»[/B][/COLOR][COLOR beige][B]Filmes[/B][/COLOR][COLOR gold] Dual Audio![/COLOR]</name>
+<thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
+<externallink>https://cld.pt/dl/download/a178e817-8f84-4b85-ba0f-bd5b6d8cd233/Server%20Vod%21Dual%20Audio%21.xml</externallink>
+<fanart>https://www.panoramaaudiovisual.com/wp-content/uploads/2016/05/Dolby-Digital-Plus.png</fanart>
+<info>
+
+[COLOR gold]|[/COLOR]-  O MELHOR ENTRETENIMENTO PARA A SUA CASA -[COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR aqua][B]»»[/B][/COLOR][COLOR beige][B]Filmes Variados[/B][/COLOR][COLOR red]GDrive[/COLOR]</name>
+<thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
+<externallink>https://cld.pt/dl/download/d8906df0-ba3b-4dce-81ca-f17e1f1cebf2/deversos%20drive.xml</externallink>
+<fanart>https://a.d-cd.net/362b52s-960.jpg</fanart>
+<info>
+
+[COLOR gold]|[/COLOR]-  O MELHOR ENTRETENIMENTO PARA A SUA CASA -[COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR aqua][B]»»[/B][/COLOR][COLOR beige][B]Filmes[/B][/COLOR] [COLOR red]Google[/COLOR]</name>
+<thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
+<externallink>https://cld.pt/dl/download/281e5bb4-05ef-47fb-8a52-77fceea6831d/Gfilmes.xml</externallink>
+<fanart>https://a.d-cd.net/362b52s-960.jpg</fanart>
+<info>
+
+[COLOR gold]|[/COLOR]-  O MELHOR ENTRETENIMENTO PARA A SUA CASA -[COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR  aqua][B]»»[/B][/COLOR][COLOR beige][B]Coleções[/B][/COLOR][COLOR beige][/COLOR]</name>
+<thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
+<externallink>https://cld.pt/dl/download/01e49a66-222e-4b2a-bf44-c344baa207c6/cole%C3%A7%C3%A3o.xml</externallink>
+<jsonrpc>plugin://plugin.video.MEU-GUIA.TV/?action=https://meuguia.tv/</jsonrpc>
+<fanart>http://br.web.img3.acsta.net/newsv7/15/12/29/14/47/494468.jpg</fanart>
+<info>
+
+[COLOR gold]|[/COLOR]-  O MELHOR ENTRETENIMENTO PARA A SUA CASA -[COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR  aqua][B]»»[/B][/COLOR][COLOR beige][B]Clássicos[/B][/COLOR][COLOR beige][/COLOR]</name>
+<thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
+<externallink>https://cld.pt/dl/download/7c4cc3e6-051e-4b43-ba12-5ff1fd4056eb/classicos.xml</externallink>
+<jsonrpc>plugin://plugin.video.MEU-GUIA.TV/?action=https://meuguia.tv/</jsonrpc>
+<fanart>https://www.cineramaclube.com/media/2017/05/romances.jpg</fanart>
+<info>
+
+[COLOR gold]|[/COLOR]-  O MELHOR ENTRETENIMENTO PARA A SUA CASA -[COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
+<name>[COLOR  aqua][B]»»[/B][/COLOR][COLOR beige][B]Pedidos[/B][/COLOR][COLOR beige][/COLOR]</name>
+<thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
+<externallink>https://cld.pt/dl/download/6cde3a90-eb3d-4336-83f4-5eecc3d2bdca/pedidos2.xml</externallink>
+<jsonrpc>plugin://plugin.video.MEU-GUIA.TV/?action=https://meuguia.tv/</jsonrpc>
+<fanart>http://br.web.img3.acsta.net/newsv7/15/12/29/14/47/494468.jpg</fanart>
+<info>
+
+[COLOR gold]|[/COLOR]-  O MELHOR ENTRETENIMENTO PARA A SUA CASA -[COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>

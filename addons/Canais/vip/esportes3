@@ -1,0 +1,64 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND SPORTS 
+http://hvod.imirun.net:8080/Band-Sports-HD/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , COMBATE 
+http://hvod.imirun.net:8080/Combate-HD/index.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN + 
+http://hvod.imirun.net:8080/ESPN+/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN BRASIL 
+http://hvod.imirun.net:8080/ESPN-Brasil-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN  
+http://hvod.imirun.net:8080/ESPN/index.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX ESPORT 
+http://hvod.imirun.net:8080/Fox-Sports-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX sports 2
+http://hvod.imirun.net:8080/Fox-Sports-2-HD/index.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER CLUBE 
+http://hvod.imirun.net:8080/Premiere-Clubes-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 2 
+http://hvod.imirun.net:8080/Premiere-2-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 3 
+http://hvod.imirun.net:8080/Premiere-3-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 4 
+http://hvod.imirun.net:8080/Premiere-4-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 5 
+http://hvod.imirun.net:8080/Premiere-5-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 6 
+http://hvod.imirun.net:8080/Premiere-6-HD/index.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPORTV 
+http://hvod.imirun.net:8080/SporTV-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPORTV 2 
+http://hvod.imirun.net:8080/SporTV-2-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPORTV 3 
+http://hvod.imirun.net:8080/SporTV-2-HD/index.m3u8
+
+
+
+
+
+
+

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layouttype>thumbnail</layouttype>
+
+<item>
+<title>[COLOR red][B] ≤≤≤ [/B][/COLOR][COLOR magenta][B]"CANAIS[/B][/COLOR] [COLOR aqua][B]INFANTIL"[/B][/COLOR][COLOR red][B] ≥≥≥ [/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/KoW72Ps.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]BOOMERANG[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]boomerang.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/07/boomerang.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]CARTOON NETWORK[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]cartoon.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/07/cartoon.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]DISCOVERY KIDS[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]discoverykids.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/07/discoverykids.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]DISNEY CHANNEL[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]disney.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/07/disneychannel.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]DISNEY JUNIOR[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]disneyjunior.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/07/disneyjunior.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]DISNEY XD[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]disneyxd.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/07/disneyxd.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]GLOOB[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]gloob.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/gloob.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]NICKELODEON[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]nick.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/07/nickelodeon.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]NICK JR[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]nickjr.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/07/nickjr.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]NAT GEO KIDS[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]natgeokids.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/06/natgeokids.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]TOONCAST[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]tooncast.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/07/toocast.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]ZOOMOO[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]zoomoo.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/07/zoomoo.jpg</thumbnail>
+</item>

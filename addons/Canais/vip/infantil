@@ -1,0 +1,259 @@
+#EXTM3U
+#EXTINF:-1,Baby TV SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1897
+#EXTINF:-1,Baby TV SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2211
+#EXTINF:-1,Boomerang FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2018
+#EXTINF:-1,Boomerang FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25466
+#EXTINF:-1,Boomerang FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29420
+#EXTINF:-1,Boomerang HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1886
+#EXTINF:-1,Boomerang SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1887
+#EXTINF:-1,Boomerang SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2208
+#EXTINF:-1,BOOMERANG HD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50664
+#EXTINF:-1,Boomerang
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/37123
+#EXTINF:-1,Cartoon Network 4K [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/28662
+#EXTINF:-1,Cartoon Network FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2016
+#EXTINF:-1,Cartoon Network FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25463
+#EXTINF:-1,Cartoon Network FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29479
+#EXTINF:-1,Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1879
+#EXTINF:-1,Cartoon Network HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2394
+#EXTINF:-1,Cartoon Network SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1880
+#EXTINF:-1,Cartoon Network SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2112
+#EXTINF:-1,CARTOON NETWORK H265
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50534
+#EXTINF:-1,CARTOON NETWORK HD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50667
+#EXTINF:-1,Cartoon Network
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/37121
+#EXTINF:-1,Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36927
+EXTINF:-1,Discovery Kids FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2010
+#EXTINF:-1,Discovery Kids FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25395
+#EXTINF:-1,Discovery Kids FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29473
+#EXTINF:-1,Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1863
+#EXTINF:-1,Discovery Kids HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2387
+#EXTINF:-1,Discovery Kids SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1864
+#EXTINF:-1,Discovery Kids SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2202
+#EXTINF:-1,DISCOVERY KIDS HD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50706
+#EXTINF:-1,DISCOVERY KIDS SD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50707
+#EXTINF:-1,Disney Channel FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1949
+#EXTINF:-1,Disney Channel FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25390
+#EXTINF:-1,Disney Channel FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29418
+#EXTINF:-1,Disney Channel HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1853
+#EXTINF:-1,Disney Channel HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2382
+#EXTINF:-1,Disney Channel SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1854
+#EXTINF:-1,Disney Channel SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2200
+#EXTINF:-1,DISNEY CHANNEL HD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50713
+#EXTINF:-1,DISNEY CHANNEL SD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50714
+#EXTINF:-1,Disney Channel
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/37111
+#EXTINF:-1,Disney Channel HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36921
+#EXTINF:-1,Disney Jr FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1955
+#EXTINF:-1,Disney Jr FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25389
+#EXTINF:-1,Disney Jr FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29417
+#EXTINF:-1,Disney Jr HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1678
+#EXTINF:-1,Disney Jr HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2381
+#EXTINF:-1,Disney Jr SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1852
+#EXTINF:-1,Disney Jr SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2199
+#EXTINF:-1,DISNEY JR HD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50715
+#EXTINF:-1,DISNEY JR SD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50716
+#EXTINF:-1,Disney Junior
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/37110
+#EXTINF:-1,Disney Junior HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/40517
+#EXTINF:-1,Disney XD FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25361
+#EXTINF:-1,Disney XD SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1851
+#EXTINF:-1,Disney XD SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2198
+#EXTINF:-1,Disney XD H265
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/51050
+#EXTINF:-1,DISNEY XD HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50717
+#EXTINF:-1,DISNEY XD SD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50718
+#EXTINF:-1,Disney XD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/37109
+#EXTINF:-1,Gloob FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1942
+#EXTINF:-1,Gloob FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25448
+#EXTINF:-1,Gloob FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29413
+#EXTINF:-1,Gloob HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1817
+#EXTINF:-1,Gloob HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2365
+#EXTINF:-1,Gloob SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1818
+#EXTINF:-1,Gloob SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2187
+#EXTINF:-1,Gloob
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/37089
+#EXTINF:-1,Gloob HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36915
+#EXTINF:-1,GLOOB HD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50773
+#EXTINF:-1,Gloobinho FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1995
+#EXTINF:-1,Gloobinho FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25355
+#EXTINF:-1,Gloobinho HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1816
+#EXTINF:-1,Gloobinho SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1815
+#EXTINF:-1,GLOOBINHO SD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50774
+#EXTINF:-1,Gloobinho HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/38969
+#EXTINF:-1,NatGeo Kids FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1977
+#EXTINF:-1,NatGeo Kids FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25374
+#EXTINF:-1,NatGeo Kids FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29451
+#EXTINF:-1,NatGeo Kids HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1775
+#EXTINF:-1,NatGeo Kids HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2348
+#EXTINF:-1,NatGeo Kids SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1776
+#EXTINF:-1,NatGeo Kids SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2174
+#EXTINF:-1,NATGEO KIDS HD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50903
+#EXTINF:-1,NATGEO KIDS SD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50904
+#EXTINF:-1,NatGeo Kids
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/37067
+#EXTINF:-1,NatGeo Kids HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36909
+#EXTINF:-1,Nick Jr FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25431
+#EXTINF:-1,Nick Jr FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29449
+#EXTINF:-1,Nick Jr HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1770
+#EXTINF:-1,Nick Jr HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2346
+#EXTINF:-1,Nick Jr SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1771
+#EXTINF:-1,Nick Jr SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2171
+#EXTINF:-1,Nick
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/37064
+#EXTINF:-1,Nick HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36907
+#EXTINF:-1,NICK HD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50932
+#EXTINF:-1,NICK JR HD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50933
+#EXTINF:-1,NICK JR SD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50934
+#EXTINF:-1,Nick Jr.
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/37065
+#EXTINF:-1,Nick Jr. HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36908
+#EXTINF:-1,Nickelodeon FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1974
+#EXTINF:-1,Nickelodeon FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25430
+#EXTINF:-1,Nickelodeon FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/29407
+#EXTINF:-1,Nickelodeon HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1768
+#EXTINF:-1,Nickelodeon HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2345
+#EXTINF:-1,Nickelodeon SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1769
+#EXTINF:-1,Nickelodeon SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2170
+#EXTINF:-1,NICKELODEON SD  [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50935
+#EXTINF:-1,Play TV SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2167
+#EXTINF:-1,PlayKids FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1914
+#EXTINF:-1,PlayKids HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1668
+#EXTINF:-1,PlayKids SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1667
+#EXTINF:-1,PlayKids HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/41359
+#EXTINF:-1,Tooncast
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/37033
+#EXTINF:-1,Tooncast HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2316
+#EXTINF:-1,Tooncast SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1701
+#EXTINF:-1,Tooncast SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2139
+#EXTINF:-1,TV Ra Tim Bum FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1960
+#EXTINF:-1,TV Ra Tim Bum FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25405
+#EXTINF:-1,TV Ra Tim Bum HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1692
+#EXTINF:-1,TV Ra Tim Bum HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2310
+#EXTINF:-1,TV Ra Tim Bum SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1693
+#EXTINF:-1,TV Ra Tim Bum SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2129
+#EXTINF:-1,TV Ra Tim Bum FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1960
+#EXTINF:-1,TV Ra Tim Bum FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/25405
+#EXTINF:-1,TV Ra Tim Bum HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1692
+#EXTINF:-1,TV Ra Tim Bum HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2310
+#EXTINF:-1,TV Ra Tim Bum SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/1693
+#EXTINF:-1,TV Ra Tim Bum SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2129

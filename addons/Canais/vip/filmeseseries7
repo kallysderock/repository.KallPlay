@@ -1,0 +1,552 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="http://iv.pe/M0T" group-title="Canais | Filmes e Séries",AMC FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2024
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="http://iv.pe/L8f" group-title="Canais | Filmes e Séries",AMC FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25399
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="http://iv.pe/Z5v" group-title="Canais | Filmes e Séries",AMC FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29483
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="http://iv.pe/vSY" group-title="Canais | Filmes e Séries",AMC HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1904
+#EXTINF:-1 tvg-id="AMC FHD" tvg-logo="http://iv.pe/0Wu" group-title="Canais | Filmes e Séries",AMC HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2401
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="http://iv.pe/ACu" group-title="Canais | Filmes e Séries",AMC SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1905
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="http://iv.pe/UHe" group-title="Canais | Filmes e Séries",AMC SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2214
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://iv.pe/wLB" group-title="Canais | Filmes e Séries",AXN FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25470
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://iv.pe/qdM" group-title="Canais | Filmes e Séries",AXN FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29481
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="http://iv.pe/sXN" group-title="Canais | Filmes e Séries",AXN HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1898
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://iv.pe/Xt1" group-title="Canais | Filmes e Séries",AXN HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2399
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://iv.pe/vVK" group-title="Canais | Legendados",AXN HD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1529
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="http://iv.pe/Dcw" group-title="Canais | Filmes e Séries",AXN SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1899
+#EXTINF:-1 tvg-id="AXN FHD" tvg-logo="http://iv.pe/k2E" group-title="Canais | Filmes e Séries",AXN SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2212
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://iv.pe/WcX" group-title="Canais | Legendados",AXN SD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1528
+#EXTINF:-1 tvg-id="Canal Brasil FHD" tvg-logo="http://iv.pe/NND" group-title="Canais | Filmes e Séries",Canal Brasil FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1920
+#EXTINF:-1 tvg-id="Canal Brasil FHD" tvg-logo="http://iv.pe/3Kn" group-title="Canais | Filmes e Séries",Canal Brasil FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25465
+#EXTINF:-1 tvg-id="Canal Brasil FHD" tvg-logo="http://iv.pe/idz" group-title="Canais | Filmes e Séries",Canal Brasil FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29402
+#EXTINF:-1 tvg-id="Canal Brasil HD" tvg-logo="http://iv.pe/m8w" group-title="Canais | Filmes e Séries",Canal Brasil HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1884
+#EXTINF:-1 tvg-id="Canal Brasil FHD" tvg-logo="http://iv.pe/sKg" group-title="Canais | Filmes e Séries",Canal Brasil SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1885
+#EXTINF:-1 tvg-id="Canal Brasil FHD" tvg-logo="http://iv.pe/3bI" group-title="Canais | Filmes e Séries",Canal Brasil SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2115
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://iv.pe/cyY" group-title="Canais | Filmes e Séries",Canal Sony FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2017
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://iv.pe/eGq" group-title="Canais | Filmes e Séries",Canal Sony FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25464
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://iv.pe/723" group-title="Canais | Filmes e Séries",Canal Sony FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29480
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://iv.pe/8yz" group-title="Canais | Filmes e Séries",Canal Sony HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1882
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://iv.pe/KFV" group-title="Canais | Filmes e Séries",Canal Sony HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2395
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://iv.pe/B49" group-title="Canais | Legendados",Canal Sony HD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1495
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://iv.pe/vKM" group-title="Canais | Filmes e Séries",Canal Sony SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1883
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://iv.pe/P14" group-title="Canais | Filmes e Séries",Canal Sony SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2207
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://iv.pe/qCc" group-title="Canais | Legendados",Canal Sony SD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1494
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://iv.pe/2B7" group-title="Canais | Filmes e Séries",Cinemax FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2015
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://iv.pe/U19" group-title="Canais | Filmes e Séries",Cinemax FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25462
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://iv.pe/rgO" group-title="Canais | Filmes e Séries",Cinemax FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29478
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://iv.pe/pUK" group-title="Canais | Filmes e Séries",Cinemax HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1877
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://iv.pe/i8x" group-title="Canais | Filmes e Séries",Cinemax HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2393
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://iv.pe/9JR" group-title="Canais | Filmes e Séries",Cinemax SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1878
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://iv.pe/mqc" group-title="Canais | Filmes e Séries",Cinemax SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2130
+#EXTINF:-1 tvg-id="Fox Channel HD" tvg-logo="http://iv.pe/x4P" group-title="Canais | Filmes e Séries",FOX FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1946
+#EXTINF:-1 tvg-id="Fox Channel FHD" tvg-logo="http://iv.pe/EEX" group-title="Canais | Filmes e Séries",FOX FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25455
+#EXTINF:-1 tvg-id="Fox Channel FHD" tvg-logo="http://iv.pe/HWP" group-title="Canais | Filmes e Séries",FOX FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29468
+#EXTINF:-1 tvg-id="Fox Channel HD" tvg-logo="http://iv.pe/F2S" group-title="Canais | Filmes e Séries",FOX HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1835
+#EXTINF:-1 tvg-id="Fox Channel HD" tvg-logo="http://iv.pe/var" group-title="Canais | Filmes e Séries",FOX HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2374
+#EXTINF:-1 tvg-id="Fox Channel" tvg-logo="http://iv.pe/u2m" group-title="Canais | Legendados",FOX HD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1527
+#EXTINF:-1 tvg-id="FoxLife HD" tvg-logo="http://iv.pe/jDd" group-title="Canais | Variedades",FOX Life FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2000
+#EXTINF:-1 tvg-id="FoxLife HD" tvg-logo="http://iv.pe/C2m" group-title="Canais | Variedades",FOX Life FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25454
+#EXTINF:-1 tvg-id="FoxLife HD" tvg-logo="http://iv.pe/X32" group-title="Canais | Variedades",FOX Life HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1833
+#EXTINF:-1 tvg-id="FoxLife HD" tvg-logo="http://iv.pe/htW" group-title="Canais | Variedades",FOX Life HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2373
+#EXTINF:-1 tvg-id="FoxLife HD" tvg-logo="http://iv.pe/sdr" group-title="Canais | Variedades",FOX Life SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1834
+#EXTINF:-1 tvg-id="FoxLife HD" tvg-logo="http://iv.pe/eJN" group-title="Canais | Variedades",FOX Life SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2193
+#EXTINF:-1 tvg-id="Fox Premium 1 HD" tvg-logo="http://iv.pe/SdR" group-title="Canais | Filmes e Séries",FOX Premium 1 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1999
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-logo="http://iv.pe/3DN" group-title="Canais | Filmes e Séries",FOX Premium 1 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25453
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-logo="http://iv.pe/2Iz" group-title="Canais | Filmes e Séries",FOX Premium 1 FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29415
+#EXTINF:-1 tvg-id="Fox Premium 1 FHD" tvg-logo="http://iv.pe/QyU" group-title="Canais | Filmes e Séries",FOX Premium 1 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1831
+#EXTINF:-1 tvg-id="Fox Premium 1 HD" tvg-logo="http://iv.pe/3Ga" group-title="Canais | Filmes e Séries",FOX Premium 1 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2372
+#EXTINF:-1 tvg-id="Fox Premium 1 HD" tvg-logo="http://iv.pe/2Fh" group-title="Canais | Filmes e Séries",FOX Premium 1 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1832
+#EXTINF:-1 tvg-id="Fox Premium 2 HD" tvg-logo="http://iv.pe/8PZ" group-title="Canais | Filmes e Séries",FOX Premium 2 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1998
+#EXTINF:-1 tvg-id="Fox Premium 2 FHD" tvg-logo="http://iv.pe/M2S" group-title="Canais | Filmes e Séries",FOX Premium 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25452
+#EXTINF:-1 tvg-id="Fox Premium 2 FHD" tvg-logo="http://iv.pe/TYo" group-title="Canais | Filmes e Séries",FOX Premium 2 FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29414
+#EXTINF:-1 tvg-id="Fox Premium 2 HD" tvg-logo="http://iv.pe/sMR" group-title="Canais | Filmes e Séries",FOX Premium 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1829
+#EXTINF:-1 tvg-id="Fox Premium 2 HD" tvg-logo="http://iv.pe/he0" group-title="Canais | Filmes e Séries",FOX Premium 2 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2371
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-logo="http://iv.pe/3sV" group-title="Canais | Filmes e Séries",FOX Premium 2 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1830
+#EXTINF:-1 tvg-id="Fox Channel" tvg-logo="http://iv.pe/BZj" group-title="Canais | Filmes e Séries",FOX SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1836
+#EXTINF:-1 tvg-id="Fox Channel" tvg-logo="http://iv.pe/mp0" group-title="Canais | Filmes e Séries",FOX SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2192
+#EXTINF:-1 tvg-id="Fox Channel" tvg-logo="http://iv.pe/48C" group-title="Canais | Legendados",FOX SD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1526
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://iv.pe/aDs" group-title="Canais | Filmes e Séries",FX FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1996
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://iv.pe/TV0" group-title="Canais | Filmes e Séries",FX FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25450
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://iv.pe/RAe" group-title="Canais | Filmes e Séries",FX FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29465
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://iv.pe/mvK" group-title="Canais | Filmes e Séries",FX HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1821
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://iv.pe/TV0" group-title="Canais | Filmes e Séries",FX HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2368
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://iv.pe/ODp" group-title="Canais | Legendados",FX HD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1507
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://iv.pe/6fN" group-title="Canais | Filmes e Séries",FX SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1822
+#EXTINF:-1 tvg-id="FX HD" tvg-logo="http://iv.pe/ReM" group-title="Canais | Filmes e Séries",FX SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2118
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://iv.pe/I9X" group-title="Canais | Legendados",FX SD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1506
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="http://iv.pe/Kcx" group-title="Canais | Filmes e Séries",HBO 2 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1941
+#EXTINF:-1 tvg-id="HBO 2  HD" tvg-logo="http://iv.pe/Pk0" group-title="Canais | Filmes e Séries",HBO 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25447
+#EXTINF:-1 tvg-id="HBO 2  HD" tvg-logo="http://iv.pe/axP" group-title="Canais | Filmes e Séries",HBO 2 FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29460
+#EXTINF:-1 tvg-id="HBO 2  HD" tvg-logo="http://iv.pe/hBW" group-title="Canais | Filmes e Séries",HBO 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1808
+#EXTINF:-1 tvg-id="HBO 2  HD" tvg-logo="http://iv.pe/rxR" group-title="Canais | Filmes e Séries",HBO 2 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2362
+#EXTINF:-1 tvg-id="HBO 2  HD" tvg-logo="http://iv.pe/u0B" group-title="Canais | Filmes e Séries",HBO 2 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1809
+#EXTINF:-1 tvg-id="HBO 2  HD" tvg-logo="http://iv.pe/KjN" group-title="Canais | Filmes e Séries",HBO 2 SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2126
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-logo="http://iv.pe/ZeQ" group-title="Canais | Filmes e Séries",HBO Family FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1992
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="http://iv.pe/8wl" group-title="Canais | Filmes e Séries",HBO Family FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25446
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="http://iv.pe/bkJ" group-title="Canais | Filmes e Séries",HBO Family FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29411
+#EXTINF:-1 tvg-id="HBO Family FHD" tvg-logo="http://iv.pe/otb" group-title="Canais | Filmes e Séries",HBO Family HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1806
+#EXTINF:-1 tvg-id="HBO Family FHD" tvg-logo="http://iv.pe/1Lz" group-title="Canais | Filmes e Séries",HBO Family HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2361
+#EXTINF:-1 tvg-id="HBO Family FHD" tvg-logo="http://iv.pe/IZa" group-title="Canais | Filmes e Séries",HBO Family SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1807
+#EXTINF:-1 tvg-id="HBO Family FHD" tvg-logo="http://iv.pe/bUp" group-title="Canais | Filmes e Séries",HBO Family SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2185
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="http://iv.pe/tTM" group-title="Canais | Filmes e Séries",HBO FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1940
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://iv.pe/uXa" group-title="Canais | Filmes e Séries",HBO FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25445
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://iv.pe/1K3" group-title="Canais | Filmes e Séries",HBO FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29410
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://iv.pe/muz" group-title="Canais | Filmes e Séries",HBO HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1805
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://iv.pe/4to" group-title="Canais | Filmes e Séries",HBO HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2360
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://iv.pe/v7a" group-title="Canais | Legendados",HBO HD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1525
+#EXTINF:-1 tvg-id="HBO + HD" tvg-logo="http://iv.pe/3xh" group-title="Canais | Filmes e Séries",HBO Plus E SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2184
+#EXTINF:-1 tvg-id="HBO + FHD" tvg-logo="http://iv.pe/orv" group-title="Canais | Filmes e Séries",HBO Plus FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1991
+#EXTINF:-1 tvg-id="HBO + HD" tvg-logo="http://iv.pe/k2w" group-title="Canais | Filmes e Séries",HBO Plus FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25444
+#EXTINF:-1 tvg-id="HBO + HD" tvg-logo="http://iv.pe/icT" group-title="Canais | Filmes e Séries",HBO Plus FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29462
+#EXTINF:-1 tvg-id="HBO +" tvg-logo="http://iv.pe/Hk5" group-title="Canais | Filmes e Séries",HBO Plus HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1803
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/UMi" group-title="Canais | Filmes e Séries",HBO Plus HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2359
+#EXTINF:-1 tvg-id="HBO +" tvg-logo="http://iv.pe/4i0" group-title="Canais | Legendados",HBO Plus HD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1523
+#EXTINF:-1 tvg-id="HBO + HD" tvg-logo="http://iv.pe/AoW" group-title="Canais | Filmes e Séries",HBO Plus SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1804
+#EXTINF:-1 tvg-id="HBO + HD" tvg-logo="http://iv.pe/pRb" group-title="Canais | Filmes e Séries",HBO Plus SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2183
+#EXTINF:-1 tvg-id="HBO +" tvg-logo="http://iv.pe/XsY" group-title="Canais | Legendados",HBO Plus SD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1522
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="http://iv.pe/Eqy" group-title="Canais | Filmes e Séries",HBO SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1810
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://iv.pe/hk7" group-title="Canais | Filmes e Séries",HBO SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2182
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://iv.pe/5hb" group-title="Canais | Legendados",HBO SD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1524
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="http://iv.pe/pOr" group-title="Canais | Filmes e Séries",HBO Signature FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1990
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="http://iv.pe/OZ2" group-title="Canais | Filmes e Séries",HBO Signature FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25443
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="http://iv.pe/JGg" group-title="Canais | Filmes e Séries",HBO Signature FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29461
+#EXTINF:-1 tvg-id="HBO Signature FHD" tvg-logo="http://iv.pe/dZG" group-title="Canais | Filmes e Séries",HBO Signature HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1801
+#EXTINF:-1 tvg-id="HBO Signature FHD" tvg-logo="http://iv.pe/6Hr" group-title="Canais | Filmes e Séries",HBO Signature HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2358
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="http://iv.pe/mPF" group-title="Canais | Filmes e Séries",HBO Signature SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1802
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="http://iv.pe/bCz" group-title="Canais | Filmes e Séries",HBO Signature SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2181
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/YRV" group-title="Canais | Filmes e Séries",MAX FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1986
+#EXTINF:-1 tvg-id="Max.br" tvg-logo="http://iv.pe/n3Y" group-title="Canais | Filmes e Séries",MAX FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25439
+#EXTINF:-1 tvg-id="Max.br" tvg-logo="http://iv.pe/ZR4" group-title="Canais | Filmes e Séries",MAX FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29456
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/YS2" group-title="Canais | Filmes e Séries",MAX HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1791
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/ty1" group-title="Canais | Filmes e Séries",MAX HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2355
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="http://iv.pe/DYa" group-title="Canais | Filmes e Séries",MAX Prime FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1985
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="http://iv.pe/qH1" group-title="Canais | Filmes e Séries",MAX Prime FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25438
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="http://iv.pe/rBr" group-title="Canais | Filmes e Séries",MAX Prime FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29455
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="http://iv.pe/ADt" group-title="Canais | Filmes e Séries",MAX Prime HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1789
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="http://iv.pe/tVS" group-title="Canais | Filmes e Séries",MAX Prime HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2354
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="http://iv.pe/Kt7" group-title="Canais | Filmes e Séries",MAX Prime SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1790
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="http://iv.pe/WCt" group-title="Canais | Filmes e Séries",MAX Prime SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2179
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-logo="http://iv.pe/uGY" group-title="Canais | Legendados",MAX Prime SD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1521
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/j63" group-title="Canais | Filmes e Séries",MAX SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1792
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/9xi" group-title="Canais | Filmes e Séries",MAX SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2178
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/oCg" group-title="Canais | Legendados",MAX SD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1520
+#EXTINF:-1 tvg-id="Maxup.br" tvg-logo="http://iv.pe/Q4O" group-title="Canais | Filmes e Séries",MAX Up FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1984
+#EXTINF:-1 tvg-id="Maxup.br" tvg-logo="http://iv.pe/QeT" group-title="Canais | Filmes e Séries",MAX Up FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25437
+#EXTINF:-1 tvg-id="Maxup.br" tvg-logo="http://iv.pe/gNt" group-title="Canais | Filmes e Séries",MAX Up FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29409
+#EXTINF:-1 tvg-id="Maxup.br" tvg-logo="http://iv.pe/dhS" group-title="Canais | Filmes e Séries",MAX Up HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1787
+#EXTINF:-1 tvg-id="Maxup.br" tvg-logo="http://iv.pe/HiQ" group-title="Canais | Filmes e Séries",MAX Up HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2353
+#EXTINF:-1 tvg-id="Maxup.br" tvg-logo="http://iv.pe/kAq" group-title="Canais | Legendados",MAX Up HD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1505
+#EXTINF:-1 tvg-id="Maxup.br" tvg-logo="http://iv.pe/D8X" group-title="Canais | Filmes e Séries",MAX Up SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1788
+#EXTINF:-1 tvg-id="Maxup.br" tvg-logo="http://iv.pe/f1w" group-title="Canais | Filmes e Séries",MAX Up SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2177
+#EXTINF:-1 tvg-id="Maxup.br" tvg-logo="http://iv.pe/psl" group-title="Canais | Legendados",MAX Up SD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1504
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://iv.pe/kic" group-title="Canais | 4K",Megapix 4K [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/28656
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://iv.pe/zpf" group-title="Canais | Filmes e Séries",Megapix FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1983
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://iv.pe/y4L" group-title="Canais | Filmes e Séries",Megapix FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25436
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://iv.pe/GmW" group-title="Canais | Filmes e Séries",Megapix FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29408
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://iv.pe/lvs" group-title="Canais | Filmes e Séries",Megapix HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1785
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://iv.pe/iwJ" group-title="Canais | Filmes e Séries",Megapix HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2352
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://iv.pe/881" group-title="Canais | Legendados",Megapix HD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1503
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://iv.pe/jT7" group-title="Canais | Filmes e Séries",Megapix SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1786
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://iv.pe/EYr" group-title="Canais | Filmes e Séries",Megapix SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2176
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://iv.pe/Pho" group-title="Canais | Legendados",Megapix SD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1502
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="http://iv.pe/FqD" group-title="Canais | Filmes e Séries",Paramount Channel FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1972
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="http://iv.pe/25Y" group-title="Canais | Filmes e Séries",Paramount Channel FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25428
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="http://iv.pe/G8Q" group-title="Canais | Filmes e Séries",Paramount Channel FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29448
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="http://iv.pe/bmE" group-title="Canais | Filmes e Séries",Paramount Channel HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1764
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="http://iv.pe/aO0" group-title="Canais | Filmes e Séries",Paramount Channel HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2343
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="http://iv.pe/I39" group-title="Canais | Filmes e Séries",Paramount Channel SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1765
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="http://iv.pe/2va" group-title="Canais | Filmes e Séries",Paramount Channel SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2168
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://iv.pe/Zgy" group-title="Canais | Filmes e Séries",Space FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1969
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://iv.pe/URv" group-title="Canais | Filmes e Séries",Space FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25420
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://iv.pe/TXq" group-title="Canais | Filmes e Séries",Space FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29440
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://iv.pe/8Td" group-title="Canais | Filmes e Séries",Space HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1732
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://iv.pe/fJS" group-title="Canais | Filmes e Séries",Space HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2333
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://iv.pe/Av0" group-title="Canais | Legendados",Space HD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1501
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://iv.pe/YZT" group-title="Canais | Filmes e Séries",Space SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1733
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://iv.pe/bXm" group-title="Canais | Filmes e Séries",Space SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2156
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://iv.pe/wst" group-title="Canais | Legendados",Space SD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1500
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://iv.pe/Tn0" group-title="Canais | Filmes e Séries",Studio Universal FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1968
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://iv.pe/HLu" group-title="Canais | Filmes e Séries",Studio Universal FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25416
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://iv.pe/0b0" group-title="Canais | Filmes e Séries",Studio Universal FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29436
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://iv.pe/MUz" group-title="Canais | Filmes e Séries",Studio Universal HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1724
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://iv.pe/Oih" group-title="Canais | Filmes e Séries",Studio Universal HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2329
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://iv.pe/jQJ" group-title="Canais | Filmes e Séries",Studio Universal SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1725
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://iv.pe/UZA" group-title="Canais | Filmes e Séries",Studio Universal SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2153
+#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="http://iv.pe/4mR" group-title="Canais | Filmes e Séries",SyFy FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1967
+#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="http://iv.pe/X4J" group-title="Canais | Filmes e Séries",SyFy FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25415
+#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="http://iv.pe/05p" group-title="Canais | Filmes e Séries",SyFy FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29404
+#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="http://iv.pe/U7P" group-title="Canais | Filmes e Séries",SyFy HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1734
+#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="http://iv.pe/bSA" group-title="Canais | Filmes e Séries",SyFy HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2328
+#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="http://iv.pe/P0J" group-title="Canais | Filmes e Séries",SyFy SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1735
+#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="http://iv.pe/HjH" group-title="Canais | Filmes e Séries",SyFy SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2152
+#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="http://iv.pe/a6P" group-title="Canais | Filmes e Séries",TBS FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1966
+#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="http://iv.pe/Q1z" group-title="Canais | Filmes e Séries",TBS FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25414
+#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="http://iv.pe/2KB" group-title="Canais | Filmes e Séries",TBS FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29435
+#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="http://iv.pe/yvu" group-title="Canais | Filmes e Séries",TBS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1722
+#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="http://iv.pe/3WS" group-title="Canais | Filmes e Séries",TBS HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2327
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/git" group-title="Canais | Filmes e Séries",TBS SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1723
+#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="http://iv.pe/6Xu" group-title="Canais | Filmes e Séries",TBS SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2151
+#EXTINF:-1 tvg-id="Tcm.br" tvg-logo="http://iv.pe/TcB" group-title="Canais | Filmes e Séries",TCM SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1721
+#EXTINF:-1 tvg-id="Tcm.br" tvg-logo="http://iv.pe/6SD" group-title="Canais | Filmes e Séries",TCM SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2150
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="http://iv.pe/E3y" group-title="Canais | Filmes e Séries",Telecine Action FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1927
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="http://iv.pe/urE" group-title="Canais | Filmes e Séries",Telecine Action FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25413
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="http://iv.pe/HQK" group-title="Canais | Filmes e Séries",Telecine Action FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29434
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="http://iv.pe/Csv" group-title="Canais | Filmes e Séries",Telecine Action HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1719
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="http://iv.pe/f1N" group-title="Canais | Filmes e Séries",Telecine Action HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2326
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="http://iv.pe/Tam" group-title="Canais | Legendados",Telecine Action HD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1519
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="http://iv.pe/MpX" group-title="Canais | Filmes e Séries",Telecine Action SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1720
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="http://iv.pe/jaD" group-title="Canais | Filmes e Séries",Telecine Action SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2149
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="http://iv.pe/fZB" group-title="Canais | Legendados",Telecine Action SD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1518
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="http://iv.pe/6c6" group-title="Canais | Filmes e Séries",Telecine Cult FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1965
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="http://iv.pe/TBI" group-title="Canais | Filmes e Séries",Telecine Cult FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25412
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="http://iv.pe/hnY" group-title="Canais | Filmes e Séries",Telecine Cult FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29433
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="http://iv.pe/cli" group-title="Canais | Filmes e Séries",Telecine Cult HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1717
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="http://iv.pe/zpZ" group-title="Canais | Filmes e Séries",Telecine Cult HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2325
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="http://iv.pe/DOc" group-title="Canais | Filmes e Séries",Telecine Cult SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1718
+#EXTINF:-1 tvg-id="Tccult.br" tvg-logo="http://iv.pe/gxW" group-title="Canais | Filmes e Séries",Telecine Cult SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2148
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="http://iv.pe/WiL" group-title="Canais | Filmes e Séries",Telecine Fun FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1926
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="http://iv.pe/aw8" group-title="Canais | Filmes e Séries",Telecine Fun FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25411
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="http://iv.pe/JyR" group-title="Canais | Filmes e Séries",Telecine Fun FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29432
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="http://iv.pe/lVw" group-title="Canais | Filmes e Séries",Telecine Fun HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1715
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="http://iv.pe/6QL" group-title="Canais | Filmes e Séries",Telecine Fun HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2324
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="http://iv.pe/z5e" group-title="Canais | Legendados",Telecine Fun HD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1517
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="http://iv.pe/kVp" group-title="Canais | Filmes e Séries",Telecine Fun SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1716
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="http://iv.pe/hUv" group-title="Canais | Filmes e Séries",Telecine Fun SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2147
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-logo="http://iv.pe/Jvg" group-title="Canais | Legendados",Telecine Fun SD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1516
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="http://iv.pe/NUS" group-title="Canais | Filmes e Séries",Telecine Pipoca FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1925
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="http://iv.pe/2Gn" group-title="Canais | Filmes e Séries",Telecine Pipoca FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25410
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="http://iv.pe/WrU" group-title="Canais | Filmes e Séries",Telecine Pipoca FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29431
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="http://iv.pe/GLD" group-title="Canais | Filmes e Séries",Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1713
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="http://iv.pe/eyt" group-title="Canais | Filmes e Séries",Telecine Pipoca HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2323
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="http://iv.pe/dTJ" group-title="Canais | Legendados",Telecine Pipoca HD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1515
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="http://iv.pe/LNT" group-title="Canais | Filmes e Séries",Telecine Pipoca SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1714
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="http://iv.pe/EA4" group-title="Canais | Filmes e Séries",Telecine Pipoca SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2146
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="http://iv.pe/QZe" group-title="Canais | Legendados",Telecine Pipoca SD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1514
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="http://iv.pe/ewn" group-title="Canais | Filmes e Séries",Telecine Premium FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1924
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="http://iv.pe/ME2" group-title="Canais | Filmes e Séries",Telecine Premium FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25409
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="http://iv.pe/7Vi" group-title="Canais | Filmes e Séries",Telecine Premium FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29430
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="http://iv.pe/9yf" group-title="Canais | Filmes e Séries",Telecine Premium HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1711
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="http://iv.pe/1q6" group-title="Canais | Filmes e Séries",Telecine Premium HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2322
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="http://iv.pe/jtH" group-title="Canais | Legendados",Telecine Premium HD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1513
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="http://iv.pe/myd" group-title="Canais | Filmes e Séries",Telecine Premium SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1712
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="http://iv.pe/hDv" group-title="Canais | Filmes e Séries",Telecine Premium SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2145
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="http://iv.pe/AWa" group-title="Canais | Legendados",Telecine Premium SD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1512
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="http://iv.pe/sUe" group-title="Canais | Filmes e Séries",Telecine Touch FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1923
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="http://iv.pe/B0j" group-title="Canais | Filmes e Séries",Telecine Touch FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25408
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="http://iv.pe/sdR" group-title="Canais | Filmes e Séries",Telecine Touch FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29429
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="http://iv.pe/lSn" group-title="Canais | Filmes e Séries",Telecine Touch HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1709
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="http://iv.pe/n1z" group-title="Canais | Filmes e Séries",Telecine Touch HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2321
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="http://iv.pe/U3R" group-title="Canais | Legendados",Telecine Touch HD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1511
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="http://iv.pe/eTd" group-title="Canais | Filmes e Séries",Telecine Touch SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1710
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="http://iv.pe/hCj" group-title="Canais | Filmes e Séries",Telecine Touch SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2144
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-logo="http://iv.pe/4Gk" group-title="Canais | Legendados",Telecine Touch SD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1510
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://iv.pe/vP4" group-title="Canais | 4K",TNT 4K [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/28665
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://iv.pe/dlK" group-title="Canais | Filmes e Séries",TNT FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1963
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://iv.pe/B5f" group-title="Canais | Filmes e Séries",TNT FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25407
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://iv.pe/jj6" group-title="Canais | Filmes e Séries",TNT FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29428
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://iv.pe/y4E" group-title="Canais | Filmes e Séries",TNT HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1704
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://iv.pe/IXt" group-title="Canais | Filmes e Séries",TNT HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2318
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://iv.pe/6rz" group-title="Canais | Legendados",TNT HD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1509
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://iv.pe/67w" group-title="Canais | Filmes e Séries",TNT SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1705
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://iv.pe/dg2" group-title="Canais | Filmes e Séries",TNT SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2141
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="http://iv.pe/LDU" group-title="Canais | Legendados",TNT SD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1508
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://iv.pe/gpU" group-title="Canais | 4K",TNT Series 4K [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/28655
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://iv.pe/T8d" group-title="Canais | Filmes e Séries",TNT Series FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1962
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://iv.pe/aAO" group-title="Canais | Filmes e Séries",TNT Series FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25406
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://iv.pe/iWX" group-title="Canais | Filmes e Séries",TNT Series FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29427
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://iv.pe/In0" group-title="Canais | Filmes e Séries",TNT Series HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1702
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://iv.pe/8fk" group-title="Canais | Filmes e Séries",TNT Series HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2317
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://iv.pe/ALW" group-title="Canais | Legendados",TNT Series HD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1499
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://iv.pe/aq4" group-title="Canais | Filmes e Séries",TNT Series SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1703
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://iv.pe/7T9" group-title="Canais | Filmes e Séries",TNT Series SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2140
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://iv.pe/BuA" group-title="Canais | Legendados",TNT Series SD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1498
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-logo="http://iv.pe/JTf" group-title="Canais | Filmes e Séries",Universal Channel FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1959
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-logo="http://iv.pe/hL5" group-title="Canais | Filmes e Séries",Universal Channel FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25404
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-logo="http://iv.pe/geI" group-title="Canais | Filmes e Séries",Universal Channel FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29426
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-logo="http://iv.pe/tNl" group-title="Canais | Filmes e Séries",Universal Channel HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1688
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-logo="http://iv.pe/jqx" group-title="Canais | Filmes e Séries",Universal Channel HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2315
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-logo="http://iv.pe/nzT" group-title="Canais | Filmes e Séries",Universal Channel SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1689
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-logo="http://iv.pe/f1V" group-title="Canais | Filmes e Séries",Universal Channel SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2137
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-logo="http://iv.pe/kuW" group-title="Canais | Filmes e Séries",Warner Channel FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1957
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-logo="http://iv.pe/rzp" group-title="Canais | Filmes e Séries",Warner Channel FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25401
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-logo="http://iv.pe/kic" group-title="Canais | Filmes e Séries",Warner Channel FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29424
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-logo="http://iv.pe/yfF" group-title="Canais | Filmes e Séries",Warner Channel HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1681
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-logo="http://iv.pe/jaD" group-title="Canais | Filmes e Séries",Warner Channel HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2313
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-logo="http://iv.pe/nnh" group-title="Canais | Legendados",Warner Channel HD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1497
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-logo="http://iv.pe/NCm" group-title="Canais | Filmes e Séries",Warner Channel SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1682
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-logo="http://iv.pe/yQf" group-title="Canais | Filmes e Séries",Warner Channel SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2134
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-logo="http://iv.pe/dFC" group-title="Canais | Legendados",Warner Channel SD [Legendado]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1496

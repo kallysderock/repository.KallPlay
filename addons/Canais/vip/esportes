@@ -1,0 +1,48 @@
+#EXTM3U
+#EXTINF:-1,DAZN  - DAZN BRASIL
+plugin://plugin.video.f4mTester/?name=[B][COLOR+blue][/COLOR]+-+[COLOR++beige]DAZN[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/58130
+#EXTINF:-1,BandSports FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]BAND+SPORTS[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/50612
+#EXTINF:-1,Combate 4K
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]COMBATE[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/42635
+#EXTINF:-1,Combate FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]COMBATE[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36986
+#EXTINF:-1,Combate SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]COMBATE[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/37119
+#EXTINF:-1,ESPN Brasil FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]ESPN+BRASIL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36978
+#EXTINF:-1,ESPN Extra FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]ESPN+EXTRA[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/42910
+#EXTINF:-1,ESPN 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]ESPN+2[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36976
+#EXTINF:-1,Fish TV FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/0097140285/fireurl.co/2002
+#EXTINF:-1,FOX Sports HD 
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]FOX+SPORTS[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/50755
+#EXTINF:-1,FOX Sports 2 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]FOX+SPORTS+2[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36971
+#EXTINF:-1,Premiere Clubes HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]PREMIERE+CLUBES[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36948
+#EXTINF:-1,Premiere Clubes SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]PREMIERE+CLUBES[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/37016
+#EXTINF:-1,Premiere 2 
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]PREMIERE+2[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/37060
+#EXTINF:-1,Premiere 3 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]PREMIERE+3[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/37059
+#EXTINF:-1,Premiere 4 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]PREMIERE+4[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://167.114.173.170:25461/live/app/YZLGSLt2L5/899.m3u8
+#EXTINF:-1,Premiere 5 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]PREMIERE+5[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://167.114.173.170:25461/live/app/YZLGSLt2L5/898.m3u8
+#EXTINF:-1,Premiere 6 SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]PREMIERE+6[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://167.114.173.170:25461/live/app/YZLGSLt2L5/897.m3u8
+#EXTINF:-1,Premiere 7 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]PREMIERE+7[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://167.114.173.170:25461/live/app/YZLGSLt2L5/896.m3u8
+#EXTINF:-1,Premiere 8 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]PREMIERE+8[/COLOR][/B]&streamtype=HLSRETRY&amp;url=http://167.114.173.170:25461/live/app/YZLGSLt2L5/895.m3u8
+#EXTINF:-1,SporTV FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]SPORTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/37255
+#EXTINF:-1,SporTV 2 FHD 
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]SPORTV2[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36943
+#EXTINF:-1,SporTV 3 FHD 
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]SPORTV3[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36942
+

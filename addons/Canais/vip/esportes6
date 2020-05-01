@@ -1,0 +1,315 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/2ut" group-title="Canais | Esportes",Champions League 1 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29887
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/2ut" group-title="Canais | Esportes",Champions League 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29886
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/2ut" group-title="Canais | Esportes",Champions League 3 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29885
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/2ut" group-title="Canais | Esportes",Champions League 4 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29884
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/2ut" group-title="Canais | Esportes",Champions League 5 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29883
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/2ut" group-title="Canais | Esportes",Champions League 6 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29882
+
+#EXTINF:-1 tvg-id="BandSports HD" tvg-logo="http://iv.pe/dBB" group-title="Canais | Esportes",BandSports FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2019
+#EXTINF:-1 tvg-id="BandSports" tvg-logo="http://iv.pe/c4T" group-title="Canais | Esportes",BandSports FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25468
+#EXTINF:-1 tvg-id="BandSports" tvg-logo="http://iv.pe/HyJ" group-title="Canais | Esportes",BandSports FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29422
+#EXTINF:-1 tvg-id="BandSports" tvg-logo="http://iv.pe/8hZ" group-title="Canais | Esportes",BandSports HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1891
+#EXTINF:-1 tvg-id="BandSports" tvg-logo="http://iv.pe/ZbV" group-title="Canais | Esportes",BandSports HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2397
+#EXTINF:-1 tvg-id="BandSports HD" tvg-logo="http://iv.pe/kRo" group-title="Canais | Esportes",BandSports SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1892
+#EXTINF:-1 tvg-id="BandSports" tvg-logo="http://iv.pe/W9O" group-title="Canais | Esportes",BandSports SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2209
+
+
+#EXTINF:-1 tvg-id="Combate" tvg-logo="http://iv.pe/nCK" group-title="Canais | 4K",Combate 4K
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1491
+#EXTINF:-1 tvg-id="Combate" tvg-logo="http://iv.pe/aoF" group-title="Canais | 4K",Combate 4K [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/28671
+#EXTINF:-1 tvg-id="Combate HD" tvg-logo="http://iv.pe/Gh2" group-title="Canais | Esportes",Combate FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1951
+#EXTINF:-1 tvg-id="Combate HD" tvg-logo="http://iv.pe/FXA" group-title="Canais | Esportes",Combate FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25461
+#EXTINF:-1 tvg-id="Combate" tvg-logo="http://iv.pe/q7X" group-title="Canais | Esportes",Combate FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29477
+#EXTINF:-1 tvg-id="Combate" tvg-logo="http://iv.pe/sEQ" group-title="Canais | Esportes",Combate HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1875
+#EXTINF:-1 tvg-id="Combate" tvg-logo="http://iv.pe/b1p" group-title="Canais | Esportes",Combate HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2392
+#EXTINF:-1 tvg-id="Combate HD" tvg-logo="http://iv.pe/vTp" group-title="Canais | Esportes",Combate SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1876
+#EXTINF:-1 tvg-id="Combate HD" tvg-logo="http://iv.pe/HI9" group-title="Canais | Esportes",Combate SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2206
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/7TG" group-title="Canais | Esportes",DAZN 1 - Copa Sulamericana HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1642
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/vQb" group-title="Canais | Esportes",DAZN 2 - Copa Libertadores HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1641
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/2JP" group-title="Canais | Esportes",DAZN 3 - Brasileirao Serie C HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1640
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/iqo" group-title="Canais | Esportes",Ei Plus HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1645
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/R5h" group-title="Canais | Esportes",Ei Plus SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1644
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-logo="http://iv.pe/4TD" group-title="Canais | Esportes",ESPN 2 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2004
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="http://iv.pe/nX8" group-title="Canais | Esportes",ESPN 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25458
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="http://iv.pe/MXd" group-title="Canais | Esportes",ESPN 2 FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29394
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-logo="http://iv.pe/n8v" group-title="Canais | Esportes",ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1846
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="http://iv.pe/W9s" group-title="Canais | Esportes",ESPN 2 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2379
+#EXTINF:-1 tvg-id="ESPN 2 FHD" tvg-logo="http://iv.pe/h9D" group-title="Canais | Esportes",ESPN 2 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1847
+#EXTINF:-1 tvg-id="ESPN 2 HD" tvg-logo="http://iv.pe/nGR" group-title="Canais | Esportes",ESPN 2 SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2196
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://iv.pe/npl" group-title="Canais | 4K",ESPN 4K [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/28861
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-logo="http://iv.pe/U75" group-title="Canais | Esportes",ESPN Brasil FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1948
+#EXTINF:-1 tvg-id="ESPN Brasil FHD" tvg-logo="http://iv.pe/pvg" group-title="Canais | Esportes",ESPN Brasil FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25387
+#EXTINF:-1 tvg-id="ESPN Brasil FHD" tvg-logo="http://iv.pe/A8j" group-title="Canais | Esportes",ESPN Brasil FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29396
+#EXTINF:-1 tvg-id="ESPN Brasil FHD" tvg-logo="http://iv.pe/MlV" group-title="Canais | Esportes",ESPN Brasil HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1844
+#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-logo="http://iv.pe/85R" group-title="Canais | Esportes",ESPN Brasil HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2378
+#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-logo="http://iv.pe/iso" group-title="Canais | Esportes",ESPN Brasil SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1845
+#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-logo="http://iv.pe/UUm" group-title="Canais | Esportes",ESPN Brasil SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2195
+#EXTINF:-1 tvg-id="ESPN Extra FHD" tvg-logo="http://iv.pe/Jc3" group-title="Canais | Esportes",ESPN Extra FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2003
+#EXTINF:-1 tvg-id="ESPN Extra FHD" tvg-logo="http://iv.pe/SQA" group-title="Canais | Esportes",ESPN Extra FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25457
+#EXTINF:-1 tvg-id="ESPN Extra FHD" tvg-logo="http://iv.pe/sQn" group-title="Canais | Esportes",ESPN Extra FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29393
+#EXTINF:-1 tvg-id="ESPN Extra HD" tvg-logo="http://iv.pe/0EK" group-title="Canais | Esportes",ESPN Extra HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1842
+#EXTINF:-1 tvg-id="ESPN Extra FHD" tvg-logo="http://iv.pe/wQX" group-title="Canais | Esportes",ESPN Extra HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2377
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-logo="http://iv.pe/wtO" group-title="Canais | Esportes",ESPN Extra SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1843
+#EXTINF:-1 tvg-id="ESPN HD" tvg-logo="http://iv.pe/DuF" group-title="Canais | Esportes",ESPN FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1947
+#EXTINF:-1 tvg-id="ESPN HD" tvg-logo="http://iv.pe/wan" group-title="Canais | Esportes",ESPN FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25386
+#EXTINF:-1 tvg-id="ESPN HD" tvg-logo="http://iv.pe/1Fp" group-title="Canais | Esportes",ESPN FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29395
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://iv.pe/Bn1" group-title="Canais | Esportes",ESPN HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1841
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://iv.pe/49P" group-title="Canais | Esportes",ESPN HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2376
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://iv.pe/gI0" group-title="Canais | Esportes",ESPN SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1848
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://iv.pe/eq8" group-title="Canais | Esportes",ESPN SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2194
+
+
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-logo="http://iv.pe/N43" group-title="Canais | 4K",FOX Sports 2 4K [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/28661
+#EXTINF:-1 tvg-id="FoxSports 2 HD" tvg-logo="http://iv.pe/Kj6" group-title="Canais | Esportes",FOX Sports 2 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1945
+#EXTINF:-1 tvg-id="FoxSports 2 HD" tvg-logo="http://iv.pe/rCa" group-title="Canais | Esportes",FOX Sports 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25383
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-logo="http://iv.pe/HK2" group-title="Canais | Esportes",FOX Sports 2 FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29467
+#EXTINF:-1 tvg-id="FoxSports 2 HD" tvg-logo="http://iv.pe/NTc" group-title="Canais | Esportes",FOX Sports 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1825
+#EXTINF:-1 tvg-id="FoxSports 2 HD" tvg-logo="http://iv.pe/zsk" group-title="Canais | Esportes",FOX Sports 2 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2370
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-logo="http://iv.pe/1dm" group-title="Canais | Esportes",FOX Sports 2 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1826
+#EXTINF:-1 tvg-id="FoxSports 2 HD" tvg-logo="http://iv.pe/akf" group-title="Canais | Esportes",FOX Sports 2 SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2191
+#EXTINF:-1 tvg-id="FoxSports" tvg-logo="http://iv.pe/tzL" group-title="Canais | 4K",FOX Sports 4K [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/28669
+#EXTINF:-1 tvg-id="FoxSports HD" tvg-logo="http://iv.pe/LIw" group-title="Canais | Esportes",FOX Sports FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1944
+#EXTINF:-1 tvg-id="FoxSports HD" tvg-logo="http://iv.pe/hLV" group-title="Canais | Esportes",FOX Sports FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25382
+#EXTINF:-1 tvg-id="FoxSports" tvg-logo="http://iv.pe/feV" group-title="Canais | Esportes",FOX Sports FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29466
+#EXTINF:-1 tvg-id="FoxSports HD" tvg-logo="http://iv.pe/laR" group-title="Canais | Esportes",FOX Sports HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1827
+#EXTINF:-1 tvg-id="FoxSports HD" tvg-logo="http://iv.pe/mpV" group-title="Canais | Esportes",FOX Sports HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2369
+#EXTINF:-1 tvg-id="FoxSports HD" tvg-logo="http://iv.pe/N1v" group-title="Canais | Esportes",FOX Sports SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1828
+#EXTINF:-1 tvg-id="FoxSports FHD" tvg-logo="http://iv.pe/Pbd" group-title="Canais | Esportes",FOX Sports SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2190
+
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://iv.pe/AU4" group-title="Canais | Esportes",Premiere 2 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1939
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://iv.pe/PKC" group-title="Canais | Esportes",Premiere 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25427
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://iv.pe/j4y" group-title="Canais | Esportes",Premiere 2 FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29447
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://iv.pe/x9F" group-title="Canais | Esportes",Premiere 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1762
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://iv.pe/XDF" group-title="Canais | Esportes",Premiere 2 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2342
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://iv.pe/fc6" group-title="Canais | Esportes",Premiere 2 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1763
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="http://iv.pe/uQJ" group-title="Canais | Esportes",Premiere 2 SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2165
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://iv.pe/88x" group-title="Canais | Esportes",Premiere 3 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1938
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://iv.pe/Npz" group-title="Canais | Esportes",Premiere 3 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25426
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://iv.pe/vRR" group-title="Canais | Esportes",Premiere 3 FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29446
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://iv.pe/zod" group-title="Canais | Esportes",Premiere 3 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1760
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://iv.pe/BF1" group-title="Canais | Esportes",Premiere 3 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2341
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://iv.pe/zNf" group-title="Canais | Esportes",Premiere 3 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1761
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="http://iv.pe/b6u" group-title="Canais | Esportes",Premiere 3 SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2164
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://iv.pe/ACv" group-title="Canais | Esportes",Premiere 4 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1937
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://iv.pe/9si" group-title="Canais | Esportes",Premiere 4 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25373
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://iv.pe/zuD" group-title="Canais | Esportes",Premiere 4 FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29445
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://iv.pe/uIF" group-title="Canais | Esportes",Premiere 4 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1758
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://iv.pe/NfD" group-title="Canais | Esportes",Premiere 4 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2340
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://iv.pe/RGp" group-title="Canais | Esportes",Premiere 4 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1759
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="http://iv.pe/ZfE" group-title="Canais | Esportes",Premiere 4 SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2163
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://iv.pe/nrI" group-title="Canais | Esportes",Premiere 5 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1936
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://iv.pe/xuh" group-title="Canais | Esportes",Premiere 5 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25425
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://iv.pe/DJW" group-title="Canais | Esportes",Premiere 5 FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29444
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://iv.pe/NgB" group-title="Canais | Esportes",Premiere 5 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1756
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://iv.pe/BqD" group-title="Canais | Esportes",Premiere 5 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2339
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://iv.pe/nUB" group-title="Canais | Esportes",Premiere 5 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1757
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="http://iv.pe/Ade" group-title="Canais | Esportes",Premiere 5 SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2162
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://iv.pe/nvu" group-title="Canais | Esportes",Premiere 6 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1935
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://iv.pe/qhn" group-title="Canais | Esportes",Premiere 6 FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29443
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://iv.pe/Ak6" group-title="Canais | Esportes",Premiere 6 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1754
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://iv.pe/gVI" group-title="Canais | Esportes",Premiere 6 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2338
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://iv.pe/qgt" group-title="Canais | Esportes",Premiere 6 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1755
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="http://iv.pe/g3Q" group-title="Canais | Esportes",Premiere 6 SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2161
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://iv.pe/YVk" group-title="Canais | Esportes",Premiere 7 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1934
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://iv.pe/LnR" group-title="Canais | Esportes",Premiere 7 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25372
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://iv.pe/pLs" group-title="Canais | Esportes",Premiere 7 FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29442
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://iv.pe/UeX" group-title="Canais | Esportes",Premiere 7 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1752
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://iv.pe/AzR" group-title="Canais | Esportes",Premiere 7 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2337
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://iv.pe/dVO" group-title="Canais | Esportes",Premiere 7 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1753
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="http://iv.pe/Wt2" group-title="Canais | Esportes",Premiere 7 SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2160
+#EXTINF:-1 tvg-id="" tvg-logo="http://iv.pe/2sm" group-title="Canais | Esportes",Premiere 8 SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2159
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://iv.pe/Sqw" group-title="Canais | 4K",Premiere Clubes 4K
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1492
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://iv.pe/Bzc" group-title="Canais | 4K",Premiere Clubes 4K [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/28667
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://iv.pe/x1P" group-title="Canais | Esportes",Premiere Clubes FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1933
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://iv.pe/iDj" group-title="Canais | Esportes",Premiere Clubes FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25424
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://iv.pe/Q2O" group-title="Canais | Esportes",Premiere Clubes FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29441
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://iv.pe/ku8" group-title="Canais | Esportes",Premiere Clubes HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1750
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://iv.pe/Kx8" group-title="Canais | Esportes",Premiere Clubes HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2336
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://iv.pe/3XT" group-title="Canais | Esportes",Premiere Clubes SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1751
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://iv.pe/0xp" group-title="Canais | Esportes",Premiere Clubes SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2158
+
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://iv.pe/8xl" group-title="Canais | Esportes",SporTV 2 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1930
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://iv.pe/Sqm" group-title="Canais | Esportes",SporTV 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25419
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://iv.pe/QMM" group-title="Canais | Esportes",SporTV 2 FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29439
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://iv.pe/8g1" group-title="Canais | Esportes",SporTV 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1729
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://iv.pe/WkN" group-title="Canais | Esportes",SporTV 2 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2332
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://iv.pe/id3" group-title="Canais | Esportes",SporTV 2 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1730
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="http://iv.pe/V38" group-title="Canais | Esportes",SporTV 2 SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2155
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://iv.pe/Lsk" group-title="Canais | Esportes",SporTV 3 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1929
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://iv.pe/vsW" group-title="Canais | Esportes",SporTV 3 FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25418
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://iv.pe/bXO" group-title="Canais | Esportes",SporTV 3 FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29438
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://iv.pe/TS6" group-title="Canais | Esportes",SporTV 3 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1727
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://iv.pe/K5s" group-title="Canais | Esportes",SporTV 3 HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2331
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://iv.pe/vDM" group-title="Canais | Esportes",SporTV 3 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1728
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="http://iv.pe/RNe" group-title="Canais | Esportes",SporTV 3 SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2131
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://iv.pe/uSQ" group-title="Canais | 4K",SporTV 4K
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1493
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://iv.pe/DDY" group-title="Canais | 4K",SporTV 4K [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/28657
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://iv.pe/d4r" group-title="Canais | Esportes",SporTV FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1928
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://iv.pe/ZAV" group-title="Canais | Esportes",SporTV FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25417
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://iv.pe/y4G" group-title="Canais | Esportes",SporTV FHD [H265] [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/29437
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://iv.pe/bt3" group-title="Canais | Esportes",SporTV HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1726
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://iv.pe/xLB" group-title="Canais | Esportes",SporTV HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2330
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://iv.pe/rEf" group-title="Canais | Esportes",SporTV SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1731
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://iv.pe/7yk" group-title="Canais | Esportes",SporTV SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2154
+
+
+
+
+
+
+
+
+
+
+
+
+

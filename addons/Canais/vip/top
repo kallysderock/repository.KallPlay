@@ -1,0 +1,309 @@
+#EXTM3U
+#EXTINF:-1,A FAZENDA: A F A Z E N D A  S D
+http://fotos.caras.uol.com.br/media//images/large/2019/09/16/vaza-suposta-lista-de-participantes-de-a-fazenda-871949.jpg        plugin://plugin.video.f4mTester/?name=[COLOR+lime][B]KALL[/COLOR][COLOR+orange]PLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/33564
+#EXTINF:-1,A FAZENDA: A F A Z E N D A  H D
+http://fotos.caras.uol.com.br/media//images/large/2019/09/16/vaza-suposta-lista-de-participantes-de-a-fazenda-871949.jpg        plugin://plugin.video.f4mTester/?name=[COLOR+lime][B]KALL[/COLOR][COLOR+orange]PLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/33563
+#EXTINF:-1,EI PLUS: EI PLUS HD
+https://img.ibxk.com.br/2016/11/programas/15563009143717446.png        plugin://plugin.video.f4mTester/?name=[COLOR+lime][B]KALL[/COLOR][COLOR+orange]PLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/24835 
+#EXTINF:-1,EI PLUS 1: EI PLUS 1 HD
+https://img.ibxk.com.br/2016/11/programas/15563009143717446.png        plugin://plugin.video.f4mTester/?name=[COLOR+lime][B]KALL[/COLOR][COLOR+orange]PLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/32162
+#EXTINF:-1,EI PLUS 3: EI PLUS 3 HD
+https://img.ibxk.com.br/2016/11/programas/15563009143717446.png        plugin://plugin.video.f4mTester/?name=[COLOR+lime][B]KALL[/COLOR][COLOR+orange]PLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/32163
+#EXTINF:-1,COPA LIBERTADORES: COPA LIBERTADORES
+https://i2.wp.com/rdctv.com.br/wp-content/uploads/2018/11/Conmebol-2.jpg        plugin://plugin.video.f4mTester/?name=[COLOR+lime][B]KALL[/COLOR][COLOR+orange]PLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/32205
+#EXTINF:-1,COPA DO NORDESTE SD: COPA DO NORDESTE SD
+https://i1.wp.com/www.dsvc.com.br/wp-content/uploads/2014/01/Copa-do-Nordeste-1.png        plugin://plugin.video.f4mTester/?name=[COLOR+lime][B]KALL[/COLOR][COLOR+orange]PLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20069 
+#EXTINF:-1,COPA DO NORDESTE HD: COPA DO NORDESTE HD
+https://i1.wp.com/www.dsvc.com.br/wp-content/uploads/2014/01/Copa-do-Nordeste-1.png        plugin://plugin.video.f4mTester/?name=[COLOR+lime][B]KALL[/COLOR][COLOR+orange]PLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20070
+#EXTINF:-1,A&E SD: A&E SD
+plugin://plugin.video.f4mTester/?name=[COLOR+lime][B]KALL[/COLOR][COLOR+orange]PLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4404
+#EXTINF:-1,A&E HD: A&E HD
+plugin://plugin.video.f4mTester/?name=[COLOR+lime][B]KALL[/COLOR][COLOR+orange]PLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/8139
+#EXTINF:-1,A&E FHD: A&E FHD (DUAL AUDIO)
+http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png      !  plugin://plugin.video.f4mTester/?name=[COLOR+lime][B]KALL[/COLOR][COLOR+orange]PLAY[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/9344
+#EXTINF:-1,BR: CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1453.m3u8
+#EXTINF:-1,BR: CANAL DO BOI HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1452.m3u8
+#EXTINF:-1,BR: CANAL RURAL HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1451.m3u8
+#EXTINF:-1,BR: CANAL SONY HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1450.m3u8
+#EXTINF:-1,BR: CANÇÃO NOVA HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1449.m3u8
+#EXTINF:-1,BR: CARTOON NETWORK
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1448.m3u8
+#EXTINF:-1,BR: CHEF TV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1447.m3u8
+#EXTINF:-1,BR: CINE + HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1446.m3u8
+#EXTINF:-1,BR: CINEMAX HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1445.m3u8
+#EXTINF:-1,BR: CLIMATEMPO HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1444.m3u8
+#EXTINF:-1,BR: COMBATE HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1443.m3u8
+#EXTINF:-1,BR: COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1442.m3u8
+#EXTINF:-1,BR: CURTA! HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1441.m3u8
+#EXTINF:-1,BR: DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1440.m3u8
+#EXTINF:-1,BR: DISCOVERY CIVILIZATION HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1439.m3u8
+#EXTINF:-1,BR: DISCOVERY HOME&HEALT HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1438.m3u8
+#EXTINF:-1,BR: DISCOVERY ID HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1437.m3u8
+#EXTINF:-1,BR: DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1436.m3u8
+#EXTINF:-1,BR: DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1435.m3u8
+#EXTINF:-1,BR: DISCOVERY THEATHER HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1434.m3u8
+#EXTINF:-1,BR: DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1433.m3u8
+#EXTINF:-1,BR: DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1432.m3u8
+#EXTINF:-1,BR: DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1431.m3u8
+#EXTINF:-1,BR: DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1430.m3u8
+#EXTINF:-1,BR: DISNEY XD HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1429.m3u8
+#EXTINF:-1,BR: E! HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1428.m3u8
+#EXTINF:-1,BR: EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1409.m3u8
+#EXTINF:-1,BR: ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1670.m3u8
+#EXTINF:-1,BR: ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1426.m3u8
+#EXTINF:-1,BR: ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1425.m3u8
+#EXTINF:-1,BR: ESPN HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1427.m3u8
+#EXTINF:-1,BR: FASHION TV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1424.m3u8
+#EXTINF:-1,BR: FISH TV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1423.m3u8
+#EXTINF:-1,BR: FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1584.m3u8
+#EXTINF:-1,BR: FOX HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1421.m3u8
+#EXTINF:-1,BR: FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1420.m3u8
+#EXTINF:-1,BR: FOX PREMIUM 1 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1419.m3u8
+#EXTINF:-1,BR: FOX PREMIUM 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1418.m3u8
+#EXTINF:-1,BR: FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1416.m3u8
+#EXTINF:-1,BR: FOX SPORTS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1417.m3u8
+#EXTINF:-1,BR: FUTURA HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1415.m3u8
+#EXTINF:-1,BR: FX HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1414.m3u8
+#EXTINF:-1,BR: GAZETA DIGITAL HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1413.m3u8
+#EXTINF:-1,BR: GLOBO BAHIA HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1412.m3u8
+#EXTINF:-1,BR: GLOBO DF HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1410.m3u8
+#EXTINF:-1,BR: GLOBO MATO GROSSO HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1408.m3u8
+#EXTINF:-1,BR: GLOBO MINAS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1407.m3u8
+#EXTINF:-1,BR: GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1406.m3u8
+#EXTINF:-1,BR: GLOBO NORDESTE HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1405.m3u8
+#EXTINF:-1,BR: GLOBO PARÁ HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1404.m3u8
+#EXTINF:-1,BR: GLOBO PERNAMBUCO HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1403.m3u8
+#EXTINF:-1,BR: GLOBO RJ HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1401.m3u8
+#EXTINF:-1,BR: GLOBO SANTA CATARINA HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1399.m3u8
+#EXTINF:-1,BR: GLOBO SP HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1398.m3u8
+#EXTINF:-1,BR: GLOBO TV ANHANGUERA HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1592.m3u8
+#EXTINF:-1,BR: GLOOB HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1591.m3u8
+#EXTINF:-1,BR: GLOOBINHO HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1590.m3u8
+#EXTINF:-1,BR: GNT HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1589.m3u8
+#EXTINF:-1,BR: HBO 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1587.m3u8
+#EXTINF:-1,BR: HBO FAMILY HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1586.m3u8
+#EXTINF:-1,BR: HBO HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1588.m3u8
+#EXTINF:-1,BR: HBO PLUS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1585.m3u8
+#EXTINF:-1,BR: HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1583.m3u8
+#EXTINF:-1,BR: HISTORY 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1581.m3u8
+#EXTINF:-1,BR: HISTORY HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1582.m3u8
+#EXTINF:-1,BR: IDEAL TV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1580/live.m3u8
+#EXTINF:-1,BR: LIFETIME HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1579.m3u8
+#EXTINF:-1,BR: MAIS GLOBOSAT HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1578.m3u8
+#EXTINF:-1,BR: MAX HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1577.m3u8
+#EXTINF:-1,BR: MAX PRIME FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/3148.m3u8
+#EXTINF:-1,BR: MAX PRIME HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1576.m3u8
+#EXTINF:-1,BR: MAX UP HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1575.m3u8
+#EXTINF:-1,BR: MEGAPIX HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1574.m3u8
+#EXTINF:-1,BR: MTV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1573.m3u8
+#EXTINF:-1,BR: MULTISHOW HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1572.m3u8
+#EXTINF:-1,BR: NAT GEO KIDS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1570.m3u8
+#EXTINF:-1,BR: NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1569.m3u8
+#EXTINF:-1,BR: NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1568.m3u8
+#EXTINF:-1,BR: NBR HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1567.m3u8
+#EXTINF:-1,BR: NICK JR HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1566.m3u8
+#EXTINF:-1,BR: NICKELODEON HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1565.m3u8
+#EXTINF:-1,BR: OFF HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1564.m3u8
+#EXTINF:-1,BR: PARAMOUNT HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1563.m3u8
+#EXTINF:-1,BR: PLAY TV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1562.m3u8
+#EXTINF:-1,BR: PREMIERE 1 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1561.m3u8
+#EXTINF:-1,BR: PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1560.m3u8
+#EXTINF:-1,BR: PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1559.m3u8
+#EXTINF:-1,BR: PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1558.m3u8
+#EXTINF:-1,BR: PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1557.m3u8
+#EXTINF:-1,BR: PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1556.m3u8
+#EXTINF:-1,BR: PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1640.m3u8
+#EXTINF:-1,BR: PREMIERE 8 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1639.m3u8
+#EXTINF:-1,BR: PREMIERE CLUBE HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1638.m3u8
+#EXTINF:-1,BR: PRIME BOX BRASIL HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1637.m3u8
+#EXTINF:-1,BR: RBI HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1636.m3u8
+#EXTINF:-1,BR: RBS PORTO ALEGRE HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1402.m3u8
+#EXTINF:-1,BR: RCI HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1635.m3u8
+#EXTINF:-1,BR: RECORD HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1634.m3u8
+#EXTINF:-1,BR: RECORD NEWS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1633.m3u8
+#EXTINF:-1,BR: REDE BRASIL HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1632.m3u8
+#EXTINF:-1,BR: REDE CNT HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1631.m3u8
+#EXTINF:-1,BR: REDE TV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1630.m3u8
+#EXTINF:-1,BR: REDE VIDA HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1629.m3u8
+#EXTINF:-1,BR: RIT HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1628.m3u8
+#EXTINF:-1,BR: RPC TV PARANAENSE HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1400.m3u8
+#EXTINF:-1,BR: SBT HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1627.m3u8
+#EXTINF:-1,BR: SPACE HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1626.m3u8
+#EXTINF:-1,BR: SPORTV 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1624.m3u8
+#EXTINF:-1,BR: SPORTV 3 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1623.m3u8
+#EXTINF:-1,BR: SPORTV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1625.m3u8
+#EXTINF:-1,BR: STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1622.m3u8
+#EXTINF:-1,BR: SYFY HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1621.m3u8
+#EXTINF:-1,BR: TBS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1620.m3u8
+#EXTINF:-1,BR: TCM HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1619.m3u8
+#EXTINF:-1,BR: TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1618.m3u8
+#EXTINF:-1,BR: TELECINE CULT HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1617.m3u8
+#EXTINF:-1,BR: TELECINE FUN HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1616.m3u8
+#EXTINF:-1,BR: TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1615.m3u8
+#EXTINF:-1,BR: TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1614.m3u8
+#EXTINF:-1,BR: TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1613.m3u8
+#EXTINF:-1,BR: TLC HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1612.m3u8
+#EXTINF:-1,BR: TNT HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1611.m3u8
+#EXTINF:-1,BR: TNT SERIES HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1610.m3u8
+#EXTINF:-1,BR: TOONCAST HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1609.m3u8
+#EXTINF:-1,BR: TRAVEL BOX HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1608.m3u8
+#EXTINF:-1,BR: TRU TV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1607.m3u8
+#EXTINF:-1,BR: TV APARECIDA HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1606.m3u8
+#EXTINF:-1,BR: TV BRASIL HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1605.m3u8
+#EXTINF:-1,BR: TV CULTURA HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1604.m3u8
+#EXTINF:-1,BR: TV CÂMARA HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1603.m3u8
+#EXTINF:-1,BR: TV ESCOLA HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1602.m3u8
+#EXTINF:-1,BR: TV GAZETA HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1601.m3u8
+#EXTINF:-1,BR: TV JUSTIÇA HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1600.m3u8
+#EXTINF:-1,BR: TV NOVO TEMPO HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1599.m3u8
+#EXTINF:-1,BR: TV RÁ TIM BUM HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1598.m3u8
+#EXTINF:-1,BR: TV SENADO HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1597.m3u8
+#EXTINF:-1,BR: TV VERDES MARES HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1411.m3u8
+#EXTINF:-1,BR: TVCI HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1596.m3u8
+#EXTINF:-1,BR: UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1595.m3u8
+#EXTINF:-1,BR: VH1 MEGA HITS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1594.m3u8
+#EXTINF:-1,BR: VIVA HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1593.m3u8
+#EXTINF:-1,BR: WARNER HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1666.m3u8
+#EXTINF:-1,BR: WOOHOO HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://mcny.allmedia4.tv:80/live/aMtWx5ZN/AzApromo/1665.m3u8

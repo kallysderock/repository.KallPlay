@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layouttype>thumbnail</layouttype>
+
+<item>
+<title>[COLOR red][B] ≤≤≤ [/B][/COLOR][COLOR magenta][B]"CANAIS[/B][/COLOR] [COLOR aqua][B]NOTÍCIAS"[/B][/COLOR][COLOR red][B] ≥≥≥ [/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/e8OItLH.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]BAND NEWS[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]bandnews.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://www.sky.com.br/documents/1407842/36974578/9_thumb_band_news.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]GLOBO NEWS[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]globonews.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/06/globonews.jpg</thumbnail>
+</item>

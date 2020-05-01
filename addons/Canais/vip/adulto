@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-logo="http://iv.pe/IK3" group-title="Canais | Adultos",[+18] Playboy FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1954
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-logo="http://iv.pe/v7l" group-title="Canais | Adultos",[+18] Playboy FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25423
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-logo="http://iv.pe/fvZ" group-title="Canais | Adultos",[+18] Playboy HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1649
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-logo="http://iv.pe/rlh" group-title="Canais | Adultos",[+18] Playboy HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2309
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-logo="http://iv.pe/XjL" group-title="Canais | Adultos",[+18] Playboy SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1650
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-logo="http://iv.pe/xmU" group-title="Canais | Adultos",[+18] Playboy SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2166
+#EXTINF:-1 tvg-id="PlayboyTV HD" tvg-name="[+18] Playboy FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://iv.pe/IK3" group-title="Canais | Adultos",[+18] Playboy FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/1954
+#EXTINF:-1 tvg-id="PlayboyTV" tvg-name="[+18] Playboy FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://iv.pe/v7l" group-title="Canais | Adultos",[+18] Playboy FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/25423
+#EXTINF:-1 tvg-id="PlayboyTV" tvg-name="[+18] Playboy HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://iv.pe/h0D" group-title="Canais | Adultos",[+18] Playboy HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/1649
+#EXTINF:-1 tvg-id="PlayboyTV HD" tvg-name="[+18] Playboy HD [Alter]" tvg-logo="plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://iv.pe/rlh" group-title="Canais | Adultos",[+18] Playboy HD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2309
+#EXTINF:-1 tvg-id="PlayboyTV FHD" tvg-name="[+18] Playboy SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://iv.pe/XjL" group-title="Canais | Adultos",[+18] Playboy SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/1650
+#EXTINF:-1 tvg-id="PlayboyTV HD" tvg-name="[+18] Playboy SD [Alter]" tvg-logo="plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://iv.pe/xmU" group-title="Canais | Adultos",[+18] Playboy SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2166
+#EXTINF:-1 tvg-id="Sextreme.br" tvg-logo="http://iv.pe/Nob" group-title="Canais | Adultos",[+18] Sextreme FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25368
+#EXTINF:-1 tvg-id="Sextreme.br" tvg-logo="http://iv.pe/fSf" group-title="Canais | Adultos",[+18] Sextreme SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1648
+#EXTINF:-1 tvg-id="Sextreme.br" tvg-logo="http://iv.pe/VTR" group-title="Canais | Adultos",[+18] Sextreme SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2105
+#EXTINF:-1 tvg-id="Sextreme HD" tvg-name="[+18] Sextreme FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://iv.pe/Nob" group-title="Canais | Adultos",[+18] Sextreme FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/25368
+#EXTINF:-1 tvg-id="Sextreme" tvg-name="[+18] Sextreme SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://iv.pe/fSf" group-title="Canais | Adultos",[+18] Sextreme SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/1648
+#EXTINF:-1 tvg-id="Sextreme HD" tvg-name="[+18] Sextreme SD [Alter]" tvg-logo="plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://iv.pe/VTR" group-title="Canais | Adultos",[+18] Sextreme SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2105
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-logo="http://iv.pe/UrZ" group-title="Canais | Adultos",[+18] Sexy Hot FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25369
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-logo="http://iv.pe/5px" group-title="Canais | Adultos",[+18] Sexy Hot SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1647
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-logo="http://iv.pe/lqW" group-title="Canais | Adultos",[+18] Sexy Hot SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2104
+#EXTINF:-1 tvg-id="SexyHot HD" tvg-name="[+18] Sexy Hot FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://iv.pe/UrZ" group-title="Canais | Adultos",[+18] Sexy Hot FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/25369
+#EXTINF:-1 tvg-id="SexyHot" tvg-name="[+18] Sexy Hot SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://iv.pe/5px" group-title="Canais | Adultos",[+18] Sexy Hot SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/1647
+#EXTINF:-1 tvg-id="SexyHot HD" tvg-name="[+18] Sexy Hot SD [Alter]" tvg-logo="plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://iv.pe/lqW" group-title="Canais | Adultos",[+18] Sexy Hot SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2104
+#EXTINF:-1 tvg-id="Venus.br" tvg-logo="http://iv.pe/oEZ" group-title="Canais | Adultos",[+18] Venus FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/25365
+#EXTINF:-1 tvg-id="Venus.br" tvg-logo="http://iv.pe/Wtx" group-title="Canais | Adultos",[+18] Venus SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/1646
+#EXTINF:-1 tvg-id="Venus.br" tvg-logo="http://iv.pe/ULW" group-title="Canais | Adultos",[+18] Venus SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/grilo/grilo/2102
+#EXTINF:-1 tvg-id="Venus HD" tvg-name="[+18] Venus FHD [H265]" tvg-logo="plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://iv.pe/oEZ" group-title="Canais | Adultos",[+18] Venus FHD [H265]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/25365
+#EXTINF:-1 tvg-id="Venus" tvg-name="[+18] Venus SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://iv.pe/Wtx" group-title="Canais | Adultos",[+18] Venus SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/1646
+#EXTINF:-1 tvg-id="Venus HD" tvg-name="[+18] Venus SD [Alter]" tvg-logo="plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://iv.pe/ULW" group-title="Canais | Adultos",[+18] Venus SD [Alter]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2102
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Sexy Hot HD" tvg-logo="" group-title="Canais | Adultos",[XX] Sexy Hot HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/61968.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Venus HD" tvg-logo="" group-title="Canais | Adultos",[XX] Venus HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/61966.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] PLAYBOY H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | Adultos",[XX] PLAYBOY H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/51258.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jasmin HD XX" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",Jasmin HD XX
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/56409.ts
+#EXTINF:-1 tvg-id="" tvg-name="Miami TV Latina XX" tvg-logo="http://urlcurta.ml/WwbGE" group-title="Canais | Adultos",Miami TV Latina XX
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/56406.ts
+#EXTINF:-1 tvg-id="PlayboyTV FHD" tvg-name="[XX] Playboy TV  FHD" tvg-logo="http://4.bp.blogspot.com/-zoABwtfCqyI/VnH8ehrNSwI/AAAAAAAAAdU/qZU8akpmPfE/s1600/PLAYBOYTVHD-2012.png" group-title="Canais | Adultos",[XX] Playboy TV  FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/41513.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Sexy Hot FHD" tvg-logo="" group-title="Canais | Adultos",[XX] Sexy Hot FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/61969.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Venus FHD" tvg-logo="" group-title="Canais | Adultos",[XX] Venus FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/61967.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Jasmin TV" tvg-logo="http://i.imgur.com/DLEFDcv.png" group-title="Canais | Adultos",[XX] Jasmin TV
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/40305.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Playboy TV" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="Canais | Adultos",[XX] Playboy TV
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/37061.ts
+#EXTINF:-1 tvg-id="PlayboyTV" tvg-name="[XX] Playboy TV HD" tvg-logo="http://4.bp.blogspot.com/-zoABwtfCqyI/VnH8ehrNSwI/AAAAAAAAAdU/qZU8akpmPfE/s1600/PLAYBOYTVHD-2012.png" group-title="Canais | Adultos",[XX] Playboy TV HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/40749.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Sextreme" tvg-logo="http://i.imgur.com/rxDFBSw.png" group-title="Canais | Adultos",[XX] Sextreme
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/37047.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Sexy Hot" tvg-logo="http://i.imgur.com/jv8XhSR.png" group-title="Canais | Adultos",[XX] Sexy Hot
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/37009.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Venus" tvg-logo="https://i.imgur.com/Ru2GvCs.png" group-title="Canais | Adultos",[XX] Venus
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/37026.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Visit-X HD" tvg-logo="http://urlcurta.ml/gbkuw" group-title="Canais | Adultos",[XX] Visit-X HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/40151.ts
+#EXTINF:-1 tvg-id="" tvg-name="([XX] ADULTO 11" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",([XX] ADULTO 11
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/57091.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 12)" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 12)
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/57092.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 13" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 13
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/57093.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 14" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 14
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/57094.ts
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 15" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",XX ADULTO 15
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/57095.ts
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 16" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",XX ADULTO 16
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/57096.ts
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 17" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",XX ADULTO 17
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/57097.ts
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 18" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",XX ADULTO 18
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/57098.ts
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 19" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",XX ADULTO 19
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/57099.ts
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 20" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",XX ADULTO 20
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/57100.ts
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 21" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",XX ADULTO 21
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/57101.ts
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 22" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",XX ADULTO 22
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/57102.ts
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 23" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",XX ADULTO 23
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/57113.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 1" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 1
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/52276.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 10" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 10
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/52285.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 2" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 2
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/52277.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 3" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 3
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/52278.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 4" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 4
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/52279.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 5" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 5
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/52280.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 6" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 6
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/52281.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 7" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 7
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/52282.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 8" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 8
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/52283.ts
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 9" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 9
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/live/5TPhDytJdf/factoryiptv/52284.ts

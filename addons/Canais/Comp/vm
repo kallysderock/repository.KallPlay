@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layouttype>thumbnail</layouttype>
+
+<item>
+<title>[COLOR red][B] ≤≤≤ [/B][/COLOR][COLOR magenta][B]"CANAIS[/B][/COLOR] [COLOR aqua][B]VARIEDADES & MÚSICAS"[/B][/COLOR][COLOR red][B] ≥≥≥ [/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/a4E3jVI.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]ARTE 1[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]arte1.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://teleguiado.com/wp-content/uploads/2018/11/Arte1.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]BIS[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]bis.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/06/bis.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]COMEDY CENTRAL[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]comedycentral.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/06/comedycentral.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]CANAL E![/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]canale.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/06/canale.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]FOOD NETWORK[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]foodnetwork.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2019/04/food.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]GNT[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]gnt.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/06/gnt.jpg</thumbnail>
+</item>
+
+
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]LIFETIME[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]foxlife.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/06/lifetime.jpg</thumbnail>
+
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]MAIS GLOBOSAT[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]maisbobosat.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://3.bp.blogspot.com/-zTM4P7A9vKE/Wo3o0_pT_cI/AAAAAAABEio/IhczRMkrQyUkjMX7eBBINqyJq5lntGt-QCLcBGAs/s1600/Mais%2BGlobosat.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]MTV[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]mtv.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/07/mtv.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]MULTISHOW[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]multishow.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/06/multishow.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]VIVA[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]viva.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/06/viva.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR  green][B] • [/B][/COLOR][COLOR  khaki][B]TLC[/B][/COLOR]</title>
+<link>$doregex[CONEXAOTUBE]tlc.m3u8|Referer=https://cometa.top/</link>
+<regex><name>CONEXAOTUBE</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://tvonlinegratis.ru/wp-content/uploads/2015/07/tlc.jpg</thumbnail>
+</item>

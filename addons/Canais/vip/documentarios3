@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ANIMAL PLANET 
+http://playback.imirun.net:8080//AnimalPlanet-HD/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,DISCOVERY CIVILIZATION 
+http://playback.imirun.net:8080//DiscoveryCivilization-HD/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY CHANNEL 
+http://playback.imirun.net:8080//DiscoveryChannel/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY H&H 
+http://playback.imirun.net:8080//DiscoveryH&H-HD/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY SCIENCE 
+http://playback.imirun.net:8080//DiscoveryScienceHD/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY THEATHER 
+http://playback.imirun.net:8080//DiscoveryTheater-HD/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY TURBO 
+http://playback.imirun.net:8080//DiscoveryTurbo/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY world 
+http://playback.imirun.net:8080//DiscoveryWorldHD/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY CHANNEL 
+http://playback.imirun.net:8080//DisneyChannelHD/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , H2 
+http://playback.imirun.net:8080//H2-HD/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , History CHANNEL 
+http://playback.imirun.net:8080//HistoryChannel_HD/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ID  
+http://playback.imirun.net:8080//InvestigacaoDiscoveryHD/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NATIONAL GEOGRAPHIC 
+http://hvod.imirun.net:8080/National-Geographic-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NAt GEO WILD 
+http://playback.imirun.net:8080//NatGeoWild-HD/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TLC 
+http://playback.imirun.net:8080//TLC/tracks-v1a1/mono.m3u8

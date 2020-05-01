@@ -1,0 +1,184 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="As Meninas Superpoderosas [24H]" tvg-logo="" group-title="Canais | 24 Horas",As Meninas Superpoderosas [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2099
+#EXTINF:-1 tvg-id="" tvg-name="As Tartarugas Ninja [24H]" tvg-logo="" group-title="Canais | 24 Horas",As Tartarugas Ninja [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2098
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja [24H]" tvg-logo="" group-title="Canais | 24 Horas",Bob Esponja [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2097
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad [24H]" tvg-logo="" group-title="Canais | 24 Horas",Breaking Bad [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2029
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado [24H]" tvg-logo="" group-title="Canais | 24 Horas",Chapolin Colorado [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2027
+#EXTINF:-1 tvg-id="" tvg-name="Chaves Animado [24H]" tvg-logo="" group-title="Canais | 24 Horas",Chaves Animado [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2094
+
+#EXTINF:-1 tvg-id="" tvg-name="Chaves [24H]" tvg-logo="" group-title="Canais | 24 Horas",Chaves [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/28125
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10 [24H]" tvg-logo="" group-title="Canais | 24 Horas",Ben 10 [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/28124
+#EXTINF:-1 tvg-id="" tvg-name="Cameras Escondidas [24H]" tvg-logo="" group-title="Canais | 24 Horas",Cameras Escondidas [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/28129
+#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragao [24H]" tvg-logo="" group-title="Canais | 24 Horas",Caverna do Dragao [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/28128
+#EXTINF:-1 tvg-id="" tvg-name="Denis - O Pimentinha [24H]" tvg-logo="" group-title="Canais | 24 Horas",Denis - O Pimentinha [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2091
+#EXTINF:-1 tvg-id="" tvg-name="Coragem [24H]" tvg-logo="plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://iv.pe/ajf" group-title="Canais | 24 Horas",Coragem [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2092
+#EXTINF:-1 tvg-id="" tvg-name="Digimon [24H]" tvg-logo="" group-title="Canais | 24 Horas",Digimon [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2090
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio [24H]" tvg-logo="" group-title="Canais | 24 Horas",Dois Homens e Meio [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2089
+#EXTINF:-1 tvg-id="" tvg-name="Doug [24H]" tvg-logo="" group-title="Canais | 24 Horas",Doug [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2049
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super [24H]" tvg-logo="" group-title="Canais | 24 Horas",Dragon Ball Super [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2056
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z [24H]" tvg-logo="" group-title="Canais | 24 Horas",Dragon Ball Z [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2088
+#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Criancas [24H]" tvg-logo="" group-title="Canais | 24 Horas",Eu a Patroa e as Criancas [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2054
+#EXTINF:-1 tvg-id="" tvg-name="Formiga Atomica [24H]" tvg-logo="" group-title="Canais | 24 Horas",Formiga Atomica [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2039
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Cartoon [24H]" tvg-logo="" group-title="Canais | 24 Horas",Gospel Cartoon [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2086
+#EXTINF:-1 tvg-id="" tvg-name="Guardioes da Galaxia [24H]" tvg-logo="" group-title="Canais | 24 Horas",Guardioes da Galaxia [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2040
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha [24H]" tvg-logo="" group-title="Canais | 24 Horas",Galinha Pintadinha [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2087
+#EXTINF:-1 tvg-id="" tvg-name="He-Man [24H]" tvg-logo="" group-title="Canais | 24 Horas",He-Man [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2085
+#EXTINF:-1 tvg-id="" tvg-name="Hércules [24H]" tvg-logo="" group-title="Canais | 24 Horas",Hércules [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2026
+#EXTINF:-1 tvg-id="" tvg-name="Historias da Disney [24H]" tvg-logo="" group-title="Canais | 24 Horas",Historias da Disney [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2084
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro [24H]" tvg-logo="" group-title="Canais | 24 Horas",Homem de Ferro [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2036
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha [24H]" tvg-logo="" group-title="Canais | 24 Horas",Homem-Aranha [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2083
+#EXTINF:-1 tvg-id="" tvg-name="Incrivel Hulk [24H]" tvg-logo="" group-title="Canais | 24 Horas",Incrivel Hulk [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2038
+#EXTINF:-1 tvg-id="" tvg-name="Jack-Chan [24H]" tvg-logo="" group-title="Canais | 24 Horas",Jack-Chan [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2052
+#EXTINF:-1 tvg-id="" tvg-name="Jaspion [24H]" tvg-logo="" group-title="Canais | 24 Horas",Jaspion [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2082
+#EXTINF:-1 tvg-id="" tvg-name="Jerusalem [Camera]" tvg-logo="" group-title="Canais | Cameras Ao Vivo",Jerusalem [Camera]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2430
+#EXTINF:-1 tvg-id="" tvg-name="Jiraya [24H]" tvg-logo="" group-title="Canais | 24 Horas",Jiraya [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2081
+#EXTINF:-1 tvg-id="" tvg-name="Kenan e Kel [24H]" tvg-logo="" group-title="Canais | 24 Horas",Kenan e Kel [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2044
+#EXTINF:-1 tvg-id="" tvg-name="MIB Homens de Preto [24H]" tvg-logo="" group-title="Canais | 24 Horas",MIB Homens de Preto [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2047
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat [24H]" tvg-logo="" group-title="Canais | 24 Horas",Mortal Kombat [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2031
+#EXTINF:-1 tvg-id="" tvg-name="Moscow [Camera]" tvg-logo="" group-title="Canais | Cameras Ao Vivo",Moscow [Camera]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2431
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Ben [24H]" tvg-logo="" group-title="Canais | 24 Horas",Mr. Ben [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2045
+#EXTINF:-1 tvg-id="" tvg-name="Medabots [24H]" tvg-logo="" group-title="Canais | 24 Horas",Medabots [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2080
+#EXTINF:-1 tvg-id="" tvg-name="MegaMan [24H]" tvg-logo="" group-title="Canais | 24 Horas",MegaMan [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2032
+#EXTINF:-1 tvg-id="" tvg-name="Naruto [24H]" tvg-logo="" group-title="Canais | 24 Horas",Naruto [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2079
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuuden [24H]" tvg-logo="" group-title="Canais | 24 Horas",Naruto Shippuuden [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2078
+#EXTINF:-1 tvg-id="" tvg-name="O Fantastico Mundo de Bobby [24H]" tvg-logo="" group-title="Canais | 24 Horas",O Fantastico Mundo de Bobby [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2048
+#EXTINF:-1 tvg-id="" tvg-name="O Inspetor [24H]" tvg-logo="" group-title="Canais | 24 Horas",O Inspetor [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2077
+#EXTINF:-1 tvg-id="" tvg-name="O Maskara [24H]" tvg-logo="" group-title="Canais | 24 Horas",O Maskara [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2076
+#EXTINF:-1 tvg-id="" tvg-name="Os Anjinhos Rugrats [24H]" tvg-logo="" group-title="Canais | 24 Horas",Os Anjinhos Rugrats [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2075
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodiaco [24H]" tvg-logo="" group-title="Canais | 24 Horas",Os Cavaleiros do Zodiaco [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2074
+#EXTINF:-1 tvg-id="" tvg-name="Os Flintstones [24H]" tvg-logo="" group-title="Canais | 24 Horas",Os Flintstones [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2073
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons [24H]" tvg-logo="" group-title="Canais | 24 Horas",Os Simpsons [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2072
+#EXTINF:-1 tvg-id="" tvg-name="Os Ursinhos Carinhosos [24H]" tvg-logo="" group-title="Canais | 24 Horas",Os Ursinhos Carinhosos [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2059
+#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores [24H]" tvg-logo="" group-title="Canais | 24 Horas",Os Vingadores [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2037
+#EXTINF:-1 tvg-id="" tvg-name="Papa Leguas [24H]" tvg-logo="" group-title="Canais | 24 Horas",Papa Leguas [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2053
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig [24H]" tvg-logo="" group-title="Canais | 24 Horas",Peppa Pig [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2033
+#EXTINF:-1 tvg-id="" tvg-name="Pernalonga [24H]" tvg-logo="" group-title="Canais | 24 Horas",Pernalonga [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2071
+#EXTINF:-1 tvg-id="" tvg-name="Phineas e Ferb [24H]" tvg-logo="" group-title="Canais | 24 Horas",Phineas e Ferb [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2070
+#EXTINF:-1 tvg-id="" tvg-name="Pink e Cerebro [24H]" tvg-logo="" group-title="Canais | 24 Horas",Pink e Cerebro [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2046
+#EXTINF:-1 tvg-id="" tvg-name="Pokemon [24H]" tvg-logo="" group-title="Canais | 24 Horas",Pokemon [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2051
+
+#EXTINF:-1 tvg-id="" tvg-name="Popeye O Marinheiro [24H]" tvg-logo="" group-title="Canais | 24 Horas",Popeye O Marinheiro [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2041
+#EXTINF:-1 tvg-id="" tvg-name="Rambo [24H]" tvg-logo="" group-title="Canais | 24 Horas",Rambo [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2068
+#EXTINF:-1 tvg-id="" tvg-name="South Park [24H]" tvg-logo="plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://iv.pe/yTt" group-title="Canais | 24 Horas",South Park [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2066
+#EXTINF:-1 tvg-id="" tvg-name="Tres Espias Demais [24H]" tvg-logo="" group-title="Canais | 24 Horas",Tres Espias Demais [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2034
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Bita [24H]" tvg-logo="" group-title="Canais | 24 Horas",Mundo Bita [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/28126
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Canina [24H]" tvg-logo="" group-title="Canais | 24 Horas",Patrulha Canina [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/28127
+#EXTINF:-1 tvg-id="" tvg-name="Irmãos a Obra [24H]" tvg-logo="" group-title="Canais | 24 Horas",Irmãos a Obra [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/28610
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Spider-Man [24H]" tvg-logo="" group-title="Canais | 24 Horas",Marvel Spider-Man [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/28609
+#EXTINF:-1 tvg-id="" tvg-name="Hora de Aventura [24H]" tvg-logo="" group-title="Canais | 24 Horas",Hora de Aventura [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/28650
+#EXTINF:-1 tvg-id="" tvg-name="Os Jovens Titas em Acao [24H]" tvg-logo="" group-title="Canais | 24 Horas",Os Jovens Titas em Acao [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/28652
+#EXTINF:-1 tvg-id="" tvg-name="Ultimate Homem Aranha [24H]" tvg-logo="" group-title="Canais | 24 Horas",Ultimate Homem Aranha [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/28674
+#EXTINF:-1 tvg-id="" tvg-name="Vai Que Cola [24H]" tvg-logo="" group-title="Canais | 24 Horas",Vai Que Cola [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/28673
+#EXTINF:-1 tvg-id="" tvg-name="Toma La Da Ca [24H]" tvg-logo="" group-title="Canais | 24 Horas",Toma La Da Ca [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/28754
+#EXTINF:-1 tvg-id="" tvg-name="A Familia Addams [24H]" tvg-logo="" group-title="Canais | 24 Horas",A Familia Addams [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/28755
+#EXTINF:-1 tvg-id="" tvg-name="She-Ra e as Princesas do Poder [24H]" tvg-logo="" group-title="Canais | 24 Horas",She-Ra e as Princesas do Poder [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/28875
+#EXTINF:-1 tvg-id="" tvg-name="As Epicas Aventuras do Capitao Cueca [24H]" tvg-logo="" group-title="Canais | 24 Horas",As Epicas Aventuras do Capitao Cueca [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/29390
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados A Tribo [24H]" tvg-logo="" group-title="Canais | 24 Horas",Largados e Pelados A Tribo [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/29389
+#EXTINF:-1 tvg-id="" tvg-name="Miraculous As Aventuras de Ladybug [24H]" tvg-logo="" group-title="Canais | 24 Horas",Miraculous As Aventuras de Ladybug [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/29388
+#EXTINF:-1 tvg-id="" tvg-name="Scooby Doo [24H]" tvg-logo="" group-title="Canais | 24 Horas",Scooby Doo [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2067
+#EXTINF:-1 tvg-id="" tvg-name="Smallville [24H]" tvg-logo="" group-title="Canais | 24 Horas",Smallville [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2030
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural [24H]" tvg-logo="" group-title="Canais | 24 Horas",Sobrenatural [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2043
+#EXTINF:-1 tvg-id="" tvg-name="Steven Universe [24H]" tvg-logo="" group-title="Canais | 24 Horas",Steven Universe [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2065
+#EXTINF:-1 tvg-id="" tvg-name="Superman [24H]" tvg-logo="" group-title="Canais | 24 Horas",Superman [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2035
+#EXTINF:-1 tvg-id="" tvg-name="Tesouros da Disney [24H]" tvg-logo="" group-title="Canais | 24 Horas",Tesouros da Disney [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2064
+#EXTINF:-1 tvg-id="" tvg-name="Thundercats [24H]" tvg-logo="" group-title="Canais | 24 Horas",Thundercats [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2055
+#EXTINF:-1 tvg-id="" tvg-name="Timao e Pumba [24H]" tvg-logo="" group-title="Canais | 24 Horas",Timao e Pumba [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2063
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Cris [24H]" tvg-logo="" group-title="Canais | 24 Horas",Todo Mundo Odeia o Cris [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2062
+#EXTINF:-1 tvg-id="" tvg-name="Tom e Jerry [24H]" tvg-logo="" group-title="Canais | 24 Horas",Tom e Jerry [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2061
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco No Pedaco [24H]" tvg-logo="plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://iv.pe/app" group-title="Canais | 24 Horas",Um Maluco No Pedaco [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2060
+#EXTINF:-1 tvg-id="" tvg-name="Uma Familia da Pesada [24H]" tvg-logo="plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://iv.pe/zme" group-title="Canais | 24 Horas",Uma Familia da Pesada [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2042
+#EXTINF:-1 tvg-id="" tvg-name="X-Men [24H]" tvg-logo="" group-title="Canais | 24 Horas",X-Men [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2058
+#EXTINF:-1 tvg-id="" tvg-name="Xena [24H]" tvg-logo="" group-title="Canais | 24 Horas",Xena [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2028
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho [24H]" tvg-logo="" group-title="Canais | 24 Horas",Yu Yu Hakusho [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2050
+#EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Oh [24H]" tvg-logo="" group-title="Canais | 24 Horas",Yu-Gi-Oh [24H]
+plugin://plugin.video.f4mTester/?name=[B][COLOR beige]Ka[B][COLOR violet][B]l[/B][COLOR  beige][B]l[/COLOR][COLOR magenta] Play[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/986752/986752/2057

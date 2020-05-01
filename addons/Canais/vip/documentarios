@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,ANIMAL PLANET 
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]ANIMAL+PLANET[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36992
+
+#EXTINF:-1,Discovery Channel
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]DISCOVERY+CHANNEL[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36985
+#EXTINF:-1,DISCOVERY CIVILIZATION 
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]DISOCVERY+CIVILIZATION[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36924
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD 
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]DISCOVERY+HH[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/37115
+#EXTINF:-1,DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]DISCOVERY+SCIENCE[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36922
+#EXTINF:-1,Discovery Theater
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]DISCOVERY+THEATER[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36983
+#EXTINF:-1,DISCOVERY TURBO HD 
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]DISCOVERY+TURBO[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36982
+#EXTINF:-1,DISCOVERY WORLD HD 
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]DISCOVERY+WORLD[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36981
+#EXTINF:-1,GloboSat HD
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/36916
+#EXTINF:-1,History
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]HISTORY[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36960
+#EXTINF:-1,History 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]H2[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/50786
+#EXTINF:-1,INVESTIGACAO DISCOVERY HD 
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]ID+DISCOVERY[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36959
+#EXTINF:-1,NATIONAL GEOGRAPHICS
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]NATIONAL+GEOGRAPHIC[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36956
+#EXTINF:-1,NATGEO WILD HD[ Alternativo]
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]NATGEO+WILD[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36955
+#EXTINF:-1,NHK SD [Alternativo]
+plugin://plugin.video.f4mTester/?name=KallPlay bpys&streamtype=TSDOWNLOADER&amp;url=http://tv.minhalista.me:80/vagner/vagner/50931
+#EXTINF:-1,TLC HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]TLC[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/DFnkV301hG/factoryiptv/36902
+#EXTINF:-1,TRU TV SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR+beige][/COLOR]+-+[COLOR+beige]TRUTV[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://167.114.173.170:25461/live/app/YZLGSLt2L5/856.m3u8
+

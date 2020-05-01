@@ -1,0 +1,99 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , A&E  
+http://hvod.imirun.net:8080/A&E-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , AXN 
+http://hvod.imirun.net:8080/AXN-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , AMC 
+http://playback.imirun.net:8080//AMC-HD/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CINEMAX 
+http://playback.imirun.net:8080//Cinemax-HD/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX premium 1 
+http://hvod.imirun.net:8080/Fox-Premium-1-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX premium 2
+http://hvod.imirun.net:8080/Fox-Premium-2-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  FOX 
+http://hvod.imirun.net:8080/FOX-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FX 
+http://hvod.imirun.net:8080/FX-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GNT 
+http://playback.imirun.net:8080//GNT-HD/tracks-v1a1/mono.m3u8#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO 2 
+http://playback.imirun.net:8080//HBO2/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO 
+http://hvod.imirun.net:8080/HBO-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO FAMILY 
+http://playback.imirun.net:8080//HBO-Family-HD/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , max up 
+http://playback.imirun.net:8080//MaxUpHD/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , max PRIME 
+http://playback.imirun.net:8080//MaxPrime*eHD/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MEGA PIX 
+http://hvod.imirun.net:8080/MegapixHD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , OFF 
+http://playback.imirun.net:8080//OFF/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TNT 
+http://hvod.imirun.net:8080/TNT-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SYFY 
+http://hvod.imirun.net:8080/SyFyHD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , STUDIO UNIVERSAL 
+http://playback.imirun.net:8080//StudioUniversalHD/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPACE 
+http://hvod.imirun.net:8080/SpaceHD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SONY 
+http://hvod.imirun.net:8080/canalsony-hd/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE ACTION 
+http://playback.imirun.net:8080//TelecineActionHD/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE PIPOCA 
+http://playback.imirun.net:8080//TelecinePipocaHD/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE CULT 
+http://playback.imirun.net:8080//TelecineCult/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE FUN 
+http://playback.imirun.net:8080//Telecine-Fun-HD/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE PREMIUM  
+http://playback.imirun.net:8080//TelecinePremium/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , STUDIO UNIVERSAL  
+http://playback.imirun.net:8080//StudioUniversal/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE TOUCH  
+http://playback.imirun.net:8080//TelecineTouch/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TLC 
+http://playback.imirun.net:8080//TLC/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TNT 
+http://hvod.imirun.net:8080/TNT-HD/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TCM 
+http://playback.imirun.net:8080//TCM/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TNT SERIES 
+http://playback.imirun.net:8080//TNTSeries/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,WARNNER CHANNEL 
+http://hvod.imirun.net:8080/Warner-Channel-HD/index.m3u8

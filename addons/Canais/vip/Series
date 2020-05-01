@@ -1,0 +1,2014 @@
+<channels>
+
+
+<channel>
+<name>[COLOR yellow][B]* [/B][/COLOR][COLOR  beige][B]Series[/B][/COLOR] [COLOR lime]Populares[/COLOR][COLOR yellow][/COLOR]</name>
+<thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
+<externallink>https://cld.pt/dl/download/d8bcdec6-2d4b-4a76-ab06-9104e44f1863/Series%20tvchannelhd.xml</externallink>
+<fanart>http://www.magazine-hd.com/apps/wp/wp-content/uploads/2015/12/melhores-s%C3%A9ries.jpg</fanart>
+<info>[COLOR gold]|[/COLOR]-  O MELHOR ENTRETENIMENTO PARA A SUA CASA -[COLOR gold]|[/COLOR]</info>
+</channel>
+
+
+<channel>
+<name>[COLOR yellow][B]* [/B][/COLOR][COLOR  beige][B]Series[/B][/COLOR] [COLOR lime][/COLOR][COLOR yellow]Now) [/COLOR][COLOR red](Variadas!)[/COLOR] [COLOR  lime][B]Lançamentos!![/B][/COLOR]</name>
+<thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
+<externallink></externallink>
+<fanart>http://vcfaz.tv/userpix/notimg/10229_now_1.jpg</fanart>
+<info>[COLOR gold]|[/COLOR]-  O MELHOR ENTRETENIMENTO PARA A SUA CASA -[COLOR gold]|[/COLOR]</info>
+</channel>
+
+<channel>
+<name>[COLOR yellow][B]* [/B][/COLOR][COLOR  beige][B]Series[/B][/COLOR] [COLOR lime][/COLOR][COLOR yellow]Now 2) [/COLOR][COLOR red](Variadas!)[/COLOR] [COLOR  lime][B]Lançamentos!![/B][/COLOR]</name>
+<thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
+<externallink></externallink>
+<fanart>http://vcfaz.tv/userpix/notimg/10229_now_1.jpg</fanart>
+<info>[COLOR gold]|[/COLOR]-  O MELHOR ENTRETENIMENTO PARA A SUA CASA -[COLOR gold]|[/COLOR]</info>
+</channel>
+
+
+<channel>
+<name>[COLOR  lawngreen][B]»» [/B][/COLOR][COLORyellow][B]GUIA DE TV[/B][/COLOR][COLOR lime]  Autorizado por Bruno Holanda[/COLOR]</name>
+<thumbnail>https://s26.postimg.org/jw1t4wj09/meu_guia.png</thumbnail>
+<externallink></externallink>
+<jsonrpc>plugin://plugin.video.ultraguia</jsonrpc>
+<fanart>https://cdn.dribbble.com/users/18738/screenshots/178628/meuguiatv_logo.jpg</fanart>
+<info>Veja os horários e programações dos canais brasileiros e internacionais da TV aberta e fechada Necessario a Instalção do ADD-ON MEU-GUIA.TV</info>
+<genre>Guia de Programção</genre>
+</channel> 
+
+<channel>
+<name>[COLOR yellow][B]* [/B][/COLOR][COLOR  beige][B]Retro[/B][/COLOR] [COLOR lime](Antigas)[/COLOR]</name>
+<thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
+<externallink></externallink>
+<fanart>http://museumplanetarium.org/wp-content/uploads/2015/12/Retro.jpg</fanart>
+<info>[COLOR gold]|[/COLOR]-  O MELHOR ENTRETENIMENTO PARA A SUA CASA -[COLOR gold]|[/COLOR]</info>
+</channel>
+
+<channel>
+<name>[COLOR yellow][B]* [/B][/COLOR][COLOR  beige][B]Series[/B][/COLOR] [COLOR lime](Sony)[/COLOR] [COLOR orangered](Creditos Ali)[/COLOR]</name>
+<thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
+<externallink</externallink>
+<fanart>https://i.ytimg.com/vi/_2BtSYe2Q7g/maxresdefault.jpg</fanart>
+<info>Séries de TV e séries exclusivas do Crackle</info>
+</channel>
+
+<channel>
+    <name>[COLOR yellow][B]* [/B][/COLOR][COLOR  beige][B]Netflix[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+    <thumbnail>https://imgur.com/7hf1Lxe.jpg</thumbnail>
+    <genre>Séries</genre>
+    <fanart>http://s2.glbimg.com/xNBgQZgj42RY7pwViVIkPaICgaA=/810x456/top/smart/http://s.glbimg.com/po/tt2/f/original/2017/04/26/netflix-compartilhado.png</fanart>
+    <info>[COLOR gold]|[/COLOR]-  O MELHOR ENTRETENIMENTO PARA A SUA CASA -[COLOR gold]|[/COLOR]</info>		
+	
+	<subchannel>
+    <name>[COLOR beige][B]12 MONKEYS (2015)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+    <thumbnail>http://i.imgur.com/VgFQBHS.jpg</thumbnail>
+	<genre>Aventura/Drama/Mistério</genre>
+	<fanart>http://i.imgur.com/zYzvVsQ.png</fanart>
+	<info>Acompanha a jornada de um viajante no tempo de um futuro pós-apocalíptico, que aparece nos dias atuais em uma missão de localizar e erradicar a fonte de uma praga mortal que eventualmente irá dizimar a raça humana.</info>
+    <subitems>
+	
+
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>http://i.imgur.com/f5ZsC3l.jpg</thumbnail>
+	<externallink>http://bit.ly/2devBhQ</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]13 REASONS WHY (2017)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Mistério</genre>
+	<fanart>http://i.imgur.com/NItUeDW.jpg</fanart>
+    <thumbnail>http://i.imgur.com/h302Hsl.jpg</thumbnail>
+	<info>Após o suicídio de uma adolescente, um colega de turma encontra fitas que revelam os misteriosos motivos de sua decisão.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2017</genre>
+    <thumbnail>http://i.imgur.com/OppUEma.jpg</thumbnail>
+	<externallink>http://bit.ly/2nJRzOa</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]24: LEGACY (2016)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Ação/Drama/Policial</genre>
+	<fanart>http://i.imgur.com/PC8jNSF.jpg</fanart>
+    <thumbnail>http://i.imgur.com/1l5XYg3.jpg</thumbnail>
+	<info>Um militar volta aos Estados Unidos com muita carga sobre os seus ombros. Como último recurso, ele pede ajuda à CTU para retomar sua vida enquanto tenta parar um dos grandes ataques terroristas em solo americano.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/sOF3cJoUkm1rvzpmU3Kd4aekFqn.jpg</thumbnail>
+	<externallink>http://bit.ly/2llvvXg</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]A BÍBLIA (2013)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<fanart>http://i.imgur.com/HOVNe6d.png</fanart>
+	<genre>Ação/Documentário/Drama</genre>
+    <thumbnail>http://i.imgur.com/CDhiCOR.jpg</thumbnail>
+	<info>A história da criação da Terra de Deus e os acontecimentos marcantes que antecederam a crucificação de Jesus Cristo.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<year>2013</year>
+    <thumbnail>http://i.imgur.com/b2d9ZSr.png</thumbnail>
+	<externallink>http://bit.ly/2dnmt9t</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]ANNE WITH AN E (2017)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama</genre>
+	<fanart>http://i.imgur.com/IgwqmOt.jpg</fanart>
+    <thumbnail>http://i.imgur.com/kKAtN21.jpg</thumbnail>
+	<info>Uma órfã é adotada por engano por um casal de irmãos solteirões do interior. Mas ela tem energia e imaginação de sobra para se adaptar ao novo lar.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2017</genre>    
+    <thumbnail>https://image.tmdb.org/t/p/original/jrgeHLyis4kdaiOQX73vMJIOqRz.jpg</thumbnail>
+	<externallink>http://bit.ly/2q4TpX5</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]ARROW (2012)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Ação/Aventura/Policial</genre>
+	<fanart>http://i.imgur.com/aeQRtOl.png</fanart>
+    <thumbnail>http://i.imgur.com/FbMOYuQ.jpg</thumbnail>
+	<info>Baseado em DC Comics 'Green Arrow, um playboy afluente torna-se um super-herói vingativo, salvando a cidade de vilões armados com apenas um arco e flechas.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2012</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/7He5cAtC7kPkQyOqfo3ZygTAN5D.jpg</thumbnail>
+	<externallink>http://bit.ly/2cGEeN3</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2013</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/bQCVLoOYxAHs2WIYqf3EhnrD1fM.jpg</thumbnail>
+	<externallink>http://bit.ly/2cx6fcf</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 3</title>
+    <link>http://1.2.3.4</link>
+	<genre>2014</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/q9pFz39EbnROSsfUu0gOIKdbkGv.jpg</thumbnail>
+	<externallink>http://bit.ly/2d7S6EP</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 4</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>http://i.imgur.com/cL6NzQ9.png</thumbnail>
+	<externallink>http://bit.ly/2cUJQpS</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 5</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/f26jEzkS5nv2zpzxqr0XGNBAp6A.jpg</thumbnail>
+	<externallink>http://bit.ly/2hYhmPa</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]BAND OF BROTHERS (2001)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Guerra/História</genre>
+	<fanart>http://i.imgur.com/0PxVV7A.png</fanart>
+    <thumbnail>https://i.jeded.com/i/band-of-brothers--mini.31953.jpg</thumbnail>
+	<info>Band of Brothers(Irmãos de Armas) é uma minissérie de televisão que conta a história da Easy Company, integrante da 101ª Divisão Aerotransportada do Exército dos Estados Unidos, na Segunda Guerra Mundial.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<year>2001</year>
+    <thumbnail>http://ecx.images-amazon.com/images/I/61Xj0bztIQL._SX342_.jpg</thumbnail>
+	<externallink>http://bit.ly/2cU08OW</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]BETTER CALL SAUL (2015)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Policial</genre>
+	<fanart>http://i.imgur.com/UxIhQpI.png</fanart>
+    <thumbnail>http://i.imgur.com/Yend7bf.jpg</thumbnail>
+	<info>Antes de se transformar no infame Saul Goodman, o advogado de Breaking Bad era mais inocente, mas não era santo.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/hxTOuZxPxl9mv9nfoCvesnJZg40.jpg</thumbnail>
+	<externallink>http://bit.ly/2gVzK6y</externallink>
+    <subitem>
+
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>http://i.imgur.com/hjuNxFW.jpg</thumbnail>
+	<externallink>http://bit.ly/2hNhkXn</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 3</title>
+    <link>http://1.2.3.4</link>
+	<genre>2017</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/f5uaU60jJ1DMbeWegygzP3hxsaU.jpg</thumbnail>
+	<externallink>http://bit.ly/2pSIRgh</externallink>
+    <subitem>
+
+	<subchannel>
+    <name>[COLOR beige][B]BETWEEN (2015)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Ficção/Mistério</genre>
+	<fanart>http://i.imgur.com/qRL8Cgj.png</fanart>
+    <thumbnail>http://i.imgur.com/wNe5eNk.jpg</thumbnail>
+	<info>Quando uma doença misteriosa mata todos os habitantes com mais de 22 anos, os sobreviventes da cidade são colocados em quarentena e abandonados à própria sorte.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>http://portugal.nownetflix.com/wp-content/uploads/sites/85/2016/07/wpid-Between.jpg</thumbnail>
+	<externallink>http://bit.ly/2dhXIMr</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>http://i.imgur.com/V6TeoRt.png</thumbnail>
+	<externallink>http://bit.ly/2ibIczt</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]BLACK MIRROR (2011)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Ficção/Suspense</genre>
+	<fanart>http://i.imgur.com/Tf8ifbj.png</fanart>
+    <thumbnail>http://i.imgur.com/Cyng1Np.jpg</thumbnail>
+	<info>Esta série antológica de ficção científica explora um futuro próximo onde a natureza humana e a tecnologia de ponta entram em um perigoso conflito.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2011</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/gZnYXK3FY9qV2H39smOO5ghjAr1.jpg</thumbnail>
+	<externallink>http://bit.ly/2qENlb5</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]BLINDSPOT (2015)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Mistério/Policial</genre>
+	<fanart>http://i.imgur.com/Epid07z.jpg</fanart>
+    <thumbnail>http://i.imgur.com/WlgY7Lh.jpg</thumbnail>
+	<info>O agente do FBI Kurt Weller assume o caso de uma mulher com amnésia e o corpo coberto de tatuagens, sendo uma delas o próprio nome dele</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/4Y45cjEzuDnyvMRlRy1CvCowAhg.jpg</thumbnail>
+	<externallink>http://bit.ly/2mRy15a</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/c2vntvDJkXg6pGZxXoaz3nnuQ9N.jpg</thumbnail>
+	<externallink>http://bit.ly/2qLzE6H</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]BREAKING BAD (2008-2013)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+    <genre>Drama/Policial/Suspense</genre>
+    <thumbnail>http://i.imgur.com/HUAgeJ3.jpg</thumbnail>
+	<fanart>http://i.imgur.com/mKXivye.png</fanart>
+	<info>Walter White é um professor de química na casa dos 50 anos que trabalha em uma escola secundária no Novo México. Para atender às necessidades de Skyler, sua esposa grávida, e Walt Junior, seu filho deficiente físico, ele tem que trabalhar duplamente. Sua vida fica ainda mais complicada quando descobre que está sofrendo de um câncer de pulmão incurável.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2008</genre>
+    <thumbnail>http://i.imgur.com/wvhWNp7.jpg</thumbnail>
+	<externallink>http://bit.ly/2ddNUBU</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2009</genre>
+    <thumbnail>http://i.imgur.com/xKy5lzU.jpg</thumbnail>
+	<externallink>http://bit.ly/2d0eII3</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 3</title>
+    <link>http://1.2.3.4</link>
+	<genre>2010</genre>
+    <thumbnail>http://i.imgur.com/8RnEjEt.jpg</thumbnail>
+	<externallink>http://bit.ly/2d3Esin</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 4</title>
+    <link>http://1.2.3.4</link>
+	<genre>2011</genre>
+    <thumbnail>http://i.imgur.com/QPlFakj.jpg</thumbnail>
+	<externallink>http://bit.ly/2cPHvtk</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 5</title>
+    <link>http://1.2.3.4</link>
+	<genre>2012-2013</genre>
+    <thumbnail>http://i.imgur.com/t3lSiRK.jpg</thumbnail>
+	<externallink>http://bit.ly/2ddObFj</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]BROOKLYN NINE-NINE (2013)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Comédia/Policial</genre>
+	<fanart>http://i.imgur.com/FKGoD1G.png</fanart>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3NzY2NDA2Ml5BMl5BanBnXkFtZTgwNDA5MzI2NzE@._V1_.jpg</thumbnail>
+	<info>Ambientada no departamento de polícia de Brooklyn, a série acompanha as maluquices do imaturo detetive Jake Peralta e a relação que ele tem com o novo capitão, Ray Holt.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2013</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/mZx0sZRZa6SMw5ShH5Yj9hUT4t8.jpg</thumbnail>
+	<externallink>http://bit.ly/2h5xM8i</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2014</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/5YtO7dEn6SJimgNG7ECQIIDzfaF.jpg</thumbnail>
+	<externallink>http://bit.ly/2h5up1p</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 3</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/douNIYPubXm1maWdLGTKmZjgFTy.jpg</thumbnail>
+	<externallink>http://bit.ly/2oJVLZC</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]CASTLE (2009-2016)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Comédia/Drama/Policial</genre>
+	<fanart>http://i.imgur.com/Ubh36Nn.jpg</fanart>
+    <thumbnail>https://image.tmdb.org/t/p/original/pd6ELHh61T1UotonUEmx4RVzAoX.jpg</thumbnail>
+	<info>Richard Castle é um escritor de sucesso especializado em thrillers policiais. Após uma série de crimes inspirados em seus romances, ele desperta a atenção da polícia. O contato com agentes da lei faz com que Castle comece a trabalhar em um novo livro. E para fazer uma pesquisa para o novo projeto, ele assume a função de consultor da polícia de Nova York, atuando lado a lado com a detetive Kate Beckett.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2009</genre>    
+    <thumbnail>https://image.tmdb.org/t/p/original/vgMmZXpZdIfUq82UK5hBquBeuAA.jpg</thumbnail>
+	<externallink>http://bit.ly/2rFQkx4</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]COLONY (2016)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Ação/Aventura/Drama</genre>
+	<fanart>http://i.imgur.com/8Mcumlz.png</fanart>
+    <thumbnail>https://image.tmdb.org/t/p/w325/Ti6iuiBRP3jKcHUcGZ1TxWbsnz.jpg</thumbnail>
+	<info>Num futuro próximo, Los Angeles foi isolada e dividida com uma muralha por uma força ocupacional desconhecida. "Colony" é centrada numa família dilacerada por forças opostas que lutam por equilibrar decisões difíceis para ficarem juntos enquanto tentam sobreviver na nova ordem mundial.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/7WbN38dgcAqecCNhfKY9Fxan45r.jpg</thumbnail>
+	<externallink>http://bit.ly/2kXAkT7</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2017</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/aqxXr3tCjY6lsDGT9lrPSLlMVlz.jpg</thumbnail>
+	<externallink>http://bit.ly/2mq1tPY</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]CONSTANTINE (2014-2015)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Fantasia/Terror</genre>
+	<fanart>http://i.imgur.com/N3sDg70.png</fanart>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2MzQzMjA2NF5BMl5BanBnXkFtZTgwODg1MTI4MjE@._V1_.jpg</thumbnail>
+	<info>John Constantine é um detetive com habilidades sobrenaturais. Perseguido por mistérios e segredos de seu próprio passado, a vida de John é mudada quando suas habilidades são descobertas pelas forças do céu, ou seja, pelo autoritário anjo Manny. Ele irá ajudar o detetive a se tornar um grande e feroz defensor das forças do bem contra o mal.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2014</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/y7LttAdYZVrzJli9MtLZskQVe0i.jpg</thumbnail>
+	<externallink>http://bit.ly/2gVyz6Z</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]CONVICTION (2016)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama</genre>
+	<fanart>http://i.imgur.com/i0WBcZU.jpg</fanart>
+    <thumbnail>https://image.tmdb.org/t/p/w640/nY0wMfiWvmirdedmeRHD8jRCzSc.jpg</thumbnail>
+	<info>Quando se trata do sistema judicial, nada é preto no branco. Basta perguntar a Hayes Morrison, advogada e filha de um ex-presidente. Hayes deve cumprir pena de prisão por posse de drogas ou aceitar um emprego de seu inimigo.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/uM1CFQXzaEfNkWTpTx17c0SaoFj.jpg</thumbnail>
+	<externallink>http://bit.ly/2n7RDDW</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]CRAZY EX-GIRLFRIEND (2015)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Comédia/Musical</genre>
+	<fanart>http://i.imgur.com/eiwqgo1.png</fanart>
+    <thumbnail>https://image.tmdb.org/t/p/w640/cAS6R0vWyrKTy8UTOoEKwZis5mX.jpg</thumbnail>
+	<info>Rebecca Bunch é uma jovem que trabalha em um importante escritório de advocacia em Nova Iorque. Após um encontro com Josh, sua antiga paixão desde os tempos da adolescência, ela decide deixar o emprego, vender o apartamento em Manhattan e se mudar para West Covina, Califórnia, onde Josh mora. O novo objetivo de Rebecca na vida é encontrar o verdadeiro amor.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>http://i.imgur.com/m292hnQ.jpg</thumbnail>
+	<externallink>http://bit.ly/2ktEzal</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]CRAZYHEAD (2016)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+    <genre>Comédia/Terror</genre>
+    <thumbnail>http://i.imgur.com/pIjHe9V.jpg</thumbnail>
+	<fanart>http://i.imgur.com/3vUAIil.jpg</fanart>
+	<info>Amy e Raquel não dão a menor chance para os espíritos malignos enquanto encaram os demônios pessoais típicos das garotas de vinte e poucos anos.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>http://i.imgur.com/ynB6iG2.jpg</thumbnail>
+	<externallink>http://bit.ly/2kxTaVs</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]DC'S LEGENDS OF TOMORROW (2016)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Ação/Aventura/Drama</genre>
+    <thumbnail>http://i.imgur.com/fqCD50L.jpg</thumbnail>
+	<fanart>http://i.imgur.com/DbaRlWH.png</fanart>
+	<info>Quando heróis sozinhos não são o suficiente o mundo precisa de lendas. Já tendo visto o futuro, um deles irá desesperadamente tentar impedi-lo de acontecer. Rip Hunter, o viajante do tempo, recebe a tarefa de reunir um disforme grupo de heróis e vilões para confrontar uma ameaça difícil de parar; uma que não ameaça somente a integridade do planeta, mas do próprio tempo como uma entidade.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjI0MzM5ODg3M15BMl5BanBnXkFtZTgwMTM1MzA0NzE@._V1_.jpg</thumbnail>
+	<externallink>http://bit.ly/2hDhkbq</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2017</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/iGyJKFUGsUpFDF2zRCFQnQspMql.jpg</thumbnail>
+	<externallink>http://bit.ly/2lzqUPL</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]DESVENTURAS EM SÉRIES (2017)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Aventura/Drama/Família</genre>
+	<fanart>http://i.imgur.com/ZWzvQlv.png</fanart>
+    <thumbnail>http://i.imgur.com/pohzurf.jpg</thumbnail>
+	<info>Uma irmã criativa. Um bebê que morde pra valer. O Conde Olaf comprou briga com os órfãos errados. Lemony Snicket - Desventuras em Série na Netflix.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2017</genre>    
+    <thumbnail>http://i.imgur.com/9upwAfU.jpg</thumbnail>
+	<externallink>http://bit.ly/2knpOF7</externallink>
+    <subitem>
+ 
+    <subchannel>
+    <name>[COLOR beige][B]FEAR THE WALKING DEAD (2015)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Ficção/Terror</genre>
+	<fanart>http://i.imgur.com/vVUq5Z1.png</fanart>
+    <thumbnail>http://i.imgur.com/FwAoGMd.jpg</thumbnail>
+	<info>Fear The Walking Dead é uma série de televisão dramática e pré-apocalíptica norte-americana, que se passa no mesmo universo de The Walking Dead.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>http://www.cinemasonhoesaudade.com.br/image/11250/big.jpg</thumbnail>
+	<externallink>http://bit.ly/2dm5RQD</externallink>
+    <subitem>
+
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>http://static1.purebreak.com.br/articles/1/24/77/1/@/125475-em-fear-the-walking-dead-poster-com-f-620x0-2.jpg</thumbnail>
+	<externallink>http://bit.ly/2dtGuIr</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]FLASH (2014)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Ação/Aventura/Drama</genre>
+	<fanart>http://i.imgur.com/9WXQEor.png</fanart>
+    <thumbnail>http://i.imgur.com/jP82brH.jpg</thumbnail>
+	<info>Barry Allen era um funcionário da Polícia Científica que, ao sofrer um acidente, foi banhado por produtos químicos em seu laboratório e, em seguida, atingido por um raio. Foi a partir disso que ele começou a ser capaz de canalizar os poderes vindos do "Campo de Velocidade", e se locomover em altíssimas velocidades.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2014</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/7YqmXJPrp5Q0k1tbF6868fZKgcx.jpg</thumbnail>
+	<externallink>http://bit.ly/2es6XtN</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/rjyO5XPcMtB9JFw4RvE1kfkssvB.jpg</thumbnail>
+	<externallink>http://bit.ly/2g0HWHe</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 3</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>http://i.imgur.com/uQZXWAv.jpg</thumbnail>
+	<externallink>http://bit.ly/2lfREVp</externallink>
+	<subitem>
+	
+    <subchannel>
+    <name>[COLOR beige][B]FRONTIER (2016)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Aventura</genre>
+	<fanart>http://i.imgur.com/xA3MSFF.png</fanart>
+    <thumbnail>http://i.imgur.com/uBQAxjh.jpg</thumbnail>
+	<info>Esta região é um paraíso para os traficantes de peles. Ganância, violência e falta de escrúpulos é tudo o que precisam.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>http://i.imgur.com/D221Ucg.jpg</thumbnail>
+	<externallink>http://bit.ly/2ksKoXk</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]FULLER HOUSE (2016)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Comédia/Família</genre>
+	<fanart>http://i.imgur.com/xwQ83OX.png</fanart>
+    <thumbnail>http://i.imgur.com/HPTBtab.jpg</thumbnail>
+	<info>Em Fuller House, as aventuras da família Tanner, de Três é Demais, continuam. D.J. Tanner-Fuller perdeu recentemente o marido, e está grávida. A sua irmã mais nova, Stephanie Tanner aspirante a cantora, e sua melhor amiga, mãe solteira Kimmy Gibbler - e sua filha adolescente Ramona, todas se mudam para a casa de DJ para ajudá-la a cuidar dos dois filhos dela - o rebelde JD, de 12, e o neurótico Max, de 7.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<year>2016</year>
+    <thumbnail>http://i.imgur.com/hSKoNfd.jpg</thumbnail>
+	<externallink>http://bit.ly/2i8cIdn</externallink>
+    <subitem>
+	
+	
+	<subchannel>
+    <name>[COLOR beige][B]GAME OF THRONES (2011)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Aventura/Drama/Fantasia</genre>
+    <thumbnail>https://s16.postimg.org/lv1p2yqhx/gameofthrones.jpg</thumbnail>
+	<fanart>http://i.imgur.com/y8rX6Qs.png</fanart>
+	<info>Há muito tempo, em um tempo esquecido, uma força destruiu o equilíbrio das estações. Em uma terra onde os verões podem durar vários anos e o inverno toda uma vida, as reivindicações e as forças sobrenaturais correm as portas do Reino dos Sete Reinos.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2011</genre>
+    <thumbnail>http://static.omelete.uol.com.br/media/extras/capas/game-of-thrones-telltale.jpg</thumbnail>
+	<externallink>http://bit.ly/2fmuOKD</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2012</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/2ayehweGDS2LCrxx5AxlWhRz9uF.jpg</thumbnail>
+	<externallink>http://bit.ly/2fLuTEL</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 3</title>
+    <link>http://1.2.3.4</link>
+	<genre>2013</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/hNovRF2BX2FqJBuNoN9E0ySU5um.jpg</thumbnail>
+	<externallink>http://bit.ly/2es44Jl</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 4</title>
+    <link>http://1.2.3.4</link>
+	<genre>2014</genre>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/8/80/Game_of_Thrones_Season_4.jpg</thumbnail>
+	<externallink>http://bit.ly/2eSKOnd</externallink>
+    <subitem>
+	
+    <subitem>
+    <title>Temporada 5</title>
+    <link>http://1.2.3.4</link>
+	<info></info>
+	<genre>2015</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/jIhL6mlT7AblhbHJgEoiBIOUVl1.jpg</thumbnail>
+	<externallink>http://bit.ly/2fmAJ2u</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 6</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/ujwdBnOTlOliCPfABGwxAPXfOJo.jpg</thumbnail>
+	<externallink>http://bit.ly/2fufWre</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]GIRLBOSS (2017)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Comédia</genre>
+	<fanart>http://i.imgur.com/gQcMvGF.jpg</fanart>
+    <thumbnail>http://i.imgur.com/dX8MOJB.jpg</thumbnail>
+	<info>Nessa comédia inspirada em uma biografia best-seller, a rebelde e falida Sophia decide começar um negócio online e precisa aprender como mandar e comandar.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2017</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w640/w60XVdh93UU9k7yyXFItnZkVA5y.jpg</thumbnail>
+	<externallink>http://bit.ly/2qFzn56</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]GOTHAM (2014)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Ação/Drama/Policial</genre>
+	<fanart>http://i.imgur.com/bfgObbg.png</fanart>
+    <thumbnail>http://i.imgur.com/Bic4vbr.jpg</thumbnail>
+	<info>James Gordon é um detetive iniciante polícia. Corajoso, sincero e ansioso para mostrar serviço, o recém-promovido tem como missão solucionar o caso do assassinato dos bilionários Thomas e Martha Wayne, um dos casos mais complexos da cidade.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2014</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/hz9tdjxRvjiGyFrhNw6eRiur3dU.jpg</thumbnail>
+	<externallink>http://bit.ly/2htB7ex</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/6y0tpbWVOA8dAYKAd3BqLfNace1.jpg</thumbnail>
+	<externallink>http://bit.ly/2hiDaUw</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 3</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/rUCkSHEBOMg4JECWZN2fjsVIOrm.jpg</thumbnail>
+	<externallink>http://bit.ly/2qVRyYr</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]GRIMM (2011)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Fantasia/Terror</genre>
+    <thumbnail>https://img.fstatic.com/AhfD7OraEchXcmuJrcp5LfPNi30=/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/07/grimm-6a-temporada_t203049.jpg</thumbnail>
+	<fanart>http://i.imgur.com/PuVXBNI.png</fanart>
+	<info>Lembra dos contos de fadas que seus pais contavam quando você era criança? Aqueles contos não eram meras alegorias, eram avisos. Nick Burkhardt achou que estava preparado para a realidade de trabalhar como detetive policial até ele começar a ver coisas inexplicáveis. Tudo fica ainda mais complicado quando ele descobre ser um dos últimos descendentes de um grupo de caçadores sobrenaturais chamados “Grimms”.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2011</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/mv3WJnB8lcZvhtxAhFeTpv4giLf.jpg</thumbnail>
+	<externallink>http://bit.ly/2hBwRvk</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2012</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/ab8dDToLQKQf3iycY0ES8KDppv5.jpg</thumbnail>
+	<externallink>http://bit.ly/2h5jgxi</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 3</title>
+    <link>http://1.2.3.4</link>
+	<genre>2013</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/oJBxJTLxp9aaMqnlE5yuzS6ZCEu.jpg</thumbnail>
+	<externallink>http://bit.ly/2i2RgL3</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 4</title>
+    <link>http://1.2.3.4</link>
+	<genre>2014</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/fAWVBlHEzl4R3RAMbpduNprjAfK.jpg</thumbnail>
+	<externallink>http://bit.ly/2hT2q1r</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 5</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/r4PWGOg6jIdVKcw5c2FaPYP2Wsq.jpg</thumbnail>
+	<externallink>http://bit.ly/2hBnYSy</externallink>
+    <subitem>
+	
+	
+	<subchannel>
+    <name>[COLOR beige][B]GREY'S ANATOMY (2005)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Romance</genre>
+	<fanart>http://i.imgur.com/lCTxBWL.jpg</fanart>
+    <thumbnail>http://media.biobiochile.cl/wp-content/uploads/2015/08/2853288.jpg</thumbnail>
+	<info>Durante sua residência num hospital, Meredith Grey vive paixões profissionais e pessoais com sua turma de estudantes e médicos.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2005</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/2MlmImHaerQ2S0F2l85SkOlf9XQ.jpg</thumbnail>
+	<externallink>http://bit.ly/2q6MeBa</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2006</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/e4GQCp1MeXWWEjmdfAZOyBhIFMz.jpg</thumbnail>
+	<externallink>http://bit.ly/2qD9cQI</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]HARPER'S ISLAND: O MISTÉRIO DA ILHA (2009)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Mistério/Terror</genre>
+	<fanart>http://i.imgur.com/XrKjS3D.jpg</fanart>
+    <thumbnail>https://image.tmdb.org/t/p/w640/2wlBJS8uSBX3eRhdHYnGpypsALJ.jpg</thumbnail>
+	<info>Amigos e familiares passam uma semana na ilha de Harper, para o casamento de Henry e Trish. A história é contada pela melhor amiga do noivo, Abby Mills. Sete anos antes, um serial killer, John Wakefield matou seis pessoas, sendo uma delas mãe de Abby. Mas agora, com a chegada dos convidados do casamento na ilha, alguém está seguindo as pegadas de Wakefield, matando os hóspedes, um por um. Apenas alguns irão sobreviver.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2009</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/bLhYqtRu8NiebdhGheMJTFzP40U.jpg</thumbnail>
+	<externallink>http://bit.ly/2mwfCiT</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]HOUSE (2004-2012)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Mistério</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/qJJ40bDnLGplL8yiBayjWwwU3Y5.jpg</thumbnail>
+	<fanart>http://i.imgur.com/2biEXXF.jpg</fanart>
+	<info>Hugh Laurie é o mal-humorado Dr. Gregory House, um médico que odeia seus pacientes mas que é um gênio ao tratar doenças misteriosas..</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2004</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/2m8LCH9PAiFWxeSTNogZS3CZYH6.jpg</thumbnail>
+	<externallink>http://bit.ly/2rOaG7R</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2005</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/hQnC6PVsVHyTeIKketiuZhyg3TQ.jpg</thumbnail>
+	<externallink>http://bit.ly/2rRr07o</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 3</title>
+    <link>http://1.2.3.4</link>
+	<genre>2006</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/4f0by8ewRoEib0IAgTfZZW7ZpWb.jpg</thumbnail>
+	<externallink></externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]HOUSE OF CARDS (2013- )[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama</genre>
+	<fanart>http://i.imgur.com/XPuY6lh.jpg</fanart>
+    <thumbnail>http://i.imgur.com/JuPDNWk.jpg</thumbnail>
+	<info>Um político inescrupuloso não mede esforços para conquistar o poder nos EUA neste drama vencedor do Emmy e do Globo de Ouro.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2013</genre>    
+    <thumbnail>https://image.tmdb.org/t/p/original/oUfT2AbMVCYbVA3GIBbPqA6ZpUC.jpg</thumbnail>
+	<externallink>http://bit.ly/2rqCZvW</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2014</genre>    
+    <thumbnail>https://image.tmdb.org/t/p/original/e5WNFWA1ZLnHxpr9xQdZMhEpvNo.jpg</thumbnail>
+	<externallink>http://bit.ly/2qHMtCa</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 3</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>    
+    <thumbnail>https://image.tmdb.org/t/p/original/za2XGEr1BWAuZkI0veLEwVxy30S.jpg</thumbnail>
+	<externallink>http://bit.ly/2pYvA7n</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 4</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>    
+    <thumbnail>https://image.tmdb.org/t/p/original/lvUrmhJkomQEiTzyHhqKa3pMc32.jpg</thumbnail>
+	<externallink>http://bit.ly/2rVJ4ke</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]HOW I MET YOUR MOTHER (2005-2014)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Comédia/Romance</genre>
+	<fanart>http://i.imgur.com/7rKCbP4.png</fanart>
+    <thumbnail>https://image.tmdb.org/t/p/w325/izncB6dCLV7LBQ5MsOPyMx9mUDa.jpg</thumbnail>
+	<info>Em 2030, o arquiteto Ted Mosby (Josh Radnor) conta a história sobre como conheceu a mãe dos seus filhos. Ele volta no tempo para 2005, relembrando suas aventuras amorosas em Nova York e a busca pela mulher dos seus sonhos.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2005</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/lLPs8SL9om5QGMvnIyzd3kD76Nf.jpg</thumbnail>
+	<externallink>http://bit.ly/2i6BTBt</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2006</genre>
+    <thumbnail>http://i.imgur.com/O7zgXXA.jpg</thumbnail>
+	<externallink>http://bit.ly/2hD9lev</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 3</title>
+    <link>http://1.2.3.4</link>
+	<genre>2007</genre>
+    <thumbnail>http://i.imgur.com/B20TKiY.jpg</thumbnail>
+	<externallink>http://bit.ly/2hnNdpC</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 4</title>
+    <link>http://1.2.3.4</link>
+	<genre>2008</genre>
+    <thumbnail>http://i.imgur.com/g5qewCJ.jpg</thumbnail>
+	<externallink>http://bit.ly/2gChj9Z</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 5</title>
+    <link>http://1.2.3.4</link>
+	<genre>2009</genre>
+    <thumbnail>http://i.imgur.com/H4wbNlw.jpg</thumbnail>
+	<externallink>http://bit.ly/2hQpj69</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 6</title>
+    <link>http://1.2.3.4</link>
+	<genre>2010</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/6MDkv9CnQtDMsMfxDJ6xMfD451M.jpg</thumbnail>
+	<externallink>http://bit.ly/2gqYMKp</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 7</title>
+    <link>http://1.2.3.4</link>
+	<genre>2011</genre>
+    <thumbnail>http://i.imgur.com/kX97Lkd.jpg</thumbnail>
+	<externallink>http://bit.ly/2hEBbKA</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 8</title>
+    <link>http://1.2.3.4</link>
+	<genre>2012</genre>
+    <thumbnail>http://i.imgur.com/apDw5tx.jpg</thumbnail>
+	<externallink>http://bit.ly/2gYWKBw</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 9</title>
+    <link>http://1.2.3.4</link>
+	<genre>2013-2014</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/sidx8cEiYG1ZBwzyF5wiXFaBm6Q.jpg</thumbnail>
+	<externallink>http://bit.ly/2h8TAjD</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]HOW TO GET AWAY WITH MURDER (2014)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Mistério/Policial</genre>
+	<fanart>http://i.imgur.com/g3J9FeE.png</fanart>
+    <thumbnail>https://image.tmdb.org/t/p/w640/jGX0Kvnxhq8z6Q32ZaEQSwaeo9Z.jpg</thumbnail>
+	<info>A história conta sobre um grupo de ambiciosos estudantes de Direito e sua brilhante e misteriosa professora de defesa criminal, que se vê envolvida em uma trama de assassinato que vai agitar toda a universidade e mudar o curso de suas vidas.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2014</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/3myi2tnJSDPrkEKyoVZeLBmy0sH.jpg</thumbnail>
+	<externallink>http://bit.ly/2kslnf1</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/hz9QaWZi9tMA20qCLuGvxObUbFy.jpg</thumbnail>
+	<externallink>http://bit.ly/2kTtyRY</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 3</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>http://i.imgur.com/unlAp2E.jpg</thumbnail>
+	<externallink>http://bit.ly/2k476Bu</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]INTO THE BADLANDS (2015)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Ação/Aventura/Drama</genre>
+	<fanart>http://i.imgur.com/6CT6Azb.jpg</fanart>
+    <thumbnail>https://image.tmdb.org/t/p/original/wpTo6ojtERk4wKWxff6dlKTqVXr.jpg</thumbnail>
+	<info>Inspirada no clássico chinês The Journey to the West, a história é situada na época dos senhores feudais. Sunny é um grande guerreiro que viaja na companhia de um garoto por um território repleto de segredos e perigo. Sua missão é a de encontrar a iluminação.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/ozYuTCBXxND1zqZivNChxCvnqsh.jpg</thumbnail>
+	<externallink>http://bit.ly/2oJZgzq</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2017</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/63wOmvl90wUyeaP2sYkqtpNjKEE.jpg</thumbnail>
+	<externallink>http://bit.ly/2q0RDJ8</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]IZOMBIE (2015)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Comédia/Drama/Policial</genre>
+	<fanart>http://i.imgur.com/tUSwFBN.png</fanart>
+    <thumbnail>http://i.imgur.com/p7K78Sp.jpg</thumbnail>
+	<info>Liv Moore tinha bochechas rosadas, era disciplinada, médica residente com sua trajetória de vida completamente traçada,até a noite em que ela foi a uma festa que transformou-se, inesperadamente, em um frenesi zumbi. Agora, transformada em morta-viva, ela conseguiu um emprego no departamento legista para ter acesso aos cérebros de que deve se alimentar para manter sua humanidade.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/uJbYDcTFANL96xI0RkCzX3OQNnu.jpg</thumbnail>
+	<externallink>http://bit.ly/2hng0Nd</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]LIMITLESS (2015-2016)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Ficção/Policial</genre>
+	<fanart>http://i.imgur.com/xkvIWVq.png</fanart>
+    <thumbnail>https://image.tmdb.org/t/p/w300_and_h450_bestv2/ieXc6ryp53DGOv9X3PFhTvTtLau.jpg</thumbnail>
+	<info>Um escritor em plena crise criativa, que encontra em um remédio a grande solução para seus problemas. O medicamento oferece-lhe uso de 100% da capacidade cerebral, o tornando capaz de se lembrar rapidamente de diversas situações já vividas, além da capacidade de conseguir decifrar alguns problemas, tornando-o uma peça interessante para algumas pessoas, principalmente para o FBI.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015-2016</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/oOd48xN91PkKO94xQXXC8g4vYfc.jpg</thumbnail>
+	<externallink>http://bit.ly/2hMV7ZS</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]MAQUINA MORTÍFERA (2016)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Ação/Drama/Policial</genre>
+	<fanart>http://i.imgur.com/wfiamEX.jpg</fanart>
+    <thumbnail>https://image.tmdb.org/t/p/w325/A3GEp5IM1JXD0TuicN58XYkYV1b.jpg</thumbnail>
+	<info>Baseada na famosa franquia do cinema, MÁQUINA MORTÍFERA (LETHAL WEAPON) conta a história da dupla clássica de policiais Riggs e Murtaugh em sua luta contra o crime na Los Angeles dos dias de hoje. </info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>    
+    <thumbnail>https://image.tmdb.org/t/p/w325/tCwcLUsLlClwz285bNO5fvqfvxr.jpg</thumbnail>
+	<externallink>http://bit.ly/2leejjT</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]MARCO POLO (2014)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Aventura/Drama/História</genre>
+	<fanart>http://i.imgur.com/SGYXrv0.png</fanart>
+    <thumbnail>http://i.imgur.com/emv4aZQ.jpg</thumbnail>
+	<info>Em um mundo repleto de inveja, traição, intrigas e rivalidades, Marco Polo se baseia na fama do lendário explorador italiano na côrte de Kublai Khan na China no século 13.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2014</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/eQahErE7qTRycE99j6kiAz9ZQPL.jpg</thumbnail>
+	<externallink>http://bit.ly/2gAZud1</externallink>
+    </subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/fQOSYTppPNPjz7xuJwaLK1U6IRJ.jpg</thumbnail>
+	<externallink>http://bit.ly/2roGXCf</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]MARVEL - AGENTS OF S.H.I.E.L.D. (2013)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Ação/Drama/Ficção</genre>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTgyNzI0Nzk5Nl5BMl5BanBnXkFtZTgwMjMzNzMwMDI@._V1_SY1000_SX750_AL_.jpg</thumbnail>
+	<fanart>http://i.imgur.com/u8OIoPp.png</fanart>
+	<info>Após os acontecimentos em Nova York, retratados em Os Vingadores, a S.H.I.E.L.D. (Superintendência Humana de Intervenção, Espionagem, Logística e Dissuasão) deve mobilizar seus integrantes para solucionar vários casos relacionados com super-heróis. A equipe é liderada pelo agente Phil Coulson.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2013</genre>
+    <thumbnail>http://i.annihil.us/u/prod/marvel/i/mg/6/00/51ffb78ddddff.jpg</thumbnail>
+	<externallink>http://bit.ly/2cGEeg5</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2014</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/y5i3wObP0DmJnOgjGSrZyJNT1bj.jpg</thumbnail>
+	<externallink>http://bit.ly/2qQpmSQ</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]MARVEL - DEMOLIDOR (2015)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Ação/Drama/Policial</genre>
+	<fanart>http://i.imgur.com/b6LK3Cu.png</fanart>
+    <thumbnail>http://vignette3.wikia.nocookie.net/marvelcinematicuniverse/images/d/d3/Daredevil_Final_Poster.png/revision/latest?cb=20150412074027</thumbnail>
+	<info>Ainda na adolescência, um acidente envolvendo um caminhão que carregava lixos tóxicos o deixou cego e fez com que ele desenvolvesse vários sentidos.Quando Matt decide vestir o uniforme e adotar o nome "Demolidor", leva uma vida dupla: é advogado durante o dia, e, à noite, protege as ruas de Hell's Kitchen, seu bairro em Nova York. </info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>http://s14.postimg.org/q7utfub75/img_1029930_demolidor.jpg</thumbnail>
+	<externallink>http://bit.ly/2cFqioS</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>http://www.ocamundongo.com.br/wp-content/uploads/2015/04/demolidor-poster-cidade-camundongo.jpg</thumbnail>
+	<externallink>http://bit.ly/2dm2OIh</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]MARVEL - JESSICA JONES (2015)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Ação/Drama/Policial</genre>
+	<fanart>http://i.imgur.com/Qo4Nt7F.png</fanart>
+    <thumbnail>http://i.imgur.com/UaNEAjx.jpg</thumbnail>
+	<info>Desde que sua curta vida como super-heroína acabou de forma trágica, Jessica Jones (Krysten Ritter) vem reconstruindo sua carreira e passou a levar a vida como detetive particular no bairro de Hell's Kitchen, em Nova York, na sua própria agência de investigações, a Alias Investigations.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>http://i.imgur.com/EKGthFQ.jpg</thumbnail>
+	<externallink>http://bit.ly/2gv3dIR</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]MARVEL - LEGION (2017)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Ação/Drama/Ficção</genre>
+	<fanart>http://i.imgur.com/zkdubmF.jpg</fanart>
+    <thumbnail>http://i.imgur.com/VxuCCPV.jpg</thumbnail>
+	<info>David Haller um rapaz diagnosticado com esquizofrenia que passou os últimos cinco anos em hospitais. Agora, aos 30 e institucionalizado mais uma vez, David se perde na rotina estruturada da vida no hospital, e passa todo o seu tempo em silêncio junto com sua amiga Lenny, uma paciente cujo vício em drogas e álcool não diminuiu em nada seu otimismo. Mas a vida de David muda com a chegada de uma nova paciente: Syd Barrett.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2017</genre>
+    <thumbnail>http://i.imgur.com/rn8KmlL.jpg</thumbnail>
+	<externallink>http://bit.ly/2lsXMtw</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]MARVEL - LUKE CAGE (2016)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+    <thumbnail>http://i.imgur.com/VqoKdX8.jpg</thumbnail>
+	<genre>Ação/Drama/Policial</genre>
+	<fanart>http://i.imgur.com/xBTk3v4.png</fanart>
+	<info>Luke Cage é um ex-membro de gangue que foi preso acusado de um crime que não cometeu. Um experimento sabotado deu a ele super-força e resistência, e ele escapa da prisão para se tornar um super-herói de aluguel. Mike Colter interpretará Luke Cage, um homem com super-força e pele impenetrável que agora luta contra o crime.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>https://static.omelete.uol.com.br/media/filer_public/12/fb/12fb83c6-96e9-4e54-b44f-b2c23b7ba946/luke-cage-1a-temporada-poster-cottonmouth.jpg</thumbnail>
+	<externallink>http://bit.ly/2hqP90r</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]MARVEL - PUNHO DE FERRO (2017)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Ação/Aventura/Policial</genre>
+	<fanart>http://i.imgur.com/jssgZqS.png</fanart>
+    <thumbnail>http://i.imgur.com/MB0lT6u.jpg</thumbnail>
+	<info>Quinze anos depois de ter sido dado como morto, Danny Rand ressurge. Com a força do Punho de Ferro, ele espera recuperar seu passado e cumprir seu destino.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2017</genre>
+    <thumbnail>http://br.web.img1.acsta.net/pictures/17/02/22/15/22/315744.jpg</thumbnail>
+	<externallink>http://bit.ly/2p95Pgt</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]MR. ROBOT (2015)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Policial/Suspense</genre>
+	<fanart>http://i.imgur.com/77bB1dW.png</fanart>
+    <thumbnail>https://image.tmdb.org/t/p/w325/aubGV7NnVPjmX0XuXpHRlA1i5qF.jpg</thumbnail>
+	<info>Elliot é um jovem programador que trabalha como engenheiro de segurança virtual durante o dia, e como hacker vigilante durante a noite. Ele se vê numa encruzilhada quando o líder de um misterioso grupo de hacker o recruta para destruir a firma que ele é pago para proteger.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/ihYoW6vU3RZhh7Xn6119nDQ6AXU.jpg</thumbnail>
+	<externallink>http://bit.ly/2hnKM5P</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/A3pzS5pYDzkOqu2xirhuJJPoby1.jpg</thumbnail>
+	<externallink>http://bit.ly/2oxThhQ</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]NARCOS (2015)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Biografia/Drama/Policial</genre>
+    <thumbnail>https://scdn.nflximg.net/ipl/90935/bc2ca6d810d7cc0383dc3736f596c04c4598207a.jpg</thumbnail>
+	<fanart>http://i.imgur.com/sOsp1Fi.png</fanart>
+	<info>A trama gira em torno do traficante colombiano Pablo Escobar, retratando a história de ascensão dele de um criminoso comum para um dos homens mais perigosos, procurados e ricos do mundo.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/mqenjkHB7cgdLmxcUxIN1Y3yCIN.jpg</thumbnail>
+	<externallink>http://bit.ly/2gSdKde</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/4LYKIdVJQkHZz3Grpcix4AD7zJt.jpg</thumbnail>
+	<externallink>http://bit.ly/2hqZ9GY</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]O ATIRADOR (2016)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Ação/Drama</genre>
+    <thumbnail>http://i.imgur.com/Uv6Zvv7.jpg</thumbnail>
+	<fanart>http://i.imgur.com/69ngdim.png</fanart>
+	<info>Um atirador de elite volta à ativa para impedir um atentado contra o presidente, mas acaba acusado de assassinato.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>http://i.imgur.com/86WUyH8.jpg</thumbnail>
+	<externallink>http://bit.ly/2pypOoa</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]ORANGE IS THE NEW BLACK (2013)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Comédia/Drama/Policial</genre>
+	<fanart>http://i.imgur.com/nIBY2wE.png</fanart>
+    <thumbnail>http://i.imgur.com/aava4zr.png</thumbnail>
+	<info>Piper Chapman é uma mulher por volta de seus 30 anos que é sentenciada a 15 meses de prisão após ter cometido crimes para sua ex-namorada, a traficante Alex — que não vê há mais de uma década. Piper troca a sua vida confortável de Nova York, com o noivo Larry, pelo macacão laranja, e cumpre sua sentença na Penitenciária Feminina de Litchfield.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2013</genre>    
+    <thumbnail>http://i.imgur.com/ZdFZR66.jpg</thumbnail>
+	<externallink>http://bit.ly/2hKOFVE</externallink>
+    <subitem>
+
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2014</genre>   
+    <thumbnail>https://image.tmdb.org/t/p/w325/x7a2pcqDeFx2KjecOkDMFBnxZ2a.jpg</thumbnail>
+	<externallink>http://bit.ly/2h0UeOy</externallink>
+    <subitem>
+
+	<subitem>
+    <title>Temporada 3</title>
+    <link>http://1.2.3.4</link>
+	<info></info>
+	<genre>2015</genre>    
+    <thumbnail>https://image.tmdb.org/t/p/w325/xaHbzp9Hlea7Iil0JQlQrjOhrox.jpg</thumbnail>
+	<externallink>http://bit.ly/2hKYNO1</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 4</title>
+    <link>http://1.2.3.4</link>
+	<info></info>
+	<genre>2016</genre>    
+    <thumbnail>https://image.tmdb.org/t/p/w325/qwgRGo6v3K7FmYumaxmIkrXTW1N.jpg</thumbnail>
+	<externallink>http://bit.ly/2lpcm41</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]OUTCAST (2016)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+    <thumbnail>http://i.imgur.com/oVPZhGP.jpg</thumbnail>
+	<genre>Drama/Terror</genre>
+	<fanart>http://i.imgur.com/HPFdvRd.png</fanart>
+	<info>A trama de Outcast acompanha Kyle Barnes, um homem que é atormentado por uma possessão desde a infância. Agora adulto, ele embarca em uma jornada espiritual para encontrar respostas – mas o que ele descobre pode significar o fim da vida na Terra como a conhecemos.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/r9TY0FvfSdeF4DZWMTtKNNQKD0J.jpg</thumbnail>
+	<externallink>http://bit.ly/2gJY8bI</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2017</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/h5ztyO4FaPk93yIYkQ3zKHlDmp4.jpg</thumbnail>
+	<externallink>http://bit.ly/2pTqFB9</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]PABLO ESCOBAR: O SENHOR DO TRÁFICO (2012)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Biografia/Drama/Policial</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/bZ0XMCInIYmfaBS23PIPc7YQdzL.jpg</thumbnail>
+	<fanart>http://i.imgur.com/F6jGQ78.jpg</fanart>
+	<info>Conheça a história de Pablo Escobar, homem que ganhou fama traficando drogas e pela violência com a qual comandou o Cartel de Medellín. Ele se tornou um dos maiores narcotraficantes do mundo.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2012</genre>
+    <thumbnail>http://i.imgur.com/0Gkvzhs.jpg</thumbnail>
+	<externallink>http://bit.ly/2rAudIY</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]PERDIDOS NO OESTE (2016)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Família</genre>
+	<fanart>http://i.imgur.com/HtSO7Up.jpg</fanart>
+    <thumbnail>http://i.imgur.com/vkm43su.png</thumbnail>
+	<info>Os irmãos Chip e Dave voltam no tempo até 1885 e arrumam um montão de confusões no Velho Oeste. Eles se unem a duas garotas e enfrentam o prefeito malvado da cidade para voltarem ao presente.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/3kOyuWoV56qgeY6lOPNtYkZIvFx.jpg</thumbnail>
+	<externallink>http://bit.ly/2mhdBn3</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]PERSON OF INTEREST (2011-2016)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Ação/Drama/Policial</genre>
+	<fanart>http://i.imgur.com/DhBYXzU.jpg</fanart>
+    <thumbnail>https://image.tmdb.org/t/p/original/cQEktLlZ3GgygeAz6h2edB55xSQ.jpg</thumbnail>
+	<info>John Reese é um ex-agente da CIA, dado como morto pelo governo norte-americano, que é recrutado por Finch, um milionário recluso, para trabalhar em um projeto ultra-secreto. Ele desenvolveu um computador capaz de identificar planos para cometer crimes antes mesmo que eles aconteçam e precisa de John para salvar as vidas em risco.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2011</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/8RZZOcygHWe6A2yNr9YumbpkC3R.jpg</thumbnail>
+	<externallink>http://bit.ly/2s2njiV</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]PREACHER (2016)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Aventura/Drama/Fantasia</genre>
+	<fanart>http://i.imgur.com/ZwnFwiV.jpg</fanart>
+    <thumbnail>http://i.imgur.com/CAxsc5D.jpg</thumbnail>
+	<info>Jesse Custer é um ex-pastor que foi possuído por uma entidade chamada Gênesis, que fugiu do Paraíso e está sendo procurada pelos anjos. Quando Jesse e Gênesis se tornam um só, os anjos enviam o Santo dos Assassinos, um matador do Século XIX, para perseguí-lo.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/QwgGv6cP8rXbvqTImrtjlveMUw.jpg</thumbnail>
+	<externallink>http://bit.ly/2l5P0Az</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]PRISON BREAK (2005)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Ação/Drama/Policial</genre>
+	<fanart>http://i.imgur.com/xkW6Kda.jpg</fanart>
+    <thumbnail>https://image.tmdb.org/t/p/original/38KlJOm67KyZqT9ZcBSsmET04HG.jpg</thumbnail>
+	<info>Um homem consegue ser mandado a prisão para poder planejar a fuga do irmão, que foi condenado à morte e jura ser inocente.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2005</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/6a7lDWU9gItuRD9ThdTTGdIVfgb.jpg</thumbnail>
+	<externallink>http://bit.ly/2p5ZaEf</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2006</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/iKX5TlOfWR00qfXTsv574opcnG7.jpg</thumbnail>
+	<externallink>http://bit.ly/2p9QUVR</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 3</title>
+    <link>http://1.2.3.4</link>
+	<genre>2007</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/aqNlofcOsqpWAeS1uWz6rj7iwzO.jpg</thumbnail>
+	<externallink>http://bit.ly/2oBFKoD</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 4</title>
+    <link>http://1.2.3.4</link>
+	<genre>2008</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/ihtOTwDfRgAeoKYzPtk2Ok8VvIV.jpg</thumbnail>
+	<externallink>http://bit.ly/2oBD7TI</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 5</title>
+    <link>http://1.2.3.4</link>
+	<genre>2017</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/wPqfY5WfRZ4igTWPz0j04BSkk2N.jpg</thumbnail>
+	<externallink>http://bit.ly/2q3VEtl</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]RAÍZES (2016)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/História</genre>
+	<fanart>http://i.imgur.com/L4wWV9u.png</fanart>
+    <thumbnail>http://i.imgur.com/vEUz2Qo.jpg</thumbnail>
+	<info>Uma nova visão inspiradora da épica saga familiar “Raízes”. Ao dar vida nova a esta história poderosa, o History traz o retrato da escravidão americana, recontando a jornada emocionante de uma família e sua disposição para sobreviver, levando adiante o seu legado, apesar de todas as dificuldades.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>http://i.imgur.com/ddCfQ8O.jpg</thumbnail>
+	<externallink>http://bit.ly/2knfJIv</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]SANTA CLARITA DIET (2017)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Comédia/Terror</genre>
+	<fanart>http://i.imgur.com/U5AQBA9.jpg</fanart>
+    <thumbnail>http://i.imgur.com/TqbglVG.jpg</thumbnail>
+	<info>Um casal de corretores vive na normalidade, até que ela passa por mudanças dramáticas que os levam ao caos, com mortes e destruição, só que de um jeito positivo.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2017</genre>
+    <thumbnail>http://i.imgur.com/jT1yAuM.jpg</thumbnail>
+	<externallink>http://bit.ly/2mpNuJL</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]SCORPION (2014)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Ação/Drama</genre>
+	<fanart>http://i.imgur.com/IjLk0en.png</fanart>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjg5NjYwNjMxN15BMl5BanBnXkFtZTgwNzQ4NDQwMDI@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+	<info>A história acompanha um grupo internacional de gênios que formam a última linha de defesa contra as ameaças complexas e cibernéticas da era moderna.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2014</genre>    
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTExMTQ4MzM1MDheQTJeQWpwZ15BbWU4MDkzMjU4MTMx._V1_SY1000_CR0,0,701,1000_AL_.jpg</thumbnail>
+	<externallink>http://bit.ly/2eQfnKa</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>    
+    <thumbnail>https://image.tmdb.org/t/p/w325/20uhFWHFRIlk4gggPvF5uGm5MUj.jpg</thumbnail>
+	<externallink>http://bit.ly/2gFlfGX</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]SCREAM (2015)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Policial/Terror</genre>
+	<fanart>http://i.imgur.com/FN4SKF7.png</fanart>
+    <thumbnail>https://app.istreamguide.com/system/images/posters/000/030/469/original/d925820c323338cb62e2b678c1e1a8f6a3902be5.jpg?1443689106</thumbnail>
+	<info>Nesta série baseada na clássica franquia de terror, um incidente de bullying por rede social leva a um assassinato que traz o passado à tona.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/mDeGofCoTC6O6eJgEVvRShOV4gc.jpg</thumbnail>
+	<externallink>http://bit.ly/2hy6qI7</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/r9Rz6l2aJaCWzqytoO9140kifY.jpg</thumbnail>
+	<externallink>http://bit.ly/2h6HoOH</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]SENSE8 (2015-2017)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Ficção/Mistério</genre>
+	<fanart>http://i.imgur.com/ERGec80.png</fanart>
+    <thumbnail>http://i.imgur.com/DeU7NXn.jpg</thumbnail>
+	<info>Grupos de pessoas ao redor do mundo que estão ligadas mentalmente, e precisam achar uma maneira de sobreviver sendo caçados por aqueles que os veem como uma ameaça para a ordem mundial.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/qNpHWQsCkZhNbQeMIHaHn2xhu0T.jpg</thumbnail>
+	<externallink>http://bit.ly/2gAfDQ5</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016-2017</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w640/kmyvlQ9QKzgdZY31rXaUlgCnzrB.jpg</thumbnail>
+	<externallink>http://bit.ly/2pTCXLO</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]SHADOWHUNTERS: THE MORTAL INSTRUMENTS (2016- )[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Ação/Fantasia/Romance</genre>
+	<fanart>http://i.imgur.com/6h97xVB.png</fanart>
+    <thumbnail>http://i.imgur.com/xxlBrg4.jpg</thumbnail>
+	<info>Aos 18 anos, ela ganha um presente inesperado: o dever de proteger a raça humana de inimigos muito assustadores.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>    
+    <thumbnail>https://image.tmdb.org/t/p/w325/rNxJ8usawDNitPGtRv9ksEhfkeH.jpg</thumbnail>
+	<externallink>http://bit.ly/2lgwKIx</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2017</genre>    
+    <thumbnail>https://image.tmdb.org/t/p/w325/AlMXPtyPXCcogaZsH95IALtR3tN.jpg</thumbnail>
+	<externallink>http://bit.ly/2lKhaUT</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]STRANGER THINGS (2016)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Mistério/Terror</genre>
+	<fanart>http://i.imgur.com/lY00JvO.png</fanart>
+    <thumbnail>http://i.imgur.com/rmiyjPS.jpg</thumbnail>
+	<info>Ambientada em Montauk, Long Island, conta a história de um garoto que desaparece misteriosamente. Enquanto a polícia, a família e os amigos procuram respostas, eles acabam mergulhando em um extraordinário mistério, envolvendo um experimento secreto do governo, forças sobrenaaturias e uma garotinha muito, muito estranha.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>http://i.imgur.com/DWEBlg9.jpg</thumbnail>
+	<externallink>http://bit.ly/2fMoUmB</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]SUPERGIRL (2015)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Ação/Aventura/Drama</genre>
+	<fanart>http://i.imgur.com/q7pQ2nl.png</fanart>
+    <thumbnail>http://i.imgur.com/5hssv4V.jpg</thumbnail>
+	<info>Kara Zor-El nasceu no planeta Krypton, e escapou da destruição há anos. Desde então, ela chegou à Terra, e vem escondendo os poderes que ela e seus primos têm. Mas agora, aos 24 anos, ela ela decidiu assumir suas habilidades e ser a heroína que nasceu para ser.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/cbe7Fzze4uvcwzKnDfE6AibuyMR.jpg</thumbnail>
+	<externallink>http://bit.ly/2gAMhku</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w300_and_h450_bestv2/pFkzzKNXQnspCvEqfqTR7Qp9oRF.jpg</thumbnail>
+	<externallink>http://bit.ly/2mNy7dN</externallink>
+    <subitem>
+	
+	
+	<subchannel>
+    <name>[COLOR beige][B]SUPERNATURAL (2005)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Fantasia/Terror</genre>
+	<fanart>http://i.imgur.com/bg4xjsD.jpg</fanart>
+    <thumbnail>http://i.imgur.com/cYXDrzV.jpg</thumbnail>
+	<info>Há 21 anos, os irmãos Sam e Dean Winchester perderam sua mãe em um trágico e misterioso acidente, no qual as forças sobrenaturais — muito obscuras — estiveram envolvidas. Agora, eles percorrem o país num velho Chevy Impala 1967, em busca de atividades paranormais, lutando com demônios, fantasmas e monstros no caminho.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2005</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/b03YlRQ4wu2tol2DMoceX5IH4iF.jpg</thumbnail>
+	<externallink>http://bit.ly/2nHE01g</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]THE 100 (2014)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Ficção/Mistério</genre>
+	<fanart>http://i.imgur.com/ePz79le.png</fanart>
+    <thumbnail>https://image.tmdb.org/t/p/w325/xxQFyNCMG9Mp6dE0n6xZTMajlhS.jpg</thumbnail>
+	<info>Para garantir o futuro, um grupo de cem jovens é enviado à superfície da Terra para descobrir se ela está habitável. Com a sobrevivência da raça humana em suas mãos, estes jovens precisam superar suas diferenças e unir forças para cruzar juntos o seu caminho.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2014</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/7rEExS6mjrAbFEXURYWem6Pb6cZ.jpg</thumbnail>
+	<externallink>http://bit.ly/2gAeach</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/u4Zc3dxA3kD9JIrB9fcmGSsLDxB.jpg</thumbnail>
+	<externallink>http://bit.ly/2hyW8Xj</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 3</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/pb66fRo8dDauo5x3tNZGheRRjSE.jpg</thumbnail>
+	<externallink>http://bit.ly/2gQT3O0</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 4</title>
+    <link>http://1.2.3.4</link>
+	<genre>2017</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w640/zW1k1QYYUXxPBqQigxk4ynbcTYD.jpg</thumbnail>
+	<externallink>http://bit.ly/2qA5A1q</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]THE BIG BANG THEORY (2007- )[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Comédia/Romance</genre>
+	<fanart>http://i.imgur.com/BJFkkfd.jpg</fanart>
+    <thumbnail>https://image.tmdb.org/t/p/original/4eSOVpsXmDjdcVBDT2GntdXUO9I.jpg</thumbnail>
+	<info>Leonard e Sheldon são cientistas brilhantes – gênios no laboratório, mas péssimos quando tentam se encaixar no mundo real. Até conhecerem a bela e espirituosa vizinha Penny, que resolve lhes ensinar um pouquinho mais sobre a vida.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2007</genre>    
+    <thumbnail>https://image.tmdb.org/t/p/original/zqAL2rav7Tg8uwDtLurqZVN3mtr.jpg</thumbnail>
+	<externallink>http://bit.ly/2oN2Vxf</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]THE BLACKLIST (2013- )[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Mistério/Policial</genre>
+    <thumbnail>http://i.imgur.com/aaTSefp.jpg</thumbnail>
+	<fanart>http://i.imgur.com/NhjwN7P.jpg</fanart>
+	<info>Um criminoso brilhante se rende ao FBI e oferece ajuda para capturar um terrorista,mas exige que sua parceira seja a novata Elizabeth Keen.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2013</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w640/gQLvz6eJbRB9qFj0mUcF5IaKAXw.jpg</thumbnail>
+	<externallink>http://bit.ly/2nF2NTY</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2014</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/bwth8VBL0bkWmrnnfJfClw5yeLB.jpg</thumbnail>
+	<externallink>http://bit.ly/2pdwOHu</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 3</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/o5v5KvyOSLYZB2wWkvhy3xLyurf.jpg</thumbnail>
+	<externallink>http://bit.ly/2qQM1Cp</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]THE MAGICIANS (2015- )[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Fantasia/Terror</genre>
+	<fanart>http://i.imgur.com/cPaanxX.jpg</fanart>
+    <thumbnail>https://image.tmdb.org/t/p/w640/kFovAxIHI6Ra0BJj55JHMRhPWH6.jpg</thumbnail>
+	<info>Quentin Coldwater estuda na Universidade Brakebills de Pedagogia Mágica. Ele e seus amigos descobrem que o mundo da magia sobre o qual liam quando crianças existe de verdade, além de apresentar sérios perigos para a humanidade.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/83u2VJNtHzokvxRqKCx2gmcab4l.jpg</thumbnail>
+	<externallink>http://bit.ly/2qQasvI</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/gP360albiLMDeVTUUrzeUfwcocn.jpg</thumbnail>
+	<externallink>http://bit.ly/2pHiE5x</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]THE ORIGINALS (2013)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Fantasia/Terror</genre>
+	<fanart>http://i.imgur.com/ypFObsU.png</fanart>
+    <thumbnail>http://i.imgur.com/t2AXttT.jpg</thumbnail>
+	<info>The Originals (em português, Os Originais) é um spin-off produzido pela The CW e baseado na série norte-americana The Vampire Diaries. A história centra-se nos vampiros Originais na cidade de Nova Orleans.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2013</genre>
+    <thumbnail>http://i.imgur.com/LNWlPVr.jpg</thumbnail>
+	<externallink>http://bit.ly/2hpGxJY</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2014</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/urvbMbuNwy7CcsqGvt03jXNec6b.jpg</thumbnail>
+	<externallink>http://bit.ly/2kPfxoY</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 3</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/dDkTZMJHauC4IeO5YyLS7zuIPaP.jpg</thumbnail>
+	<externallink>http://bit.ly/2kIWnOS</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]THE RANCH (2016)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Comédia/Drama/Faroeste</genre>
+	<fanart>http://i.imgur.com/GH7okpI.png</fanart>
+    <thumbnail>http://i.imgur.com/Q6o0P5M.jpg</thumbnail>
+	<info>The Ranch tem lugar em um rancho no Colorado detalhando a vida de dois irmãos tentando ajudar seu pai no rancho.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>http://i.imgur.com/RYq5SQz.jpg</thumbnail>
+	<externallink>http://bit.ly/2h3psob</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]THE WALKING DEAD (2010)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Suspense/Terror</genre>
+	<fanart>http://i.imgur.com/5mv3SOR.jpg</fanart>
+    <thumbnail>http://i.imgur.com/CDb9svC.jpg</thumbnail>
+	<info>The Walking Dead é centrada em Rick Grimes, um oficial de polícia de uma cidade no estado da Geórgia/EUA.Também acompanha a trajetória de sua família e uma série de outros sobreviventes que se uniram para manterem-se vivos depois que o mundo foi infestado por zumbis.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2010</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w640/kTezyobPNbLYzltZ2x9e5Gowvt5.jpg</thumbnail>
+	<externallink>http://bit.ly/2mRM7U3</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2011</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w640/oZS7iN9sjYBpkrNXjHSmfVvTTb6.jpg</thumbnail>
+	<externallink>http://bit.ly/2mVU3og</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 3</title>
+    <link>http://1.2.3.4</link>
+	<genre>2012</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/lq3H4LSVHB8BHjzOVnv3BOpB5Zv.jpg</thumbnail>
+	<externallink>http://bit.ly/2q1JeoZ</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 4</title>
+    <link>http://1.2.3.4</link>
+	<genre>2013</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/drhqpL945Yhip0TQA8PD6E6x7Qv.jpg</thumbnail>
+	<externallink>http://bit.ly/2pu7Nqo</externallink>
+    <subitem>
+
+	<subitem>
+    <title>Temporada 5</title>
+    <link>http://1.2.3.4</link>
+	<genre>2014</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/mVL6TPRAzOn3UmraBCHa54gV6kC.jpg</thumbnail>
+	<externallink>http://bit.ly/2qXXhsV</externallink>
+    <subitem>
+
+	<subitem>
+    <title>Temporada 6</title>
+    <link>http://1.2.3.4</link>
+	<genre>2015</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/zmCHLZkjIKTLE9KgFAzu4OqwbMx.jpg</thumbnail>
+	<externallink>http://bit.ly/2pIyvNg</externallink>
+    <subitem>
+
+	<subitem>
+    <title>Temporada 7</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/6Rud3YJD8MiJr42Sac7wUEMwm2z.jpg</thumbnail>
+	<externallink>http://bit.ly/2rcINGt</externallink>
+    <subitem>	
+	
+	<subchannel>
+    <name>[COLOR beige][B]TRUE BLOOD (2008-2014)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Fantasia/Mistério</genre>
+	<fanart>http://i.imgur.com/RlHYbbG.png</fanart>
+    <thumbnail>https://image.tmdb.org/t/p/w300_and_h450_bestv2/fuj32CbJSWl5UldUNWFa0xDW93.jpg</thumbnail>
+	<info>Numa nova era de evolução científica, os vampiros conseguiram deixar de ser monstros lendários para se tornarem cidadãos comuns. Essa mudança, que aconteceu do dia para a noite, deve-se a cientistas japoneses, que inventaram um sangue sintético, fazendo com que os humanos deixassem de ser o seu prato principal.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2008</genre>    
+    <thumbnail>http://i.imgur.com/Wka6F9x.png</thumbnail>
+	<externallink>http://bit.ly/2fh2Srz</externallink>
+    <subitem>
+
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2009</genre>   
+    <thumbnail>http://i.imgur.com/ztX7cjL.png</thumbnail>
+	<externallink>http://bit.ly/2ePlMoW</externallink>
+    <subitem>
+
+	<subitem>
+    <title>Temporada 3</title>
+    <link>http://1.2.3.4</link>
+	<info></info>
+	<genre>2010</genre>    
+    <thumbnail>http://i.imgur.com/3CbMNpx.png</thumbnail>
+	<externallink>http://bit.ly/2fqPoHz</externallink>
+    <subitem>
+
+	<subitem>
+    <title>Temporada 4</title>
+    <link>http://1.2.3.4</link>
+	<genre>2011</genre>    
+    <thumbnail>http://i.imgur.com/xyQCpZC.png</thumbnail>
+	<externallink>http://bit.ly/2eZJOLt</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 5</title>
+    <link>http://1.2.3.4</link>
+	<genre>2012</genre>    
+    <thumbnail>https://image.tmdb.org/t/p/w325/1WQHFWj7Kk0TMfXVHffIWWxfKa8.jpg</thumbnail>
+	<externallink>http://bit.ly/2g30dnu</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 6</title>
+    <link>http://1.2.3.4</link>
+	<genre>2013</genre>    
+    <thumbnail>https://image.tmdb.org/t/p/w325/6sD9BbJzC9UF5YVpnAUYLd7a0Lt.jpg</thumbnail>
+	<externallink>http://bit.ly/2eQ2354</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 7</title>
+    <link>http://1.2.3.4</link>
+	<genre>2014</genre>    
+    <thumbnail>http://flicksided.com/files/2014/05/skarsgard-true-blood.jpg</thumbnail>
+	<externallink>http://bit.ly/2fP5Sdx</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]VAN HELSING (2016)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Ação/Drama/Fantasia</genre>
+	<fanart>http://i.imgur.com/Dx8oJSl.png</fanart>
+    <thumbnail>http://i.imgur.com/uRhGnTE.jpg</thumbnail>
+	<info>Vanessa Van Helsing é ressuscitada depois de cinco anos morta e descobre que o mundo foi tomado por vampiros. Agora ela precisa lutar para manter vivo o legado de seu pai Abraham.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<info>Depois de três anos em coma, Vanessa desperta em um mundo devastado pelos vampiros. Agora, ela e um bando de sobreviventes precisam lutar para permanecerem vivos.</info>
+	<genre>2016</genre>
+    <thumbnail>http://i.imgur.com/hnUiuxI.jpg</thumbnail>
+	<externallink>http://bit.ly/2hn0ih1</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]WEEDS (2005-2012)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Comédia/Drama/Policial</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/7SDKwxM4ohNmxnpXJRDLZ7lkOnP.jpg</thumbnail>
+	<fanart>http://i.imgur.com/wp5rjrL.jpg</fanart>
+	<info>Nancy Botwin passa a vender maconha para ganhar dinheiro e sustentar sua família após a morte inesperada do marido. Entre seus colaboradores estão o contador Doug e o cunhado Andy.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2005</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/liOmXy0nvqBCpLIU6XOMWCTV9yK.jpg</thumbnail>
+	<externallink>http://bit.ly/2q4aLT2</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 2</title>
+    <link>http://1.2.3.4</link>
+	<genre>2006</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/np4sHrAKlCnDwA0rf4JRz08mi4l.jpg</thumbnail>
+	<externallink>http://bit.ly/2q4fQdQ</externallink>
+    <subitem>
+	
+	<subitem>
+    <title>Temporada 3</title>
+    <link>http://1.2.3.4</link>
+	<genre>2007</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/ncYwP1fIAIwcPpF5Bbf0LgYMdla.jpg</thumbnail>
+	<externallink>http://bit.ly/2pTmFnm</externallink>
+    <subitem>
+
+	<subitem>
+    <title>Temporada 4</title>
+    <link>http://1.2.3.4</link>
+	<genre>2008</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/6QvJ7sGZBbmQPjV2OGKLii4Pii3.jpg</thumbnail>
+	<externallink>http://bit.ly/2rzmrzf</externallink>
+    <subitem>
+
+	<subitem>
+    <title>Temporada 5</title>
+    <link>http://1.2.3.4</link>
+	<genre>2009</genre>
+    <thumbnail>https://image.tmdb.org/t/p/original/bXHKLCpn9nySiCdWvK4XSztIvSV.jpg</thumbnail>
+	<externallink>http://bit.ly/2rcSdDP</externallink>
+    <subitem>	
+	
+	<subchannel>
+    <name>[COLOR beige][B]WESTWORLD (2016)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Drama/Ficção/Mistério</genre>
+	<fanart>http://i.imgur.com/Ev5VjYU.png</fanart>
+    <thumbnail>https://image.tmdb.org/t/p/w325/luGF2ODxunHvDXWPRW9PjywIvuD.jpg</thumbnail>
+	<info>Westworld é um parque temático futurístico para adultos, dedicado à diversão dos ricos. Um espaço que reproduz o Velho Oeste, povoado por andróides – os anfitriões –, programados pelo diretor executivo do parque, o Dr. Robert Ford, para acreditarem que são humanos e vivem no mundo real. </info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2016</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/uGWWVwF24J5s7FufoA6MaM2kBvz.jpg</thumbnail>
+	<externallink>http://bit.ly/2hocCip</externallink>
+    <subitem>
+	
+	<subchannel>
+    <name>[COLOR beige][B]Z NATION (2014)[/B][/COLOR] [COLOR lime](Conexão[/COLOR][COLOR yellow]TV)[/COLOR]</name>
+	<genre>Ação/Comédia/Drama</genre>
+	<fanart>http://i.imgur.com/AuMd5jt.png</fanart>
+    <thumbnail>http://i.imgur.com/GzoBcdm.jpg</thumbnail>
+	<info>A história é situada três anos após uma praga zumbi atacar a população do país. Um grupo formado por pessoas de diferentes origens tem a missão de transportar de Nova Iorque para a Califórnia sobreviventes da praga. O sangue deles poderá ajudar os cientistas a desenvolver uma vacina. No entanto, ele também pode revelar algo ainda pior.</info>
+    <subitems>
+	
+	<subitem>
+    <title>Temporada 1</title>
+    <link>http://1.2.3.4</link>
+	<genre>2014</genre>
+    <thumbnail>https://image.tmdb.org/t/p/w325/26mjHEqg1Aox9H5Le6xfYKbn1S4.jpg</thumbnail>
+	<externallink>http://bit.ly/2htI6Uw</externallink>
+    <subitem>

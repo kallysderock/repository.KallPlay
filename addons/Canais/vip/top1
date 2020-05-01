@@ -1,0 +1,1039 @@
+#EXTM3U
+#EXTINF:-1,A FAZENDA: A F A Z E N D A  S D
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/33564
+#EXTINF:-1,A FAZENDA: A F A Z E N D A  H D
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/33563
+#EXTINF:-1,EI PLUS: EI PLUS HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/24835
+#EXTINF:-1,EI PLUS 1: EI PLUS 1 HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/32162
+#EXTINF:-1,EI PLUS 3: EI PLUS 3 HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/32163
+#EXTINF:-1,COPA LIBERTADORES: COPA LIBERTADORES
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/32205
+#EXTINF:-1,COPA DO NORDESTE SD: COPA DO NORDESTE SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20069
+#EXTINF:-1,COPA DO NORDESTE HD: COPA DO NORDESTE HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20070
+#EXTINF:-1,A&E SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4404
+#EXTINF:-1,A&E HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/8139
+#EXTINF:-1,A&E FHD [DUAL AUDIO]
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/9344
+#EXTINF:-1,A&E SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20893
+#EXTINF:-1,A&E HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20892
+#EXTINF:-1,AMC SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7448
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7691
+#EXTINF:-1,AMC FHD [DUAL AUDIO]
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/9343
+#EXTINF:-1,AMC SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20891
+#EXTINF:-1,AMC HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20890
+#EXTINF:-1,AGRO CANAL SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/5983
+#EXTINF:-1,ALL SPORT SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6812
+#EXTINF:-1,ALJAZEERA HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7550
+#EXTINF:-1,ANIMAL PLANET SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4403
+#EXTINF:-1,ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6142
+#EXTINF:-1,ANIMAL PLANET FHD [DUAL AUDIO]
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/13205
+#EXTINF:-1,ANIMAL PLANET SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20887
+#EXTINF:-1,ANIMAL PLANET HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/24628
+#EXTINF:-1,ARTE 1 SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7904
+#EXTINF:-1,ARTE 1 HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10235
+#EXTINF:-1,ARTE 1 SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20880
+#EXTINF:-1,AXN SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4402
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6140
+#EXTINF:-1,AXN FHD [DUAL AUDIO]
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/13212
+#EXTINF:-1,AXN SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20884
+#EXTINF:-1,AXN HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20882
+#EXTINF:-1,ARIRANG TV SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4407
+#EXTINF:-1,BABY TV SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4401
+#EXTINF:-1,BABY TV HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20870
+#EXTINF:-1,BABY TV SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20871
+#EXTINF:-1,BAND NEWS SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4399
+#EXTINF:-1,BAND NEWS HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10296
+#EXTINF:-1,BAND NEWS FHD [DUAL AUDIO]
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11536
+#EXTINF:-1,BAND NEWS SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20869
+#EXTINF:-1,BAND SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4400
+#EXTINF:-1,BAND HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6882
+#EXTINF:-1,BAND FHD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/25008
+#EXTINF:-1,BAND SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20875
+#EXTINF:-1,BAND HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20874
+#EXTINF:-1,BAND SPORTS SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4398
+#EXTINF:-1,BAND SPORTS HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6138
+#EXTINF:-1,BAND SPORTS FHD [DUAL AUDIO]
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11535
+#EXTINF:-1,BAND SPORTS SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20864
+#EXTINF:-1,BAND SPORTS HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20863
+#EXTINF:-1,BIS SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6964
+#EXTINF:-1,BIS HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6881
+#EXTINF:-1,BIS FHD [DUAL AUDIO]
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11547
+#EXTINF:-1,BIS SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20868
+#EXTINF:-1,BIS HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20866
+#EXTINF:-1,BLOOMBERG TV SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7424
+#EXTINF:-1,BOOMERANG SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4396
+#EXTINF:-1,BOOMERANG HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10294
+#EXTINF:-1,BOOMERANG FHD [DUAL AUDIO]
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11534
+#EXTINF:-1,BOOMERANG SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20857
+#EXTINF:-1,CANAL BRASIL SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6963
+#EXTINF:-1,CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10293
+#EXTINF:-1,CANAL BRASIL SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20838
+#EXTINF:-1,CANAL RURAL SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20837
+#EXTINF:-1,CANAL SONY SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4395
+#EXTINF:-1,CANAL SONY HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6961
+#EXTINF:-1,CANAL SONY FHD [DUAL AUDIO]
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/13202
+#EXTINF:-1,CANAL SONY SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20529
+#EXTINF:-1,CANAL SONY HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20527
+#EXTINF:-1,CANCAO NOVA SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6173
+#EXTINF:-1,CARTOON NETWORK SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4394
+#EXTINF:-1,CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7817
+#EXTINF:-1,CARTOON NETWORK FHD [DUAL AUDIO]
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/13210
+#EXTINF:-1,CARTOON NETWORK SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20845
+#EXTINF:-1,CARTOON NETWORK HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20844
+#EXTINF:-1,CINEMAX SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4393
+#EXTINF:-1,CINEMAX HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7802
+#EXTINF:-1,CINEMAX SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/24630
+#EXTINF:-1,CINEMAX HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20834
+#EXTINF:-1,CNT SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20841
+#EXTINF:-1,COMBATE SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4392
+#EXTINF:-1,COMBATE HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6172
+#EXTINF:-1,COMBATE FHD [DUAL AUDIO]
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/8152
+#EXTINF:-1,COMBATE SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20832
+#EXTINF:-1,COMBATE HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20831
+#EXTINF:-1,COMEDY CENTRAL SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4391
+#EXTINF:-1,COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10292
+#EXTINF:-1,COMEDY CENTRAL FHD [DUAL AUDIO]
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/24920
+#EXTINF:-1,COMEDY CENTRAL SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20828
+#EXTINF:-1,COMEDY CENTRAL HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20827
+#EXTINF:-1,CNN ESPANHOL
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10290
+#EXTINF:-1,CURTA! SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10291
+#EXTINF:-1,CURTA! SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20826
+#EXTINF:-1,DISCOVERY CHANNEL SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4390
+#EXTINF:-1,DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6132
+#EXTINF:-1,DISCOVERY CHANNEL FHD [DUAL AUDIO]
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11548
+#EXTINF:-1,DISCOVERY CHANNEL SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20825
+#EXTINF:-1,DISCOVERY CHANNEL HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20824
+#EXTINF:-1,DISCOVERY CIVILIZATION SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10236
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7862
+#EXTINF:-1,DISCOVERY CIVILIZATION FHD [DUAL AUDIO]
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/13208
+#EXTINF:-1,DISCOVERY CIVILIZATION SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20820
+#EXTINF:-1,DISCOVERY CHANNEL HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20824
+#EXTINF:-1,DISCOVERY HOME & HEALTH SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4389
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6131
+#EXTINF:-1,DISCOVERY HOME & HEALTH FHD [DUAL AUDIO]
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11533
+#EXTINF:-1,DISCOVERY HOME & HEALTH SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20814
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20813
+#EXTINF:-1,DISCOVERY KIDS SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4388
+#EXTINF:-1,DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7538
+#EXTINF:-1,DISCOVERY KIDS FHD [DUAL AUDIO]
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11532
+#EXTINF:-1,DISCOVERY KIDS SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20818
+#EXTINF:-1,DISCOVERY KIDS HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20816
+#EXTINF:-1,DISCOVERY SCIENCE SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10237
+#EXTINF:-1,DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7861
+#EXTINF:-1,DISCOVERY SCIENCE FHD [DUAL AUDIO]
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/13206
+#EXTINF:-1,DISCOVERY SCIENCE HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20811
+#EXTINF:-1,DISCOVERY THEATER SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10289
+#EXTINF:-1,DISCOVERY THEATER HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6130
+#EXTINF:-1,DISCOVERY THEATER FHD [DUAL AUDIO]
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11530
+#EXTINF:-1,DISCOVERY THEATER HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20806
+#EXTINF:-1,DISCOVERY TURBO SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4386
+#EXTINF:-1,DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6877
+#EXTINF:-1,DISCOVERY TURBO FHD [DUAL AUDIO]
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11531
+#EXTINF:-1,DISCOVERY TURBO SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20809
+#EXTINF:-1,DISCOVERY TURBO HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20808
+#EXTINF:-1,DISCOVERY WORLD SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10288
+#EXTINF:-1,DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6128
+#EXTINF:-1,DISCOVERY WORLD HD* [DUAL AUDIO]
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20801
+#EXTINF:-1,DISNEY CHANNEL SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4385
+#EXTINF:-1,DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7902
+#EXTINF:-1,DISNEY CHANNEL FHD [DUAL AUDIO]
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11546
+#EXTINF:-1,DISNEY CHANNEL SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20799
+#EXTINF:-1,DISNEY CHANNEL HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20797
+#EXTINF:-1,DISNEY JUNIOR SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4384
+#EXTINF:-1,DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10286
+#EXTINF:-1,DISNEY JUNIOR FHD [DUAL AUDIO]
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/13207
+#EXTINF:-1,DISNEY JUNIOR SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20795
+#EXTINF:-1,DISNEY JUNIOR HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20794
+#EXTINF:-1,DISNEY XD SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4383
+#EXTINF:-1,DISNEY XD HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20791
+#EXTINF:-1,DISNEY XD SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20792
+#EXTINF:-1,DAZN HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/30422
+#EXTINF:-1,DAZN HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/31005
+#EXTINF:-1,DW SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20790
+#EXTINF:-1,DW SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4425
+#EXTINF:-1,E! SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4382
+#EXTINF:-1,E! HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10285
+#EXTINF:-1,E! SD 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20789
+#EXTINF:-1,E! HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20788
+#EXTINF:-1,ESPN 2 SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7988
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6143
+#EXTINF:-1,ESPN 2 FHD [DUAL AUDIO]
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11521
+#EXTINF:-1,ESPN 2 HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20787
+#EXTINF:-1,ESPN BRASIL SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4380
+#EXTINF:-1,ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6124
+#EXTINF:-1,ESPN BRASIL FHD [DUAL AUDIO]
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11557
+#EXTINF:-1,ESPN BRASIL SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20784
+#EXTINF:-1,ESPN BRASIL HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20783
+#EXTINF:-1,ESPN SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4381
+#EXTINF:-1,ESPN HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6127
+#EXTINF:-1,ESPN FHD [DUAL AUDIO]
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11545
+#EXTINF:-1,ESPN SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20780
+#EXTINF:-1,ESPN HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20779
+#EXTINF:-1,FISH TV SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20773
+#EXTINF:-1,FISH TV SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4377
+#EXTINF:-1,ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/24788
+#EXTINF:-1,ESPN EXTRA SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/24789
+#EXTINF:-1,FOOD NETWORK FHD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/13196
+#EXTINF:-1,FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7534
+#EXTINF:-1,FOOD NETWORK HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20756
+#EXTINF:-1,FOOD NETWORK SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6959
+#EXTINF:-1,FOOD NETWORK SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20757
+#EXTINF:-1,FOX FHD 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/9141
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6122
+#EXTINF:-1,FOX HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20759
+#EXTINF:-1,FOX SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4375
+#EXTINF:-1,FOX SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20760
+#EXTINF:-1,FOX LIFE FHD 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/25009
+#EXTINF:-1,FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6876
+#EXTINF:-1,FOX LIFE HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20761
+#EXTINF:-1,FOX LIFE SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4374
+#EXTINF:-1,FOX LIFE SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20762
+#EXTINF:-1,FOX NEWS SD 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6835
+#EXTINF:-1,FOX PREMIUM 1 HD 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10279
+#EXTINF:-1,FOX PREMIUM 1 HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20763
+#EXTINF:-1,FOX PREMIUM 2 FHD (DUAL AUDIO)
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11529
+#EXTINF:-1,FOX PREMIUM 2 HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10278
+#EXTINF:-1,FOX PREMIUM 2 HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20764
+#EXTINF:-1,FOX SPORTS 2 FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/8151
+#EXTINF:-1,FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6117
+#EXTINF:-1,FOX SPORTS 2 HD* 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20767
+#EXTINF:-1,FOX SPORTS 2 SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4372
+#EXTINF:-1,FOX SPORTS 2 SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20768
+#EXTINF:-1,FOX SPORTS FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11556
+#EXTINF:-1,FOX SPORTS HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6118
+#EXTINF:-1,FOX SPORTS HD* 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20771
+#EXTINF:-1,FOX SPORTS SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4373
+#EXTINF:-1,FOX SPORTS SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20772
+#EXTINF:-1,FUTURA SD 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10277
+#EXTINF:-1,FUTURA SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20753
+#EXTINF:-1,TV GAZETA SP HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/30425
+#EXTINF:-1,GLOBO SP FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/25012
+#EXTINF:-1,GLOBO SP HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7529
+#EXTINF:-1,GLOBO SP HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/22755
+#EXTINF:-1,GLOBO SP SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4431
+#EXTINF:-1,GLOBO SP SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/22757
+#EXTINF:-1,GLOBO NEWS FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/25010
+#EXTINF:-1,GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7442
+#EXTINF:-1,GLOBO NEWS HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11043
+#EXTINF:-1,GLOBO NEWS SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4432
+#EXTINF:-1,GLOBO NEWS SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11243
+#EXTINF:-1,GLOOB HD 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7526
+#EXTINF:-1,GLOOB HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20749
+#EXTINF:-1,GLOOB SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4369
+#EXTINF:-1,GLOOB SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20750
+#EXTINF:-1,GLOOBINHO FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/25013
+#EXTINF:-1,GLOOBINHO HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10271
+#EXTINF:-1,GLOOBINHO SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20701
+#EXTINF:-1,GLOOBINHO SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10270
+#EXTINF:-1,GNT HD 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6956
+#EXTINF:-1,GNT HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20752
+#EXTINF:-1,GNT SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4368
+#EXTINF:-1,GNT SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20751
+#EXTINF:-1,H2 FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/13187
+#EXTINF:-1,H2 HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6111
+#EXTINF:-1,H2 HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20698
+#EXTINF:-1,H2 SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4367
+#EXTINF:-1,H2 SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20700
+#EXTINF:-1,HBO FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11566
+#EXTINF:-1,HBO HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20694
+#EXTINF:-1,HBO HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6108
+#EXTINF:-1,HBO SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20696
+#EXTINF:-1,HBO SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4366
+#EXTINF:-1,HBO 2 FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11567
+#EXTINF:-1,HBO 2 HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6110
+#EXTINF:-1,HBO 2 HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20690
+#EXTINF:-1,HBO 2 SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4365
+#EXTINF:-1,HBO 2 SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20692
+#EXTINF:-1,HBO FAMILY FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11568
+#EXTINF:-1,HBO FAMILY HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6109
+#EXTINF:-1,HBO FAMILY HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20687
+#EXTINF:-1,HBO FAMILY SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4364
+#EXTINF:-1,HBO FAMILY SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20688
+#EXTINF:-1,HBO PLUS FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/13190
+#EXTINF:-1,HBO PLUS HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6106
+#EXTINF:-1,HBO PLUS HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20920
+#EXTINF:-1,HBO PLUS SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4363
+#EXTINF:-1,HBO PLUS SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20684
+#EXTINF:-1,HBO SIGNATURE FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11570
+#EXTINF:-1,HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6105
+#EXTINF:-1,HBO SIGNATURE HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20678
+#EXTINF:-1,HBO SIGNATURE SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4361
+#EXTINF:-1,HBO SIGNATURE SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20679
+#EXTINF:-1,HISTORY CHANNEL FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/13211
+#EXTINF:-1,HISTORY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6104
+#EXTINF:-1,HISTORY CHANNEL HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20468
+#EXTINF:-1,HISTORY CHANNEL SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4314
+#EXTINF:-1,HISTORY CHANNEL SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20469
+#EXTINF:-1,IMPD TV SD 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/25915
+#EXTINF:-1,IDEAL TV SD 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20674
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/9143
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6869
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20672
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4360
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20673
+#EXTINF:-1,LIFETIME FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11540
+#EXTINF:-1,LIFETIME HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7525
+#EXTINF:-1,LIFETIME HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20668
+#EXTINF:-1,LIFETIME SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7876
+#EXTINF:-1,LIFETIME SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20670
+#EXTINF:-1,MAIS GLOBOSAT HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/9262
+#EXTINF:-1,MAIS GLOBOSAT HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20665
+#EXTINF:-1,MAIS GLOBOSAT SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6953
+#EXTINF:-1,MAIS GLOBOSAT SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20666
+#EXTINF:-1,MAX FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/13189
+#EXTINF:-1,MAX HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10266
+#EXTINF:-1,MAX HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20662
+#EXTINF:-1,MAX SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4358
+#EXTINF:-1,MAX SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20664
+#EXTINF:-1,MAX PRIME FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/25014
+#EXTINF:-1,MAX PRIME HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7850
+#EXTINF:-1,MAX PRIME HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20657
+#EXTINF:-1,MAX PRIME SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4357
+#EXTINF:-1,MAX PRIME SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20658
+#EXTINF:-1,MAX UP FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/25015
+#EXTINF:-1,MAX UP HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10265
+#EXTINF:-1,MAX UP HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20659
+#EXTINF:-1,MAX UP SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4355
+#EXTINF:-1,MAX UP SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20660
+#EXTINF:-1,MEGAPIX FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/8146
+#EXTINF:-1,MEGAPIX HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6101
+#EXTINF:-1,MEGAPIX HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20653
+#EXTINF:-1,MEGAPIX SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4354
+#EXTINF:-1,MEGAPIX SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20654
+#EXTINF:-1,MTV FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11573
+#EXTINF:-1,MTV HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7524
+#EXTINF:-1,MTV HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20644
+#EXTINF:-1,MTV SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4353
+#EXTINF:-1,MTV SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20646
+#EXTINF:-1,MULTISHOW FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/13201
+#EXTINF:-1,MULTISHOW HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6867
+#EXTINF:-1,MULTISHOW HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20648
+#EXTINF:-1,MULTISHOW SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4352
+#EXTINF:-1,MULTISHOW SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20650
+#EXTINF:-1,MUSIC BOX BRASIL SD
+ plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7848
+#EXTINF:-1,MUSIC BOX BRASIL SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20655
+#EXTINF:-1,NATGEO KIDS FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/13198
+#EXTINF:-1,NATGEO KIDS HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10261
+#EXTINF:-1,NATGEO KIDS HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20632
+#EXTINF:-1,NATGEO KIDS SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4350
+#EXTINF:-1,NATGEO KIDS SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20642
+#EXTINF:-1,NATGEO WILD FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11528
+#EXTINF:-1,NATGEO WILD HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6099
+#EXTINF:-1,NATGEO WILD HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20640
+#EXTINF:-1,NATGEO WILD SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4349
+#EXTINF:-1,NATGEO WILD SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20641
+#EXTINF:-1,NATIONAL GEOGRAPHY FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/13188
+#EXTINF:-1,NATIONAL GEOGRAPHY HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6098
+#EXTINF:-1,NATIONAL GEOGRAPHY HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20629
+#EXTINF:-1,NATIONAL GEOGRAPHY SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4348
+#EXTINF:-1,NATIONAL GEOGRAPHY SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20630
+#EXTINF:-1,NBR SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6950
+#EXTINF:-1,NBR SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20625
+#EXTINF:-1,NHK HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4347
+#EXTINF:-1,NHK SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6949
+#EXTINF:-1,NICK JR FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11527
+#EXTINF:-1,NICK JR HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10260
+#EXTINF:-1,NICK JR HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20631
+#EXTINF:-1,NICK JR SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4346
+#EXTINF:-1,NICK JR SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20637
+#EXTINF:-1,NICKELODEON FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11526
+#EXTINF:-1,NICKELODEON HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7537
+#EXTINF:-1,NICKELODEON HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20635
+#EXTINF:-1,NICKELODEON SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4345
+#EXTINF:-1,NICKELODEON SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20636
+#EXTINF:-1,NOVO TEMPO SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6948
+#EXTINF:-1,OFF HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6947
+#EXTINF:-1,OFF HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20622
+#EXTINF:-1,OFF SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4344
+#EXTINF:-1,OFF SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20623
+#EXTINF:-1,PARAMOUNT FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/13185
+#EXTINF:-1,PARAMOUNT HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6945
+#EXTINF:-1,PARAMOUNT HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20619
+#EXTINF:-1,PARAMOUNT SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6946
+#EXTINF:-1,PARAMOUNT SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20621
+#EXTINF:-1,PLAY TV SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20617
+#EXTINF:-1,PPV 1
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20586
+#EXTINF:-1,PPV 2
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20585
+#EXTINF:-1,PPV 3
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20584
+#EXTINF:-1,PPV 4
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20583
+#EXTINF:-1,PPV 5
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20582
+#EXTINF:-1,PREMIERE CLUBES FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/9144
+#EXTINF:-1,PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6089
+#EXTINF:-1,PREMIERE CLUBES HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20599
+#EXTINF:-1,PREMIERE CLUBES SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4333
+#EXTINF:-1,PREMIERE CLUBES SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20596
+#EXTINF:-1,PREMIERE 2 FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/8149
+#EXTINF:-1,PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6093
+#EXTINF:-1,PREMIERE 2 HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20615
+#EXTINF:-1,PREMIERE 2 SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4341
+#EXTINF:-1,PREMIERE 2 SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20595
+#EXTINF:-1,PREMIERE 3 SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4340
+#EXTINF:-1,PRIME BOX BRAZIL SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4332
+#EXTINF:-1,PRIME BOX BRAZIL SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20587
+#EXTINF:-1,RAI ITALIA SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20581
+#EXTINF:-1, REAL MADRID TV SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6183
+#EXTINF:-1, RECORD FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/13183
+#EXTINF:-1, RECORD HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7836
+#EXTINF:-1, RECORD HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20571
+#EXTINF:-1, RECORD SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4423
+#EXTINF:-1, RECORD SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20572
+#EXTINF:-1, RECORD SP HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/18168
+#EXTINF:-1, RECORD NEWS HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10255
+#EXTINF:-1, RECORD NEWS SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6941
+#EXTINF:-1, RECORD NEWS SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20557
+#EXTINF:-1, REDE BRASIL SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4421
+#EXTINF:-1, REDE BRASIL SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20573
+#EXTINF:-1, REDE TV HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6940
+#EXTINF:-1, REDE TV HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20574
+#EXTINF:-1, REDE TV SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4420
+#EXTINF:-1, REDE TV SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20575
+#EXTINF:-1, REDE FAMILIA HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/32579
+#EXTINF:-1, REDE VIDA SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6939
+#EXTINF:-1, REDE VIDA SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20576
+#EXTINF:-1, SBT HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6889
+#EXTINF:-1, SBT HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20554
+#EXTINF:-1, SBT SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4331
+#EXTINF:-1, SBT SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20555
+#EXTINF:-1, SIC INTERNACIONAL SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20525
+#EXTINF:-1, SPACE FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/13197
+#EXTINF:-1, SPACE HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6085
+#EXTINF:-1, SPACE HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20532
+#EXTINF:-1, SPACE SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4328
+#EXTINF:-1, SPACE SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20533
+#EXTINF:-1, SPORTV 2 FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11539
+#EXTINF:-1, SPORTV 2 HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6084
+#EXTINF:-1, SPORTV 2 HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20540
+#EXTINF:-1, SPORTV 2 SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4326
+#EXTINF:-1, SPORTV 2 SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20541
+#EXTINF:-1, SPORTV 3 FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11538
+#EXTINF:-1, SPORTV 3 HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6083
+#EXTINF:-1, SPORTV 3 HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20536
+#EXTINF:-1, SPORTV 3 SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4325
+#EXTINF:-1, SPORTV 3 SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20537
+#EXTINF:-1, SPORTV FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11563
+#EXTINF:-1, SPORTV HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6082
+#EXTINF:-1, SPORTV HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20544
+#EXTINF:-1, SPORTV SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4327
+#EXTINF:-1, SPORTV SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20545
+#EXTINF:-1, STUDIO UNIVERSAL FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/13194
+#EXTINF:-1, STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7874
+#EXTINF:-1, STUDIO UNIVERSAL HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20546
+#EXTINF:-1, STUDIO UNIVERSAL SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4324
+#EXTINF:-1, STUDIO UNIVERSAL SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20547
+#EXTINF:-1, SUNDANCE TV HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20524
+#EXTINF:-1, SYFY FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/13195
+#EXTINF:-1, SYFY TV HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7795
+#EXTINF:-1, SYFY HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20550
+#EXTINF:-1, SYFY SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4323
+#EXTINF:-1, SYFY SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20551
+#EXTINF:-1, TBS HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/7873
+#EXTINF:-1, TBS HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20521
+#EXTINF:-1, TBS SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4322
+#EXTINF:-1, TBS SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20522
+#EXTINF:-1, TCM HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11003
+#EXTINF:-1, TCM SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4321
+#EXTINF:-1, TCM SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20496
+#EXTINF:-1, TELECINE ACTION FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/8141
+#EXTINF:-1, TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6080
+#EXTINF:-1, TELECINE ACTION HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20517
+#EXTINF:-1, TELECINE ACTION SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4320
+#EXTINF:-1, TELECINE ACTION SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20518
+#EXTINF:-1, TELECINE CULT FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/8143
+#EXTINF:-1, TELECINE CULT HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10247
+#EXTINF:-1, TELECINE CULT HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20513
+#EXTINF:-1, TELECINE CULT SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4319
+#EXTINF:-1, TELECINE CULT SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20514
+#EXTINF:-1, TELECINE FUN FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11561
+#EXTINF:-1, TELECINE FUN HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6079
+#EXTINF:-1, TELECINE FUN HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20509
+#EXTINF:-1, TELECINE FUN SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4318
+#EXTINF:-1, TELECINE FUN SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20510
+#EXTINF:-1, TELECINE PIPOCA FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/8144
+#EXTINF:-1, TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6078
+#EXTINF:-1, TELECINE PIPOCA HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20505
+#EXTINF:-1, TELECINE PIPOCA SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4317
+#EXTINF:-1, TELECINE PIPOCA SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20506
+#EXTINF:-1, TELECINE PREMIUM FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/8140
+#EXTINF:-1, TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6077
+#EXTINF:-1, TELECINE PREMIUM HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20501
+#EXTINF:-1, TELECINE PREMIUM SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4316
+#EXTINF:-1, TELECINE PREMIUM SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20502
+#EXTINF:-1, TELECINE TOUCH FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/25016
+#EXTINF:-1, TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6076
+#EXTINF:-1, TELECINE TOUCH HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20497
+#EXTINF:-1, TELECINE TOUCH SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4315
+#EXTINF:-1, TELECINE TOUCH SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20498
+#EXTINF:-1, TERRA VIVA SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6936
+#EXTINF:-1, TERRA VIVA SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20471
+#EXTINF:-1, OFF FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/9152
+#EXTINF:-1, TLC HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/24786
+#EXTINF:-1, TLC SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4313
+#EXTINF:-1, TLC SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20520
+#EXTINF:-1, TNT FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/13181
+#EXTINF:-1, TNT HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6074
+#EXTINF:-1, TNT HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20493
+#EXTINF:-1, TNT SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4312
+#EXTINF:-1, TNT SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20494
+#EXTINF:-1, TNT SERIES FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/13186
+#EXTINF:-1, TNT SERIES HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6073
+#EXTINF:-1, TNT SERIES HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20489
+#EXTINF:-1, TNT SERIES SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4311
+#EXTINF:-1, TNT SERIES SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20490
+#EXTINF:-1, TOONCAST HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20485
+#EXTINF:-1, TOONCAST SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4310
+#EXTINF:-1, TOONCAST SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20486
+#EXTINF:-1, TRUTV SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6935
+#EXTINF:-1, TV APARECIDA SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4438
+#EXTINF:-1, TV BRASIL SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4442
+#EXTINF:-1, TV BRASIL SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20482
+#EXTINF:-1, TV CAMARA SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10245
+#EXTINF:-1, TV CAMARA SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20483
+#EXTINF:-1, TV CIDADE OESTE SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20484
+#EXTINF:-1, TV CLIMATEMPO SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20478
+#EXTINF:-1, CULTURA HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20473
+#EXTINF:-1, CULTURA SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4412
+#EXTINF:-1, TV ESCOLA SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/5975
+#EXTINF:-1, TV ESCOLA SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20477
+#EXTINF:-1, TV EVANGELIZAR SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6206
+#EXTINF:-1, TV JUSTICA SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/5970
+#EXTINF:-1, TV JUSTICA SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20475
+#EXTINF:-1,TV RA TIM BUM HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/24787
+#EXTINF:-1, TV RA TIM BUM SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6933
+#EXTINF:-1, TV RA TIM BUM SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20476
+#EXTINF:-1, TV SENADO SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10246
+#EXTINF:-1, TVE HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4440
+#EXTINF:-1, UNIVERSAL CHANNEL FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/13192
+#EXTINF:-1, UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/5987
+#EXTINF:-1,UNIVERSAL CHANNEL HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20464
+#EXTINF:-1, UNIVERSAL CHANNEL SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4308
+#EXTINF:-1, UNIVERSAL CHANNEL SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20465
+#EXTINF:-1,VH1 MEGA HITS HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10361
+#EXTINF:-1, VH1 MEGA HITS SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20459
+#EXTINF:-1, VH1 MEGA HITS SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/10243
+#EXTINF:-1, VIVA HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6848
+#EXTINF:-1,VIVA HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20460
+#EXTINF:-1, VIVA SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6928
+#EXTINF:-1,VIVA SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20461
+#EXTINF:-1, WARNER CHANNEL FHD (DUAL AUDIO) 
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/11525
+#EXTINF:-1, WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/6072
+#EXTINF:-1,WARNER CHANNEL HD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20456
+#EXTINF:-1, WARNER CHANNEL SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4307
+#EXTINF:-1,WARNER CHANNEL SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20457
+#EXTINF:-1, WOOHOO SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/4306
+#EXTINF:-1,WOOHOO SD*
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20453
+#EXTINF:-1, ZOOMOO SD
+plugin://plugin.video.f4mTester/?name=KallPlay &streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/909090/909090/20450

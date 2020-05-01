@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1,A&E
+http://hvod.imirun.net:8080/A&E/index.m3u8
+#EXTINF:-1,A&E HD
+http://hvod.imirun.net:8080/A&E-HD/index.m3u8
+#EXTINF:-1,AXN
+http://hvod.imirun.net:8080/AXN/index.m3u8
+#EXTINF:-1,FOX premium 1 HD
+http://hvod.imirun.net:8080/Fox-Premium-1-HD/index.m3u8
+#EXTINF:-1,FOX premium 2 HD
+http://hvod.imirun.net:8080/Fox-Premium-2-HD/index.m3u8
+#EXTINF:-1,FOX
+http://hvod.imirun.net:8080/FOX/index.m3u8
+#EXTINF:-1,FOX HD
+http://hvod.imirun.net:8080/FOX-HD/index.m3u8
+#EXTINF:-1,FX
+http://hvod.imirun.net:8080/FX/index.m3u8
+#EXTINF:-1,FX HD
+http://hvod.imirun.net:8080/FX-HD/index.m3u8
+#EXTINF:-1,HBO FAMILY
+http://hvod.imirun.net:8080/HBO-Family/index.m3u8
+#EXTINF:-1,HBO FAMILY HD
+http://hvod.imirun.net:8080/HBO-Family-HD/index.m3u8
+#EXTINF:-1,TNT
+http://hvod.imirun.net:8080/TNT/index.m3u8
+#EXTINF:-1,TNT HD
+http://hvod.imirun.net:8080/TNT-HD/index.m3u8
+#EXTINF:-1,SYFY
+http://hvod.imirun.net:8080/SyFy/index.m3u8
+#EXTINF:-1,SYFY HD
+http://hvod.imirun.net:8080/SyFyHD/index.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL
+http://hvod.imirun.net:8080/StudioUniversal/index.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://hvod.imirun.net:8080/StudioUniversalHD/index.m3u8
+#EXTINF:-1,SPACE
+http://hvod.imirun.net:8080/Space/index.m3u8
+#EXTINF:-1,SPACE HD
+http://hvod.imirun.net:8080/SpaceHD/index.m3u8
+#EXTINF:-1,SONY
+http://hvod.imirun.net:8080/canalsony/index.m3u8
+#EXTINF:-1,SONY HD
+http://hvod.imirun.net:8080/canalsony-hd/index.m3u8
+#EXTINF:-1,TLC
+http://hvod.imirun.net:8080/TLC/index.m3u8
+#EXTINF:-1,WARNNER CHANNEL
+http://hvod.imirun.net:8080/Warner-Channel/index.m3u8
+#EXTINF:-1,WARNNER CHANNEL HD
+http://hvod.imirun.net:8080/Warner-Channel-HD/index.m3u8
