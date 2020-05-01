@@ -1,0 +1,629 @@
+#EXTM3U
+#EXTINF:-1, A&E HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/236.m3u8
+#EXTINF:-1, A&E SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/235.m3u8
+#EXTINF:-1, AMC HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/512.m3u8
+#EXTINF:-1, AMC SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/233.m3u8
+#EXTINF:-1, ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/232.m3u8
+#EXTINF:-1, ANIMAL PLANET SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/231.m3u8
+#EXTINF:-1, AXN HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/535.m3u8
+#EXTINF:-1, AXN SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/227.m3u8
+#EXTINF:-1, Baby TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/226.m3u8
+#EXTINF:-1, Baby TV SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/225.m3u8
+#EXTINF:-1, BAND ESPORTES HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/221.m3u8
+#EXTINF:-1, BAND ESPORTES SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/220.m3u8
+#EXTINF:-1, BAND NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/224.m3u8
+#EXTINF:-1, BAND NEWS SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/223.m3u8
+#EXTINF:-1, BAND HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/130.m3u8
+EXTINF:-1, BAND SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/129.m3u8
+#EXTINF:-1, BOOMERANG HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/217.m3u8
+#EXTINF:-1, BOOMERANG SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/216.m3u8
+#EXTINF:-1, CANAL CANÇÃO NOVA HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/215.m3u8
+#EXTINF:-1, CANAL CANÇÃO NOVA SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/214.m3u8
+#EXTINF:-1, CANAL CURTA HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/213.m3u8
+#EXTINF:-1, CANAL CURTA SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/212.m3u8
+#EXTINF:-1, CANAL HGTV HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/193.m3u8
+#EXTINF:-1, CANAL HGTV SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/192.m3u8
+EXTINF:-1, CANAL BRASIL
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/209.m3u8
+#EXTINF:-1, CANAL OFF HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/209.m3u8
+#EXTINF:-1, CANAL OFF SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/208.m3u8
+#EXTINF:-1, FUTURA HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/211.m3u8
+#EXTINF:-1, FUTURA SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/210.m3u8
+#EXTINF:-1, Canal Woohoo HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/207.m3u8
+EXTINF:-1, Canal Woohoo SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/206.m3u8
+#EXTINF:-1, Canal Woohoo HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/207.m3u8
+#EXTINF:-1, Canal Woohoo SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/206.m3u8
+#EXTINF:-1, Cartoon Network HD      
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/524.m3u8
+#EXTINF:-1, Cartoon Network SD  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/204.m3u8
+#EXTINF:-1, Comedy Central HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/199.m3u8
+#EXTINF:-1, Comedy Central SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/19.m3u8
+#EXTINF:-1, Combate HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/201.m3u8
+#EXTINF:-1, Combate SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/200.m3u8
+#EXTINF:-1, Cinemax HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/203.m3u8
+#EXTINF:-1, Cinemax SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/202.m3u8
+#EXTINF:-1, A&E  FULL HD H265
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3036.m3u8
+#EXTINF:-1, ANIMAL PLANET FULL HD H265
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3037.m3u8
+#EXTINF:-1, AXN  FULL HD H265
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/303.m3u8
+#EXTINF:-1, Chaves 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/547.m3u8
+#EXTINF:-1, Cine Action 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/54.m3u8
+#EXTINF:-1, Cine Aventura 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/549.m3u8
+#EXTINF:-1, Cine Drama 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/550.m3u8
+#EXTINF:-1, Cine Family 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/551.m3u8
+#EXTINF:-1, Cine Faroeste 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/147.m3u8
+#EXTINF:-1, Cine Fiction 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/536.m3u8
+#EXTINF:-1, Cine Fun 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/552.m3u8
+#EXTINF:-1, Cine Guerra 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/1477.m3u8
+#EXTINF:-1, Cine Horror 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/553.m3u8
+#EXTINF:-1, CINE KIDS 24H ULTRA HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/554.m3u8
+#EXTINF:-1, CINE Nacionais 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/555.m3u8
+#EXTINF:-1, Como eu Conheci a Sua Mae  24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/567.m3u8
+#EXTINF:-1, Cultura HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/197.m3u8
+#EXTINF:-1, CULTURA HD FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3040.m3u8
+#EXTINF:-1, Cultura SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/196.m3u8
+#EXTINF:-1, Cybercop 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/1479.m3u8
+#EXTINF:-1, DISCORVERY CIVILIZATION FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3044.m3u8
+#EXTINF:-1, DISCORVERY KIDS FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3041.m3u8
+#EXTINF:-1, DISCORVERY THEATER FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3042.m3u8
+#EXTINF:-1, Discovery Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/195.m3u8
+#EXTINF:-1, Discovery Channel SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/194.m3u8
+#EXTINF:-1, Discovery Home & Health HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/191.m3u8
+#EXTINF:-1, Discovery Home & Health SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/190.m3u8
+#EXTINF:-1, Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/19.m3u8
+#EXTINF:-1, Discovery Kids SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/1.m3u8
+#EXTINF:-1, Discovery Science HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/17.m3u8
+#EXTINF:-1, Discovery Science SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/16.m3u8
+#EXTINF:-1, Discovery Theater HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/15.m3u8
+#EXTINF:-1, Discovery Theater SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/14.m3u8
+#EXTINF:-1, DISCOVERY TURBO FULL HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3043.m3u8
+#EXTINF:-1, Discovery Turbo HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/13.m3u8
+#EXTINF:-1, Discovery Turbo SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/12.m3u8
+#EXTINF:-1, Discovery World HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/11.m3u8
+#EXTINF:-1, Discovery World SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/10.m3u8
+#EXTINF:-1, Disney Channel  HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/179.m3u8
+#EXTINF:-1, DISNEY CHANNEL FULL HD H265
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3045.m3u8
+#EXTINF:-1, Disney Channel SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/17.m3u8
+#EXTINF:-1, Disney Junior HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/177.m3u8
+#EXTINF:-1, Disney Junior SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/176.m3u8
+#EXTINF:-1, Disney XD HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/175.m3u8
+#EXTINF:-1, Disney XD SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/174.m3u8
+#EXTINF:-1, DR. House 24HR
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/56.m3u8
+#EXTINF:-1, Dragoes  24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/140.m3u8
+#EXTINF:-1, E! HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/516.m3u8
+#EXTINF:-1, E! SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/172.m3u8
+#EXTINF:-1, EPTV Campinas HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/23.m3u8
+#EXTINF:-1, EPTV Campinas HD 2
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/246.m3u8
+#EXTINF:-1, EPTV Campinas SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/237.m3u8
+#EXTINF:-1, Eptv FHD Ribeirao
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3073.m3u8
+#EXTINF:-1, Espn  2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/171.m3u8
+#EXTINF:-1, Espn  2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/170.m3u8
+#EXTINF:-1, ESPN BRASIL FULL  HD H265
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3047.m3u8
+#EXTINF:-1, Espn Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/169.m3u8
+#EXTINF:-1, Espn Brasil SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/16.m3u8
+#EXTINF:-1, Espn Extra  SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/164.m3u8
+#EXTINF:-1, Espn Extra HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/165.m3u8
+#EXTINF:-1, Espn HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/167.m3u8
+#EXTINF:-1, Espn SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/166.m3u8
+#EXTINF:-1, Film&Arts HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/163.m3u8
+#EXTINF:-1, Film&Arts SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/162.m3u8
+#EXTINF:-1, FISH TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/525.m3u8
+#EXTINF:-1, Fish TV SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/161.m3u8
+#EXTINF:-1, Food Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/15.m3u8
+#EXTINF:-1, Food Network SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/159.m3u8
+#EXTINF:-1, FOX ESPORTES 2 FULL HD  H265
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/304.m3u8
+#EXTINF:-1,  FOX ESPORTES FULL HD H265
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3049.m3u8
+#EXTINF:-1, FOX FULL HD h265
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3050.m3u8
+#EXTINF:-1, FOX HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/157.m3u8
+#EXTINF:-1, FOX Life HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/156.m3u8
+#EXTINF:-1, FOX Life SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/155.m3u8
+#EXTINF:-1, Fox Premium 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/526.m3u8
+#EXTINF:-1, Fox Premium 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/527.m3u8
+#EXTINF:-1, Fox Premium HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/52.m3u8
+#EXTINF:-1, Fox Premium SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/151.m3u8
+#EXTINF:-1, FOX SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/150.m3u8                                                                                                                        
+#EXTINF:-1, Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/529.m3u8
+#EXTINF:-1, Fox Sports 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/14.m3u8
+Fox Sports HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/147.m3u8
+#EXTINF:-1, Fox Sports SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/146.m3u8
+#EXTINF:-1, FX HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/145.m3u8 
+#EXTINF:-1, FX SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/144.m3u8
+#EXTINF:-1, Galinha Pintadinha 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/1476.m3u8
+#EXTINF:-1, Globo SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/72.m3u8
+#EXTINF:-1, Globo SP SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/71.m3u8
+#EXTINF:-1, GloboNews HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/143.m3u8
+#EXTINF:-1, GloboNews SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/142.m3u8
+#EXTINF:-1, Gloob HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/530.m3u8
+#EXTINF:-1, Gloob SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/140.m3u8
+#EXTINF:-1, GNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/139.m3u8
+#EXTINF:-1, GNT SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/13.m3u8
+#EXTINF:-1, History Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/532.m3u8
+#EXTINF:-1, History Channel SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/122.m3u8
+#EXTINF:-1, H2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/137.m3u8
+#EXTINF:-1, H2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/523.m3u8
+#EXTINF:-1, HBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/131.m3u8
+#EXTINF:-1, HBO SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/126.m3u8
+#EXTINF:-1, HBO 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/135.m3u8
+#EXTINF:-1, HBO 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/134.m3u8
+#EXTINF:-1, HBO Family HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/133.m3u8
+#EXTINF:-1, HBO Family SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/132.m3u8
+#EXTINF:-1, HBO Plus HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/12.m3u8
+#EXTINF:-1, HBO Plus SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/127.m3u8
+#EXTINF:-1, HBO Signature HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/531.m3u8
+#EXTINF:-1, HBO Signature SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/124.m3u8
+#EXTINF:-1, Homem-Aranha 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/566.m3u8
+#EXTINF:-1, ID HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/121.m3u8
+#EXTINF:-1, ID SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/120.m3u8
+#EXTINF:-1, Jaspion 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/570.m3u8
+#EXTINF:-1, Jiraya  O Incrivel Ninja 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/1475.m3u8
+#EXTINF:-1, Larva 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/1474.m3u8
+#EXTINF:-1, Lifetime HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/522.m3u8
+#EXTINF:-1, Lifetime SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/11.m3u8
+#EXTINF:-1, Lion Man 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/1473.m3u8
+#EXTINF:-1, Looney Tunnes 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/565.m3u8
+#EXTINF:-1, Mais Globosat HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/117.m3u8
+#EXTINF:-1, Mais Globosat SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/116.m3u8
+#EXTINF:-1, MARVEL & DC 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/545.m3u8
+#EXTINF:-1, HBO Mundi HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/521.m3u8
+#EXTINF:-1, HBO Mundi SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/112.m3u8
+#EXTINF:-1, HBO Xtreme HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/520.m3u8
+#EXTINF:-1, HBO Xtreme SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/113.m3u8
+#EXTINF:-1, HBO Pop HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/111.m3u8
+#EXTINF:-1, HBO Pop SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/110.m3u8
+#EXTINF:-1, Max up full hd
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3074.m3u8
+#EXTINF:-1, Megapix HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/109.m3u8
+#EXTINF:-1,  Megapix SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/10.m3u8
+#EXTINF:-1, MR. Bean 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/546.m3u8
+#EXTINF:-1, MTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/519.m3u8
+#EXTINF:-1, MTV SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/106.m3u8
+#EXTINF:-1, MULTISHOW HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/105.m3u8
+#EXTINF:-1, MULTISHOW SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/104.m3u8
+#EXTINF:-1, MULTSHOW FULL HD H265
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3067.m3u8
+#EXTINF:-1, Naruto 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/564.m3u8
+#EXTINF:-1, Nat Geo Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/51.m3u8
+#EXTINF:-1, Nat Geo Kids SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/102.m3u8
+#EXTINF:-1, Nat Geo Wild HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/101.m3u8
+#EXTINF:-1, Nat Geo Wild SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/100.m3u8
+#EXTINF:-1, NATIONAL GEOGRAPHIC FULL HD H265 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/306.m3u8
+#EXTINF:-1, National Geographic HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/99.m3u8
+#EXTINF:-1, National Geographic SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/9.m3u8
+#EXTINF:-1, NHK HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/97.m3u8
+#EXTINF:-1, NHK SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/96.m3u8 
+#EXTINF:-1, NICK JR  FULL HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3072.m3u8
+#EXTINF:-1, Nick Jr HD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/95.m3u8
+#EXTINF:-1, Nick Jr SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/94.m3u8 
+#EXTINF:-1, NICKELODEON FULL HD H265 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3063.m3u8
+#EXTINF:-1, Nickelodeon HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/93.m3u8
+#EXTINF:-1, Nickelodeon SD  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/92.m3u8
+#EXTINF:-1, Os Simpsons 24H  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/563.m3u8
+#EXTINF:-1, Os Vingadores 24H  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/142.m3u8
+#EXTINF:-1, Paramount Channel HD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/91.m3u8
+#EXTINF:-1, Paramount Channel SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/90.m3u8
+#EXTINF:-1, Pokemon 24H  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/560.m3u8
+#EXTINF:-1, Premiere 1 HD  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/6.m3u8 
+#EXTINF:-1, Premiere 1 HD Alternativo 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/1461.m3u8
+#EXTINF:-1, Premiere 1 HD2  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/247.m3u8
+#EXTINF:-1, Premiere 1 SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/5.m3u8
+#EXTINF:-1, PREMIERE 2 FULL HD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3064.m3u8
+#EXTINF:-1, Premiere 2 HD    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/4.m3u8 
+#EXTINF:-1, Premiere 2 HD Alternativo    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/1462.m3u8
+#EXTINF:-1, Premiere 2 SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3.m3u8
+#EXTINF:-1, PREMIERE 3 FHD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3065.m3u8
+#EXTINF:-1, Premiere 3 HD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/2.m3u8 
+#EXTINF:-1, Premiere 3 HD Alternativo    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/1463.m3u8
+#EXTINF:-1, Premiere 3 SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/1.m3u8 
+#EXTINF:-1, PREMIERE 4 FHD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3066.m3u8
+#EXTINF:-1, Premiere 4 HD    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/0.m3u8
+#EXTINF:-1, Premiere 4 HD Alternativo    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/1464.m3u8
+#EXTINF:-1, Premiere 4 SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/79.m3u8
+#EXTINF:-1, Premiere 5 HD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/7.m3u8
+#EXTINF:-1, Premiere 5 HD Alternativo   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/1465.m3u8
+#EXTINF:-1, Premiere 5 SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/77.m3u8 
+#EXTINF:-1, Premiere 6 HD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/76.m3u8 
+#EXTINF:-1, Premiere 6 HD Alternativo   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/1466.m3u8
+#EXTINF:-1, Premiere 6 SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/75.m3u8
+#EXTINF:-1, Premiere 7 HD    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/74.m3u8
+#EXTINF:-1, Premiere 7 HD Alternativo    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/1467.m3u8
+#EXTINF:-1, Premiere 7 SD    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/73.m3u8
+#EXTINF:-1, PREMIERE CLUBES FULL HD  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3062.m3u8
+#EXTINF:-1, Record HD    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/240.m3u8 
+#EXTINF:-1, Record HD 2  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/6.m3u8 
+#EXTINF:-1, RECORD NEWS FULL HD  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3061.m3u8
+#EXTINF:-1, Record News HD    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/67.m3u8 
+#EXTINF:-1, Record News SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/66.m3u8
+#EXTINF:-1, Record SD    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/239.m3u8
+#EXTINF:-1, Record SP HD    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/65.m3u8 
+#EXTINF:-1, Record SP SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/64.m3u8 
+#EXTINF:-1, REDE TV FHD  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3071.m3u8
+#EXTINF:-1, Rede Vida HD  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/62.m3u8
+#EXTINF:-1, Rede Vida SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/63.m3u8 
+#EXTINF:-1, RedeTV HD    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/61.m3u8 
+#EXTINF:-1, RedeTV SD    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/60.m3u8 
+#EXTINF:-1, RÁ-Tim Bum- HD  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/70.m3u8
+#EXTINF:-1, RÁ- Tim- Bum SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/69.m3u8
+#EXTINF:-1, SBT FHD INTERIOR    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3060.m3u8
+#EXTINF:-1, Sbt HD    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/59.m3u8
+#EXTINF:-1, Sbt SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/5.m3u8 
+#EXTINF:-1, Show da Luna 24H   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/559.m3u8
+#EXTINF:-1, Sony HD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/53.m3u8
+#EXTINF:-1, Sony SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/52.m3u8
+#EXTINF:-1, South Park 24H    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/544.m3u8 
+#EXTINF:-1, Space HD  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/51.m3u8
+#EXTINF:-1, Space SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/50.m3u8 
+#EXTINF:-1, SporTV FULL HD H265   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3057.m3u8
+#EXTINF:-1, SporTV HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/49.m3u8 
+#EXTINF:-1, SporTV SD    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/4.m3u8 
+#EXTINF:-1, SporTV 2 FULL HD H265   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/305.m3u8
+#EXTINF:-1, SporTV2 HD    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/47.m3u8
+#EXTINF:-1, SporTV2 SD     
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/46.m3u8
+#EXTINF:-1, SPORTV 3 FULL HD H265  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3059.m3u8
+#EXTINF:-1, SporTV3 HD  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/45.m3u8 
+#EXTINF:-1, SporTV3 SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/44.m3u8
+#EXTINF:-1, Studio Universal HD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/43.m3u8 
+#EXTINF:-1, Studio Universal SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/42.m3u8
+#EXTINF:-1, Syfy HD  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/41.m3u8 
+#EXTINF:-1, Syfy SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/40.m3u8
+#EXTINF:-1, Tbs HD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/39.m3u8
+#EXTINF:-1, Tbs SD  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3.m3u8
+#EXTINF:-1, TCM HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/37.m3u8
+#EXTINF:-1, TCM SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/36.m3u8 
+#EXTINF:-1, TELECINE ACTION FULL  HD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3056.m3u8 
+#EXTINF:-1, Telecine Action HD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/35.m3u8 
+#EXTINF:-1, Telecine Action SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/34.m3u8
+#EXTINF:-1, Telecine Cult HD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/33.m3u8
+#EXTINF:-1, Telecine Cult SD  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/32.m3u8 
+#EXTINF:-1, TELECINE FUN FULL  HD H265  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3055.m3u8
+#EXTINF:-1, Telecine Fun HD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/31.m3u8
+#EXTINF:-1, Telecine Fun SD  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/30.m3u8
+#EXTINF:-1, TELECINE PIPOCA FULL HD H265  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3054.m3u8
+#EXTINF:-1, Telecine Pipoca HD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/29.m3u8
+#EXTINF:-1, Telecine Pipoca SD  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/2.m3u8
+#EXTINF:-1, TELECINE PREMIUM FULL HD H265  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3053.m3u8
+#EXTINF:-1, Telecine Premium HD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/27.m3u8
+#EXTINF:-1, Telecine Premium SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/26.m3u8 
+#EXTINF:-1, TELECINE TOUCH FULL HD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3070.m3u8 
+#EXTINF:-1, Telecine Touch HD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/25.m3u8
+#EXTINF:-1, Telecine Touch SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/24.m3u8 
+#EXTINF:-1, The Backyardigans 24H   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/55.m3u8 
+#EXTINF:-1, The Big Bang Theory 24H   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/543.m3u8
+#EXTINF:-1, THE HISTORY CHANNEL FULL HD  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3052.m3u8
+#EXTINF:-1, TLC HD    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/23.m3u8
+#EXTINF:-1, TLC SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/22.m3u8
+#EXTINF:-1, TNT FULLHD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3069.m3u8
+#EXTINF:-1, TNT HD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/21.m3u8 
+#EXTINF:-1, TNT SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/20.m3u8 
+#EXTINF:-1, TNT Series HD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/517.m3u8
+#EXTINF:-1, TNT Series SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/1.m3u8 
+#EXTINF:-1, Todo Mundo Odeia o Cris 24H 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/317.m3u8
+#EXTINF:-1, Tom & Jerry  24H  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/557.m3u8
+#EXTINF:-1, Tooncast HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/17.m3u8
+#EXTINF:-1, Tooncast SD  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/16.m3u8
+#EXTINF:-1, TV Aparecida FULL HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3046.m3u8
+#EXTINF:-1, TV Aparecida HD  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/15.m3u8 
+#EXTINF:-1, TV Aparecida SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/14.m3u8 
+#EXTINF:-1, TV Rio Preto    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/13.m3u8 
+#EXTINF:-1, TV RÁ TIM BUM FULL HD H265 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3051.m3u8
+#EXTINF:-1, 2 HOMENS E MEIO 24H  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/542.m3u8
+#EXTINF:-1, Um Maluco No Pedaco  24H   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/541.m3u8
+#EXTINF:-1, Universal Channel HD  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/12.m3u8
+#EXTINF:-1, Universal Channel SD  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/11.m3u8 
+#EXTINF:-1, VH1 HD  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/.m3u
+#EXTINF:-1, VH1 SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/7.m3u8
+#EXTINF:-1, Viva HD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/6.m3u8
+#EXTINF:-1, Viva SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/5.m3u8
+#EXTINF:-1, Warner Bros HD    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/4.m3u8 
+#EXTINF:-1, Warner Bros SD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/3.m3u8 
+#EXTINF:-1, X-Men Evolution 24H  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/143.m3u8 
+#EXTINF:-1, Zoomoo HD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/2.m3u8
+#EXTINF:-1, Zoomoo SD    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/morgana/morgana/1.m3u8

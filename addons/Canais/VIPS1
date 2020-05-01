@@ -1,0 +1,283 @@
+#EXTM3U
+#EXTINF:-1, BR: A&E                      
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41359.m3u8
+#EXTINF:-1, BR: AMC  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41358.m3u8
+#EXTINF:-1, BR: Animal Planet   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41357.m3u8
+#EXTINF:-1, BR: ARTE 1  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41356.m3u8 
+#EXTINF:-1, BR: AXN   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41355.m3u8 
+#EXTINF:-1, BR: BABY TV   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41354.m3u8 
+#EXTINF:-1, BR: BAND CAMPINAS 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41353.m3u8 
+#EXTINF:-1, BR: BAND NEWS  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41352.m3u8 
+#EXTINF:-1, BR: BAND SPORTS  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41351.m3u8 
+#EXTINF:-1, BR: BIS   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41350.m3u8
+#EXTINF:-1, BR: BOOMERANG  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41349.m3u8
+#EXTINF:-1, BR: Canal Brasil   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41348.m3u8 
+#EXTINF:-1, BR: CANCAO NOVA   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41347.m3u8 
+#EXTINF:-1, BR: CURTA!   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41341.m3u8
+#EXTINF:-1, BR: COMBATE    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41344.m3u8 
+#EXTINF:-1, BR: COMEDY CENTRAL   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41343.m3u8 
+#EXTINF:-1, BR: CULTURA    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41342.m3u8 
+#EXTINF:-1, BR: DISCOVERY CHANNEL  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41339.m3u8
+#EXTINF:-1, BR: DISCOVERY CIVILIZATION   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41338.m3u8 
+#EXTINF:-1, BR: DISCOVERY HOME & HEALTH   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41337.m3u8 
+#EXTINF:-1, BR: DISCOVERY KIDS   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41336.m3u8 
+#EXTINF:-1, BR: DISCOVERY SCIENCE   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41335.m3u8 
+#EXTINF:-1, BR: DISCOVERY THEATER   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41334.m3u8  
+#EXTINF:-1, BR: DISCOVERY TLC   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41333.m3u8 
+#EXTINF:-1, BR: DISCOVERY TURBO  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41332.m3u8
+#EXTINF:-1, BR: DISCOVERY WORLD   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41331.m3u8
+#EXTINF:-1, BR: DISNEY CHANNEL   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41330.m3u8 
+#EXTINF:-1, BR: DISNEY JNR   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41329.m3u8 
+#EXTINF:-1, BR: DISNEY XD    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41328.m3u8 
+#EXTINF:-1, BR: E!   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41327.m3u8
+#EXTINF:-1, BR: ESPN BRASIL  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41325.m3u8 
+#EXTINF:-1, BR: ESPN    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41326.m3u8 
+#EXTINF:-1, BR: ESPN2    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41324.m3u8 
+#EXTINF:-1, BR: FISH TV   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41323.m3u8  
+#EXTINF:-1, BR: FOOD NETWORK  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41322.m3u8 
+#EXTINF:-1, BR: FOX   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41321.m3u8
+#EXTINF:-1, BR: FOX LIFE  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41320.m3u8 
+#EXTINF:-1, BR: FOX PREMIUM 1    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41319.m3u8  
+#EXTINF:-1, BR: FOX PREMIUM 2   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41318.m3u8 
+#EXTINF:-1, BR: FOX SPORTS 2     
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41316.m3u8
+#EXTINF:-1, BR: FOX SPORTS    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41317.m3u8 
+#EXTINF:-1, BR: FUTURA  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41315.m3u8 
+#EXTINF:-1, BR: FX   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41314.m3u8  
+#EXTINF:-1, BR: GLOBO AMAZONAS  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41313.m3u8 
+#EXTINF:-1, BR: GLOBO BAHIA    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41312.m3u8 
+#EXTINF:-1, BR: GLOBO BRASILIA     
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41311.m3u8 
+#EXTINF:-1, BR: GLOBO CUIABA   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41310.m3u8 
+#EXTINF:-1, BR: GLOBO EPTV CAMPINAS  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41309.m3u8 
+#EXTINF:-1, BR: GLOBO EPTV RIBEIRAO   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41308.m3u8 
+#EXTINF:-1, BR: GLOBO EPTV SAO CARLOS   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41307.m3u8 
+#EXTINF:-1, BR: GLOBO INTERNACIONAL    
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41306.m3u8 
+#EXTINF:-1, BR: GLOBO MINAS   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41305.m3u8 
+#EXTINF:-1, BR: GLOBO NEWS  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41304.m3u8 
+#EXTINF:-1, BR: GLOBO NORDESTE   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41303.m3u8  
+#EXTINF:-1, BR: GLOBO RBS PORTO ALEGRE   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41302.m3u8  
+#EXTINF:-1, BR: GLOBO RIBEIRAO  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41301.m3u8  
+#EXTINF:-1, BR: GLOBO RIO GRANDE DO NORTE   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41300.m3u8  
+#EXTINF:-1, BR: GLOBO RJ   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41299.m3u8 
+#EXTINF:-1, BR: GLOBO RPC TV   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41298.m3u8 
+#EXTINF:-1, BR: GLOBOSAT  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41291.m3u8 
+#EXTINF:-1, BR: GLOBO SP  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41297.m3u8 
+#EXTINF:-1, BR: GLOBO TV BELEM  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41296.m3u8 
+#EXTINF:-1, BR: GLOBO TV TEM SOROCABA  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41295.m3u8 
+#EXTINF:-1, BR: GLOBO TV TRIBUNA SANTOS  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41294.m3u8  
+#EXTINF:-1, BR: GLOBO TV VANGUARDA S.J DOS CAMPOS 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41293.m3u8
+#EXTINF:-1, BR: GLOBO TV VERDES MARES FORTALEZA   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41292.m3u8
+#EXTINF:-1, BR: GLOOB  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41290.m3u8  
+#EXTINF:-1, BR: GNT  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41289.m3u8 
+#EXTINF:-1, BR: HBO  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41287.m3u8 
+#EXTINF:-1, BR: HBO 2   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41286.m3u8 
+#EXTINF:-1, BR: HBO FAMILY  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41285.m3u8 
+#EXTINF:-1, BR: HBO PLUS  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41284.m3u8 
+#EXTINF:-1, BR: HBO PLUS*E  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41283.m3u8 
+#EXTINF:-1, BR: HBO SIGNATURE  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41282.m3u8 
+#EXTINF:-1, BR: HISTORY CHANNEL  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41281.m3u8 
+#EXTINF:-1, BR: H2 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41288.m3u8 
+#EXTINF:-1, BR: ID   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41280.m3u8
+#EXTINF:-1, BR: LIFETIME  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41279.m3u8
+#EXTINF:-1, BR: MAX PRIME 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41278.m3u8 
+#EXTINF:-1, BR: MAX PRIME*E  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41277.m3u8
+#EXTINF:-1, BR: MAX UP   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41276.m3u8
+#EXTINF:-1, BR: MEGAPIX  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41275.m3u8
+#EXTINF:-1, BR: MTV  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41274.m3u8 
+#EXTINF:-1, BR: MTV LIVE  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41273.m3u8
+#EXTINF:-1, BR: MUSIC BOX BRAZIL   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41272.m3u8 
+#EXTINF:-1, BR: NATIONAL GEOGRAPHIC  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41269.m3u8 
+#EXTINF:-1, BR: NAT GEO KIDS  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41271.m3u8 
+#EXTINF:-1, BR: NATGEO WILD  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41270.m3u8 
+#EXTINF:-1, BR: NICKELODEON  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41267.m3u8 
+#EXTINF:-1, BR: NICK JR  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41268.m3u8
+#EXTINF:-1, BR: OFF   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41266.m3u8 
+#EXTINF:-1, BR: PARAMOUNT CHANNEL   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41265.m3u8 
+#EXTINF:-1, BR: PREMIERE 1  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41264.m3u8 
+#EXTINF:-1, BR: PREMIERE 2  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41263.m3u8 
+#EXTINF:-1, BR: PREMIERE 3  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41262.m3u8 
+#EXTINF:-1, BR: PREMIERE 4 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41261.m3u8  
+#EXTINF:-1, BR: PREMIERE 5  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41260.m3u8 
+#EXTINF:-1, BR: PREMIERE 6  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41259.m3u8 
+#EXTINF:-1, BR: PREMIERE 7  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41258.m3u8 
+#EXTINF:-1, BR: PREMIERE 8 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41257.m3u8  
+#EXTINF:-1, BR: PREMIERE CLUBES  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41256.m3u8 
+#EXTINF:-1, BR: RECORD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41255.m3u8 
+#EXTINF:-1, BR: RECORD AMAZONAS  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41254.m3u8
+#EXTINF:-1, BR: RECORD CAMPINAS  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41253.m3u8
+#EXTINF:-1, BR: RECORD ESP. SANTO  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41252.m3u8 
+#EXTINF:-1, BR: RECORD MG 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41251.m3u8
+#EXTINF:-1, BR: RECORD NEWS  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41250.m3u8 
+#EXTINF:-1, BR: RECORD NORDESTE 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41249.m3u8
+#EXTINF:-1, BR: RECORD SP  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41248.m3u8 
+#EXTINF:-1, BR: REDE FAMILIA  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41247.m3u8
+#EXTINF:-1, BR: REDE TV 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41246.m3u8 
+#EXTINF:-1, BR: REDE VIDA  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41245.m3u8 
+#EXTINF:-1, BR: RIT TV  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41244.m3u8 
+#EXTINF:-1, BR: SBT   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41243.m3u8 
+#EXTINF:-1, BR: SBT TV CIDADE VERDE PIAUI  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41242.m3u8 
+#EXTINF:-1, BR: SONY  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41241.m3u8 
+#EXTINF:-1, BR: SPACE 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41240.m3u8 
+#EXTINF:-1, BR: SPORTV  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41239.m3u8 
+#EXTINF:-1, BR: SPORTV 2  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41238.m3u8
+#EXTINF:-1, BR: SPORTV 3 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41237.m3u8
+#EXTINF:-1, BR: STUDIO UNIVERSAL 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41236.m3u8 
+#EXTINF:-1, BR: SYFY  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41235.m3u8 
+#EXTINF:-1, BR: TBS  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41234.m3u8 
+#EXTINF:-1, BR: TCM 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41233.m3u8
+#EXTINF:-1, BR: TELECINE CULT 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41231.m3u8 
+#EXTINF:-1, BR: TELECINE FUN 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41230.m3u8 
+#EXTINF:-1, BR: TELECINE PIPOCA 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41229.m3u8 
+#EXTINF:-1, BR: TELECINE PREMIUM  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41228.m3u8 
+#EXTINF:-1, BR: TELECINE TOUCH 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41227.m3u8
+#EXTINF:-1, BR: TERRA VIVA 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41226.m3u8 
+#EXTINF:-1, BR: TNT   
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41225.m3u8 
+#EXTINF:-1, BR: TNT SERIES  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41224.m3u8 
+#EXTINF:-1, BR: TV BOA VONTADE 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41222.m3u8
+#EXTINF:-1, BR: TV ESCOLA 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41221.m3u8 
+#EXTINF:-1, BR: TV GAZETA  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41220.m3u8 
+#EXTINF:-1, BR: TV SENADO 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41219.m3u8 
+#EXTINF:-1, BR: UNIVERSAL CHANNEL  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41218.m3u8
+#EXTINF:-1, BR: VH1  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41217.m3u8 
+#EXTINF:-1, BR: VIVA  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41216.m3u8 
+#EXTINF:-1, BR: WARNER CHANNEL 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41215.m3u8 
+#EXTINF:-1, BR: WOOHOO 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KALLPLAY[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41214.m3u8
