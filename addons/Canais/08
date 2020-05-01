@@ -1,0 +1,1901 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://encurtador.com.br/CHQU4" group-title="", CANAL RICOS
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist
+#EXTINF:-1,A&E FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2025
+#EXTINF:-1,A&E FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25400
+#EXTINF:-1,A&E HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1906
+#EXTINF:-1,A&E HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2402
+#EXTINF:-1,A&E SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1907
+#EXTINF:-1,A&E SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2215
+#EXTINF:-1,Aladdin [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2100
+#EXTINF:-1,AMC FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2024
+#EXTINF:-1,AMC FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25399
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1904
+#EXTINF:-1,AMC HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2401
+#EXTINF:-1,AMC SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1905
+#EXTINF:-1,AMC SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2214
+#EXTINF:-1,Animal Planet FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2023
+#EXTINF:-1,Animal Planet FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25472
+#EXTINF:-1,Animal Planet HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1902
+#EXTINF:-1,Animal Planet HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2400
+#EXTINF:-1,Animal Planet SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1903
+#EXTINF:-1,Animal Planet SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2213
+#EXTINF:-1,Arte 1 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2022
+#EXTINF:-1,Arte 1 FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25471
+#EXTINF:-1,Arte 1 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1900
+#EXTINF:-1,Arte 1 SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1901
+#EXTINF:-1,Arte 1 SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2113
+#EXTINF:-1,As Meninas Superpoderosas [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2099
+#EXTINF:-1,As Tartarugas Ninja [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2098
+#EXTINF:-1,AXN FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2021
+#EXTINF:-1,AXN FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25470
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1898
+#EXTINF:-1,AXN HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2399
+#EXTINF:-1,AXN HD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1529
+#EXTINF:-1,AXN SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1899
+#EXTINF:-1,AXN SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2212
+#EXTINF:-1,AXN SD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1528
+#EXTINF:-1,Baby TV SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1897
+#EXTINF:-1,Baby TV SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2211
+#EXTINF:-1,Band SP FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1953
+#EXTINF:-1,Band SP FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25398
+#EXTINF:-1,Band SP HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1895
+#EXTINF:-1,Band SP HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2398
+#EXTINF:-1,Band SP SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1896
+#EXTINF:-1,BandNews FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2020
+#EXTINF:-1,BandNews FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25469
+#EXTINF:-1,BandNews HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1893
+#EXTINF:-1,BandNews SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1894
+#EXTINF:-1,BandNews SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2210
+#EXTINF:-1,BandSports FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2019
+#EXTINF:-1,BandSports FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25468
+#EXTINF:-1,BandSports HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1891
+#EXTINF:-1,BandSports HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2397
+#EXTINF:-1,BandSports SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1892
+#EXTINF:-1,BandSports SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2209
+#EXTINF:-1,Ben 10 [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2096
+#EXTINF:-1,Bis FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1952
+#EXTINF:-1,Bis FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25467
+#EXTINF:-1,Bis HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1889
+#EXTINF:-1,Bis HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2396
+#EXTINF:-1,Bis SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1890
+#EXTINF:-1,Bis SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2121
+#EXTINF:-1,Boa Vontade TV FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25363
+#EXTINF:-1,Boa Vontade TV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1888
+#EXTINF:-1,Bob Esponja [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2097
+#EXTINF:-1,Boomerang FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2018
+#EXTINF:-1,Boomerang FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25466
+#EXTINF:-1,Boomerang HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1886
+#EXTINF:-1,Boomerang SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1887
+#EXTINF:-1,Boomerang SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2208
+#EXTINF:-1,Brasileirao Serie C HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1640
+#EXTINF:-1,Breaking Bad [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2029
+#EXTINF:-1,Canal Brasil FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1920
+#EXTINF:-1,Canal Brasil FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25465
+#EXTINF:-1,Canal Brasil HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1884
+#EXTINF:-1,Canal Brasil SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1885
+#EXTINF:-1,Canal Brasil SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2115
+#EXTINF:-1,Canal Do Boi SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1655
+#EXTINF:-1,Canal Do Boi SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2114
+#EXTINF:-1,Canal Sony FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2017
+#EXTINF:-1,Canal Sony FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25464
+#EXTINF:-1,Canal Sony HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1882
+#EXTINF:-1,Canal Sony HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2395
+#EXTINF:-1,Canal Sony HD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1495
+#EXTINF:-1,Canal Sony SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1883
+#EXTINF:-1,Canal Sony SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2207
+#EXTINF:-1,Canal Sony SD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1494
+#EXTINF:-1,Cancao Nova SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1881
+#EXTINF:-1,Cancao Nova SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2107
+#EXTINF:-1,Cartoon Network FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2016
+#EXTINF:-1,Cartoon Network FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25463
+#EXTINF:-1,Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1879
+#EXTINF:-1,Cartoon Network HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2394
+#EXTINF:-1,Cartoon Network SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1880
+#EXTINF:-1,Cartoon Network SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2112
+#EXTINF:-1,Caverna do Dragao [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2093
+#EXTINF:-1,Chapolin Colorado [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2027
+#EXTINF:-1,Chaves [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2095
+#EXTINF:-1,Chaves Animado [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2094
+#EXTINF:-1,Chicago [Camera]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2425
+#EXTINF:-1,Cinemax FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2015
+#EXTINF:-1,Cinemax FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25462
+#EXTINF:-1,Cinemax HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1877
+#EXTINF:-1,Cinemax HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2393
+#EXTINF:-1,Cinemax SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1878
+#EXTINF:-1,Cinemax SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2130
+#EXTINF:-1,Combate FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1951
+#EXTINF:-1,Combate FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25461
+#EXTINF:-1,Combate HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1875
+#EXTINF:-1,Combate HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2392
+#EXTINF:-1,Combate SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1876
+#EXTINF:-1,Combate SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2206
+#EXTINF:-1,Comedy Central FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2014
+#EXTINF:-1,Comedy Central FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25460
+#EXTINF:-1,Comedy Central HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1873
+#EXTINF:-1,Comedy Central HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2391
+#EXTINF:-1,Comedy Central SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1874
+#EXTINF:-1,Comedy Central SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2205
+#EXTINF:-1,Copa Libertadores HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1642
+#EXTINF:-1,Copa Sulamericana HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1641
+#EXTINF:-1,Coragem [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2092
+#EXTINF:-1,Curta FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2013
+#EXTINF:-1,Curta HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1871
+#EXTINF:-1,Curta SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1872
+#EXTINF:-1,Curta SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2204
+#EXTINF:-1,Curta! FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25459
+#EXTINF:-1,Denis - O Pimentinha [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2091
+#EXTINF:-1,Digimon [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2090
+#EXTINF:-1,Discovery Channel FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1950
+#EXTINF:-1,Discovery Channel FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25362
+#EXTINF:-1,Discovery Channel HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1869
+#EXTINF:-1,Discovery Channel HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2390
+#EXTINF:-1,Discovery Channel SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1870
+#EXTINF:-1,Discovery Channel SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2203
+#EXTINF:-1,Discovery Civilization FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2012
+#EXTINF:-1,Discovery Civilization FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25397
+#EXTINF:-1,Discovery Civilization HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1867
+#EXTINF:-1,Discovery Civilization HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2389
+#EXTINF:-1,Discovery Civilization SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1868
+#EXTINF:-1,Discovery Civilization SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2117
+#EXTINF:-1,Discovery H&H FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2011
+#EXTINF:-1,Discovery H&H FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25396
+#EXTINF:-1,Discovery H&H HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1865
+#EXTINF:-1,Discovery H&H HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2388
+#EXTINF:-1,Discovery H&H SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1866
+#EXTINF:-1,Discovery H&H SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2106
+#EXTINF:-1,Discovery Kids FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2010
+#EXTINF:-1,Discovery Kids FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25395
+#EXTINF:-1,Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1863
+#EXTINF:-1,Discovery Kids HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2387
+#EXTINF:-1,Discovery Kids SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1864
+#EXTINF:-1,Discovery Kids SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2202
+#EXTINF:-1,Discovery Science FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2009
+#EXTINF:-1,Discovery Science FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25394
+#EXTINF:-1,Discovery Science HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1861
+#EXTINF:-1,Discovery Science HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2386
+#EXTINF:-1,Discovery Science SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1862
+#EXTINF:-1,Discovery Science SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2123
+#EXTINF:-1,Discovery Theater FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2008
+#EXTINF:-1,Discovery Theater FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25393
+#EXTINF:-1,Discovery Theater HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1859
+#EXTINF:-1,Discovery Theater HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2385
+#EXTINF:-1,Discovery Theater SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1860
+#EXTINF:-1,Discovery Theater SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2124
+#EXTINF:-1,Discovery Turbo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2007
+#EXTINF:-1,Discovery Turbo FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25392
+#EXTINF:-1,Discovery Turbo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1857
+#EXTINF:-1,Discovery Turbo HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2384
+#EXTINF:-1,Discovery Turbo SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1858
+#EXTINF:-1,Discovery Turbo SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2201
+#EXTINF:-1,Discovery World FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2006
+#EXTINF:-1,Discovery World FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25391
+#EXTINF:-1,Discovery World HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1855
+#EXTINF:-1,Discovery World HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2383
+#EXTINF:-1,Discovery World SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1856
+#EXTINF:-1,Discovery World SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2122
+#EXTINF:-1,Disney Channel FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1949
+#EXTINF:-1,Disney Channel FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25390
+#EXTINF:-1,Disney Channel HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1853
+#EXTINF:-1,Disney Channel HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2382
+#EXTINF:-1,Disney Channel SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1854
+#EXTINF:-1,Disney Channel SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2200
+#EXTINF:-1,Disney Jr FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1955
+#EXTINF:-1,Disney Jr FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25389
+#EXTINF:-1,Disney Jr HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1678
+#EXTINF:-1,Disney Jr HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2381
+#EXTINF:-1,Disney Jr SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1852
+#EXTINF:-1,Disney Jr SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2199
+#EXTINF:-1,Disney XD FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25361
+#EXTINF:-1,Disney XD SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1851
+#EXTINF:-1,Disney XD SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2198
+#EXTINF:-1,Doha [Camera]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2428
+#EXTINF:-1,Dois Homens e Meio [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2089
+#EXTINF:-1,Doug [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2049
+#EXTINF:-1,Dragon Ball Super [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2056
+#EXTINF:-1,Dragon Ball Z [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2088
+#EXTINF:-1,Dubai [Camera]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2423
+#EXTINF:-1,Dublin [Camera]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2421
+#EXTINF:-1,E! FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2005
+#EXTINF:-1,E! FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25388
+#EXTINF:-1,E! HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1849
+#EXTINF:-1,E! HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2380
+#EXTINF:-1,E! SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1850
+#EXTINF:-1,E! SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2197
+#EXTINF:-1,Ei Plus HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1645
+#EXTINF:-1,Ei Plus SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1644
+#EXTINF:-1,ESPN 2 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2004
+#EXTINF:-1,ESPN 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25458
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1846
+#EXTINF:-1,ESPN 2 HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2379
+#EXTINF:-1,ESPN 2 SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1847
+#EXTINF:-1,ESPN 2 SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2196
+#EXTINF:-1,ESPN Brasil FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1948
+#EXTINF:-1,ESPN Brasil FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25387
+#EXTINF:-1,ESPN Brasil HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1844
+#EXTINF:-1,ESPN Brasil HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2378
+#EXTINF:-1,ESPN Brasil SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1845
+#EXTINF:-1,ESPN Brasil SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2195
+#EXTINF:-1,ESPN Extra FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2003
+#EXTINF:-1,ESPN Extra FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25457
+#EXTINF:-1,ESPN Extra HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1842
+#EXTINF:-1,ESPN Extra HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2377
+#EXTINF:-1,ESPN Extra SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1843
+#EXTINF:-1,ESPN FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1947
+#EXTINF:-1,ESPN FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25386
+#EXTINF:-1,ESPN HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1841
+#EXTINF:-1,ESPN HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2376
+#EXTINF:-1,ESPN SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1848
+#EXTINF:-1,ESPN SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2194
+#EXTINF:-1,Eu a Patroa e as Criancas [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2054
+#EXTINF:-1,FashionTV FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25385
+#EXTINF:-1,Film & Arts SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1666
+#EXTINF:-1,Fish TV FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2002
+#EXTINF:-1,Fish TV FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25384
+#EXTINF:-1,Fish TV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1839
+#EXTINF:-1,Fish TV SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1840
+#EXTINF:-1,Fish TV SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2109
+#EXTINF:-1,Food Network FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2001
+#EXTINF:-1,Food Network FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25456
+#EXTINF:-1,Food Network HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1837
+#EXTINF:-1,Food Network HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2375
+#EXTINF:-1,Food Network SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1838
+#EXTINF:-1,Food Network SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2125
+#EXTINF:-1,Formiga Atomica [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2039
+#EXTINF:-1,FOX FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1946
+#EXTINF:-1,FOX FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25455
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1835
+#EXTINF:-1,FOX HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2374
+#EXTINF:-1,FOX HD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1527
+#EXTINF:-1,FOX Life FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2000
+#EXTINF:-1,FOX Life FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25454
+#EXTINF:-1,FOX Life HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1833
+#EXTINF:-1,FOX Life HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2373
+#EXTINF:-1,FOX Life SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1834
+#EXTINF:-1,FOX Life SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2193
+#EXTINF:-1,FOX Premium 1 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1999
+#EXTINF:-1,FOX Premium 1 FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25453
+#EXTINF:-1,FOX Premium 1 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1831
+#EXTINF:-1,FOX Premium 1 HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2372
+#EXTINF:-1,FOX Premium 1 SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1832
+#EXTINF:-1,FOX Premium 2 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1998
+#EXTINF:-1,FOX Premium 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25452
+#EXTINF:-1,FOX Premium 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1829
+#EXTINF:-1,FOX Premium 2 HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2371
+#EXTINF:-1,FOX Premium 2 SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1830
+#EXTINF:-1,FOX SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1836
+#EXTINF:-1,FOX SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2192
+#EXTINF:-1,FOX SD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1526
+#EXTINF:-1,FOX Sports 2 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1945
+#EXTINF:-1,FOX Sports 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25383
+#EXTINF:-1,FOX Sports 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1825
+#EXTINF:-1,FOX Sports 2 HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2370
+#EXTINF:-1,FOX Sports 2 SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1826
+#EXTINF:-1,FOX Sports 2 SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2191
+#EXTINF:-1,FOX Sports FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1944
+#EXTINF:-1,FOX Sports FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25382
+#EXTINF:-1,FOX Sports HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1827
+#EXTINF:-1,FOX Sports HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2369
+#EXTINF:-1,FOX Sports SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1828
+#EXTINF:-1,FOX Sports SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2190
+#EXTINF:-1,Futura FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1997
+#EXTINF:-1,Futura FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25451
+#EXTINF:-1,Futura HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1823
+#EXTINF:-1,Futura SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1824
+#EXTINF:-1,Futura SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2189
+#EXTINF:-1,FX FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1996
+#EXTINF:-1,FX FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25450
+#EXTINF:-1,FX HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1821
+#EXTINF:-1,FX HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2368
+#EXTINF:-1,FX HD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1507
+#EXTINF:-1,FX SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1822
+#EXTINF:-1,FX SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2118
+#EXTINF:-1,FX SD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1506
+#EXTINF:-1,Galinha Pintadinha [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2087
+#EXTINF:-1,Globo Brasilia FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1583
+#EXTINF:-1,Globo Brasilia HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1638
+#EXTINF:-1,Globo Brasilia SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1639
+#EXTINF:-1,Globo Brasilia SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2410
+#EXTINF:-1,Globo Campinas FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25360
+#EXTINF:-1,Globo EPTV Araraquara SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1637
+#EXTINF:-1,Globo EPTV Campinas FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1582
+#EXTINF:-1,Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1635
+#EXTINF:-1,Globo EPTV Campinas SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1636
+#EXTINF:-1,Globo EPTV Campinas SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2409
+#EXTINF:-1,Globo EPTV Ribeirao Preto FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1563
+#EXTINF:-1,Globo EPTV Ribeirao Preto HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1634
+#EXTINF:-1,Globo EPTV Ribeirao Preto SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1633
+#EXTINF:-1,Globo EPTV Ribeirao Preto SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2408
+#EXTINF:-1,Globo EPTV Sao Carlos SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1632
+#EXTINF:-1,Globo EPTV Sao Carlos SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2407
+#EXTINF:-1,Globo Inter TV Alto Litoral FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1562
+#EXTINF:-1,Globo Inter TV Alto Litoral HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1561
+#EXTINF:-1,Globo Inter TV Alto Litoral SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1560
+#EXTINF:-1,Globo Inter TV dos Vales FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1559
+#EXTINF:-1,Globo Inter TV dos Vales HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1558
+#EXTINF:-1,Globo Inter TV dos Vales SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1557
+#EXTINF:-1,Globo Inter TV Grande Minas FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1556
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1555
+#EXTINF:-1,Globo Inter TV Grande Minas SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1554
+#EXTINF:-1,Globo Inter TV Natal SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1631
+#EXTINF:-1,Globo Inter TV Serra Mar FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1553
+#EXTINF:-1,Globo Inter TV Serra Mar HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1552
+#EXTINF:-1,Globo Inter TV Serra Mar SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1551
+#EXTINF:-1,Globo Internacional HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1599
+#EXTINF:-1,Globo Minas FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1581
+#EXTINF:-1,Globo Minas FHD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2415
+#EXTINF:-1,Globo Minas FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25359
+#EXTINF:-1,Globo Minas HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1629
+#EXTINF:-1,Globo Minas HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2414
+#EXTINF:-1,Globo Minas SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1630
+#EXTINF:-1,Globo Minas SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2406
+#EXTINF:-1,Globo News FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1943
+#EXTINF:-1,Globo News FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25449
+#EXTINF:-1,Globo News HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1819
+#EXTINF:-1,Globo News HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2367
+#EXTINF:-1,Globo News SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1820
+#EXTINF:-1,Globo News SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2132
+#EXTINF:-1,Globo Nordeste FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1580
+#EXTINF:-1,Globo Nordeste FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25358
+#EXTINF:-1,Globo Nordeste HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1627
+#EXTINF:-1,Globo Nordeste SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1628
+#EXTINF:-1,Globo Nordeste SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2405
+#EXTINF:-1,Globo NSC TV Blumenau FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1550
+#EXTINF:-1,Globo NSC TV Blumenau HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1549
+#EXTINF:-1,Globo NSC TV Blumenau SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1548
+#EXTINF:-1,Globo NSC TV Chapeco FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1598
+#EXTINF:-1,Globo NSC TV Chapeco HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1597
+#EXTINF:-1,Globo NSC TV Chapeco SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1596
+#EXTINF:-1,Globo NSC TV Florianopolis FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1579
+#EXTINF:-1,Globo NSC TV Florianopolis HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1625
+#EXTINF:-1,Globo NSC TV Florianopolis SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1626
+#EXTINF:-1,Globo NSC TV Joinville FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1544
+#EXTINF:-1,Globo NSC TV Joinville HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1543
+#EXTINF:-1,Globo NSC TV Joinville SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1542
+#EXTINF:-1,Globo Porto Alegre FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25357
+#EXTINF:-1,Globo RBS TV Caxias do Sul FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1547
+#EXTINF:-1,Globo RBS TV Caxias do Sul HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1546
+#EXTINF:-1,Globo RBS TV Caxias do Sul SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1545
+#EXTINF:-1,Globo RBS TV Pelotas FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1541
+#EXTINF:-1,Globo RBS TV Pelotas HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1540
+#EXTINF:-1,Globo RBS TV Pelotas SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1539
+#EXTINF:-1,Globo RBS TV Porto Alegre FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1578
+#EXTINF:-1,Globo RBS TV Porto Alegre HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1623
+#EXTINF:-1,Globo RBS TV Porto Alegre SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1624
+#EXTINF:-1,Globo RBS TV Porto Alegre SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2404
+#EXTINF:-1,Globo Rede AM. Manaus SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1622
+#EXTINF:-1,Globo Ribeirao Preto FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25356
+#EXTINF:-1,Globo RJ FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1619
+#EXTINF:-1,Globo RJ FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25381
+#EXTINF:-1,Globo RJ HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1620
+#EXTINF:-1,Globo RJ HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2413
+#EXTINF:-1,Globo RJ SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1621
+#EXTINF:-1,Globo RJ SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2403
+#EXTINF:-1,Globo RPC Curitiba FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1616
+#EXTINF:-1,Globo RPC Curitiba HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1617
+#EXTINF:-1,Globo RPC Curitiba SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1618
+#EXTINF:-1,Globo RPC Foz do Iguacu FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1594
+#EXTINF:-1,Globo RPC Foz do Iguacu HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1593
+#EXTINF:-1,Globo RPC Foz do Iguacu SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1595
+#EXTINF:-1,Globo SP FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1613
+#EXTINF:-1,Globo SP FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25380
+#EXTINF:-1,Globo SP HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1614
+#EXTINF:-1,Globo SP HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2311
+#EXTINF:-1,Globo SP SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1615
+#EXTINF:-1,Globo SP SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2127
+#EXTINF:-1,Globo TV Anhanguera FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1577
+#EXTINF:-1,Globo TV Anhanguera HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1611
+#EXTINF:-1,Globo TV Anhanguera SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1612
+#EXTINF:-1,Globo TV Bahia FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1576
+#EXTINF:-1,Globo TV Bahia HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1609
+#EXTINF:-1,Globo TV Bahia SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1610
+#EXTINF:-1,Globo TV C. America Cuiaba SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1608
+#EXTINF:-1,Globo TV Cabo Branco FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1538
+#EXTINF:-1,Globo TV Cabo Branco HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1537
+#EXTINF:-1,Globo TV Cabo Branco SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1536
+#EXTINF:-1,Globo TV Clube Teresina FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1591
+#EXTINF:-1,Globo TV Clube Teresina HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1590
+#EXTINF:-1,Globo TV Clube Teresina SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1592
+#EXTINF:-1,Globo TV Diario Fortaleza FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1910
+#EXTINF:-1,Globo TV Diario Fortaleza HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1659
+#EXTINF:-1,Globo TV Diario Fortaleza SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1658
+#EXTINF:-1,Globo TV Gazeta Alagoas FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1567
+#EXTINF:-1,Globo TV Gazeta Alagoas HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1566
+#EXTINF:-1,Globo TV Gazeta Alagoas SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1568
+#EXTINF:-1,Globo TV Gazeta Sul ES FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1565
+#EXTINF:-1,Globo TV Gazeta Sul ES HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1564
+#EXTINF:-1,Globo TV Gazeta Vitoria FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1588
+#EXTINF:-1,Globo TV Gazeta Vitoria HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1587
+#EXTINF:-1,Globo TV Gazeta Vitoria SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1589
+#EXTINF:-1,Globo TV Liberal Belem SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1607
+#EXTINF:-1,Globo TV Mirante Sao Luis FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1575
+#EXTINF:-1,Globo TV Mirante Sao Luis HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1574
+#EXTINF:-1,Globo TV Mirante Sao Luis SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1573
+#EXTINF:-1,Globo TV Morena Campo Grande FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1572
+#EXTINF:-1,Globo TV Morena Campo Grande HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1571
+#EXTINF:-1,Globo TV Morena Campo Grande SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1570
+#EXTINF:-1,Globo TV Rio Sul FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1535
+#EXTINF:-1,Globo TV Rio Sul HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1534
+#EXTINF:-1,Globo TV Rio Sul SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1533
+#EXTINF:-1,Globo TV Santa Cruz FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1532
+#EXTINF:-1,Globo TV Santa Cruz HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1531
+#EXTINF:-1,Globo TV Santa Cruz SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1530
+#EXTINF:-1,Globo TV Sergipe FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1585
+#EXTINF:-1,Globo TV Sergipe HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1584
+#EXTINF:-1,Globo TV Sergipe SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1586
+#EXTINF:-1,Globo TV Tem Bauru SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1606
+#EXTINF:-1,Globo TV Tem S. J. Do Rio Preto HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1604
+#EXTINF:-1,Globo TV Tem S. J. DO Rio Preto SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1603
+#EXTINF:-1,Globo TV Tem S. J. Rio Preto FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1569
+#EXTINF:-1,Globo TV Tem Sorocaba SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1605
+#EXTINF:-1,Globo TV Tribuna Santos SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1602
+#EXTINF:-1,Globo TV Vanguarda S. J. Dos Campos SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1601
+#EXTINF:-1,Globo TV Verdes Mares Fortaleza SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1600
+#EXTINF:-1,Gloob FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1942
+#EXTINF:-1,Gloob FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25448
+#EXTINF:-1,Gloob HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1817
+#EXTINF:-1,Gloob HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2365
+#EXTINF:-1,Gloob SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1818
+#EXTINF:-1,Gloob SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2187
+#EXTINF:-1,Gloobinho FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1995
+#EXTINF:-1,Gloobinho FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25355
+#EXTINF:-1,Gloobinho HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1816
+#EXTINF:-1,Gloobinho SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1815
+#EXTINF:-1,GNT FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1994
+#EXTINF:-1,GNT FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25379
+#EXTINF:-1,GNT HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1813
+#EXTINF:-1,GNT HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2364
+#EXTINF:-1,GNT SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1814
+#EXTINF:-1,GNT SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2120
+#EXTINF:-1,Gospel Cartoon [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2086
+#EXTINF:-1,Guardioes da Galaxia [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2040
+#EXTINF:-1,H2 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1993
+#EXTINF:-1,H2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25378
+#EXTINF:-1,H2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1811
+#EXTINF:-1,H2 HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2363
+#EXTINF:-1,H2 SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1812
+#EXTINF:-1,H2 SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2186
+#EXTINF:-1,HBO 2 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1941
+#EXTINF:-1,HBO 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25447
+#EXTINF:-1,HBO 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1808
+#EXTINF:-1,HBO 2 HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2362
+#EXTINF:-1,HBO 2 SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1809
+#EXTINF:-1,HBO 2 SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2126
+#EXTINF:-1,HBO Family FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1992
+#EXTINF:-1,HBO Family FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25446
+#EXTINF:-1,HBO Family HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1806
+#EXTINF:-1,HBO Family HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2361
+#EXTINF:-1,HBO Family SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1807
+#EXTINF:-1,HBO Family SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2185
+#EXTINF:-1,HBO FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1940
+#EXTINF:-1,HBO FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25445
+#EXTINF:-1,HBO HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1805
+#EXTINF:-1,HBO HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2360
+#EXTINF:-1,HBO HD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1525
+#EXTINF:-1,HBO Plus E SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2184
+#EXTINF:-1,HBO Plus FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1991
+#EXTINF:-1,HBO Plus FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25444
+#EXTINF:-1,HBO Plus HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1803
+#EXTINF:-1,HBO Plus HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2359
+#EXTINF:-1,HBO Plus HD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1523
+#EXTINF:-1,HBO Plus SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1804
+#EXTINF:-1,HBO Plus SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2183
+#EXTINF:-1,HBO Plus SD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1522
+#EXTINF:-1,HBO SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1810
+#EXTINF:-1,HBO SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2182
+#EXTINF:-1,HBO SD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1524
+#EXTINF:-1,HBO Signature FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1990
+#EXTINF:-1,HBO Signature FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25443
+#EXTINF:-1,HBO Signature HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1801
+#EXTINF:-1,HBO Signature HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2358
+#EXTINF:-1,HBO Signature SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1802
+#EXTINF:-1,HBO Signature SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2181
+#EXTINF:-1,He-Man [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2085
+#EXTINF:-1,Hércules [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2026
+#EXTINF:-1,Historias da Disney [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2084
+#EXTINF:-1,History Channel FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1989
+#EXTINF:-1,History Channel FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25442
+#EXTINF:-1,History Channel HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1799
+#EXTINF:-1,History Channel HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2320
+#EXTINF:-1,History Channel SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1800
+#EXTINF:-1,History Channel SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2143
+#EXTINF:-1,Homem de Ferro [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2036
+#EXTINF:-1,Homem-Aranha [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2083
+#EXTINF:-1,Incrivel Hulk [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2038
+#EXTINF:-1,Investigation Discovery FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1988
+#EXTINF:-1,Investigation Discovery FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25377
+#EXTINF:-1,Investigation Discovery HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1797
+#EXTINF:-1,Investigation Discovery HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2357
+#EXTINF:-1,Investigation Discovery SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1798
+#EXTINF:-1,Investigation Discovery SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2119
+#EXTINF:-1,Jack-Chan [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2052
+#EXTINF:-1,Jaspion [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2082
+#EXTINF:-1,Jerusalem [Camera]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2430
+#EXTINF:-1,Jiraya [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2081
+#EXTINF:-1,Kenan e Kel [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2044
+#EXTINF:-1,Lifetime FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1987
+#EXTINF:-1,Lifetime FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25441
+#EXTINF:-1,Lifetime HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1795
+#EXTINF:-1,Lifetime HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2356
+#EXTINF:-1,Lifetime SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1796
+#EXTINF:-1,Lifetime SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2180
+#EXTINF:-1,Los Angeles [Camera]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2432
+#EXTINF:-1,Mais GloboSat FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1921
+#EXTINF:-1,Mais GloboSat FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25440
+#EXTINF:-1,Mais GloboSat HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1793
+#EXTINF:-1,Mais GloboSat HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2366
+#EXTINF:-1,Mais GloboSat SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1794
+#EXTINF:-1,Mais GloboSat SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2188
+#EXTINF:-1,Maldivas [Camera]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2422
+#EXTINF:-1,MAX FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1986
+#EXTINF:-1,MAX FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25439
+#EXTINF:-1,MAX HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1791
+#EXTINF:-1,MAX HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2355
+#EXTINF:-1,MAX Prime FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1985
+#EXTINF:-1,MAX Prime FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25438
+#EXTINF:-1,MAX Prime HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1789
+#EXTINF:-1,MAX Prime HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2354
+#EXTINF:-1,MAX Prime SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1790
+#EXTINF:-1,MAX Prime SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2179
+#EXTINF:-1,MAX Prime SD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1521
+#EXTINF:-1,MAX SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1792
+#EXTINF:-1,MAX SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2178
+#EXTINF:-1,MAX SD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1520
+#EXTINF:-1,MAX Up FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1984
+#EXTINF:-1,MAX Up FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25437
+#EXTINF:-1,MAX Up HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1787
+#EXTINF:-1,MAX Up HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2353
+#EXTINF:-1,MAX Up HD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1505
+#EXTINF:-1,MAX Up SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1788
+#EXTINF:-1,MAX Up SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2177
+#EXTINF:-1,MAX Up SD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1504
+#EXTINF:-1,Medabots [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2080
+#EXTINF:-1,MegaMan [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2032
+#EXTINF:-1,Megapix FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1983
+#EXTINF:-1,Megapix FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25436
+#EXTINF:-1,Megapix HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1785
+#EXTINF:-1,Megapix HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2352
+#EXTINF:-1,Megapix HD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1503
+#EXTINF:-1,Megapix SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1786
+#EXTINF:-1,Megapix SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2176
+#EXTINF:-1,Megapix SD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1502
+#EXTINF:-1,Miami [Camera]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2426
+#EXTINF:-1,MIB Homens de Preto [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2047
+#EXTINF:-1,Mortal Kombat [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2031
+#EXTINF:-1,Moscow [Camera]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2431
+#EXTINF:-1,Mr. Ben [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2045
+#EXTINF:-1,MTV FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1982
+#EXTINF:-1,MTV FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25435
+#EXTINF:-1,MTV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1783
+#EXTINF:-1,MTV HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2351
+#EXTINF:-1,MTV Live FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1981
+#EXTINF:-1,MTV Live FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25376
+#EXTINF:-1,MTV Live HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1676
+#EXTINF:-1,MTV Live SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1677
+#EXTINF:-1,MTV SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1784
+#EXTINF:-1,Multishow FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1980
+#EXTINF:-1,Multishow FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25375
+#EXTINF:-1,Multishow HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1781
+#EXTINF:-1,Multishow HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2350
+#EXTINF:-1,Multishow SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1782
+#EXTINF:-1,Multishow SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2175
+#EXTINF:-1,Music Box Brasil FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1979
+#EXTINF:-1,Music Box Brasil HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1779
+#EXTINF:-1,Music Box Brasil SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1780
+#EXTINF:-1,Music Box Brazil FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25434
+#EXTINF:-1,Naruto [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2079
+#EXTINF:-1,Naruto Shippuuden [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2078
+#EXTINF:-1,NatGeo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1978
+#EXTINF:-1,NatGeo FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25433
+#EXTINF:-1,NatGeo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1777
+#EXTINF:-1,NatGeo HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2349
+#EXTINF:-1,NatGeo Kids FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1977
+#EXTINF:-1,NatGeo Kids FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25374
+#EXTINF:-1,NatGeo Kids HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1775
+#EXTINF:-1,NatGeo Kids HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2348
+#EXTINF:-1,NatGeo Kids SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1776
+#EXTINF:-1,NatGeo Kids SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2174
+#EXTINF:-1,NatGeo SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1778
+#EXTINF:-1,NatGeo SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2173
+#EXTINF:-1,NatGeo Wild FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1976
+#EXTINF:-1,NatGeo Wild FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25432
+#EXTINF:-1,NatGeo Wild HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1774
+#EXTINF:-1,NatGeo Wild HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2347
+#EXTINF:-1,NatGeo Wild SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1773
+#EXTINF:-1,NatGeo Wild SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2172
+#EXTINF:-1,NBR SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1772
+#EXTINF:-1,New York City [Camera]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2418
+#EXTINF:-1,Nick Jr FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1975
+#EXTINF:-1,Nick Jr FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25431
+#EXTINF:-1,Nick Jr HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1770
+#EXTINF:-1,Nick Jr HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2346
+#EXTINF:-1,Nick Jr SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1771
+#EXTINF:-1,Nick Jr SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2171
+#EXTINF:-1,Nickelodeon FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1974
+#EXTINF:-1,Nickelodeon FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25430
+#EXTINF:-1,Nickelodeon HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1768
+#EXTINF:-1,Nickelodeon HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2345
+#EXTINF:-1,Nickelodeon SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1769
+#EXTINF:-1,Nickelodeon SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2170
+#EXTINF:-1,O Fantastico Mundo de Bobby [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2048
+#EXTINF:-1,O Inspetor [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2077
+#EXTINF:-1,O Maskara [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2076
+#EXTINF:-1,OFF FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1973
+#EXTINF:-1,OFF FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25429
+#EXTINF:-1,OFF HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1766
+#EXTINF:-1,OFF HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2344
+#EXTINF:-1,OFF SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1767
+#EXTINF:-1,OFF SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2169
+#EXTINF:-1,Os Anjinhos Rugrats [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2075
+#EXTINF:-1,Os Cavaleiros do Zodiaco [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2074
+#EXTINF:-1,Os Flintstones [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2073
+#EXTINF:-1,Os Simpsons [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2072
+#EXTINF:-1,Os Ursinhos Carinhosos [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2059
+#EXTINF:-1,Os Vingadores [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2037
+#EXTINF:-1,Papa Leguas [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2053
+#EXTINF:-1,Paramount Channel FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1972
+#EXTINF:-1,Paramount Channel FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25428
+#EXTINF:-1,Paramount Channel HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1764
+#EXTINF:-1,Paramount Channel HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2343
+#EXTINF:-1,Paramount Channel SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1765
+#EXTINF:-1,Paramount Channel SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2168
+#EXTINF:-1,Paris [Camera]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2429
+#EXTINF:-1,Peppa Pig [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2033
+#EXTINF:-1,Pernalonga [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2071
+#EXTINF:-1,Phineas e Ferb [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2070
+#EXTINF:-1,Pica Pau [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2069
+#EXTINF:-1,Pink e Cerebro [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2046
+#EXTINF:-1,Play TV SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2167
+#EXTINF:-1,PlayKids FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1914
+#EXTINF:-1,PlayKids HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1668
+#EXTINF:-1,PlayKids SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1667
+#EXTINF:-1,Pokemon [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2051
+#EXTINF:-1,Polishop TV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1652
+#EXTINF:-1,Popeye O Marinheiro [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2041
+#EXTINF:-1,Power Couple Brasil FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1908
+#EXTINF:-1,Power Couple Brasil HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1643
+#EXTINF:-1,Power Couple Brasil HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2308
+#EXTINF:-1,Prague [Camera]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2419
+#EXTINF:-1,Premiere 2 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1939
+#EXTINF:-1,Premiere 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25427
+#EXTINF:-1,Premiere 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1762
+#EXTINF:-1,Premiere 2 HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2342
+#EXTINF:-1,Premiere 2 SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1763
+#EXTINF:-1,Premiere 2 SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2165
+#EXTINF:-1,Premiere 3 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1938
+#EXTINF:-1,Premiere 3 FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25426
+#EXTINF:-1,Premiere 3 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1760
+#EXTINF:-1,Premiere 3 HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2341
+#EXTINF:-1,Premiere 3 SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1761
+#EXTINF:-1,Premiere 3 SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2164
+#EXTINF:-1,Premiere 4 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1937
+#EXTINF:-1,Premiere 4 FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25373
+#EXTINF:-1,Premiere 4 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1758
+#EXTINF:-1,Premiere 4 HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2340
+#EXTINF:-1,Premiere 4 SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1759
+#EXTINF:-1,Premiere 4 SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2163
+#EXTINF:-1,Premiere 5 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1936
+#EXTINF:-1,Premiere 5 FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25425
+#EXTINF:-1,Premiere 5 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1756
+#EXTINF:-1,Premiere 5 HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2339
+#EXTINF:-1,Premiere 5 SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1757
+#EXTINF:-1,Premiere 5 SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2162
+#EXTINF:-1,Premiere 6 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1935
+#EXTINF:-1,Premiere 6 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1754
+#EXTINF:-1,Premiere 6 HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2338
+#EXTINF:-1,Premiere 6 SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1755
+#EXTINF:-1,Premiere 6 SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2161
+#EXTINF:-1,Premiere 7 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1934
+#EXTINF:-1,Premiere 7 FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25372
+#EXTINF:-1,Premiere 7 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1752
+#EXTINF:-1,Premiere 7 HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2337
+#EXTINF:-1,Premiere 7 SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1753
+#EXTINF:-1,Premiere 7 SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2160
+#EXTINF:-1,Premiere 8 SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2159
+#EXTINF:-1,Premiere Clubes FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1933
+#EXTINF:-1,Premiere Clubes FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25424
+#EXTINF:-1,Premiere Clubes HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1750
+#EXTINF:-1,Premiere Clubes HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2336
+#EXTINF:-1,Premiere Clubes SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1751
+#EXTINF:-1,Premiere Clubes SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2158
+#EXTINF:-1,Prime Box Brasil FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1971
+#EXTINF:-1,Prime Box Brasil HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1748
+#EXTINF:-1,Prime Box Brasil SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1749
+#EXTINF:-1,Prime Box Brazil FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25422
+#EXTINF:-1,Rambo [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2068
+#EXTINF:-1,RCI SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1651
+#EXTINF:-1,Record News FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1970
+#EXTINF:-1,Record News FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25354
+#EXTINF:-1,Record News HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1745
+#EXTINF:-1,Record News SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1746
+#EXTINF:-1,RecordTV BA FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1913
+#EXTINF:-1,RecordTV BA HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1665
+#EXTINF:-1,RecordTV BA SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1664
+#EXTINF:-1,RecordTV DF FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1912
+#EXTINF:-1,RecordTV DF HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1663
+#EXTINF:-1,RecordTV DF SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1662
+#EXTINF:-1,RecordTV FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25371
+#EXTINF:-1,RecordTV MG FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1916
+#EXTINF:-1,RecordTV MG HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1670
+#EXTINF:-1,RecordTV MG SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1669
+#EXTINF:-1,RecordTV RJ FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1915
+#EXTINF:-1,RecordTV RJ HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1672
+#EXTINF:-1,RecordTV RJ SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1671
+#EXTINF:-1,RecordTV RS FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1911
+#EXTINF:-1,RecordTV RS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1661
+#EXTINF:-1,RecordTV RS SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1660
+#EXTINF:-1,RecordTV SP FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1932
+#EXTINF:-1,RecordTV SP HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1743
+#EXTINF:-1,RecordTV SP SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1747
+#EXTINF:-1,Rede Brasil SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1742
+#EXTINF:-1,Rede TV FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1918
+#EXTINF:-1,Rede TV FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25353
+#EXTINF:-1,Rede TV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1740
+#EXTINF:-1,Rede TV HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2335
+#EXTINF:-1,Rede TV SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1741
+#EXTINF:-1,Rede TV SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2116
+#EXTINF:-1,Rede Vida FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1917
+#EXTINF:-1,Rede Vida FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25421
+#EXTINF:-1,Rede Vida HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1673
+#EXTINF:-1,Rede Vida SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1739
+#EXTINF:-1,Rede Vida SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2110
+#EXTINF:-1,Rio de Janeiro [Camera]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2420
+#EXTINF:-1,Rit TV SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1654
+#EXTINF:-1,Saipan [Camera]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2424
+#EXTINF:-1,SBT FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1931
+#EXTINF:-1,SBT FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25370
+#EXTINF:-1,SBT HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1737
+#EXTINF:-1,SBT HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2334
+#EXTINF:-1,SBT SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1738
+#EXTINF:-1,SBT SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2157
+#EXTINF:-1,SBT SP Interior SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1736
+#EXTINF:-1,Scooby Doo [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2067
+#EXTINF:-1,Smallville [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2030
+#EXTINF:-1,Smithsonian Channel FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1909
+#EXTINF:-1,Smithsonian Channel FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25352
+#EXTINF:-1,Smithsonian Channel HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1657
+#EXTINF:-1,Smithsonian Channel SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1656
+#EXTINF:-1,Sobrenatural [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2043
+#EXTINF:-1,South Park [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2066
+#EXTINF:-1,Space FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1969
+#EXTINF:-1,Space FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25420
+#EXTINF:-1,Space HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1732
+#EXTINF:-1,Space HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2333
+#EXTINF:-1,Space HD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1501
+#EXTINF:-1,Space SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1733
+#EXTINF:-1,Space SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2156
+#EXTINF:-1,Space SD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1500
+#EXTINF:-1,SporTV 2 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1930
+#EXTINF:-1,SporTV 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25419
+#EXTINF:-1,SporTV 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1729
+#EXTINF:-1,SporTV 2 HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2332
+#EXTINF:-1,SporTV 2 SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1730
+#EXTINF:-1,SporTV 2 SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2155
+#EXTINF:-1,SporTV 3 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1929
+#EXTINF:-1,SporTV 3 FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25418
+#EXTINF:-1,SporTV 3 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1727
+#EXTINF:-1,SporTV 3 HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2331
+#EXTINF:-1,SporTV 3 SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1728
+#EXTINF:-1,SporTV 3 SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2131
+#EXTINF:-1,SporTV FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1928
+#EXTINF:-1,SporTV FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25417
+#EXTINF:-1,SporTV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1726
+#EXTINF:-1,SporTV HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2330
+#EXTINF:-1,SporTV SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1731
+#EXTINF:-1,SporTV SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2154
+#EXTINF:-1,Steven Universe [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2065
+#EXTINF:-1,Studio Universal FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1968
+#EXTINF:-1,Studio Universal FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25416
+#EXTINF:-1,Studio Universal HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1724
+#EXTINF:-1,Studio Universal HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2329
+#EXTINF:-1,Studio Universal SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1725
+#EXTINF:-1,Studio Universal SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2153
+#EXTINF:-1,Superman [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2035
+#EXTINF:-1,SyFy FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1967
+#EXTINF:-1,SyFy FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25415
+#EXTINF:-1,SyFy HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1734
+#EXTINF:-1,SyFy HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2328
+#EXTINF:-1,SyFy SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1735
+#EXTINF:-1,SyFy SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2152
+#EXTINF:-1,TBS FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1966
+#EXTINF:-1,TBS FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25414
+#EXTINF:-1,TBS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1722
+#EXTINF:-1,TBS HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2327
+#EXTINF:-1,TBS SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1723
+#EXTINF:-1,TBS SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2151
+#EXTINF:-1,TCM SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1721
+#EXTINF:-1,TCM SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2150
+#EXTINF:-1,Telecine Action FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1927
+#EXTINF:-1,Telecine Action FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25413
+#EXTINF:-1,Telecine Action HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1719
+#EXTINF:-1,Telecine Action HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2326
+#EXTINF:-1,Telecine Action HD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1519
+#EXTINF:-1,Telecine Action SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1720
+#EXTINF:-1,Telecine Action SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2149
+#EXTINF:-1,Telecine Action SD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1518
+#EXTINF:-1,Telecine Cult FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1965
+#EXTINF:-1,Telecine Cult FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25412
+#EXTINF:-1,Telecine Cult HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1717
+#EXTINF:-1,Telecine Cult HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2325
+#EXTINF:-1,Telecine Cult SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1718
+#EXTINF:-1,Telecine Cult SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2148
+#EXTINF:-1,Telecine Fun FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1926
+#EXTINF:-1,Telecine Fun FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25411
+#EXTINF:-1,Telecine Fun HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1715
+#EXTINF:-1,Telecine Fun HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2324
+#EXTINF:-1,Telecine Fun HD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1517
+#EXTINF:-1,Telecine Fun SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1716
+#EXTINF:-1,Telecine Fun SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2147
+#EXTINF:-1,Telecine Fun SD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1516
+#EXTINF:-1,Telecine Pipoca FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1925
+#EXTINF:-1,Telecine Pipoca FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25410
+#EXTINF:-1,Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1713
+#EXTINF:-1,Telecine Pipoca HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2323
+#EXTINF:-1,Telecine Pipoca HD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1515
+#EXTINF:-1,Telecine Pipoca SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1714
+#EXTINF:-1,Telecine Pipoca SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2146
+#EXTINF:-1,Telecine Pipoca SD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1514
+#EXTINF:-1,Telecine Premium FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1924
+#EXTINF:-1,Telecine Premium FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25409
+#EXTINF:-1,Telecine Premium HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1711
+#EXTINF:-1,Telecine Premium HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2322
+#EXTINF:-1,Telecine Premium HD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1513
+#EXTINF:-1,Telecine Premium SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1712
+#EXTINF:-1,Telecine Premium SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2145
+#EXTINF:-1,Telecine Premium SD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1512
+#EXTINF:-1,Telecine Touch FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1923
+#EXTINF:-1,Telecine Touch FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25408
+#EXTINF:-1,Telecine Touch HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1709
+#EXTINF:-1,Telecine Touch HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2321
+#EXTINF:-1,Telecine Touch HD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1511
+#EXTINF:-1,Telecine Touch SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1710
+#EXTINF:-1,Telecine Touch SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2144
+#EXTINF:-1,Telecine Touch SD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1510
+#EXTINF:-1,Terra Viva SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1708
+#EXTINF:-1,Terra Viva SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2103
+#EXTINF:-1,Tesouros da Disney [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2064
+#EXTINF:-1,Thundercats [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2055
+#EXTINF:-1,Timao e Pumba [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2063
+#EXTINF:-1,TLC FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1964
+#EXTINF:-1,TLC FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25351
+#EXTINF:-1,TLC HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1706
+#EXTINF:-1,TLC HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2319
+#EXTINF:-1,TLC SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1707
+#EXTINF:-1,TLC SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2142
+#EXTINF:-1,TNT FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1963
+#EXTINF:-1,TNT FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25407
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1704
+#EXTINF:-1,TNT HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2318
+#EXTINF:-1,TNT HD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1509
+#EXTINF:-1,TNT SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1705
+#EXTINF:-1,TNT SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2141
+#EXTINF:-1,TNT SD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1508
+#EXTINF:-1,TNT Series FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1962
+#EXTINF:-1,TNT Series FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25406
+#EXTINF:-1,TNT Series HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1702
+#EXTINF:-1,TNT Series HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2317
+#EXTINF:-1,TNT Series HD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1499
+#EXTINF:-1,TNT Series SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1703
+#EXTINF:-1,TNT Series SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2140
+#EXTINF:-1,TNT Series SD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1498
+#EXTINF:-1,Todo Mundo Odeia o Cris [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2062
+#EXTINF:-1,Tom e Jerry [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2061
+#EXTINF:-1,Tooncast HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2316
+#EXTINF:-1,Tooncast SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1701
+#EXTINF:-1,Tooncast SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2139
+#EXTINF:-1,Toronto [Camera]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2427
+#EXTINF:-1,Travel Box Brazil FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25367
+#EXTINF:-1,Tres Espias Demais [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2034
+#EXTINF:-1,TruTV FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1961
+#EXTINF:-1,TruTV FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25350
+#EXTINF:-1,TruTV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1690
+#EXTINF:-1,TruTV SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1691
+#EXTINF:-1,TV Aparecida FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25349
+#EXTINF:-1,TV Aparecida SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1698
+#EXTINF:-1,TV Aparecida SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2108
+#EXTINF:-1,TV Brasil SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1697
+#EXTINF:-1,TV Camara SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1696
+#EXTINF:-1,TV Cultura FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1919
+#EXTINF:-1,TV Cultura FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25348
+#EXTINF:-1,TV Cultura HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1674
+#EXTINF:-1,TV Cultura SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1675
+#EXTINF:-1,TV Escola SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1695
+#EXTINF:-1,TV Gazeta FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25347
+#EXTINF:-1,TV Gazeta SP HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1694
+#EXTINF:-1,TV Gazeta SP HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2411
+#EXTINF:-1,TV Justica SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1699
+#EXTINF:-1,TV Justica SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2138
+#EXTINF:-1,TV Novo Tempo FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25366
+#EXTINF:-1,TV Ra Tim Bum FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1960
+#EXTINF:-1,TV Ra Tim Bum FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25405
+#EXTINF:-1,TV Ra Tim Bum HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1692
+#EXTINF:-1,TV Ra Tim Bum HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2310
+#EXTINF:-1,TV Ra Tim Bum SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1693
+#EXTINF:-1,TV Ra Tim Bum SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2129
+#EXTINF:-1,TV Senado SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1700
+#EXTINF:-1,TV Senado SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2128
+#EXTINF:-1,Um Maluco No Pedaco [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2060
+#EXTINF:-1,Uma Familia da Pesada [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2042
+#EXTINF:-1,Universal Channel FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1959
+#EXTINF:-1,Universal Channel FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25404
+#EXTINF:-1,Universal Channel HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1688
+#EXTINF:-1,Universal Channel HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2315
+#EXTINF:-1,Universal Channel SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1689
+#EXTINF:-1,Universal Channel SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2137
+#EXTINF:-1,VH1 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1958
+#EXTINF:-1,VH1 FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25403
+#EXTINF:-1,VH1 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1686
+#EXTINF:-1,VH1 MegaHits SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1685
+#EXTINF:-1,VH1 MegaHits SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2136
+#EXTINF:-1,VH1 SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1687
+#EXTINF:-1,Viva FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1922
+#EXTINF:-1,Viva FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25402
+#EXTINF:-1,Viva HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1683
+#EXTINF:-1,Viva HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2314
+#EXTINF:-1,Viva SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1684
+#EXTINF:-1,Viva SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2135
+#EXTINF:-1,Warner Channel FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1957
+#EXTINF:-1,Warner Channel FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25401
+#EXTINF:-1,Warner Channel HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1681
+#EXTINF:-1,Warner Channel HD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2313
+#EXTINF:-1,Warner Channel HD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1497
+#EXTINF:-1,Warner Channel SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1682
+#EXTINF:-1,Warner Channel SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2134
+#EXTINF:-1,Warner Channel SD [Legendado]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1496
+#EXTINF:-1,WooHoo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1956
+#EXTINF:-1,WooHoo FHD [H265]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/25364
+#EXTINF:-1,WooHoo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1679
+#EXTINF:-1,WooHoo SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1680
+#EXTINF:-1,WooHoo SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2133
+#EXTINF:-1,Yu-Gi-Oh [24H]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2057
+#EXTINF:-1,ZooMoo SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/1653
+#EXTINF:-1,ZooMoo SD [Alter]
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://csrv.tv:80/sogro_mauricio_condo/v3GvohiZZp/2111

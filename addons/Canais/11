@@ -1,0 +1,287 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://encurtador.com.br/CHQU4" group-title="", CANAL RICOS
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.ts
+#EXTINF:-1,BRASIL:Animal Planet
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26618.ts
+#EXTINF:-1,BRASIL:Aparecida
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26617.ts
+#EXTINF:-1,BRASIL:Arte 1
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26616.ts
+#EXTINF:-1,BRASIL:AXN
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26615.ts
+#EXTINF:-1,BRASIL:Baby TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26614.ts
+#EXTINF:-1,BRASIL:Band News
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26613.ts
+#EXTINF:-1,BRASIL:Band Sports
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26612.ts
+#EXTINF:-1,BRASIL:Bandeirantes
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26611.ts
+#EXTINF:-1,BRASIL:BIS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26610.ts
+#EXTINF:-1,BRASIL:Boa Vontade TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26609.ts
+#EXTINF:-1,BRASIL:Boomerang
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26608.ts
+#EXTINF:-1,BRASIL:Canal Brasil
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26607.ts
+#EXTINF:-1,BRASIL:Canal Claro
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26606.ts
+#EXTINF:-1,BRASIL:Canal Nova
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26605.ts
+#EXTINF:-1,BRASIL:Canal Rural
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26604.ts
+#EXTINF:-1,BRASIL:Canal Sony
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26603.ts
+#EXTINF:-1,BRASIL:Cartoon Network
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26602.ts
+#EXTINF:-1,BRASIL:Cinemax
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26601.ts
+#EXTINF:-1,BRASIL:CNN Espanol
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26600.ts
+#EXTINF:-1,BRASIL:CNN Internacional
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26599.ts
+#EXTINF:-1,BRASIL:CNT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26598.ts
+#EXTINF:-1,BRASIL:Combate
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26597.ts
+#EXTINF:-1,BRASIL:Comedy Central
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26596.ts
+#EXTINF:-1,BRASIL:Curta
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26595.ts
+#EXTINF:-1,BRASIL:Discovery Channel
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26594.ts
+#EXTINF:-1,BRASIL:Discovery H&H
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26593.ts
+#EXTINF:-1,BRASIL:Discovery Kids
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26592.ts
+#EXTINF:-1,BRASIL:Discovery Turbo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26591.ts
+#EXTINF:-1,BRASIL:Disney
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26590.ts
+#EXTINF:-1,BRASIL:Disney Junior
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26589.ts
+#EXTINF:-1,BRASIL:Disney XD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26588.ts
+#EXTINF:-1,BRASIL:DW (Deutsch )
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26587.ts
+#EXTINF:-1,BRASIL:E!
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26586.ts
+#EXTINF:-1,BRASIL:EI Mxx 1
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26585.ts
+#EXTINF:-1,BRASIL:EI Mxx 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26584.ts
+#EXTINF:-1,BRASIL:ESPN
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26583.ts
+#EXTINF:-1,BRASIL:ESPN Brasil
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26582.ts
+#EXTINF:-1,BRASIL:Fish TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26581.ts
+#EXTINF:-1,BRASIL:Food Network
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26580.ts
+#EXTINF:-1,BRASIL:FOX
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26579.ts
+#EXTINF:-1,BRASIL:Fox Life
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26578.ts
+#EXTINF:-1,BRASIL:Fox Sports
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26577.ts
+#EXTINF:-1,BRASIL:Fox Sports 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26576.ts
+#EXTINF:-1,BRASIL:Futura
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26575.ts
+#EXTINF:-1,BRASIL:FX
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26574.ts
+#EXTINF:-1,BRASIL:Globo SP
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26573.ts
+#EXTINF:-1,BRASIL:GloboNews
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26572.ts
+#EXTINF:-1,BRASIL:Gloob
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26571.ts
+#EXTINF:-1,BRASIL:GNT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26570.ts
+#EXTINF:-1,BRASIL:H2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26569.ts
+#EXTINF:-1,BRASIL:HBO
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26568.ts
+#EXTINF:-1,BRASIL:HBO Family
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26567.ts
+#EXTINF:-1,BRASIL:HBO Plus
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26566.ts
+#EXTINF:-1,BRASIL:HBO Plus*e
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26565.ts
+#EXTINF:-1,BRASIL:HBO Signature
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26564.ts
+#EXTINF:-1,BRASIL:HBO2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26563.ts
+#EXTINF:-1,BRASIL:I-SAT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26562.ts
+#EXTINF:-1,BRASIL:ID - Investigation Discovery
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26561.ts
+#EXTINF:-1,BRASIL:Lifetime
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26560.ts
+#EXTINF:-1,BRASIL:Mais Globosat
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26559.ts
+#EXTINF:-1,BRASIL:MAX
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26558.ts
+#EXTINF:-1,BRASIL:MAX Prime
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26557.ts
+#EXTINF:-1,BRASIL:MAX Prime*e
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26556.ts
+#EXTINF:-1,BRASIL:MAX UP
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26555.ts
+#EXTINF:-1,BRASIL:MegaPix
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26554.ts
+#EXTINF:-1,BRASIL:MTV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26553.ts
+#EXTINF:-1,BRASIL:Multishow
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26552.ts
+#EXTINF:-1,BRASIL:Music Box Brazil
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26551.ts
+#EXTINF:-1,BRASIL:NatGeo Kids
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26550.ts
+#EXTINF:-1,BRASIL:NatGeo Wild
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26549.ts
+#EXTINF:-1,BRASIL:National Geographic
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26548.ts
+#EXTINF:-1,BRASIL:NHK
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26547.ts
+#EXTINF:-1,BRASIL:Nick Jr
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26546.ts
+#EXTINF:-1,BRASIL:Nickelodeon
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26545.ts
+#EXTINF:-1,BRASIL:OFF
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26544.ts
+#EXTINF:-1,BRASIL:Paramount
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26543.ts
+#EXTINF:-1,BRASIL:Play TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26542.ts
+#EXTINF:-1,BRASIL:Playboy TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26541.ts
+#EXTINF:-1,BRASIL:Polishop TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26540.ts
+#EXTINF:-1,BRASIL:Premiere 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26539.ts
+#EXTINF:-1,BRASIL:Premiere 3
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26538.ts
+#EXTINF:-1,BRASIL:Premiere 4
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26537.ts
+#EXTINF:-1,BRASIL:Premiere 5
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26536.ts
+#EXTINF:-1,BRASIL:Premiere 6
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26535.ts
+#EXTINF:-1,BRASIL:Premiere 7
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26534.ts
+#EXTINF:-1,BRASIL:Premiere 8
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26533.ts
+#EXTINF:-1,BRASIL:Premiere 9
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26532.ts
+#EXTINF:-1,BRASIL:Premiere Clubes
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26531.ts
+#EXTINF:-1,BRASIL:Prime Box Brazil
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26530.ts
+#EXTINF:-1,BRASIL:RAI
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26529.ts
+#EXTINF:-1,BRASIL:RBI
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26528.ts
+#EXTINF:-1,BRASIL:RBS TV Porto Alegre
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26527.ts
+#EXTINF:-1,BRASIL:Record News
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26526.ts
+#EXTINF:-1,BRASIL:RECORDTV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26525.ts
+#EXTINF:-1,BRASIL:Rede Brasil
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26524.ts
+#EXTINF:-1,BRASIL:Rede TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26523.ts
+#EXTINF:-1,BRASIL:Rede Vida
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26522.ts
+#EXTINF:-1,BRASIL:RIT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26521.ts
+#EXTINF:-1,BRASIL:SBT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26520.ts
+#EXTINF:-1,BRASIL:Sextreme
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26519.ts
+#EXTINF:-1,BRASIL:Sexy Hot
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26518.ts
+#EXTINF:-1,BRASIL:SIC Internacional
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26517.ts
+#EXTINF:-1,BRASIL:Space
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26516.ts
+#EXTINF:-1,BRASIL:SporTV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26515.ts
+#EXTINF:-1,BRASIL:SporTV 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26514.ts
+#EXTINF:-1,BRASIL:SporTV 2 Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26513.ts
+#EXTINF:-1,BRASIL:SporTV 3
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26512.ts
+#EXTINF:-1,BRASIL:SporTV Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26511.ts
+#EXTINF:-1,BRASIL:Studio Universal
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26510.ts
+#EXTINF:-1,BRASIL:SyFy
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26509.ts
+#EXTINF:-1,BRASIL:TBS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26508.ts
+#EXTINF:-1,BRASIL:TCM
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26507.ts
+#EXTINF:-1,BRASIL:Telecine Action
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26506.ts
+#EXTINF:-1,BRASIL:Telecine Cult
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26505.ts
+#EXTINF:-1,BRASIL:Telecine Fun
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26504.ts
+#EXTINF:-1,BRASIL:Telecine Pipoca
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26503.ts
+#EXTINF:-1,BRASIL:Telecine Premium
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26502.ts
+#EXTINF:-1,BRASIL:Telecine Touch
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26501.ts
+#EXTINF:-1,BRASIL:Terra Viva
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26500.ts
+#EXTINF:-1,BRASIL:The History Channel
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26499.ts
+#EXTINF:-1,BRASIL:TLC
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26498.ts
+#EXTINF:-1,BRASIL:TNT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26497.ts
+#EXTINF:-1,BRASIL:TNT Series
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26496.ts
+#EXTINF:-1,BRASIL:Tooncast
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26495.ts
+#EXTINF:-1,BRASIL:TruTV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26494.ts
+#EXTINF:-1,BRASIL:TV Brasil
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26493.ts
+#EXTINF:-1,BRASIL:TV CÐmara
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26492.ts
+#EXTINF:-1,BRASIL:TV Cultura
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26491.ts
+#EXTINF:-1,BRASIL:TV Escola
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26490.ts
+#EXTINF:-1,BRASIL:TV Justila
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26489.ts
+#EXTINF:-1,BRASIL:TV Novo Tempo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26488.ts
+#EXTINF:-1,BRASIL:TV RA tim bum
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26487.ts
+#EXTINF:-1,BRASIL:TV Senado
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26486.ts
+#EXTINF:-1,BRASIL:TV Tem Sao Jose do Rio Preto
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26485.ts
+#EXTINF:-1,BRASIL:TV Tribuna Santos
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26484.ts
+#EXTINF:-1,BRASIL:TV5 Monde
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26483.ts
+#EXTINF:-1,BRASIL:TVE
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26482.ts
+#EXTINF:-1,BRASIL:Universal Channel
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26481.ts
+#EXTINF:-1,BRASIL:VH1 Megahits
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26480.ts
+#EXTINF:-1,BRASIL:Viva
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26479.ts
+#EXTINF:-1,BRASIL:Warner Channel
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26478.ts
+#EXTINF:-1,BRASIL:Woohoo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://iptvisiontop.com:25461/live/Serv643/yZTEiZmaAD/26477.ts

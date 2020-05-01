@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<item>
+<title>[B][COLOR blue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR blue]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/EAOPJBu.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]CANAL RICOS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/Hal4HMF.jpg</thumbnail>
+<info>Conheça os Serviços que o Canal Ricos  disponibiliza para a sua empresa, ampliando seus negócios e fortalecendo ainda mais a marca de sua empresa para o mundo todo!. Maiores informações, Dúvidas e Custos, favor entrar em contato conosco:
+Fones:
+(11)3918-9420 & (11)98870-0735
+
+RUA BENEDITO ANTONIO DE LUZ ,58  PERUS -SP
+
+CEP: 05202-100
+
+Email: suporte@canal.com.br</info>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOBO NORDESTE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]bobonordeste.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/bobone.jpg</thumbnail>
+<info>TV Globo Nordeste é uma emissora de televisão brasileira sediada no Recife, capital do estado de Pernambuco. Opera no canal 13 e é uma emissora própria da Rede Globo.</info>
+</item>
+
+
+<item>
+<title>[B][COLOR white]GLOBO RJ[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]boborj.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/boboriodejaneiro.jpg</thumbnail>
+<info>Rede Globo é uma rede de televisão comercial aberta brasileira com sede na cidade do Rio de Janeiro. É assistida por mais de 200 milhões de pessoas diariamente, sejam elas no Brasil ou no exterior</info>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOBO SP[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]bobosp.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/bobosaopaulo.jpg</thumbnail>
+<info>TV Globo São Paulo é uma emissora de televisão brasileira sediada em São Paulo, capital do estado homônimo.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]BAND[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]band.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/bandsports.jpg</thumbnail>
+<info>Rede Bandeirantes é uma rede de televisão aberta comercial brasileira pertencente ao Grupo Bandeirantes de Comunicação. Entrou no ar no dia 13 de maio de 1967, em São Paulo, SP, pelo canal 13 VHF</info>
+</item>
+
+<item>
+<title>[B][COLOR white]RECORD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]recordsp.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/recordsp.jpg</thumbnail>
+<info>RecordTV, é uma rede de televisão comercial aberta brasileira com sede na cidade de São Paulo. Fundada em 27 de setembro de 1953 pelo empresário e comunicador Paulo Machado de Carvalho, a sua criação remonta à chegada da televisão no Brasil, quando Paulo Machado se interessou pelo novo meio de comunicação e quis ampliar seu conglomerado midiático (que incluía diversas estações de rádio) para a TV, que era a grande novidade no começo dos anos 50.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]SBT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]sbt.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/sbt.jpg</thumbnail>
+<info>Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta brasileira fundada em 19 de agosto de 1981 pelo empresário e animador de televisão Silvio Santos.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]REDE TV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1310205100.m3u8</link>
+<regex><name>NORDESTV</name><expres>(.*?).rccanais</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/redetv.jpg</thumbnail>
+<info>RedeTV! é uma rede de televisão comercial brasileira com sede em Osasco, município da Região Metropolitana de São Paulo, pertencente ao Grupo Amilcare Dallevo e ao Grupo Marcelo de Carvalho.</info>
+</item>
+
+<item>
+<title>[B][COLOR blue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR blue]|||[/COLOR] [COLOR white]DOCUMENTÁRIOS[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/rdltbZt.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]animalplanet.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/AnimalPlanet.jpg</thumbnail>
+<info>O Animal Planet é um canal de televisão por assinatura com sede nos Estados Unidos da América e transmitido também para a América latina. Estabelecido pela primeira vez em 1 de outubro de 1996, a rede é dedicada principalmente a séries e documentários sobre animais selvagens e animais domésticos.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]discovery.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/discovery.jpg</thumbnail>
+<info>O Discovery Channel é um canal de televisão por assinatura distribuído pela Discovery Inc. destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história, meio ambiente e geografia.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY WORLD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]discoveryworld.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/discoveryworld.jpg</thumbnail>
+<info>Discovery World is a European pay television channel which features programming in the fields of travel, culture and history. Discovery World offers a mix of history, culture, real-life stories, investigation, mystery shows, factual series and documentaries. Its programming is mainly in English and locally subtitled.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]discoveryturbo.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/discoveryturbo.jpg</thumbnail>
+<info>Discovery Turbo é um canal pertencente a Discovery Inc. com a programação dedicada a máquinas como carros, motos, barcos e aviões. Tem a tarefa de re-exibir os programas ligados a essas máquinas passados no Discovery Channel, sem intervalos comerciais. </info>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY SCIENCE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]discoverysience.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/discoverysience.jpg</thumbnail>
+<info>Discovery Science é um canal de televisão de TV por assinatura do grupo Discovery Networks que tem como tarefa reexibir os programas ligados a ciência passados no Discovery Channel, sem intervalos comerciais. Exibe documentários sobre astronomia, tecnologia, história e biologia.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]ID[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]investigacaodiscovery.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/investigacaodiscovery.jpg</thumbnail>
+<info>Discovery ID é um canal focado desde investigações criminais até séries de crimes por dinheiro, vingança e mentes assassinas. Conheça nossa programação</info>
+</item>
+
+<item>
+<title>[B][COLOR white]HISTORY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]history.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/history.jpg</thumbnail>
+<info>History is a history-based pay television network that is owned by A&E Networks, a joint venture between Hearst Communications and the Disney Media Networks division of the Walt Disney Company</info>
+</item>
+
+<item>
+<title>[B][COLOR white]H2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]history2.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/history2.jpg</thumbnail>
+<info>History 2, anteriormente chamado de H2, é um canal de televisão por assinatura que exibe documentários, pertencente a A&E Networks, canal irmão do History. Distribuído no Brasil pela HBO, deHDe 1 de outubro de 2014 substituiu o Bio. no país.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]NAT GEO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]natgeo.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/natgeo.jpg</thumbnail>
+<info>National Geographic é um canal de televisão por assinatura brasileiro, de propriedade da Walt Disney Television, uma divisão da The Walt Disney Company. O canal é destinado a apresentação de documentários, séries e programas educativos sobre ciência, tecnologia, história e meio ambiente.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]natgeowild.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/natgeowild.jpg</thumbnail>
+<info>National Geographic Wild é um canal de televisão por assinatura brasileiro, de propriedade da Walt Disney Television, uma divisão da The Walt Disney Company. O canal é dedicado à natureza dando um olhar ao seu lado mais selvagem.</info>
+</item>
+
+<item>
+<title>[B][COLOR blue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR blue]|||[/COLOR] [COLOR white]ESPORTES[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/L7rLPb8.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]COMBATE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]combate.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/combate.jpg</thumbnail>
+<info>Combate é uma marca brasileira de conteúdo especializada em esportes de luta pertencente à Globosat e distribuida via operadoras de tv por assinatura em sistema de pay-per-view.
+O canal exibe todos os eventos do UFC ao vivo, bem como os maiores eventos do mundo de Jiu-Jitsu e Kickboxing.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]BAND SPORTS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]bandsports.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/bandsports.jpg</thumbnail>
+<info>BandSports é um canal de televisão brasileiro de esportes via televisão por assinatura do Grupo Bandeirantes de Comunicação, foi lançado em 13 de maio de 2002.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]espn.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/espn.jpg</thumbnail>
+<info>ESPN, sigla para Entertainment and Sports Programming Network, é uma rede de TV por assinatura dos Estados Unidos dedicada à transmissão e produção de programas esportivos 24 horas por dia.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]espn2.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>http://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/espn2.jpg</thumbnail>
+<info>O ESPN + é um serviço de assinatura de streaming de vídeo disponível nos Estados Unidos, fornecido pela emissora esportiva ESPN Inc. e pela Walt Disney Direct-to-Consumer e International, uma subsidiária da The Walt Disney Company</info>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPN BRASIL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]espnbrasil.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/espnbrasil.jpg</thumbnail>
+<info>ESPN Brasil é a franquia local da ESPN, sendo a filial controlada diretamente pela The Walt Disney Company e pela Hearst Corporation. Transmite eventos esportivos de várias modalidades, tanto nacionais quanto internacionais.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]Espn Extra[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]espnextra.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/espnextra.jpg</thumbnail>
+<info>Com os combos ESPN Extra você tem acesso a ainda mais canais! Assista aos seus esportes preferidos a qualquer hora do dia, acesse para conferir.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX SPORTS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]foxsports1.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/foxsports1.jpg</thumbnail>
+<info>Fox Sports Brasil é um canal de televisão por assinatura brasileiro voltado para transmissão de eventos esportivos 24 horas por dia.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX SPORTS 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]foxsports2.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/foxsports2.jpg</thumbnail>
+<info>Fox Sports Brasil é um canal de televisão por assinatura brasileiro voltado para transmissão de eventos esportivos 24 horas por dia.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]sportv1.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/SporTV1.jpg</thumbnail>
+<info>O SporTV é um canal de televisão por assinatura brasileiro. Foi lançado em 19 de outubro de 1991 sob o nome de Top Sport, alterado para o atual em 1994. Em seu gênero, no Brasil, o SporTV foi pioneiro e também um dos primeiros canais da Globosat. </info>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]sportv2.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/SporTV2.jpg</thumbnail>
+<info>O SporTV é um canal de televisão por assinatura brasileiro. Foi lançado em 19 de outubro de 1991 sob o nome de Top Sport, alterado para o atual em 1994.[1] Em seu gênero, no Brasil, o SporTV foi pioneiro e também um dos primeiros canais da Globosat. Nos meses das Olimpíadas de 2012, a rede pode contar com mais dois canais, o SporTV 2 e o SporTV 3, que foram extinto logo após o final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]SPORTV 3[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]sportv3.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/SporTV3.jpg</thumbnail>
+<info>O SporTV é um canal de televisão por assinatura brasileiro. Foi lançado em 19 de outubro de 1991 sob o nome de Top Sport, alterado para o atual em 1994.[1] Em seu gênero, no Brasil, o SporTV foi pioneiro e também um dos primeiros canais da Globosat. Nos meses das Olimpíadas de 2012, a rede pode contar com mais dois canais, o SporTV 2 e o SporTV 3, que foram extinto logo após o final dos jogos, mas que, posteriormente, voltaram à atividade.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE CLUBE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]premiereclubes.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiereclubes.jpg</thumbnail>
+<info>O Premiere é um canal de televisão por assinatura brasileiro em pay-per-view que transmite os principais Campeonatos Estaduais de futebol no Brasil, além do Campeonato Brasileiro da série A e da série B. Pertence a Globosat.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]premiere2.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiere2.jpg</thumbnail>
+<info>O Premiere é um canal de televisão por assinatura brasileiro em pay-per-view que transmite os principais Campeonatos Estaduais de futebol no Brasil, além do Campeonato Brasileiro da série A e da série B. Pertence a Globosat.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 3[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]premiere3.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiere3.jpg</thumbnail>
+<info>O Premiere é um canal de televisão por assinatura brasileiro em pay-per-view que transmite os principais Campeonatos Estaduais de futebol no Brasil, além do Campeonato Brasileiro da série A e da série B. Pertence a Globosat.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 4[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]premiere4.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiere4.jpg</thumbnail>
+<info>O Premiere é um canal de televisão por assinatura brasileiro em pay-per-view que transmite os principais Campeonatos Estaduais de futebol no Brasil, além do Campeonato Brasileiro da série A e da série B. Pertence a Globosat.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 5[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]premiere5.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiere5.jpg</thumbnail>
+<info>O Premiere é um canal de televisão por assinatura brasileiro em pay-per-view que transmite os principais Campeonatos Estaduais de futebol no Brasil, além do Campeonato Brasileiro da série A e da série B. Pertence a Globosat.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 6[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]premiere6.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiere6.jpg</thumbnail>
+<info>O Premiere é um canal de televisão por assinatura brasileiro em pay-per-view que transmite os principais Campeonatos Estaduais de futebol no Brasil, além do Campeonato Brasileiro da série A e da série B. Pertence a Globosat.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 7[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]premiere7.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiere7.jpg</thumbnail>
+<info>O Premiere é um canal de televisão por assinatura brasileiro em pay-per-view que transmite os principais Campeonatos Estaduais de futebol no Brasil, além do Campeonato Brasileiro da série A e da série B. Pertence a Globosat.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 8[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]premiere8.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiere8.jpg</thumbnail>
+<info>O Premiere é um canal de televisão por assinatura brasileiro em pay-per-view que transmite os principais Campeonatos Estaduais de futebol no Brasil, além do Campeonato Brasileiro da série A e da série B. Pertence a Globosat.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]PREMIERE 9[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]premiere9.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/premiere9.jpg</thumbnail>
+<info>O Premiere é um canal de televisão por assinatura brasileiro em pay-per-view que transmite os principais Campeonatos Estaduais de futebol no Brasil, além do Campeonato Brasileiro da série A e da série B. Pertence a Globosat.</info>
+</item>
+
+<item>
+<title>[B][COLOR blue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR blue]|||[/COLOR] [COLOR white]FILMES & SÉRIES[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/jHo5kph.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR white]A&E[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]aie.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/aie.jpg</thumbnail>
+<info>A&E é uma rede de televisão transmitida por servidores de televisão a cabo ou satélite. Seus edifícios empresariais principais se localizam em Manhattan com demais escritórios em Stamford, Atlanta, Detroit, Los Angeles, Chicago e Londres.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]AMC[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]amc.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/amc.jpg</thumbnail>
+<info>O AMC é um canal de televisão por assinatura que transmite principalmente filmes. O nome do canal era originalmente um acrônimo de American Movie Classics. No entanto, deHDe 2003 o nome completo não recebeu mais ênfase, como resultado de uma grande mudança na programação.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]AXN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]axn.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/axn.jpg</thumbnail>
+<info>AXN é um canal de televisão por assinatura de propriedade da Sony Pictures Entertainment, que foi inicialmente lançado a 22 de maio de 1997 na Ásia com o nome de Action Extreme Channel. No entanto, por razões comerciais e para facilitar a sua difusão pelo público, o nome é alterado para AXN.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]CINEMAX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]cinemax.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/cinemax.jpg</thumbnail>
+<info>Cinemax é um canal de televisão por assinatura de filmes, que pertence a HBO, uma subsidiária da WarnerMedia Inc. Foi lançado no Brasil no dia 1º de outubro de 1997.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]fox.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/fox.jpg</thumbnail>
+<info>A Fox Broadcasting Company, normalmente referida como Fox e estilizado como FOX, é uma emissora de televisão com sede nos Estados Unidos.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]FX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]fx.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/fx.jpg</thumbnail>
+<info>O FX é um canal de televisão por assinatura brasileiro, de propriedade da Walt Disney Television, uma divisão da The Walt Disney Company. O canal conta com uma grade de programação composta por séries atuais e populares como American Dad e Uma Família da Pesada e filmes de ação.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX PREMIUM 1[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]foxpremium1.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://i.imgur.com/j1Hd5MC.png</thumbnail>
+<info>Fox Premium é um grupo de canais de televisão por assinatura, fundada em 1997 sob o nome de Moviecity pela LAPTV, que exibe filmes em versão original, sem censura ou dublagem na América Latina. Atualmente o canal no Brasil transmite jogos exclusivos da La Liga, Campeonato Espanhol de futebol, que eram anteriormente transmitidos nos canais Fox Sports.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]FOX PREMIUM 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]foxpremium2.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/foxpremium2.jpg</thumbnail>
+<info>Fox Premium é um grupo de canais de televisão por assinatura, fundada em 1997 sob o nome de Moviecity pela LAPTV, que exibe filmes em versão original, sem censura ou dublagem na América Latina. Atualmente o canal no Brasil transmite jogos exclusivos da La Liga, Campeonato Espanhol de futebol, que eram anteriormente transmitidos nos canais Fox Sports.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]hbo.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/hbo.jpg</thumbnail>
+<info>HBO (abreviação de Home Box Office) é um canal de televisão por assinatura norte-americano, de propriedade da WarnerMedia (uma subsidiária da AT&T). Em março de 2011, a sua programação era assistida por 28,2 milhões de assinantes nos Estados Unidos, tornando-se a segunda maior rede premium de canais na América do Norte, atrás apenas da Encore, que tem um público de 32,8 milhões.[1] Além dos EUA, a HBO é transmitida para pelo menos 50 países.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO 2[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]hbo2.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/hbo2.jpg</thumbnail>
+<info>O HBO 2, é um canal de televisão por assinatura da rede HBO que exibe 24 horas de filmes em versão dublada os principais filmes apresentados pela HBO e séries exclusivas, sem intervalos comerciais. A partir de julho de 2009, a HBO 2 ganhou sua independência.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO FAMILY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]hbofamily.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/hbofamily.jpg</thumbnail>
+<info>HBO Family é um canal de televisão por assinatura originado da HBO. A HBO Family se caracteriza pela leveza da programação, que vai desde os filmes até o visual das chamadas com uma locução composta de uma voz tranquila e sem pressa durante os períodos que os filmes não estão em execução, mostrando ao telespectador as futuras atrações.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO PLUS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]hboplus.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/hboplus.jpg</thumbnail>
+<info>O HBO Plus *e, versão multiplex do original, foi um canal pago que exibia a programação com 3 horas de diferença. Por decisão de sua programadora, o canal deixou de existir no dia 31/12/2018, passando a ter a programação normal no HBO Plus.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]HBO SIGNATURE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]hbosignature.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/hbosignature.jpg</thumbnail>
+<info>HBO Signature é um canal de televisão por assinatura pertencente a Home Box Office lançado em 1991 nos Estados Unidos. O canal foi lançado primeiramente no Brasil em 1 de fevereiro de 2012 para depois ser lançado na América Latina. No Brasil o canal substituiu o HBO Family *e, com sinal exclusivo para o país,[3] sendo exibido com áudio original e legendas sem intervalos comerciais.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]MAX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]max.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/max.jpg</thumbnail>
+<info>Max é um canal premium de televisão por assinatura que oferecem filmes, apresentações especiais e outros serviços aos consumidores.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]MAX PRIME[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]maxprime.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/maxprime.jpg</thumbnail>
+<info>O MaxPrime é um canal de televisão por assinatura, que foi lançado em 2000 como Cinemax Prime. O canal tem atualmente como foco o público adulto masculino. O canal chama-se MaxPrime desde setembro de 2003.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]MAX UP[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]maxup.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/maxup.jpg</thumbnail>
+<info>Max UP é um canal de televisão por assinatura pertencente a HBO, que substituiu o anterior Max HD.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]MEGAPIX[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]megapix.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/megapix.jpg</thumbnail>
+<info>O Megapix é um canal de televisão por assinatura da Globosat. É voltado exclusivamente para filmes dublados, faz exibição de títulos na segunda janela da TV por assinatura.[4] Filmes que geralmente foram lançados pelo Telecine ou HBO, mas que estreiam com exclusividade nos pacotes básicos pelo Megapix</info>
+</item>
+
+<item>
+<title>[B][COLOR white]PARAMOUNT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]paramount.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/paramount.jpg</thumbnail>
+<info>A Paramount Pictures Corporation é um dos principais estúdios de cinema dos Estados Unidos, fundado por Adolph Zukor, em 1912, e com este nome desde 1925.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]SONY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]sony.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/sony.jpg</thumbnail>
+<info>Sony Channel é um canal de entretenimento geral de propriedade da Sony Pictures Entertainment, geralmente abreviado para Canal Sony em português e espanhol.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]SPACE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]space.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/space.jpg</thumbnail>
+<info>Space é um canal de televisão por assinatura da América Latina. É um canal pertencente à Turner Broadcasting System, subsidiária da WarnerMedia. Por exibir filmes dos gêneros de ação, ficção científica, policial e terror, e séries do gênero policial e suspense é voltado para mulheres e homens acima de 18 anos de idade.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]STUDIO UNIVERSAL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]studiouniversal.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/studiouniversal.jpg</thumbnail>
+<info>Studio Universal é um canal de televisão por assinatura com programação de filmes e séries pertencente ao grupo Universal Networks International.[4] Sua programação foca nos filmes do catálogo da Universal Studios, especiais como filmes classificados por ator, diretor entre outros. No Brasil o Studio Universal é programado pela Globosat desde 2012.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]SYFY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]syfy.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/syfy.jpg</thumbnail>
+<info>Syfy é um canal de televisão por assinatura. Sua programação é dedicada à ficção científica, fantasia, terror e paranormal.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]TCM[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]tcm.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/tcm.jpg</thumbnail>
+<info>Sua programação é dirigida ao público acima de 35 anos e tem como principais características exibir filmes da época de ouro do cinema. Inicialmente, o TCM apresentava produções dos anos 30 aos anos 70, sempre sem cortes e sem intervalos comerciais.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE PREMIUM[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]telecinepremium.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/telecinepremium.jpg</thumbnail>
+<info>Telecine Premium é um canal de televisão brasileiro pertencente à Rede Telecine, transmitido pela TV por assinatura nas operadoras Vivo TV, NET, JET TV, Claro TV, Sky Brasil, Oi TV e Vivo DTH com a transmissão de filmes que geralmente são estreias inéditas na televisão brasileira, que já foram atrações de maior bilheteria, lançamentos de grande sucesso, ou até mesmo as mais recentes produções dos anos 90.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE ACTION[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]telecineaction.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/telecineaction.jpg</thumbnail>
+<info>Telecine Action é um canal de televisão por assinatura brasileiro transmitido pelas operadoras NET, SKY, Claro TV, Vivo TV, Oi TV, CTBC TV e TV Alphaville que dá destaque à transmissão de antigos e novos filmes de ação. Já que o canal é dedicado a exibir filmes de ação, logo o nome do canal.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE PIPOCA[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]telecinepipoca.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/telecinepipoca.jpg</thumbnail>
+<info>Telecine Pipoca é um canal de televisão por assinatura brasileiro que exibe 24 horas de filmes em versão dublada os principais filmes apresentados pelo Telecine Premium, Telecine Action, Telecine Fun e Telecine Touch, com uma leve interrupção de intervalos comerciais de 2 minutos.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE FUN[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]telecinefun.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/telecinefun.jpg</thumbnail>
+<info>Telecine Fun é um canal de televisão por assinatura brasileiro pertencente aos canais da Rede Telecine. O canal exibe filmes de comédia, comédia romântica e animações, originalmente no idioma original com legendas, mas desde 2012 em versão dublada.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE TOUCH[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]telecinetouch.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/telecinetouch.jpg</thumbnail>
+<info>Telecine Touch é um canal de televisão por assinatura brasileiro que exibe uma programação com gêneros de filmes derivados do cinema emotivo, grandes romances, biografias e dramas, com um intervalo comercial de 2 minutos.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]TELECINE CULT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]telecinecult.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/telecinecult.jpg</thumbnail>
+<info>Telecine Cult é um canal de televisão por assinatura brasileiro que exibe filmes clássicos, filmes independentes, filmes temáticos, filmes raros e filmes de arte com produções europeias, asiáticas, latinas, etc. O canal exibe todos os filmes sem os eventuais intervalos comerciais.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]TNT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]tnt.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/tnt.jpg</thumbnail>
+<info>TNT (abreviação para Turner Network Television), é um canal de televisão por assinatura especializado em filmes e séries. O canal original foi criado pelo magnata da mídia Ted Turner em 1988 nos Estados Unidos.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]TNT SÉRIES[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]tntseries.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/tntseries.jpg</thumbnail>
+<info>TNT Séries é um canal de televisão por assinatura especializado em séries, que chegou ao Brasil para substituir o Glitz*. A programação é exibida em áudio dublado e legendado, com legendas selecionáveis em português.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]UNIVERSAL CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]universal.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/universal.jpg</thumbnail>
+<info>Universal TV é um canal de televisão por assinatura internacional, disponível em diversos países do mundo, incluindo o Brasil. O canal é especializado em séries de televisão de diversos gêneros, dentre os quais, principalmente, thrillers, dramas, horror crime e erótico.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]WARNER[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]warner.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/warner.jpg</thumbnail>
+<info>Warner TV é um canal de televisão por assinatura que é transmitido na América Latina e no Sudeste da Ásia pertencente a Warner Bros. Entertainment A maior parte de sua programação tem o áudio original em Inglês com legendas em Espanhol, possuindo também poucos programas dublados.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]COMEDY CENTRAL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>https://live.multicanais.com/live/comedycentralhd/video.m3u8|Referer=https://multicanais.com</link>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/comedycentral.jpg</thumbnail>
+<info>Curta o melhor da comédia: episódios completos, trailers e material exclusivo. O Comedy Central</info>
+</item>
+
+<item>
+<title>[B][COLOR blue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR blue]|||[/COLOR] [COLOR white]INFANTIL[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/wrJI8un.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]BOOMERANG[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]boomerang.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/boomerang.jpg</thumbnail>
+<info>O Boomerang é um canal de televisão digital, cabo e satélite americana que é de propriedade da subsidiária Warner Bros. Global Kids & Young Adults.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]cartoon.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/cartoon.jpg</thumbnail>
+<info>Cartoon Network é um canal norte-americano de televisão por assinatura de rede de propriedade da Warner Bros. Global Kids & Young Adults, que vai ao ar principalmente com programação animada.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY KIDS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<<link>$doregex[NORDESTV]discoverykids.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://i.imgur.com/coeVhgr.png</thumbnail>
+<info><info>O Discovery Kids é um canal de televisão por assinatura focado para o público pré-escolar. O canal está presente na América Latina, Austrália, Brasil, Sul da Ásia e um canal conjunto para as regiões do Oriente Médio e Norte da África.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]DISNEY CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]disney.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Disney.jpg</thumbnail>
+<info><info>Disney Channel é um canal de televisão norte-americano especializado em programação infanto-juvenil, através das suas séries originais e filmes.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]DISNEY JUNIOR[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]disneyjunior.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/disneyjunior.jpg</thumbnail>
+A Disney Junior é uma rede de televisão paga americana que é de propriedade da The Walt Disney Company através da Disney Channels Worldwide.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]DISNEY XD[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]disneyxd.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/disneyxd.jpg</thumbnail>
+<info>Disney XD é um canal de televisão por assinatura estadunidense com versões por vários países, de propriedade da The Walt Disney Company. A programação da rede é de crianças da idade de 4 à 11 anos. O sinal também está disponível em HD pelo canal Disney XD HD.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOOB[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]gloob.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/gloob.jpg</thumbnail>
+<info>Gloob é um canal de televisão por assinatura brasileiro que pertence a Globosat lançado no dia 15 de junho de 2012 direcionado ao público infantil. Seu nome é um anagrama da palavra Globo, invertendo a letra "O" antes do "B". Também transmite sua programação em high definition em versão simulcast.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]NAT GEO KIDS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]natgeokids.m3u8|Referer=http://cometa.top</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/natgeokids.jpg</thumbnail>
+<info>Nat Geo Kids é um canal de televisão por assinatura, dedicada para crianças entre 3 e 11 anos, da National Geographic Partners, proprietária por The Walt Disney Company, National Geographic Society e operado por Walt Disney Television.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]NICKELODEON[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]nick.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/nick.jpg</thumbnail>
+<info>Nickelodeon, geralmente abreviada como "Nick", é uma empresa de entretenimento juvenil. Construiu um negócio global e diversificado, colocando crianças e adolescentes em primeiro lugar em tudo o que faz.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]DISCOVERY KIDS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]discoverykids.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/discoverykids.jpg</thumbnail>
+<info>A DISCOVERY KIDS. Brasil é um canal de televisão paga com 24 horas dedicado às crianças em fase pré-escolar que promove o desenvolvimento infantil ao usar a filosofia “brincar aprendendo”. </info>
+</item>
+
+<item>
+<title>[B][COLOR white]TOONCAST[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]tooncast.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/tooncast.jpg</thumbnail>
+<info>O Tooncast é um canal infantil de desenhos clássicos fundado pela Warner Bros. Entertainment e pela Turner International que é também a programadora do Cartoon Network, do Boomerang, da TNT, do TNT Séries, do Space, da CNN International, da CNN en Español, do TBS, do TCM, do I.Sat e do TruTV. </info>
+</item>
+
+
+<item>
+<title>[B][COLOR blue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR blue]|||[/COLOR] [COLOR white]MÚSICAS & VARIEDADES[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/C4aksyC.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]VIVA[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]viva.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/viva.jpg</thumbnail>
+<info>Viva é um canal de televisão por assinatura brasileiro, que faz parte da programadora .... Ainda quanto ao programa “Viva o Sucesso”,</info>
+</item>
+
+<item>
+<title>[B][COLOR white]MULTISHOW[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<<link>$doregex[NORDESTV]multishow.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/multishow.jpg</thumbnail>
+<info>Multishow é um canal de televisão por assinatura da programadora de televisão brasileira Globosat. No ar desde 19 de outubro de 1991, tem uma ampla gama de estilos na programação na área do entretenimento.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]MTV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]mtv.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/mtv.jpg</thumbnail>
+<info>MTV Brasil foi uma rede de televisão brasileira, pertencente ao Grupo Abril e dedicada ao público jovem. Nasceu no dia 20 de outubro de 1990 como a primeira rede de televisão segmentada a ser transmitida no sinal aberto, sendo a versão nacional da MTV.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]GNT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]gnt.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/gnt.jpg</thumbnail>
+<info>GNT é um canal de televisão por assinatura brasileiro. Foi criada em 19 de outubro de 1991 com o nome de Globosat News Television, um canal que transmitia notícias.</info>
+</item>
+
+
+<item>
+<title>[B][COLOR white]FOOD NETWORK[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]foodnetwork.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/foodnetwork.jpg</thumbnail>
+<info>O Food Network é um canal de TV dedicado a quem ama a arte da gastronomia. ... passar 24h do meu dia assistindo Doces Lugares,</info>
+</item>
+
+
+<item>
+<title>[B][COLOR white]TLC[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]tlc.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/tlc.jpg</thumbnail>
+<info>O Discovery Travel & Living foi um canal da televisão a cabo voltado a esportes, culinária, ... Na América Latina sendo substituído pelo nome TLC em 1 de novembro de 2011.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]E![/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]e.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/e.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>[B][COLOR blue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR blue]|||[/COLOR] [COLOR white]NOTÍCIAS[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/c4GVMgk.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]bandnews.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/bandnews.jpg</thumbnail>
+<info>BandNews TV é um canal de televisão brasileiro de notícias 24 horas sediado em São Paulo, capital do estado brasileiro homônimo, e que foi inaugurado no dia 19 de março de 2001 pelo Grupo Bandeirantes de Comunicação. Sendo o segundo canal de notícias no Brasil. É o terceiro canal de notícias mais visto no Brasil.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]GLOBO NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]globonews.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/globonews.jpg</thumbnail>
+<info>GloboNews é um canal de televisão por assinatura brasileiro sediado no Rio de Janeiro, capital do estado brasileiro homônimo e que transmite uma programação jornalística durante as 24 horas do dia. O canal foi inaugurado em 15 de outubro de 1996 pela programadora Globosat.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]RECORD NEWS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>$doregex[NORDESTV]recordnews.m3u8|Referer=http://cometa.top/</link>
+<regex><name>NORDESTV</name><expres>(.*?).Servidor</expres><page>https://pastebin.com/raw/BPZJEUmU</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/recordnews.jpg</thumbnail>
+<info>Record News é um canal de televisão comercial aberto brasileiro, com a programação dedicada principalmente ao telejornalismo, pertencente ao Grupo Record.</info>
+</item>

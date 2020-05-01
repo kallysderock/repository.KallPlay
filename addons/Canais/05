@@ -1,0 +1,555 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://encurtador.com.br/CHQU4" group-title="", CANAL RICOS
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.ts
+#EXTINF:-1 , AMC 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13625
+#EXTINF:-1 , AMC HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13623
+#EXTINF:-1 , ANIMAL PLANET HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13620
+#EXTINF:-1 , ARTE 1 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13619
+#EXTINF:-1 , ARTE 1 HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13618
+#EXTINF:-1 , AXN 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13617
+#EXTINF:-1 , AXN HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13615
+#EXTINF:-1 , BABY HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13614
+#EXTINF:-1 , BABY TV 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13613
+#EXTINF:-1 , BAND CAMPINAS HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13612
+#EXTINF:-1 , BAND NEWS HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13608
+#EXTINF:-1 , BAND RECIFE FHD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13607
+#EXTINF:-1 , BAND SP 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13606
+#EXTINF:-1 , BAND SP HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13605
+#EXTINF:-1 , BAND SPORTS 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13604
+#EXTINF:-1 , BAND SPORTS HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13602
+#EXTINF:-1 , BIS 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13601
+#EXTINF:-1 , BIS HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13599
+#EXTINF:-1 , BOOMERANG HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13595
+#EXTINF:-1 , CANAL BRASIL HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13593
+#EXTINF:-1 , CANAL SONY 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13590
+#EXTINF:-1 , CANAL SONY HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13588
+#EXTINF:-1 , CANCAO NOVA FHD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13586
+#EXTINF:-1 , CARTOON NETWORK 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13585
+#EXTINF:-1 , CARTOON NETWORK HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13583
+#EXTINF:-1 , CINE SKY 1 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13582
+#EXTINF:-1 , CINE SKY 2 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13581
+#EXTINF:-1 , CINE SKY 3 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13580
+#EXTINF:-1 , CINE SKY 4 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13579
+#EXTINF:-1 , CINE SKY 5 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13578
+#EXTINF:-1 , CINEMAX 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13577
+#EXTINF:-1 , CINEMAX HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13575
+#EXTINF:-1 , CNN ESPANOL 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13574
+#EXTINF:-1 , CNN INTERNACIONAL 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13573
+#EXTINF:-1 , CNT 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13572
+#EXTINF:-1 , COMBATE 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13571
+#EXTINF:-1 , COMBATE HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13569
+#EXTINF:-1 , COMEDY CENTRAL 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13568
+#EXTINF:-1 , COMEDY CENTRAL HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13566
+#EXTINF:-1 , CURTA! 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13565
+#EXTINF:-1 , DANZ 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13564
+#EXTINF:-1 , DISCOVERY CHANNEL 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13563
+#EXTINF:-1 , DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13561
+#EXTINF:-1 , DISCOVERY CIVILIZATION HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13559
+#EXTINF:-1 , DISCOVERY H&H 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13558
+#EXTINF:-1 , DISCOVERY H&H HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13556
+#EXTINF:-1 , DISCOVERY KIDS 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13555
+#EXTINF:-1 , DISCOVERY KIDS HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13553
+#EXTINF:-1 , DISCOVERY SCIENCE HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13551
+#EXTINF:-1 , DISCOVERY TURBO 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13549
+#EXTINF:-1 , DISCOVERY TURBO HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13547
+#EXTINF:-1 , DISCOVERY WORLD HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13545
+#EXTINF:-1 , DISNEY DISNEY
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13544
+#EXTINF:-1 , DISNEY CHANNEL HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13542
+#EXTINF:-1 , DISNEY JR 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13541
+#EXTINF:-1 , DISNEY JR HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13539
+#EXTINF:-1 , DISNEY XD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13538
+#EXTINF:-1 , DISNEY XD HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13537
+#EXTINF:-1 , E!
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13536
+#EXTINF:-1 , E! HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13535
+#EXTINF:-1 , EI PLUS 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13534
+#EXTINF:-1 , EI PLUS HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13533
+#EXTINF:-1 , ESPN 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13532
+#EXTINF:-1 , ESPN 2 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13531
+#EXTINF:-1 , ESPN 2 HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13529
+#EXTINF:-1 , ESPN BRASIL 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13528
+#EXTINF:-1 , ESPN BRASIL HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13526
+#EXTINF:-1 , ESPN EXTRA HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13525
+#EXTINF:-1 , ESPN HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13523
+#EXTINF:-1 , ESPN2 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13522
+#EXTINF:-1 , FILM & ARTS 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13521
+#EXTINF:-1 , FISH TV 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13520
+#EXTINF:-1 , FOOD NETWORK
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13519
+#EXTINF:-1 , FOOD NETWORK HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13517
+#EXTINF:-1 , FOX 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13516
+#EXTINF:-1 , FOX HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13514
+#EXTINF:-1 , FOX LIFE 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13513
+#EXTINF:-1 , FOX LIFE HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13511
+#EXTINF:-1 , FOX PREMIUM 1 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13510
+#EXTINF:-1 , FOX PREMIUM 1 HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13509
+#EXTINF:-1 , FOX PREMIUM 2 FHD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13508
+#EXTINF:-1 , FOX PREMIUM 2 HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13507
+#EXTINF:-1 , FOX SPORTS 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13506
+#EXTINF:-1 , FOX SPORTS 2 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13505
+#EXTINF:-1 , FOX SPORTS 2 HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13503
+#EXTINF:-1 , FOX SPORTS HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13501
+#EXTINF:-1 , FUTURA 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13500
+#EXTINF:-1 , FX 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13499
+#EXTINF:-1 , FX HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13497
+#EXTINF:-1 , GLOBO BELEM 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13496
+#EXTINF:-1 , GLOBO BRASILIA HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13495
+#EXTINF:-1 , GLOBO EPTV CAMPINAS 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13494
+#EXTINF:-1 , GLOBO EPTV RIBEIRAO PRETO 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13493
+#EXTINF:-1 , GLOBO EPTV RIBEIRAO PRETO HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13492
+#EXTINF:-1 , GLOBO EPTV SAO CARLOS 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13491
+#EXTINF:-1 , GLOBO INTER TV CABUGI 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13490
+#EXTINF:-1 , GLOBO MINAS 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13489
+#EXTINF:-1 , GLOBO MINAS HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13488
+#EXTINF:-1 , GLOBO NEWS 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13487
+#EXTINF:-1 , GLOBO NEWS HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13485
+#EXTINF:-1 , GLOBO NORDESTE 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13484
+#EXTINF:-1 , GLOBO NORDESTE FHD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13483
+#EXTINF:-1 , GLOBO NORDESTE HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13482
+#EXTINF:-1 , GLOBO RBS PORTO ALEGRE 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13481
+#EXTINF:-1 , GLOBO RBS PORTO ALEGRE HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13480
+#EXTINF:-1 , GLOBO RJ 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13478
+#EXTINF:-1 , GLOBO RJ HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13476
+#EXTINF:-1 , GLOBO RPC TV CURITIBA 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13475
+#EXTINF:-1 , GLOBO SP 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13474
+#EXTINF:-1 , GLOBO SP HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13472
+#EXTINF:-1 , GLOBO TRIBUNA SANTOS 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13471
+#EXTINF:-1 , GLOBO TV BAHIA 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13470
+#EXTINF:-1 , GLOBO TV CENTRO AMERICA CUIABA 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13469
+#EXTINF:-1 , GLOBO TV GAZETA ES HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13468
+#EXTINF:-1 , GLOBO TV SERGIPE HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13467
+#EXTINF:-1 , GLOBO TV TEM BAURU 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13466
+#EXTINF:-1 , GLOBO TV TEM SJRP 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13465
+#EXTINF:-1 , GLOBO TV TEM SOROCABA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13464
+#EXTINF:-1 , GLOBO TV VANGUARDA S.J. DOS CAMPOS 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13463
+#EXTINF:-1 , GLOBO TV VERDES MARES FORTALEZA 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13462
+#EXTINF:-1 , GLOBONEWS 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13461
+#EXTINF:-1 , GLOOB 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13460
+#EXTINF:-1 , GLOOB FHD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13459
+#EXTINF:-1 , GLOOB HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13458
+#EXTINF:-1 , GNT 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13456
+#EXTINF:-1 , GNT HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13455
+#EXTINF:-1 , H2 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13454
+#EXTINF:-1 , H2 HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13452
+#EXTINF:-1 , HBO 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13451
+#EXTINF:-1 , HBO 2 HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13449
+#EXTINF:-1 , HBO FAMILY 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13448
+#EXTINF:-1 , HBO FAMILY HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13446
+#EXTINF:-1 , HBO HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13444
+#EXTINF:-1 , HBO PLUS 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13443
+#EXTINF:-1 , HBO SIGNATURE 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13441
+#EXTINF:-1 , HBO2 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13439
+#EXTINF:-1 , HISTORY 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13438
+#EXTINF:-1 , HISTORY HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13436
+#EXTINF:-1 , HIT TV HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13435
+#EXTINF:-1 , I-SAT 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13434
+#EXTINF:-1 , ID DISCOVERY 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13433
+#EXTINF:-1 , IDEAL TV 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13431
+#EXTINF:-1 , LIFETIME 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13430
+#EXTINF:-1 , MAIS GLOBOSAT 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13428
+#EXTINF:-1 , MAIS GLOBOSAT HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13427
+#EXTINF:-1 , MAX 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13426
+#EXTINF:-1 , MAX FHD (H265) 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13425
+#EXTINF:-1 , MAX HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13424
+#EXTINF:-1 , MAX PRIME HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13422
+#EXTINF:-1 , MAX PRIME*E 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13421
+#EXTINF:-1 , MAX UP 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13420
+#EXTINF:-1 , MAX UP HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13418
+#EXTINF:-1 , MEGAPIX 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13417
+#EXTINF:-1 , MEGAPIX HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13415
+#EXTINF:-1 , MTV 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13414
+#EXTINF:-1 , MULTISHOW 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13412
+#EXTINF:-1 , MULTISHOW HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13410
+#EXTINF:-1 , MUSIC BOX BRAZIL 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13409
+#EXTINF:-1 , NATGEO KIDS 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13407
+#EXTINF:-1 , NATGEO KIDS HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13405
+#EXTINF:-1 , NATGEO WILD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13404
+#EXTINF:-1 , NATGEO WILD HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13402
+#EXTINF:-1 , NATIONAL GEOGRAPHIC 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13401
+#EXTINF:-1 , NBR 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13400
+#EXTINF:-1 , NICK HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13398
+#EXTINF:-1 , NICK JR 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13397
+#EXTINF:-1 , NICKELODEON 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13396
+#EXTINF:-1 , NOVA NORDESTE FHD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13395
+#EXTINF:-1 , NOVO TEMPO FHD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13394
+#EXTINF:-1 , OFF 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13393
+#EXTINF:-1 , OFF FHD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13392
+#EXTINF:-1 , OFF HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13391
+#EXTINF:-1 , PARAMOUNT 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13390
+#EXTINF:-1 , PARAMOUNT CHANNEL HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13388
+#EXTINF:-1 , PLAY TV 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13387
+#EXTINF:-1 , POLISHOP TV 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13386
+#EXTINF:-1 , PREMIERE 2 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13385
+#EXTINF:-1 , PREMIERE 2 HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13383
+#EXTINF:-1 , PREMIERE 3 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13382
+#EXTINF:-1 , PREMIERE 3 HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13380
+#EXTINF:-1 , PREMIERE 4 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13379
+#EXTINF:-1 , PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13377
+#EXTINF:-1 , PREMIERE 5 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13376
+#EXTINF:-1 , PREMIERE 6 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13374
+#EXTINF:-1 , PREMIERE 6 HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13372
+#EXTINF:-1 , PREMIERE 7 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13371
+#EXTINF:-1 , PREMIERE 7 HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13369
+#EXTINF:-1 , PREMIERE 8 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13368
+#EXTINF:-1 , PREMIERE 9 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13367
+#EXTINF:-1 , PREMIERE CLUBES 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13366
+#EXTINF:-1 , PREMIERE CLUBES HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13364
+#EXTINF:-1 , PRIME BOX BRAZIL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13363
+#EXTINF:-1 , RBI 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13362
+#EXTINF:-1 , RCI 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13361
+#EXTINF:-1 , RECORD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13360
+#EXTINF:-1 , RECORD FHD (H265) 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13359
+#EXTINF:-1 , RECORD HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13358
+#EXTINF:-1 , RECORD MG HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13357
+#EXTINF:-1 , RECORD NEWS 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13356
+#EXTINF:-1 , RECORD NEWS FHD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13355
+#EXTINF:-1 , RECORD NEWS HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13354
+#EXTINF:-1 , RECORD RECIFE FHD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13353
+#EXTINF:-1 , RECORD RJ HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13352
+#EXTINF:-1 , RECORD RS HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13351
+#EXTINF:-1 , RECORD SP HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13350
+#EXTINF:-1 , REDE BRASIL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13349
+#EXTINF:-1 , REDE TV 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13348
+#EXTINF:-1 , REDE TV HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13347
+#EXTINF:-1 , REDE VIDA 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13346
+#EXTINF:-1 , RIT 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13345
+#EXTINF:-1 , SBT 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13344
+#EXTINF:-1 , SBT FHD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13343
+#EXTINF:-1 , SBT HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13342
+#EXTINF:-1 , SBT RECIFE FHD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13341
+#EXTINF:-1 , SBT TV JORNAL HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13340
+#EXTINF:-1 , SPACE 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13339
+#EXTINF:-1 , SPACE HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13338
+#EXTINF:-1 , SPORTV 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13337
+#EXTINF:-1 , SPORTV 2 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13336
+#EXTINF:-1 , SPORTV 2 HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13334
+#EXTINF:-1 , SPORTV 3 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13333
+#EXTINF:-1 , SPORTV 3 HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13331
+#EXTINF:-1 , SPORTV HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13329
+#EXTINF:-1 , STUDIO UNIVERSAL 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13328
+#EXTINF:-1 , STUDIO UNIVERSAL HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13326
+#EXTINF:-1 , SYFY 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13325
+#EXTINF:-1 , SYFY FHD (H265) 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13324
+#EXTINF:-1 , SYFY HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13323
+#EXTINF:-1 , TBS 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13322
+#EXTINF:-1 , TBS HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13321
+#EXTINF:-1 , TCM 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13320
+#EXTINF:-1 , TCM HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13319
+#EXTINF:-1 , TELECINE ACTION 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13318
+#EXTINF:-1 , TELECINE ACTION HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13316
+#EXTINF:-1 , TELECINE CULT 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13315
+#EXTINF:-1 , TELECINE CULT HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13313
+#EXTINF:-1 , TELECINE FUN 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13312
+#EXTINF:-1 , TELECINE FUN HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13310
+#EXTINF:-1 , TELECINE PIPOCA 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13309
+#EXTINF:-1 , TELECINE PIPOCA HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13307
+#EXTINF:-1 , TELECINE PREMIUM 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13306
+#EXTINF:-1 , TELECINE TOUCH 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13304
+#EXTINF:-1 , TERRA VIVA 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13302
+#EXTINF:-1 , TLC 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13301
+#EXTINF:-1 , TLC HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13300
+#EXTINF:-1 , TNT 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13299
+#EXTINF:-1 , TNT HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13297
+#EXTINF:-1 , TNT SERIES 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13296
+#EXTINF:-1 , TNT SERIES HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13294
+#EXTINF:-1 , TOONCAST 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13293
+#EXTINF:-1 , TOONCAST HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13292
+#EXTINF:-1 , TRUTV 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13291
+#EXTINF:-1 , TV APARECIDA 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13290
+#EXTINF:-1 , TV BRASIL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13289
+#EXTINF:-1 , TV CAMARA 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13288
+#EXTINF:-1 , TV CULTURA 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13287
+#EXTINF:-1 , TV ESCOLA 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13286
+#EXTINF:-1 , TV ESTACAO FHD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13285
+#EXTINF:-1 , TV JUSTI?A 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13284
+#EXTINF:-1 , TV NOVO TEMPO 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13283
+#EXTINF:-1 , TV RA TIM BUM
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13282
+#EXTINF:-1 , TV RA TIM BUM HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13281
+#EXTINF:-1 , TV SENADO 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13280
+#EXTINF:-1 , TVE TVE
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13279
+#EXTINF:-1 , UNIVERSAL CHANNEL 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13278
+#EXTINF:-1 , UNIVERSAL CHANNEL FHD (H265) 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13277
+#EXTINF:-1 , UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13276
+#EXTINF:-1 , VH1 HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13275
+#EXTINF:-1 , VH1 MEGAHITS 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13274
+#EXTINF:-1 , VIVA VIVA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13273
+#EXTINF:-1 , VIVA FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13272
+#EXTINF:-1 , WARNER CHANNEL 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13271
+#EXTINF:-1 , WARNER CHANNEL HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13269
+#EXTINF:-1 , WOOHOO 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13268
+#EXTINF:-1 , WOOHOO HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13267
+#EXTINF:-1 , ZOOMOO 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://setv.ma:1925/zxc0007/jb5BdtBcxa/13266

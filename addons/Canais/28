@@ -1,0 +1,255 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://encurtador.com.br/CHQU4" group-title="", CANAL RICOS
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.ts
+#EXTINF:-1,BR | A&E
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/19013.m3u8
+#EXTINF:-1,BR | AMC
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18886.m3u8
+#EXTINF:-1,BR | ANIMAL PLANET
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18991.m3u8
+#EXTINF:-1,BR | AXN
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18990.m3u8
+#EXTINF:-1,BR | Baby TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18989.m3u8
+#EXTINF:-1,BR | BAND ESPORTES
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18988.m3u8
+#EXTINF:-1,BR | BAND NEWS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18987.m3u8
+#EXTINF:-1,BR | BANDEIRANTES
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18986.m3u8
+#EXTINF:-1,BR | BIS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/19012.m3u8
+#EXTINF:-1,BR | BOOMERANG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18985.m3u8
+#EXTINF:-1,BR | CANAL BRASIL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18984.m3u8
+#EXTINF:-1,BR | CANAL SONY
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18983.m3u8
+#EXTINF:-1,BR | CARTOON NETWORK
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18982.m3u8
+#EXTINF:-1,BR | CINEMAX
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18981.m3u8
+#EXTINF:-1,BR | CNN Internacional
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18996.m3u8
+#EXTINF:-1,BR | COMBATE
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18980.m3u8
+#EXTINF:-1,BR | COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18979.m3u8
+#EXTINF:-1,BR | DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18978.m3u8
+#EXTINF:-1,BR | DISCOVERY CIVILIZATION
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18977.m3u8
+#EXTINF:-1,BR | DISCOVERY H/H
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18976.m3u8
+#EXTINF:-1,BR | DISCOVERY ID
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18975.m3u8
+#EXTINF:-1,BR | DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18974.m3u8
+#EXTINF:-1,BR | DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18973.m3u8
+#EXTINF:-1,BR | DISCOVERY THEATER
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18972.m3u8
+#EXTINF:-1,BR | DISCOVERY TURBO
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18971.m3u8
+#EXTINF:-1,BR | Disney
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/19010.m3u8
+#EXTINF:-1,BR | DISNEY CH
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18970.m3u8
+#EXTINF:-1,BR | DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18969.m3u8
+#EXTINF:-1,BR | DISNEY XD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18968.m3u8
+#EXTINF:-1,BR | E!
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18967.m3u8
+#EXTINF:-1,BR | EI MAXX 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18966.m3u8
+#EXTINF:-1,BR | EI Mxx 1
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/19009.m3u8
+#EXTINF:-1,BR | EI Mxx 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/19008.m3u8
+#EXTINF:-1,BR | ESPN
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18965.m3u8
+#EXTINF:-1,BR | ESPN BRASIL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18964.m3u8
+#EXTINF:-1,BR | ESPN_
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18963.m3u8
+#EXTINF:-1,BR | FISH TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18960.m3u8
+#EXTINF:-1,BR | FOOD NETWORK
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18889.m3u8
+#EXTINF:-1,BR | FOX
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18959.m3u8
+#EXTINF:-1,BR | FOX LIFE
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18958.m3u8
+#EXTINF:-1,BR | FOX PREMIUM 1 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18884.m3u8
+#EXTINF:-1,BR | FOX PREMIUM 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18883.m3u8
+#EXTINF:-1,BR | FOX SPORTS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18957.m3u8
+#EXTINF:-1,BR | FOX SPORTS 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18956.m3u8
+#EXTINF:-1,BR | FUTURA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18955.m3u8
+#EXTINF:-1,BR | FX
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18954.m3u8
+#EXTINF:-1,BR | GAZETA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18888.m3u8
+#EXTINF:-1,BR | GLOBO NEWS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18952.m3u8
+#EXTINF:-1,BR | GLOBO RJ
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18951.m3u8
+#EXTINF:-1,BR | GLOBO SP
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18950.m3u8
+#EXTINF:-1,BR | GLOOB
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18949.m3u8
+#EXTINF:-1,BR | GNT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18948.m3u8
+#EXTINF:-1,BR | H2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/19007.m3u8
+#EXTINF:-1,BR | HBO
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18947.m3u8
+#EXTINF:-1,BR | HBO FAMILY
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18946.m3u8
+#EXTINF:-1,BR | HBO PLUS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18945.m3u8
+#EXTINF:-1,BR | HBO PLUS E
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18944.m3u8
+#EXTINF:-1,BR | HBO SIGNATURE
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18943.m3u8
+#EXTINF:-1,BR | HBO2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18942.m3u8
+#EXTINF:-1,BR | I-SAT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/19006.m3u8
+#EXTINF:-1,BR | LIFETIME
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18881.m3u8
+#EXTINF:-1,BR | Mais Globosat
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18880.m3u8
+#EXTINF:-1,BR | MAX
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18941.m3u8
+#EXTINF:-1,BR | MAX PRIME
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18940.m3u8
+#EXTINF:-1,BR | MAX PRIME E
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18939.m3u8
+#EXTINF:-1,BR | MAX UP
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18938.m3u8
+#EXTINF:-1,BR | MEGAPIX
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18937.m3u8
+#EXTINF:-1,BR | MTV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18936.m3u8
+#EXTINF:-1,BR | MULTISHOW
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18935.m3u8
+#EXTINF:-1,BR | Music Box Brazil
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/19005.m3u8
+#EXTINF:-1,BR | NAT GEO
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18934.m3u8
+#EXTINF:-1,BR | NAT GEO KIDS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18933.m3u8
+#EXTINF:-1,BR | NatGeo Kids
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/19004.m3u8
+#EXTINF:-1,BR | NATGEO WILD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18932.m3u8
+#EXTINF:-1,BR | NBR
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18931.m3u8
+#EXTINF:-1,BR | NICK JR
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18930.m3u8
+#EXTINF:-1,BR | NICKELODEON
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18929.m3u8
+#EXTINF:-1,BR | NOVA TEMPO
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18928.m3u8
+#EXTINF:-1,BR | PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18927.m3u8
+#EXTINF:-1,BR | PFC
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18914.m3u8
+#EXTINF:-1,BR | PLAY TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18926.m3u8
+#EXTINF:-1,BR | PREMIERE 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18924.m3u8
+#EXTINF:-1,BR | PREMIERE 3
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18923.m3u8
+#EXTINF:-1,BR | PREMIERE 4
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18922.m3u8
+#EXTINF:-1,BR | PREMIERE 5
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18921.m3u8
+#EXTINF:-1,BR | PREMIERE 6
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18920.m3u8
+#EXTINF:-1,BR | PREMIERE 7
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18919.m3u8
+#EXTINF:-1,BR | PREMIERE 8
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18918.m3u8
+#EXTINF:-1,BR | RAI
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18995.m3u8
+#EXTINF:-1,BR | RECORD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18916.m3u8
+#EXTINF:-1,BR | RECORD NEWS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18915.m3u8
+#EXTINF:-1,BR | RECORDTV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/19003.m3u8
+#EXTINF:-1,BR | Rede Brasil
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/19002.m3u8
+#EXTINF:-1,BR | REDE BRASIL TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18912.m3u8
+#EXTINF:-1,BR | Rede TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18994.m3u8
+#EXTINF:-1,BR | REDE VIDA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18913.m3u8
+#EXTINF:-1,BR | SBT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18911.m3u8
+#EXTINF:-1,BR | SPACE
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18910.m3u8
+#EXTINF:-1,BR | SPOR-TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18909.m3u8
+#EXTINF:-1,BR | SPOR-TV 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18908.m3u8
+#EXTINF:-1,BR | SPOR-TV 3
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18907.m3u8
+#EXTINF:-1,BR | SporTV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/19001.m3u8
+#EXTINF:-1,BR | STUDIO UNIVERSAL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18906.m3u8
+#EXTINF:-1,BR | SYFY
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18885.m3u8
+#EXTINF:-1,BR | TELECINE ACTION
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18905.m3u8
+#EXTINF:-1,BR | TELECINE CULT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18904.m3u8
+#EXTINF:-1,BR | TELECINE FUN
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18903.m3u8
+#EXTINF:-1,BR | TELECINE PIPOCA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18902.m3u8
+#EXTINF:-1,BR | TELECINE PREMIUM
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18901.m3u8
+#EXTINF:-1,BR | TELECINE TOUCH
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18900.m3u8
+#EXTINF:-1,BR | Terra Viva
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/19000.m3u8
+#EXTINF:-1,BR | The History Channel
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18993.m3u8
+#EXTINF:-1,BR | TLC
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18899.m3u8
+#EXTINF:-1,BR | TNT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18898.m3u8
+#EXTINF:-1,BR | TNT SERIES
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18897.m3u8
+#EXTINF:-1,BR | TOONCAST
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18896.m3u8
+#EXTINF:-1,BR | TRUTV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18895.m3u8
+#EXTINF:-1,BR | TV CULTURA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18894.m3u8
+#EXTINF:-1,BR | TV Novo Tempo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18992.m3u8
+#EXTINF:-1,BR | TV RA tim bum
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18999.m3u8
+#EXTINF:-1,BR | UNIVERSAL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18893.m3u8
+#EXTINF:-1,BR | Universal Channel
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18998.m3u8
+#EXTINF:-1,BR | VH1
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18892.m3u8
+#EXTINF:-1,BR | VH1 Megahits
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18997.m3u8
+#EXTINF:-1,BR | VIVA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18891.m3u8
+#EXTINF:-1,BR | WARNER CHANNEL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://tv-prime.tv:8080/live/miguelzamora2/tEKFEpq20s/18890.m3u8

@@ -1,0 +1,183 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://encurtador.com.br/CHQU4" group-title="", CANAL RICOS
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.ts
+#EXTINF:-1,Brasil - A&E HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23874.m3u8
+#EXTINF:-1,Brasil - AMC HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23873.m3u8
+#EXTINF:-1,Brasil - Animal Planet HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23872.m3u8
+#EXTINF:-1,Brasil - Arte1 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23871.m3u8
+#EXTINF:-1,Brasil - AXN HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23870.m3u8
+#EXTINF:-1,Brasil - Band News HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23868.m3u8
+#EXTINF:-1,Brasil - Boomerang HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23867.m3u8
+#EXTINF:-1,BANDSPORTS BRASIL HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/15013.m3u8
+#EXTINF:-1,FISH TV BRASIL HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14986.m3u8
+#EXTINF:-1,FOX SPORTS BRASIL HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/3972.m3u8
+#EXTINF:-1,FOX SPORTS  BRASIL FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/3971.m3u8
+#EXTINF:-1,FOX SPORTS 2 BRASIL HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14982.m3u8
+#EXTINF:-1,PREMIERE  CLUBES HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14942.m3u8
+#EXTINF:-1,PREMIERE 2 BRASIL HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14941.m3u8
+#EXTINF:-1,PREMIERE 5 BRASIL HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14938.m3u8
+#EXTINF:-1,ALL SPORTS BR
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/36745.m3u8
+#EXTINF:-1,SPORTV BRASIL HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14924.m3u8
+#EXTINF:-1,SPORTV2 BRASIL HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14923.m3u8
+#EXTINF:-1,SPORTV3 BRASIL HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14922.m3u8
+#EXTINF:-1,Brasil - Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23866.m3u8
+#EXTINF:-1,Brasil - Cinemax HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23865.m3u8
+#EXTINF:-1,Brasil - Cultura HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/15003.m3u8
+#EXTINF:-1,Brasil - Discovery Civilization SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23864.m3u8
+#EXTINF:-1,Brasil - Discovery Turbo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23861.m3u8
+#EXTINF:-1,Brasil - Discovery Channel HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/15002.m3u8
+#EXTINF:-1,Brasil - Discovery Home & Health HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/15001.m3u8
+#EXTINF:-1,Brasil - Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/15000.m3u8
+#EXTINF:-1,Brasil - Discovery World HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14996.m3u8
+#EXTINF:-1,Brasil - Disney Junior HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23859.m3u8
+#EXTINF:-1,Brasil - Disney XD HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23858.m3u8
+#EXTINF:-1,Brasil - E! HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14992.m3u8
+#EXTINF:-1,ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/11714.m3u8
+#EXTINF:-1,ESPN BRASIL SD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/11715.m3u8
+#EXTINF:-1,Brasil - FOX FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23857.m3u8
+#EXTINF:-1,Brasil - FX HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23855.m3u8
+#EXTINF:-1,Brasil - Globo Brasilia
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23842.m3u8
+#EXTINF:-1,Brasil - Globo RJ HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23840.m3u8
+#EXTINF:-1,Brasil - Globo SP FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23839.m3u8
+#EXTINF:-1,Brasil - GloboNews HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14979.m3u8
+#EXTINF:-1,Brasil - Gloob HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14978.m3u8
+#EXTINF:-1,Brasil - GNT HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14968.m3u8
+#EXTINF:-1,Brasil - H2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14967.m3u8
+#EXTINF:-1,Brasil - HBO 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14966.m3u8
+#EXTINF:-1,Brasil - HBO HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14964.m3u8
+#EXTINF:-1,Brasil - HBO Plus e HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14963.m3u8
+#EXTINF:-1,Brasil - HBO Plus HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14962.m3u8
+#EXTINF:-1,Brasil - HBO Signature HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14961.m3u8
+#EXTINF:-1,Brasil - History Channel HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14960.m3u8
+#EXTINF:-1,Brasil - ID HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14959.m3u8
+#EXTINF:-1,Brasil - Lifetime HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14958.m3u8
+#EXTINF:-1,Brasil - Mais Globosat HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14957.m3u8
+#EXTINF:-1,Brasil - Max HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14956.m3u8
+#EXTINF:-1,Brasil - MAX Prime HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14955.m3u8
+#EXTINF:-1,Brasil - Megapix HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14953.m3u8
+#EXTINF:-1,Brasil - MTV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14952.m3u8
+#EXTINF:-1,Brasil - MULTISHOW HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14951.m3u8
+#EXTINF:-1,Brasil - Nat Geo Kids HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14950.m3u8
+#EXTINF:-1,Brasil - NatGeo Wild HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14949.m3u8
+#EXTINF:-1,Brasil - National Geographic HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14948.m3u8
+#EXTINF:-1,Brasil - Nick Jr HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14946.m3u8
+#EXTINF:-1,Brasil - Nickelodeon HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14945.m3u8
+#EXTINF:-1,Brasil - Paramount Channel HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14944.m3u8
+#EXTINF:-1,Brasil - REDE TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23845.m3u8
+#EXTINF:-1,Brasil - RedeTV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23854.m3u8
+#EXTINF:-1,Brasil - Record HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14933.m3u8
+#EXTINF:-1,Brasil - Syfy HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14920.m3u8
+#EXTINF:-1,Brasil - SBT HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23853.m3u8
+#EXTINF:-1,Brasil - Sony HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23852.m3u8
+#EXTINF:-1,Brasil - Space HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23851.m3u8
+#EXTINF:-1,Brasil - Studio Universal HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23850.m3u8
+#EXTINF:-1,Brasil - TV Aparecida HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14907.m3u8
+#EXTINF:-1,Brasil - TBS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14919.m3u8
+#EXTINF:-1,Brasil - Telecine Action HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23848.m3u8
+#EXTINF:-1,Brasil - Telecine Fun HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23847.m3u8
+#EXTINF:-1,Brasil - Telecine Cult  HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14916.m3u8
+#EXTINF:-1,Brasil - Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14914.m3u8
+#EXTINF:-1,Brasil - Telecine Premium HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14913.m3u8
+#EXTINF:-1,Brasil - Telecine Touch HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/31450.m3u8
+#EXTINF:-1,Brasil - TLC HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14911.m3u8
+#EXTINF:-1,Brasil - TNT HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14910.m3u8
+#EXTINF:-1,Brasil - Tooncast HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14908.m3u8
+#EXTINF:-1,Brasil - TNT Series HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23846.m3u8
+#EXTINF:-1,Brasil - TV Globo internacional
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23844.m3u8
+#EXTINF:-1,Brasil - Record News
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/23843.m3u8
+#EXTINF:-1,Brasil - Universal Channel HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14906.m3u8
+#EXTINF:-1,Brasil - VH1 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14904.m3u8
+#EXTINF:-1,Brasil - Warner Bros HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/14902.m3u8
+#EXTINF:-1,SBT HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/36744.m3u8
+#EXTINF:-1,TV CIDADE VERDE
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/36741.m3u8
+#EXTINF:-1,TV A CARA DA BAHIA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://iptvevolucion.ddns.net:25461/live/Raulolea28/YMWWZy8XgF/36740.m3u8

@@ -1,0 +1,2035 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://encurtador.com.br/CHQU4" group-title="", CANAL RICOS
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.ts
+#EXTINF:-1,Globo RJ FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12665
+#EXTINF:-1,Globo RJ HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1586
+#EXTINF:-1,Globo RJ
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1752
+#EXTINF:-1,Globo RJ  FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41723
+#EXTINF:-1,Globo RJ Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12991
+#EXTINF:-1,Globo RJ Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/8667
+#EXTINF:-1,Globo TV RIO Sul RJ FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41765
+#EXTINF:-1,Globo TV RIO Sul RJ HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41764
+#EXTINF:-1,Globo TV RIO Sul RJ
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41763
+#EXTINF:-1,Globo Inter TV Alto Litoral RJ FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41792
+#EXTINF:-1,Globo Inter TV Alto Litoral RJ HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41791
+#EXTINF:-1,Globo Inter TV Alto Litoral RJ
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41790
+#EXTINF:-1,Globo Inter TV Serra Mar RJ FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41783
+#EXTINF:-1,Globo Inter TV Serra Mar RJ HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41782
+#EXTINF:-1,Globo Inter TV Serra Mar RJ
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41781
+#EXTINF:-1,Globo SP FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21615
+#EXTINF:-1,Globo SP HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17241
+#EXTINF:-1,Globo SP
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/111
+#EXTINF:-1,Globo SP  FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31624
+#EXTINF:-1,Globo SP Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/18836
+#EXTINF:-1,Globo SP Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/8664
+#EXTINF:-1,Globo MG FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21616
+#EXTINF:-1,Globo MG HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/5989
+#EXTINF:-1,Globo MG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1653
+#EXTINF:-1,Globo MG Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/9461
+#EXTINF:-1,Globo MG Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/11450
+#EXTINF:-1,Globo Inter TV Dos Vales MG FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41789
+#EXTINF:-1,Globo Inter TV Dos Vales MG HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41788
+#EXTINF:-1,Globo Inter TV Dos Vales MG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41787
+#EXTINF:-1,Globo Inter TV Grande Minas FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41786
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41785
+#EXTINF:-1,Globo Inter TV Grande Minas
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41784
+#EXTINF:-1,Globo Nordeste FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17071
+#EXTINF:-1,Globo Nordeste HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/8485
+#EXTINF:-1,Globo Nordeste
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/6136
+#EXTINF:-1,Globo Nordeste Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/9469
+#EXTINF:-1,Globo RPC TV Curitiba FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21617
+#EXTINF:-1,Globo RPC TV Curitiba HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/18837
+#EXTINF:-1,Globo RPC TV Curitiba
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/18838
+#EXTINF:-1,Globo RPC Foz do Iguaçu FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29676
+#EXTINF:-1,Globo RPC Foz do Iguaçu HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29677
+#EXTINF:-1,Globo RPC Foz do Iguaçu
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29678
+#EXTINF:-1,Globo RPC TV Paraná
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/30678
+#EXTINF:-1,Globo NSC TV Florianopolis FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29777
+#EXTINF:-1,Globo NSC TV Florianopolis HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21619
+#EXTINF:-1,Globo NSC TV Florianopolis
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21618
+#EXTINF:-1,Globo NSC TV Chapecó FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29673
+#EXTINF:-1,Globo NSC TV Chapecó HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29674
+#EXTINF:-1,Globo NSC TV Chapecó
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29675
+#EXTINF:-1,Globo NSC TV Santa Catarina
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/40391
+#EXTINF:-1,Globo NSC TV Blumenau SC FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41780
+#EXTINF:-1,Globo NSC TV Blumenau SC HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41779
+#EXTINF:-1,Globo NSC TV Blumenau SC
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41778
+#EXTINF:-1,Globo NSC TV Joinville SC FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41774
+#EXTINF:-1,Globo NSC TV Joinville SC HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41773
+#EXTINF:-1,Globo NSC TV Joinville SC
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41772
+#EXTINF:-1,Globo RBS TV Porto Alegre FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29663
+#EXTINF:-1,Globo RBS TV Porto Alegre HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21620
+#EXTINF:-1,Globo RBS TV Porto Alegre
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12095
+#EXTINF:-1,Globo RBS TV Porto Alegre Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1484
+#EXTINF:-1,Globo RBS TV Caxias Do Sul RS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41775
+#EXTINF:-1,Globo RBS TV Caxias Do Sul RS FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41777
+#EXTINF:-1,Globo RBS TV Caxias Do Sul RS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41776
+#EXTINF:-1,Globo RBS TV Pelotas RS FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41771
+#EXTINF:-1,Globo RBS TV Pelotas RS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41770
+#EXTINF:-1,Globo RBS TV Pelotas RS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41769
+#EXTINF:-1,Globo TV Gazeta Vitória FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29682
+#EXTINF:-1,Globo TV Gazeta Vitória HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29683
+#EXTINF:-1,Globo TV Gazeta Vitória
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29684
+#EXTINF:-1,Globo TV Gazeta Sul ES FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31274
+#EXTINF:-1,Globo TV Gazeta Sul ES HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31275
+#EXTINF:-1,Globo TV Gazeta Alagoas FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29892
+#EXTINF:-1,Globo TV Gazeta Alagoas HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29891
+#EXTINF:-1,Globo TV Gazeta Alagoas
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29893
+#EXTINF:-1,Globo TV Sergipe FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29685
+#EXTINF:-1,Globo TV Sergipe HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29686
+#EXTINF:-1,Globo TV Sergipe
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29687
+#EXTINF:-1,Globo TV Clube Teresina FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29679
+#EXTINF:-1,Globo TV Clube Teresina HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29680
+#EXTINF:-1,Globo TV Clube Teresina
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29681
+#EXTINF:-1,Globo Brasília FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29779
+#EXTINF:-1,Globo Brasília HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/18200
+#EXTINF:-1,Globo Brasília
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1751
+#EXTINF:-1,Globo Brasília Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21583
+#EXTINF:-1,Globo Brasília Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21584
+#EXTINF:-1,Globo Bahia FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29775
+#EXTINF:-1,Globo Bahia HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21206
+#EXTINF:-1,Globo Bahia
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/8481
+#EXTINF:-1,Globo Bahia Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21694
+#EXTINF:-1,Globo Bahia Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21695
+#EXTINF:-1,Globo TV Anhanguera Goiânia FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29776
+#EXTINF:-1,Globo TV Anhanguera Goiânia HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/9463
+#EXTINF:-1,Globo TV Anhanguera Goiânia
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/2409
+#EXTINF:-1,Globo TV Mirante Sao Luis FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29774
+#EXTINF:-1,Globo TV Mirante Sao Luis HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29773
+#EXTINF:-1,Globo TV Mirante Sao Luis
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29772
+#EXTINF:-1,Globo TV Morena Campo Grande FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29771
+#EXTINF:-1,Globo TV Morena Campo Grande HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29770
+#EXTINF:-1,Globo TV Morena Campo Grande
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29769
+#EXTINF:-1,Globo TV Cabo Branco PB FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41768
+#EXTINF:-1,Globo TV Cabo Branco PB HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41767
+#EXTINF:-1,Globo TV Cabo Branco PB
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41766
+#EXTINF:-1,Globo TV Santa Cruz BA FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41762
+#EXTINF:-1,Globo TV Santa Cruz BA HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41761
+#EXTINF:-1,Globo TV Santa Cruz BA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41760
+#EXTINF:-1,Globo TV Verde Mares HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/43350
+#EXTINF:-1,Globo TV Verdes Mares
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12303
+#EXTINF:-1,Globo TV Verdes Mares Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/27396
+#EXTINF:-1,Globo InterTV Cabugi
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/6992
+#EXTINF:-1,Globo Inter TV RN
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21624
+#EXTINF:-1,Globo TV Amazonas
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/6990
+#EXTINF:-1,Globo TV Amazonas Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/11444
+#EXTINF:-1,Globo EPTV Campinas FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29781
+#EXTINF:-1,Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19971
+#EXTINF:-1,Globo EPTV Campinas
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19972
+#EXTINF:-1,Globo EPTV Campinas Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31545
+#EXTINF:-1,Globo EPTV Ribeirao Preto FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31270
+#EXTINF:-1,Globo EPTV Ribeirao Preto HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19979
+#EXTINF:-1,Globo EPTV Ribeirão Preto
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/7003
+#EXTINF:-1,Globo EPTV Ribeirao Preto Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31546
+#EXTINF:-1,Globo EPTV São Carlos
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19981
+#EXTINF:-1,Globo EPTV São Carlos Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31549
+#EXTINF:-1,Globo EPTV Araraquara
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21623
+#EXTINF:-1,Globo TV Tem Sao Jose Rio do Preto FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29780
+#EXTINF:-1,Globo TV Tem Sao Jose do Rio Preto HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19984
+#EXTINF:-1,Globo Tv Tem Sao Jose do Rio Preto
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19985
+#EXTINF:-1,Globo Tv Tem Sao Jose do Rio Preto Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31547
+#EXTINF:-1,Globo Tv Tem Sorocaba
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/6993
+#EXTINF:-1,Globo Tv Tem Sorocaba Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31548
+#EXTINF:-1,Globo Tv Tem Bauru
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19987
+#EXTINF:-1,Globo TV Tribuna
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/16169
+#EXTINF:-1,Globo TV Liberal Belém
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/9464
+#EXTINF:-1,Globo TV Centro America MT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21696
+#EXTINF:-1,Globo TV Vanguarda S. J. dos Campos
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13800
+#EXTINF:-1,Globo Internacional FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31128
+#EXTINF:-1,Globo Internacional
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29617
+#EXTINF:-1,Globo Portugal
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/283
+#EXTINF:-1,Globo Portugal Aternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31095
+#EXTINF:-1,Globo Now
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/226
+#EXTINF:-1,Globo Now Aternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31094
+#EXTINF:-1,RecordTV SP FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21622
+#EXTINF:-1,RecordTV SP HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1694
+#EXTINF:-1,RecordTV SP
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/252
+#EXTINF:-1,RecordTV Alternativo SP FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/38017
+#EXTINF:-1,RecordTV Alternativo SP HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/7045
+#EXTINF:-1,RecordTV Alternativo SP
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13532
+#EXTINF:-1,RecordTV RJ FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31262
+#EXTINF:-1,RecordTV RJ HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31212
+#EXTINF:-1,RecordTV RJ
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31263
+#EXTINF:-1,RecordTV MG FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31264
+#EXTINF:-1,RecordTV MG HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31265
+#EXTINF:-1,RecordTV MG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31266
+#EXTINF:-1,RecordTV RS FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/35863
+#EXTINF:-1,RecordTV RS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/35858
+#EXTINF:-1,RecordTV RS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/35857
+#EXTINF:-1,RecordTV DF FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/35848
+#EXTINF:-1,RecordTV DF HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/35860
+#EXTINF:-1,RecordTV DF
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/35859
+#EXTINF:-1,RecordTV BA FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/35864
+#EXTINF:-1,RecordTV BA HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/35862
+#EXTINF:-1,RecordTV BA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/35861
+#EXTINF:-1,RecordTV TV Amazonas HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/49161
+#EXTINF:-1,RecordTV TV Atalaia Sergipe HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41950
+#EXTINF:-1,RecordTV TV Atalaia Sergipe
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41974
+#EXTINF:-1,RecordTV Goiás HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/34655
+#EXTINF:-1,RecordTV RICTV Curitiba HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41976
+#EXTINF:-1,RecordTV RICTV Curitiba
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41978
+#EXTINF:-1,RecordTV TV Litoral Santos HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/47524
+#EXTINF:-1,RecordTV Sao Jose do Rio Preto HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/47526
+#EXTINF:-1,RecordTV Parana HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/49162
+#EXTINF:-1,RecordTV TV Paranaiba MG HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/47523
+#EXTINF:-1,RecordTV TV Cabralia BA HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/47527
+#EXTINF:-1,RecordTV RICTV SC HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41898
+#EXTINF:-1,RecordTV Belem HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/47525
+#EXTINF:-1,RecordTV Portugal
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/289
+#EXTINF:-1,RecordTV Portugal Aternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31093
+#EXTINF:-1,SBT FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12662
+#EXTINF:-1,SBT HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1961
+#EXTINF:-1,Sbt
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/373
+#EXTINF:-1,SBT HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12886
+#EXTINF:-1,SBT Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/18203
+#EXTINF:-1,SBT SP Interior
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21676
+#EXTINF:-1,SBT TV Alterosa HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31127
+#EXTINF:-1,SBT Santa Catarina HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41897
+#EXTINF:-1,SBT RS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/46023
+#EXTINF:-1,SBT Parana HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41975
+#EXTINF:-1,SBT Sergipe HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41952
+#EXTINF:-1,SBT TV Aratu BA HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/47529
+#EXTINF:-1,SBT TV Jornal PE HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/49160
+#EXTINF:-1,Band FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/7047
+#EXTINF:-1,Band HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1744
+#EXTINF:-1,Band
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/372
+#EXTINF:-1,Band Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19956
+#EXTINF:-1,Band Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21197
+#EXTINF:-1,Band TV Goiania FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/43306
+#EXTINF:-1,Band RJ HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/46791
+#EXTINF:-1,Band Aracaju SE HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41951
+#EXTINF:-1,Band TV Taroba Parana HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41977
+#EXTINF:-1,Band TV Taroba
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/40385
+#EXTINF:-1,Rede TV FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/7046
+#EXTINF:-1,Rede TV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1862
+#EXTINF:-1,Rede Tv
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/297
+#EXTINF:-1,Rede TV Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21198
+#EXTINF:-1,Rede Tv Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21199
+#EXTINF:-1,TV Diario Fortaleza FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41971
+#EXTINF:-1,TV Diario Fortaleza HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41972
+#EXTINF:-1,TV Diario Fortaleza
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41973
+#EXTINF:-1,TV Cultura FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31272
+#EXTINF:-1,TV Cultura HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31271
+#EXTINF:-1,TV Cultura
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/2422
+#EXTINF:-1,TV Brasil
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1928
+#EXTINF:-1,TV Diario
+http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8
+#EXTINF:-1,TV Gazeta HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/18202
+#EXTINF:-1,TV Gazeta
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1929
+#EXTINF:-1,TV Escola
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12108
+#EXTINF:-1,TV Câmara
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1783
+#EXTINF:-1,TV Justica
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/35902
+#EXTINF:-1,TV Senado
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/6651
+#EXTINF:-1,Canal Brasil FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13899
+#EXTINF:-1,Canal Brasil HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/6542
+#EXTINF:-1,Canal Brasil
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/237
+#EXTINF:-1,Canal Brasil Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21730
+#EXTINF:-1,Canal Brasil Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21731
+#EXTINF:-1,Futura FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31204
+#EXTINF:-1,Futura HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21692
+#EXTINF:-1,Futura
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/6653
+#EXTINF:-1,NBR
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1843
+#EXTINF:-1,Terra Viva
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17520
+#EXTINF:-1,Canal Rural
+http://hls-live.crur.al/hlsmedium/playlist.m3u8
+#EXTINF:-1,Rede Brasil
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1780
+#EXTINF:-1,Globo News FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21625
+#EXTINF:-1,Globo News HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/18760
+#EXTINF:-1,Globo News
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/227
+#EXTINF:-1,Globo News Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19955
+#EXTINF:-1,Globo News Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13526
+#EXTINF:-1,Globo News -Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13527
+#EXTINF:-1,Band News FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21626
+#EXTINF:-1,Band News HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/20885
+#EXTINF:-1,Band News
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/239
+#EXTINF:-1,Band News Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13528
+#EXTINF:-1,Record News FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29662
+#EXTINF:-1,Record News HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19996
+#EXTINF:-1,Record News
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/290
+#EXTINF:-1,Record News Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/35903
+#EXTINF:-1,Record News Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13529
+#EXTINF:-1,Animal Planet UHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/49064
+#EXTINF:-1,Band UHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/48465
+#EXTINF:-1,Cartoon Network UHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/49238
+#EXTINF:-1,Combate UHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/35865
+#EXTINF:-1,Combate UHD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/48511
+#EXTINF:-1,Discovery Channel UHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/48507
+#EXTINF:-1,ESPN UHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/35866
+#EXTINF:-1,FOX Sports UHD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/48509
+#EXTINF:-1,FOX Sports 2 UHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/49240
+#EXTINF:-1,Globo SP UHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/40346
+#EXTINF:-1,NatGeo UHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/49255
+#EXTINF:-1,MegaPix UHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/49239
+#EXTINF:-1,Multishow UHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/48467
+#EXTINF:-1,Premiere Clubes UHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29690
+#EXTINF:-1,Premiere Clubes UHD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/49066
+#EXTINF:-1,RecordTV TV UHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/48466
+#EXTINF:-1,SBT UHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/48510
+#EXTINF:-1,SporTV UHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21749
+#EXTINF:-1,SporTV UHD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/49065
+#EXTINF:-1,TNT UHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/48508
+#EXTINF:-1,International Champions HD 2019
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/49190
+#EXTINF:-1,International Champions 2019
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/49189
+#EXTINF:-1,SporTV FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/11472
+#EXTINF:-1,SporTV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1583
+#EXTINF:-1,SporTV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/109
+#EXTINF:-1,SporTV HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12864
+#EXTINF:-1,SporTV Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13520
+#EXTINF:-1,SporTV 2 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21627
+#EXTINF:-1,SporTV 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1619
+#EXTINF:-1,SporTv 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/402
+#EXTINF:-1,SporTV 2 HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/18833
+#EXTINF:-1,SporTV 2 Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/18834
+#EXTINF:-1,SporTV 3 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17042
+#EXTINF:-1,SporTV 3 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1620
+#EXTINF:-1,SporTV 3
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/366
+#EXTINF:-1,SporTV 3 HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19959
+#EXTINF:-1,SporTV 3 Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19960
+#EXTINF:-1,FOX Sports ‐FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29336
+#EXTINF:-1,FOX Sports HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1589
+#EXTINF:-1,Fox Sports
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/368
+#EXTINF:-1,FOX Sports HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/18835
+#EXTINF:-1,Fox Sports Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17191
+#EXTINF:-1,FOX Sports 2 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21629
+#EXTINF:-1,Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1499
+#EXTINF:-1,Fox Sports 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/367
+#EXTINF:-1,Fox Sports 2 HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/20934
+#EXTINF:-1,Fox Sports 2 Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17193
+#EXTINF:-1,ESPN Brasil FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13523
+#EXTINF:-1,ESPN Brasil HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1588
+#EXTINF:-1,ESPN Brasil
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/369
+#EXTINF:-1,ESPN Brasil HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17967
+#EXTINF:-1,Espn Brasil Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/16172
+#EXTINF:-1,ESPN FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17045
+#EXTINF:-1,ESPN HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1602
+#EXTINF:-1,ESPN
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/232
+#EXTINF:-1,ESPN HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19957
+#EXTINF:-1,ESPN Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21732
+#EXTINF:-1,ESPN 2 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17511
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1603
+#EXTINF:-1,ESPN 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/408
+#EXTINF:-1,ESPN 2 HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19958
+#EXTINF:-1,ESPN 2 Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31617
+#EXTINF:-1,ESPN Extra FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21630
+#EXTINF:-1,ESPN Extra HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21631
+#EXTINF:-1,ESPN Extra
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21632
+#EXTINF:-1,EI Plus HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/43012
+#EXTINF:-1,EI Plus
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/43013
+#EXTINF:-1,EI Plus Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/42125
+#EXTINF:-1,EI Plus Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/42126
+#EXTINF:-1,Combate FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21621
+#EXTINF:-1,Combate ‐FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29735
+#EXTINF:-1,Combate HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1601
+#EXTINF:-1,Combate
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/110
+#EXTINF:-1,Combate HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12806
+#EXTINF:-1,Combate Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/20984
+#EXTINF:-1,Band Sports FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31197
+#EXTINF:-1,Band Sports HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1600
+#EXTINF:-1,Band Sports
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/370
+#EXTINF:-1,Band Sports HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21192
+#EXTINF:-1,Band Sports Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21193
+#EXTINF:-1,DAZN FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/47675
+#EXTINF:-1,DAZN HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/47796
+#EXTINF:-1,DAZN
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/47676
+#EXTINF:-1,DAZN Alternativo²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/48376
+#EXTINF:-1,DAZN Alternativo³
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/49288
+#EXTINF:-1,Copa Libertadores
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/47710
+#EXTINF:-1,Copa Sulamericana
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/47711
+#EXTINF:-1,Brasileirão Série C
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/47709
+#EXTINF:-1,NBA TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12236
+#EXTINF:-1,Premiere Clubes FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17293
+#EXTINF:-1,Premiere Clubes HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/204
+#EXTINF:-1,Premiere Clubes
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1930
+#EXTINF:-1,Premiere Clubes  FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31625
+#EXTINF:-1,Premiere Clubes Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12857
+#EXTINF:-1,Premiere Clubes Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13511
+#EXTINF:-1,PFC
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/210
+#EXTINF:-1,Premiere 2 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13796
+#EXTINF:-1,Premiere 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1717
+#EXTINF:-1,Premiere 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/259
+#EXTINF:-1,Premiere 2 -Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13495
+#EXTINF:-1,Premiere 2 Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13510
+#EXTINF:-1,Premiere 3 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13797
+#EXTINF:-1,Premiere 3 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1721
+#EXTINF:-1,Premiere 3
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/269
+#EXTINF:-1,Premiere 3 -Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13496
+#EXTINF:-1,Premiere 3  Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13509
+#EXTINF:-1,Premiere 4 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17051
+#EXTINF:-1,Premiere 4 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1722
+#EXTINF:-1,Premiere 4
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/270
+#EXTINF:-1,Premiere 4 -Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13497
+#EXTINF:-1,Premiere 4  Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13508
+#EXTINF:-1,Premiere 5 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17050
+#EXTINF:-1,Premiere 5 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1723
+#EXTINF:-1,Premiere 5
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/271
+#EXTINF:-1,Premiere 5 -Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13498
+#EXTINF:-1,Premiere 5  Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13507
+#EXTINF:-1,Premiere 6 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17049
+#EXTINF:-1,Premiere 6 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/8488
+#EXTINF:-1,Premiere 6
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/208
+#EXTINF:-1,Premiere 6 Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/27417
+#EXTINF:-1,Premiere 6  Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13506
+#EXTINF:-1,Premiere 7 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17048
+#EXTINF:-1,Premiere 7 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/8482
+#EXTINF:-1,Premiere 7
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/207
+#EXTINF:-1,Premiere 7 Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/27418
+#EXTINF:-1,Premiere 7  Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13505
+#EXTINF:-1,Premiere 8
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/206
+#EXTINF:-1,Premiere 9
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/205
+#EXTINF:-1,Tabela Jogos Premiere
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29657
+#EXTINF:-1,Telecine Premium FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/11475
+#EXTINF:-1,Telecine Premium HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1631
+#EXTINF:-1,Telecine Premium
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/805
+#EXTINF:-1,Telecine Premium HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12872
+#EXTINF:-1,Telecine Premium Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21114
+#EXTINF:-1,Telecine Pipoca FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12204
+#EXTINF:-1,Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1596
+#EXTINF:-1,Telecine Pipoca
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/804
+#EXTINF:-1,Telecine Pipoca HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12871
+#EXTINF:-1,Telecine Pipoca Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/9228
+#EXTINF:-1,Telecine Action FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/11476
+#EXTINF:-1,Telecine Action HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1584
+#EXTINF:-1,Telecine Action
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/806
+#EXTINF:-1,Telecine Action HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12868
+#EXTINF:-1,Telecine Action Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/6997
+#EXTINF:-1,Telecine Touch FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/11477
+#EXTINF:-1,Telecine Touch HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1626
+#EXTINF:-1,Telecine Touch
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/807
+#EXTINF:-1,Telecine Touch HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12873
+#EXTINF:-1,Telecine Touch Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/6677
+#EXTINF:-1,Telecine Fun FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12205
+#EXTINF:-1,Telecine Fun HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1624
+#EXTINF:-1,Telecine Fun
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/803
+#EXTINF:-1,Telecine Fun HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12870
+#EXTINF:-1,Telecine Fun Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/9230
+#EXTINF:-1,Telecine Cult FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13885
+#EXTINF:-1,Telecine Cult HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/5902
+#EXTINF:-1,Telecine Cult
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/808
+#EXTINF:-1,Telecine Cult HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21353
+#EXTINF:-1,Telecine Cult Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/9229
+#EXTINF:-1,MegaPix FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17510
+#EXTINF:-1,MegaPix HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1615
+#EXTINF:-1,MegaPix
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/112
+#EXTINF:-1,Megapix HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19961
+#EXTINF:-1,MegaPix Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/6996
+#EXTINF:-1,Universal TV FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17512
+#EXTINF:-1,Universal TV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1501
+#EXTINF:-1,Universal TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/265
+#EXTINF:-1,Universal TV HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21352
+#EXTINF:-1,Universal TV Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/7002
+#EXTINF:-1,Studio Universal FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13888
+#EXTINF:-1,Studio Universal HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/7021
+#EXTINF:-1,Studio Universal
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/174
+#EXTINF:-1,Studio Universal HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12865
+#EXTINF:-1,Studio Universal Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/8684
+#EXTINF:-1,Syfy FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13887
+#EXTINF:-1,SyFy HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/9231
+#EXTINF:-1,Syfy
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/103
+#EXTINF:-1,SyFy HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21350
+#EXTINF:-1,SyFy Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21351
+#EXTINF:-1,HBO FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/16180
+#EXTINF:-1,HBO HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1585
+#EXTINF:-1,HBO
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/390
+#EXTINF:-1,HBO Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12836
+#EXTINF:-1,HBO Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/6988
+#EXTINF:-1,HBO 2 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/16181
+#EXTINF:-1,HBO 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1594
+#EXTINF:-1,HBO 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/387
+#EXTINF:-1,HBO 2 Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12834
+#EXTINF:-1,HBO 2 Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12103
+#EXTINF:-1,HBO Signature FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/20939
+#EXTINF:-1,HBO Signature HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1608
+#EXTINF:-1,HBO Signature
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1485
+#EXTINF:-1,HBO Signature Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12838
+#EXTINF:-1,HBO Signature Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/6995
+#EXTINF:-1,HBO Family FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/20940
+#EXTINF:-1,HBO Family HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1606
+#EXTINF:-1,HBO Family
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/219
+#EXTINF:-1,HBO Family Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12835
+#EXTINF:-1,HBO Family Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/7005
+#EXTINF:-1,HBO Plus FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/20941
+#EXTINF:-1,HBO Plus HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1607
+#EXTINF:-1,HBO Plus
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/357
+#EXTINF:-1,HBO Plus Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12837
+#EXTINF:-1,Max Prime FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13892
+#EXTINF:-1,Max Prime HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/7013
+#EXTINF:-1,Max Prime
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/214
+#EXTINF:-1,Max Prime Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21724
+#EXTINF:-1,Max Prime Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21725
+#EXTINF:-1,Max UP FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13891
+#EXTINF:-1,MAX UP HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/7014
+#EXTINF:-1,Max UP
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/213
+#EXTINF:-1,MAX UP Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21726
+#EXTINF:-1,MAX UP Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21727
+#EXTINF:-1,Max FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13893
+#EXTINF:-1,MAX HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/7012
+#EXTINF:-1,Max
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/215
+#EXTINF:-1,MAX Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21722
+#EXTINF:-1,MAX Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21723
+#EXTINF:-1,Warner Channel FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17186
+#EXTINF:-1,Warner Channel HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1597
+#EXTINF:-1,Warner Channel
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/266
+#EXTINF:-1,Warner Channel Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19993
+#EXTINF:-1,Warner Channel Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/7001
+#EXTINF:-1,Cinemax FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13812
+#EXTINF:-1,Cinemax HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/5894
+#EXTINF:-1,Cinemax
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/236
+#EXTINF:-1,Cinemax Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19992
+#EXTINF:-1,Cinemax Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/6998
+#EXTINF:-1,Space FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12861
+#EXTINF:-1,Space HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1587
+#EXTINF:-1,Space
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/98
+#EXTINF:-1,Space Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/20980
+#EXTINF:-1,Space Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/20979
+#EXTINF:-1,Paramount FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/20883
+#EXTINF:-1,Paramount HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1617
+#EXTINF:-1,Paramount
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/211
+#EXTINF:-1,Paramount Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21194
+#EXTINF:-1,Paramount Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21195
+#EXTINF:-1,TNT FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/20884
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1595
+#EXTINF:-1,TNT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/380
+#EXTINF:-1,TNT Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21111
+#EXTINF:-1,TNT Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/16185
+#EXTINF:-1,TNT Séries FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21229
+#EXTINF:-1,TNT Séries HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1623
+#EXTINF:-1,TNT Séries
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/798
+#EXTINF:-1,TNT Séries Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21728
+#EXTINF:-1,TNT Séries Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21729
+#EXTINF:-1,AMC FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13902
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13757
+#EXTINF:-1,AMC
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/9226
+#EXTINF:-1,AMC Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21354
+#EXTINF:-1,AMC Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/16189
+#EXTINF:-1,AXN FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17505
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1599
+#EXTINF:-1,AXN
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/188
+#EXTINF:-1,AXN Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21196
+#EXTINF:-1,AXN Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31228
+#EXTINF:-1,FOX FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12663
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1582
+#EXTINF:-1,Fox
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/260
+#EXTINF:-1,FOX HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12820
+#EXTINF:-1,FOX Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/8678
+#EXTINF:-1,Fox Premium 1 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17514
+#EXTINF:-1,FOX Premium 1 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21753
+#EXTINF:-1,Fox Premium 1
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1500
+#EXTINF:-1,Fox Premium 2 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21641
+#EXTINF:-1,FOX Premium 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21754
+#EXTINF:-1,Fox Premium 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1635
+#EXTINF:-1,Fox Life FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13896
+#EXTINF:-1,FOX Life HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21349
+#EXTINF:-1,Fox Life
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/391
+#EXTINF:-1,FOX Life HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21751
+#EXTINF:-1,FOX Life Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21752
+#EXTINF:-1,FX FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17513
+#EXTINF:-1,FX HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1604
+#EXTINF:-1,FX
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/113
+#EXTINF:-1,FX Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21348
+#EXTINF:-1,FX Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/16183
+#EXTINF:-1,Sony FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29641
+#EXTINF:-1,Sony HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1618
+#EXTINF:-1,Sony
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/186
+#EXTINF:-1,Sony Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21227
+#EXTINF:-1,Sony Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/16187
+#EXTINF:-1,TBS FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21228
+#EXTINF:-1,TBS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1765
+#EXTINF:-1,TBS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1621
+#EXTINF:-1,TBS Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21756
+#EXTINF:-1,TBS Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21757
+#EXTINF:-1,TCM
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/173
+#EXTINF:-1,TCM Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/8686
+#EXTINF:-1,AXN HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29729
+#EXTINF:-1,AXN - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29728
+#EXTINF:-1,FOX HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29727
+#EXTINF:-1,FOX - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29726
+#EXTINF:-1,FX HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29707
+#EXTINF:-1,FX - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29706
+#EXTINF:-1,HBO HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29725
+#EXTINF:-1,HBO - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29724
+#EXTINF:-1,HBO Plus HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29723
+#EXTINF:-1,HBO Plus - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29722
+#EXTINF:-1,MAX - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29720
+#EXTINF:-1,MAX Prime  - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29721
+#EXTINF:-1,MAX UP HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29705
+#EXTINF:-1,MAX UP - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29704
+#EXTINF:-1,MegaPix HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29703
+#EXTINF:-1,MegaPix - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29702
+#EXTINF:-1,Sony HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29695
+#EXTINF:-1,Sony - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29694
+#EXTINF:-1,Space HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29701
+#EXTINF:-1,Space - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29700
+#EXTINF:-1,Telecine Action HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29719
+#EXTINF:-1,Telecine Action - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29718
+#EXTINF:-1,Telecine Fun HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29717
+#EXTINF:-1,Telecine Fun - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29716
+#EXTINF:-1,Telecine Pipoca HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29715
+#EXTINF:-1,Telecine Pipoca - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29714
+#EXTINF:-1,Telecine Premium HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29713
+#EXTINF:-1,Telecine Premium - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29712
+#EXTINF:-1,Telecine Touch HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29711
+#EXTINF:-1,Telecine Touch - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29710
+#EXTINF:-1,TNT HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29709
+#EXTINF:-1,TNT - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29708
+#EXTINF:-1,TNT Series HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29699
+#EXTINF:-1,TNT Series - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29698
+#EXTINF:-1,Warner Channel HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29697
+#EXTINF:-1,Warner Channel - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29696
+#EXTINF:-1,Ação 24h (DUB)
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/47263
+#EXTINF:-1,Ação 24h (LEG)
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29884
+#EXTINF:-1,Comédia 24h
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29917
+#EXTINF:-1,DC 24h (DUB)
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/46890
+#EXTINF:-1,Fantasia 24h (DUB)
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/47594
+#EXTINF:-1,Fantasia 24h
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29918
+#EXTINF:-1,Faroeste 24h
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29941
+#EXTINF:-1,Ficção 24h (DUB)
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/47595
+#EXTINF:-1,Ficção 24h (LEG)
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29940
+#EXTINF:-1,Marvel 24h (DUB)
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/46891
+#EXTINF:-1,Romance 24h (DUB)
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/46916
+#EXTINF:-1,Romance 24h
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29885
+#EXTINF:-1,Suspense 24hs (DUB)
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/47409
+#EXTINF:-1,Suspense 24h
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29886
+#EXTINF:-1,Terror 24h (DUB)
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/47260
+#EXTINF:-1,Terror 24h
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29887
+#EXTINF:-1,Animal Planet FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/18631
+#EXTINF:-1,Animal Planet HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1861
+#EXTINF:-1,Animal Planet
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/94
+#EXTINF:-1,Animal Planet Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/18832
+#EXTINF:-1,Animal Planet Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12895
+#EXTINF:-1,Discovery Channel FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17040
+#EXTINF:-1,Discovery Channel HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1611
+#EXTINF:-1,Discovery Channel
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1497
+#EXTINF:-1,Discovery Channel Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19962
+#EXTINF:-1,Discovery Channel Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/16178
+#EXTINF:-1,Discovery Turbo  FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17182
+#EXTINF:-1,Discovery Turbo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1612
+#EXTINF:-1,Discovery Turbo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/183
+#EXTINF:-1,Discovery Turbo Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19969
+#EXTINF:-1,Discovery Turbo Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19970
+#EXTINF:-1,Discovery H&H FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17183
+#EXTINF:-1,Discovery H&H HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1610
+#EXTINF:-1,Discovery H&H
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/359
+#EXTINF:-1,Discovery H&H Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19963
+#EXTINF:-1,Discovery H&H Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19964
+#EXTINF:-1,Discovery Civilization FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13804
+#EXTINF:-1,Discovery Civilization HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13785
+#EXTINF:-1,Discovery Civilization
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/26380
+#EXTINF:-1,Discovery Science FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13805
+#EXTINF:-1,Discovery Science HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13784
+#EXTINF:-1,Discovery Science
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/26381
+#EXTINF:-1,Discovery World FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17184
+#EXTINF:-1,Discovery World HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1779
+#EXTINF:-1,Discovery Theater FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/20990
+#EXTINF:-1,Discovery Theater HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/3016
+#EXTINF:-1,Discovery Theather FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31229
+#EXTINF:-1,History FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17185
+#EXTINF:-1,History HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1627
+#EXTINF:-1,History
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/172
+#EXTINF:-1,History Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19965
+#EXTINF:-1,History Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/8681
+#EXTINF:-1,H2 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/20882
+#EXTINF:-1,H2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1598
+#EXTINF:-1,H2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/222
+#EXTINF:-1,H2 Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19966
+#EXTINF:-1,H2 Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19967
+#EXTINF:-1,National Geografic HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1749
+#EXTINF:-1,National Geographic
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/392
+#EXTINF:-1,National Geografic Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19968
+#EXTINF:-1,National Geografic Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31255
+#EXTINF:-1,Nat Geo Wild FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31243
+#EXTINF:-1,Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1747
+#EXTINF:-1,Nat Geo Wild
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/375
+#EXTINF:-1,Nat Geo Wild Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31244
+#EXTINF:-1,Nat Geo Wild Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31245
+#EXTINF:-1,Investigação Discovery FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31246
+#EXTINF:-1,ID -  Investigação Discovery HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1613
+#EXTINF:-1,ID - Investigation Discovery
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/393
+#EXTINF:-1,ID - Investigation Discovery Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21356
+#EXTINF:-1,ID - Investigation Discovery Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21357
+#EXTINF:-1,Smithsonian Channel FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/47216
+#EXTINF:-1,Smithsonian Channel HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/47217
+#EXTINF:-1,Smithsonian Channel
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/47218
+#EXTINF:-1,Fish TV FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/30182
+#EXTINF:-1,Fish TV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21675
+#EXTINF:-1,Fish Tv
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1488
+#EXTINF:-1,Multishow FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17072
+#EXTINF:-1,Multishow HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1616
+#EXTINF:-1,Multishow
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/212
+#EXTINF:-1,Multishow Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17244
+#EXTINF:-1,Multishow Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/16754
+#EXTINF:-1,Viva FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17041
+#EXTINF:-1,Viva HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1630
+#EXTINF:-1,Viva
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1860
+#EXTINF:-1,Viva Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19990
+#EXTINF:-1,Viva Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19991
+#EXTINF:-1,GNT FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/20991
+#EXTINF:-1,GNT HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/362
+#EXTINF:-1,GNT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1713
+#EXTINF:-1,GNT Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21359
+#EXTINF:-1,GNT Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21360
+#EXTINF:-1,Mais Globosat FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13895
+#EXTINF:-1,Mais Globosat HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/6549
+#EXTINF:-1,Mais Globosat
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/122
+#EXTINF:-1,Mais Globosat Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21703
+#EXTINF:-1,Mais Globosat Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21704
+#EXTINF:-1,Comedy Central FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13810
+#EXTINF:-1,Comedy Central HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13789
+#EXTINF:-1,Comedy Central
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/93
+#EXTINF:-1,Comedy Central Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21689
+#EXTINF:-1,Comedy Central Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21690
+#EXTINF:-1,MTV FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13890
+#EXTINF:-1,MTV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/5895
+#EXTINF:-1,MTV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/128
+#EXTINF:-1,MTV Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21700
+#EXTINF:-1,MTV Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21701
+#EXTINF:-1,MTV Live FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31202
+#EXTINF:-1,MTV Live HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29782
+#EXTINF:-1,MTV Live
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29783
+#EXTINF:-1,VH1 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13884
+#EXTINF:-1,VH1 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13788
+#EXTINF:-1,VH1 Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21710
+#EXTINF:-1,BIS FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21674
+#EXTINF:-1,BIS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1740
+#EXTINF:-1,BIS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/428
+#EXTINF:-1,BIS Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21705
+#EXTINF:-1,BIS Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21706
+#EXTINF:-1,Prime Box Brazil FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31201
+#EXTINF:-1,Prime Box Brazil HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21698
+#EXTINF:-1,Prime Box Brazil
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1781
+#EXTINF:-1,Music Box Brazil FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31200
+#EXTINF:-1,Music Box Brazil HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21699
+#EXTINF:-1,Music Box Brazil
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/355
+#EXTINF:-1,Vh1 Megahits
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/794
+#EXTINF:-1,TruTV FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31199
+#EXTINF:-1,TruTv HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21649
+#EXTINF:-1,TruTv
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/180
+#EXTINF:-1,TruTv Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21708
+#EXTINF:-1,A&E FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13903
+#EXTINF:-1,A&E HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/5986
+#EXTINF:-1,A&E Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21711
+#EXTINF:-1,A&E
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1487
+#EXTINF:-1,A&E Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/8679
+#EXTINF:-1,OFF FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17517
+#EXTINF:-1,OFF HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/398
+#EXTINF:-1,OFF
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/2624
+#EXTINF:-1,OFF Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21712
+#EXTINF:-1,OFF Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21713
+#EXTINF:-1,Woohoo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13883
+#EXTINF:-1,Woohoo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13794
+#EXTINF:-1,Woohoo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1702
+#EXTINF:-1,Woohoo Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21714
+#EXTINF:-1,Woohoo Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21715
+#EXTINF:-1,TLC FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13886
+#EXTINF:-1,TLC HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/5985
+#EXTINF:-1,TLC
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/360
+#EXTINF:-1,TLC Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21358
+#EXTINF:-1,TLC Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13525
+#EXTINF:-1,Food Network FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13897
+#EXTINF:-1,Food Network HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/20992
+#EXTINF:-1,Food Network
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/374
+#EXTINF:-1,Food Network Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21716
+#EXTINF:-1,Food Network Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21717
+#EXTINF:-1,E! FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21230
+#EXTINF:-1,E! HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/5901
+#EXTINF:-1,E!
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1712
+#EXTINF:-1,E! Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21718
+#EXTINF:-1,E! Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21719
+#EXTINF:-1,Lifetime FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13894
+#EXTINF:-1,Lifetime HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/5900
+#EXTINF:-1,Lifetime Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21720
+#EXTINF:-1,Lifetime Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21721
+#EXTINF:-1,Lifetime
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1725
+#EXTINF:-1,Arte 1 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31198
+#EXTINF:-1,Arte 1 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21650
+#EXTINF:-1,Arte 1
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1704
+#EXTINF:-1,Play Tv
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1493
+#EXTINF:-1,Shoptime
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/48370
+#EXTINF:-1,NHK
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12172
+#EXTINF:-1,AMC H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/40076
+#EXTINF:-1,Animal Planet H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/35705
+#EXTINF:-1,AXN H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13860
+#EXTINF:-1,Band H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/46968
+#EXTINF:-1,Band News H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41927
+#EXTINF:-1,Band Sports H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13859
+#EXTINF:-1,Boomerang H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41928
+#EXTINF:-1,BIS H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/40079
+#EXTINF:-1,Canal Brasil H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/46917
+#EXTINF:-1,Cinemax H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/35708
+#EXTINF:-1,Combate H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/46969
+#EXTINF:-1,Comedy Central H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/46970
+#EXTINF:-1,Discovery Channel H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/35706
+#EXTINF:-1,Discovery H&H H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13856
+#EXTINF:-1,Discovery Theater H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13855
+#EXTINF:-1,Discovery Turbo H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/35707
+#EXTINF:-1,Discovery World H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13853
+#EXTINF:-1,E! H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41931
+#EXTINF:-1,ESPN 2 H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13849
+#EXTINF:-1,ESPN Brasil H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13850
+#EXTINF:-1,Fox Life H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13846
+#EXTINF:-1,Fox Premium 1 H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13847
+#EXTINF:-1,Fx H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13844
+#EXTINF:-1,Globo RJ H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/46980
+#EXTINF:-1,Globo SP H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/46981
+#EXTINF:-1,Globo RBS TV Poa H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/46974
+#EXTINF:-1,Gloob H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/40080
+#EXTINF:-1,H2 H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13836
+#EXTINF:-1,HBO 2 H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13841
+#EXTINF:-1,HBO Family H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13840
+#EXTINF:-1,HBO H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13839
+#EXTINF:-1,HBO Plus H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13838
+#EXTINF:-1,HBO Signature H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13837
+#EXTINF:-1,History H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13835
+#EXTINF:-1,Investigation Discovery H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13834
+#EXTINF:-1,MAX H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/40078
+#EXTINF:-1,MAX Up H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41955
+#EXTINF:-1,MAX Prime H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/40077
+#EXTINF:-1,MegaPix H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13833
+#EXTINF:-1,Multishow H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13832
+#EXTINF:-1,Nat Geo H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13831
+#EXTINF:-1,Paramount H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13830
+#EXTINF:-1,SBT H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13825
+#EXTINF:-1,SporTV H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13824
+#EXTINF:-1,TBS H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13823
+#EXTINF:-1,Telecine Action H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13822
+#EXTINF:-1,Telecine Pipoca H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13821
+#EXTINF:-1,Telecine Premium H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13820
+#EXTINF:-1,Telecine Touch H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13819
+#EXTINF:-1,TLC H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/46919
+#EXTINF:-1,TNT H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13818
+#EXTINF:-1,TNT Series H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13817
+#EXTINF:-1,Universal TV H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13816
+#EXTINF:-1,Viva H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13815
+#EXTINF:-1,VH1 H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/40075
+#EXTINF:-1,Warner Channel H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13814
+#EXTINF:-1,Disney Channel H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/41929
+#EXTINF:-1,A&E -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31203
+#EXTINF:-1,AMC -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31225
+#EXTINF:-1,Animal Planet -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21644
+#EXTINF:-1,Band News -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31193
+#EXTINF:-1,Band Sports -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31616
+#EXTINF:-1,BIS -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/30180
+#EXTINF:-1,Boomerang -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21653
+#EXTINF:-1,Cinemax -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/30184
+#EXTINF:-1,Discovery Channel -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21645
+#EXTINF:-1,Discovery Civilization -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31231
+#EXTINF:-1,Discovery H&H -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21646
+#EXTINF:-1,Discovery Kids -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31232
+#EXTINF:-1,Discovery Science -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31230
+#EXTINF:-1,Discovery Turbo -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21647
+#EXTINF:-1,Disney Channel -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17046
+#EXTINF:-1,E! -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31260
+#EXTINF:-1,ESPN -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/30181
+#EXTINF:-1,ESPN Brasil -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21687
+#EXTINF:-1,ESPN Extra -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31261
+#EXTINF:-1,Fish TV -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31429
+#EXTINF:-1,Food Network -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31258
+#EXTINF:-1,FOX -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21643
+#EXTINF:-1,FOX Premium 1 -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31249
+#EXTINF:-1,FOX Premium 2 -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31250
+#EXTINF:-1,FOX Sports 2 -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17044
+#EXTINF:-1,Globo News -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13802
+#EXTINF:-1,Gloob -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17053
+#EXTINF:-1,GNT -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31242
+#EXTINF:-1,H2 -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31247
+#EXTINF:-1,HBO -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21639
+#EXTINF:-1,HBO 2 -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21640
+#EXTINF:-1,HBO Family -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31211
+#EXTINF:-1,HBO Plus -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31210
+#EXTINF:-1,HBO Signature -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31209
+#EXTINF:-1,History -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21693
+#EXTINF:-1,MAX -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31208
+#EXTINF:-1,MAX Prime -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31207
+#EXTINF:-1,MAX UP -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31206
+#EXTINF:-1,MegaPix -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31224
+#EXTINF:-1,MTV -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31248
+#EXTINF:-1,Multishow -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29900
+#EXTINF:-1,Nat Geo Kids -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31252
+#EXTINF:-1,National Geografic -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31254
+#EXTINF:-1,Nick Jr -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31251
+#EXTINF:-1,Nickelodeon -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21652
+#EXTINF:-1,OFF -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/30183
+#EXTINF:-1,Paramount -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31227
+#EXTINF:-1,Premiere Clubes ‐FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29661
+#EXTINF:-1,Premiere 4 -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31134
+#EXTINF:-1,Premiere 5 -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31133
+#EXTINF:-1,Sony -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31241
+#EXTINF:-1,Space -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29951
+#EXTINF:-1,SporTV -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/18831
+#EXTINF:-1,SporTV 2 -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19995
+#EXTINF:-1,SporTV 3 -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29615
+#EXTINF:-1,SyFy -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31235
+#EXTINF:-1,TBS -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31239
+#EXTINF:-1,Telecine Action -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21636
+#EXTINF:-1,Telecine Action  - FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29609
+#EXTINF:-1,Telecine Fun -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21637
+#EXTINF:-1,Telecine Fun  - FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29608
+#EXTINF:-1,Telecine Pipoca -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21635
+#EXTINF:-1,Telecine Pipoca - FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29607
+#EXTINF:-1,Telecine Premium -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21634
+#EXTINF:-1,Telecine Premium  - FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29606
+#EXTINF:-1,Telecine Touch -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21638
+#EXTINF:-1,Telecine Touch  - FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29605
+#EXTINF:-1,Telecine Cult - FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29604
+#EXTINF:-1,TLC -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31257
+#EXTINF:-1,TNT -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31236
+#EXTINF:-1,TNT Séries -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31237
+#EXTINF:-1,Universal TV -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31233
+#EXTINF:-1,VH1 -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31253
+#EXTINF:-1,Viva -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21648
+#EXTINF:-1,Warner Channel -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21642
+#EXTINF:-1,A&E Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/38013
+#EXTINF:-1,AMC Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/38012
+#EXTINF:-1,Animal Planet Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/38011
+#EXTINF:-1,AXN Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/38010
+#EXTINF:-1,Cartoon Network Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/38009
+#EXTINF:-1,Cinemax Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/38008
+#EXTINF:-1,Combate Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37970
+#EXTINF:-1,Discovery Channel Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/38007
+#EXTINF:-1,Discovery Civilization Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37968
+#EXTINF:-1,Discovery H&H Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37967
+#EXTINF:-1,Discovery Kids Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37966
+#EXTINF:-1,Discovery Science Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37965
+#EXTINF:-1,Discovery Turbo Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37964
+#EXTINF:-1,ESPN Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37952
+#EXTINF:-1,ESPN Brasil Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/38005
+#EXTINF:-1,ESPN Extra Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/43256
+#EXTINF:-1,Food Network Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/38003
+#EXTINF:-1,FOX Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/38002
+#EXTINF:-1,FOX Life Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37946
+#EXTINF:-1,Fox Premium 1 Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37955
+#EXTINF:-1,Fox Premium 2 Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37954
+#EXTINF:-1,FOX Sports 2 Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37951
+#EXTINF:-1,FOX Sports Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/38001
+#EXTINF:-1,Globo SP Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/38014
+#EXTINF:-1,Globo News Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37950
+#EXTINF:-1,Gloob Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37949
+#EXTINF:-1,GNT Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37948
+#EXTINF:-1,H2 Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37962
+#EXTINF:-1,HBO 2 Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37999
+#EXTINF:-1,HBO Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/38000
+#EXTINF:-1,HBO Family Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/40752
+#EXTINF:-1,HBO Plus Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/40754
+#EXTINF:-1,HBO Signature Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/40753
+#EXTINF:-1,History Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37998
+#EXTINF:-1,ID FHD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37953
+#EXTINF:-1,MAX Prime Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37997
+#EXTINF:-1,MegaPix Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37996
+#EXTINF:-1,Multishow Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37995
+#EXTINF:-1,Nat Geo Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37994
+#EXTINF:-1,Nat Geo Kids Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37993
+#EXTINF:-1,Nick Jr Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37992
+#EXTINF:-1,OFF Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37972
+#EXTINF:-1,Premiere 3 Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37990
+#EXTINF:-1,Premiere 4 Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37971
+#EXTINF:-1,Premiere Clubes Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37989
+#EXTINF:-1,RBS TV Porto Alegre Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/38016
+#EXTINF:-1,Record News Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37988
+#EXTINF:-1,RecordTV Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/36353
+#EXTINF:-1,SBT Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/40386
+#EXTINF:-1,Sony Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37987
+#EXTINF:-1,Space Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37986
+#EXTINF:-1,SporTV Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37984
+#EXTINF:-1,SporTV 2 Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37983
+#EXTINF:-1,SporTV 3 Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37985
+#EXTINF:-1,Studio Universal Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37982
+#EXTINF:-1,SyFy Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37981
+#EXTINF:-1,Telecine Action Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37980
+#EXTINF:-1,Telecine Cult Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37975
+#EXTINF:-1,Telecine Fun Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37979
+#EXTINF:-1,Telecine Pipoca Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37978
+#EXTINF:-1,Telecine Premium Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37977
+#EXTINF:-1,Telecine Touch Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37976
+#EXTINF:-1,TNT Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37961
+#EXTINF:-1,TNT Series Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37947
+#EXTINF:-1,Universal TV Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37963
+#EXTINF:-1,Warner Channel Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/37973
+#EXTINF:-1,Rede Vida FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31618
+#EXTINF:-1,Rede Vida HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31619
+#EXTINF:-1,Rede Vida
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/6657
+#EXTINF:-1,TV Aparecida HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/29796
+#EXTINF:-1,TV Aparecida
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/6550
+#EXTINF:-1,Canção Nova
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/304
+#EXTINF:-1,Novo tempo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/2408
+#EXTINF:-1,Rede Gospel FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/49243
+#EXTINF:-1,TV Mundial
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/6658
+#EXTINF:-1,TV Evangelizar
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/8494
+#EXTINF:-1,Boa Vontade TV
+http://infinityzamigos.ddns.me:8080/Infinity/VQ1YugzBCs/1343
+#EXTINF:-1,TV Gideões
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/16790
+#EXTINF:-1,RIT TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/2626
+#EXTINF:-1,RBI TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/2627
+#EXTINF:-1,Canal Promessas
+http://177.153.227.41:1935/canal/cpro/stream/live.m3u8
+#EXTINF:-1,TV Missao
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/17246
+#EXTINF:-1,Rede 21
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/6660
+#EXTINF:-1,Discovery Kids FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21651
+#EXTINF:-1,Discovery Kids
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/426
+#EXTINF:-1,Discovery Kids Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21176
+#EXTINF:-1,Discovery Kids Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21177
+#EXTINF:-1,Disney Channel FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13807
+#EXTINF:-1,Disney Channel
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/1486
+#EXTINF:-1,Disney Channel Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21178
+#EXTINF:-1,Disney Channel Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21179
+#EXTINF:-1,Cartoon Network FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13803
+#EXTINF:-1,Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13756
+#EXTINF:-1,Cartoon Network
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/377
+#EXTINF:-1,Cartoon Network ‐FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31196
+#EXTINF:-1,Cartoon Network Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21174
+#EXTINF:-1,Cartoon Network Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21175
+#EXTINF:-1,Disney Jr FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/20879
+#EXTINF:-1,Disney Jr HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/8483
+#EXTINF:-1,Disney Jr
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/181
+#EXTINF:-1,Disney Jr Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21185
+#EXTINF:-1,Disney Jr Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21186
+#EXTINF:-1,Nickelodeon FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13809
+#EXTINF:-1,Nickelodeon HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/7020
+#EXTINF:-1,Nickelodeon
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/126
+#EXTINF:-1,Nickelodeon Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21182
+#EXTINF:-1,Nickelodeon Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21183
+#EXTINF:-1,Nick JR FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13889
+#EXTINF:-1,Nick Jr HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21189
+#EXTINF:-1,Nick Jr
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/286
+#EXTINF:-1,Nick Jr Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21187
+#EXTINF:-1,Nick Jr Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21188
+#EXTINF:-1,Gloob FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13811
+#EXTINF:-1,Gloob HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/5899
+#EXTINF:-1,Gloob
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/378
+#EXTINF:-1,Gloob Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21184
+#EXTINF:-1,Gloob Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/12272
+#EXTINF:-1,Boomerang FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/20878
+#EXTINF:-1,Boomerang HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/8484
+#EXTINF:-1,Boomerang
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/187
+#EXTINF:-1,Boomerang Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21190
+#EXTINF:-1,Boomerang Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21191
+#EXTINF:-1,PlayKids FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31267
+#EXTINF:-1,PlayKids HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31268
+#EXTINF:-1,PlayKids
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31269
+#EXTINF:-1,Globinho FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31192
+#EXTINF:-1,Globinho HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/9453
+#EXTINF:-1,Globinho
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/9454
+#EXTINF:-1,Nat Geo Kids FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/13808
+#EXTINF:-1,Nat Geo Kids HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/7042
+#EXTINF:-1,Nat Geo Kids
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/6541
+#EXTINF:-1,Nat Geo Kids Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21180
+#EXTINF:-1,Nat Geo Kids Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21181
+#EXTINF:-1,TV Rá Tim Bum FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31195
+#EXTINF:-1,TV Rá Tim Bum HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/21654
+#EXTINF:-1,TV Rá Tim Bum
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/6135
+#EXTINF:-1,Tooncast
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/127
+#EXTINF:-1,Tooncast Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/40388
+#EXTINF:-1,Baby - TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/5904
+#EXTINF:-1,Baby TV -Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/31518
+#EXTINF:-1,Disney XD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/277
+#EXTINF:-1,Zoomoo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://dns.clientetv.xyz:8000/tvtvtv/tvtvtv/19994

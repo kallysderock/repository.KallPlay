@@ -1,0 +1,1058 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://encurtador.com.br/CHQU4" group-title="", CANAL RICOS
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.ts
+
+
+#EXTINF:0 type="stream" channelId="2503", A&E HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2402
+#EXTINF:0 type="stream" channelId="2503", A&E HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1907
+
+
+#EXTINF:0 type="stream" channelId="2717", AMC HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2401
+
+#EXTINF:0 type="stream" channelId="240", Animal Planet HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2400
+#EXTINF:0 type="stream" channelId="240", Animal Planet SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1903
+
+#EXTINF:0 type="stream" channelId="2503", Arte 1 HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1900
+#EXTINF:0 type="stream" channelId="2503", Arte 1 SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1901
+
+#EXTINF:0 type="stream" channelId="2503", AXN HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2399
+#EXTINF:0 type="stream" channelId="2503", AXN HD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1529
+#EXTINF:0 type="stream" channelId="2503", AXN SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1899
+
+#EXTINF:0 type="stream" channelId="2503", Baby TV SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1897
+#EXTINF:0 type="stream" channelId="2503", Baby TV SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2211
+
+#EXTINF:0 type="stream" channelId="2503", Band SP HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2398
+#EXTINF:0 type="stream" channelId="2503", Band SP SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1896
+
+#EXTINF:0 type="stream" channelId="2503", BandNews HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1893
+#EXTINF:0 type="stream" channelId="2503", BandNews SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1894
+
+#EXTINF:0 type="stream" channelId="2503", BandSports HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2397
+#EXTINF:0 type="stream" channelId="2503", BandSports SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1892
+
+#EXTINF:0 type="stream" channelId="2503", Bis HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2396
+#EXTINF:0 type="stream" channelId="2503", Bis SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1890
+
+#EXTINF:0 type="stream" channelId="2503", Boa Vontade TV HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1888
+
+#EXTINF:0 type="stream" channelId="2503", Boomerang HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1886
+#EXTINF:0 type="stream" channelId="2503", Boomerang SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1887
+
+#EXTINF:0 type="stream" channelId="2503", Canal Brasil HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1884
+#EXTINF:0 type="stream" channelId="2503", Canal Brasil SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1885
+
+#EXTINF:0 type="stream" channelId="2503", Canal Do Boi SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1655
+#EXTINF:0 type="stream" channelId="2503", Canal Do Boi SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2114
+
+#EXTINF:0 type="stream" channelId="2503", Canal Sony HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2395
+
+#EXTINF:0 type="stream" channelId="2503", Canal Sony SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1883
+#EXTINF:0 type="stream" channelId="2503", Canal Sony SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2207
+
+#EXTINF:0 type="stream" channelId="2503", Cancao Nova SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2107
+
+#EXTINF:0 type="stream" channelId="2503", Cartoon Network HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2394
+#EXTINF:0 type="stream" channelId="2503", Cartoon Network SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1880
+
+
+#EXTINF:0 type="stream" channelId="2503", Cinemax HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2393
+#EXTINF:0 type="stream" channelId="2503", Cinemax SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1878
+
+#EXTINF:0 type="stream" channelId="2503", Combate HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2392
+#EXTINF:0 type="stream" channelId="2503", Combate SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1876
+
+#EXTINF:0 type="stream" channelId="2503", Comedy Central HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2391
+#EXTINF:0 type="stream" channelId="2503", Comedy Central SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1874
+
+#EXTINF:0 type="stream" channelId="2503", Copa Sulamericana HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1641
+
+#EXTINF:0 type="stream" channelId="2503", Curta HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1871
+#EXTINF:0 type="stream" channelId="2503", Curta SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1872
+
+#EXTINF:-1,https://flylinks.net, Discovery Channel HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2390
+#EXTINF:-1,https://flylinks.net, Discovery Channel SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1870
+
+#EXTINF:0 type="stream" channelId="2503", Discovery Civilization HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2389
+#EXTINF:0 type="stream" channelId="2503", Discovery Civilization SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1868
+
+#EXTINF:0 type="stream" channelId="2503", Discovery H&H HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2388
+#EXTINF:0 type="stream" channelId="2503", Discovery H&H SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1866
+
+#EXTINF:0 type="stream" channelId="2503", Discovery Kids HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2387
+#EXTINF:0 type="stream" channelId="2503", Discovery Kids SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1864
+#EXTINF:0 type="stream" channelId="2503", Discovery Kids SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2202
+
+#EXTINF:0 type="stream" channelId="2503", Discovery Science HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2386
+#EXTINF:0 type="stream" channelId="2503", Discovery Science SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1862
+
+#EXTINF:0 type="stream" channelId="2503", Discovery Theater HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2385
+#EXTINF:0 type="stream" channelId="2503", Discovery Theater SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1860
+
+#EXTINF:0 type="stream" channelId="2503", Discovery Turbo HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2384
+#EXTINF:0 type="stream" channelId="2503", Discovery Turbo SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1858
+
+#EXTINF:0 type="stream" channelId="2503", Discovery World HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2383
+#EXTINF:0 type="stream" channelId="2503", Discovery World SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1856
+
+#EXTINF:0 type="stream" channelId="2503", Disney Channel HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2382
+#EXTINF:0 type="stream" channelId="2503", Disney Channel SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1854
+
+#EXTINF:0 type="stream" channelId="2503", Disney Jr HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2381
+#EXTINF:0 type="stream" channelId="2503", Disney Jr SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1852
+
+#EXTINF:0 type="stream" channelId="2503", Disney XD SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2198
+
+
+#EXTINF:0 type="stream" channelId="2503", E! HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2380
+#EXTINF:0 type="stream" channelId="2503", E! SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1850
+#EXTINF:0 type="stream" channelId="2503", E! SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2197
+#EXTINF:0 type="stream" channelId="2503", Ei Plus HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1645
+#EXTINF:0 type="stream" channelId="2503", Ei Plus SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1644
+
+#EXTINF:0 type="stream" channelId="2503", ESPN 2 HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2379
+#EXTINF:0 type="stream" channelId="2503", ESPN 2 SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1847
+
+#EXTINF:0 type="stream" channelId="2503", ESPN Brasil HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2378
+#EXTINF:0 type="stream" channelId="2503", ESPN Brasil SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1845
+
+#EXTINF:0 type="stream" channelId="2503", ESPN Extra HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2377
+#EXTINF:0 type="stream" channelId="2503", ESPN Extra SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1843
+
+#EXTINF:0 type="stream" channelId="2503", ESPN HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2376
+#EXTINF:0 type="stream" channelId="2503", ESPN SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1848
+
+#EXTINF:0 type="stream" channelId="2503", Film & Arts SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1666
+
+#EXTINF:0 type="stream" channelId="2503", Fish TV HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1839
+#EXTINF:0 type="stream" channelId="2503", Fish TV SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1840
+#EXTINF:0 type="stream" channelId="2503", Fish TV SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2109
+
+#EXTINF:0 type="stream" channelId="2503", Food Network HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1837
+#EXTINF:0 type="stream" channelId="2503", Food Network HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2375
+#EXTINF:0 type="stream" channelId="2503", Food Network SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1838
+#EXTINF:0 type="stream" channelId="2503", Food Network SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2125
+#EXTINF:0 type="stream" channelId="2503", Formiga Atomica [24H]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2039
+
+#EXTINF:0 type="stream" channelId="2503", FOX HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1835
+#EXTINF:0 type="stream" channelId="2503", FOX HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2374
+#EXTINF:0 type="stream" channelId="2503", FOX HD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1527
+
+#EXTINF:0 type="stream" channelId="2503", FOX Life HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1833
+#EXTINF:0 type="stream" channelId="2503", FOX Life HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2373
+#EXTINF:0 type="stream" channelId="2503", FOX Life SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1834
+#EXTINF:0 type="stream" channelId="2503", FOX Life SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2193
+
+#EXTINF:0 type="stream" channelId="2503", FOX Premium 1 HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1831
+#EXTINF:0 type="stream" channelId="2503", FOX Premium 1 HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2372
+#EXTINF:0 type="stream" channelId="2503", FOX Premium 1 SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1832
+
+#EXTINF:0 type="stream" channelId="2503", FOX Premium 2 HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1829
+#EXTINF:0 type="stream" channelId="2503", FOX Premium 2 HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2371
+#EXTINF:0 type="stream" channelId="2503", FOX Premium 2 SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1830
+#EXTINF:0 type="stream" channelId="2503", FOX SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1836
+#EXTINF:0 type="stream" channelId="2503", FOX SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2192
+#EXTINF:0 type="stream" channelId="2503", FOX SD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1526
+
+#EXTINF:0 type="stream" channelId="2503", FOX Sports 2 HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1825
+#EXTINF:0 type="stream" channelId="2503", FOX Sports 2 HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2370
+#EXTINF:0 type="stream" channelId="2503", FOX Sports 2 SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1826
+#EXTINF:0 type="stream" channelId="2503", FOX Sports 2 SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2191
+
+#EXTINF:0 type="stream" channelId="2503", FOX Sports HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1827
+#EXTINF:0 type="stream" channelId="2503", FOX Sports HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2369
+#EXTINF:0 type="stream" channelId="2503", FOX Sports SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1828
+#EXTINF:0 type="stream" channelId="2503", FOX Sports SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2190
+
+#EXTINF:0 type="stream" channelId="2503", Futura HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1823
+#EXTINF:0 type="stream" channelId="2503", Futura SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1824
+#EXTINF:0 type="stream" channelId="2503", Futura SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2189
+
+#EXTINF:0 type="stream" channelId="2503", FX HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1821
+#EXTINF:0 type="stream" channelId="2503", FX HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2368
+#EXTINF:0 type="stream" channelId="2503", FX HD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1507
+#EXTINF:0 type="stream" channelId="2503", FX SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1822
+#EXTINF:0 type="stream" channelId="2503", FX SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2118
+#EXTINF:0 type="stream" channelId="2503", FX SD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1506
+
+
+#EXTINF:0 type="stream" channelId="2503", Globo Brasilia HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1638
+#EXTINF:0 type="stream" channelId="2503", Globo Brasilia SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1639
+#EXTINF:0 type="stream" channelId="2503", Globo Brasilia SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2410
+
+#EXTINF:0 type="stream" channelId="2503", Globo EPTV Araraquara SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1637
+
+#EXTINF:0 type="stream" channelId="2503", Globo EPTV Campinas HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1635
+#EXTINF:0 type="stream" channelId="2503", Globo EPTV Campinas SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1636
+#EXTINF:0 type="stream" channelId="2503", Globo EPTV Campinas SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2409
+
+#EXTINF:0 type="stream" channelId="2503", Globo EPTV Ribeirao Preto HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1634
+#EXTINF:0 type="stream" channelId="2503", Globo EPTV Ribeirao Preto SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1633
+#EXTINF:0 type="stream" channelId="2503", Globo EPTV Ribeirao Preto SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2408
+#EXTINF:0 type="stream" channelId="2503", Globo EPTV Sao Carlos SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1632
+#EXTINF:0 type="stream" channelId="2503", Globo EPTV Sao Carlos SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2407
+
+#EXTINF:0 type="stream" channelId="2503", Globo Inter TV Alto Litoral FHD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1562
+#EXTINF:0 type="stream" channelId="2503", Globo Inter TV Alto Litoral HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1561
+#EXTINF:0 type="stream" channelId="2503", Globo Inter TV Alto Litoral SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1560
+
+
+
+#EXTINF:0 type="stream" channelId="2503", Globo Internacional HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1599
+
+
+#EXTINF:0 type="stream" channelId="2503", Globo Minas SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1630
+#EXTINF:0 type="stream" channelId="2503", Globo Minas SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2406
+
+
+#EXTINF:0 type="stream" channelId="2503", Globo News SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1820
+#EXTINF:0 type="stream" channelId="2503", Globo News SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2132
+
+#EXTINF:0 type="stream" channelId="2503", Globo Nordeste HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1627
+#EXTINF:0 type="stream" channelId="2503", Globo Nordeste SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1628
+#EXTINF:0 type="stream" channelId="2503", Globo Nordeste SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2405
+
+#EXTINF:0 type="stream" channelId="2503", Gloob HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1817
+#EXTINF:0 type="stream" channelId="2503", Gloob HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2365
+#EXTINF:0 type="stream" channelId="2503", Gloob SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1818
+#EXTINF:0 type="stream" channelId="2503", Gloob SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2187
+
+#EXTINF:0 type="stream" channelId="2503", Gloobinho HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1816
+#EXTINF:0 type="stream" channelId="2503", Gloobinho SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1815
+
+#EXTINF:0 type="stream" channelId="2503", GNT HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1813
+#EXTINF:0 type="stream" channelId="2503", GNT HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2364
+#EXTINF:0 type="stream" channelId="2503", GNT SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1814
+#EXTINF:0 type="stream" channelId="2503", GNT SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2120
+#EXTINF:0 type="stream" channelId="2503", Gospel Cartoon [24H]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2086
+
+#EXTINF:0 type="stream" channelId="2503", H2 HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1811
+#EXTINF:0 type="stream" channelId="2503", H2 HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2363
+#EXTINF:0 type="stream" channelId="2503", H2 SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1812
+#EXTINF:0 type="stream" channelId="2503", H2 SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2186
+
+#EXTINF:0 type="stream" channelId="2503", HBO 2 HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1808
+#EXTINF:0 type="stream" channelId="2503", HBO 2 HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2362
+#EXTINF:0 type="stream" channelId="2503", HBO 2 SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1809
+#EXTINF:0 type="stream" channelId="2503", HBO 2 SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2126
+
+#EXTINF:0 type="stream" channelId="2503", HBO Family HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1806
+#EXTINF:0 type="stream" channelId="2503", HBO Family HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2361
+#EXTINF:0 type="stream" channelId="2503", HBO Family SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1807
+#EXTINF:0 type="stream" channelId="2503", HBO Family SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2185
+
+#EXTINF:0 type="stream" channelId="2503", HBO HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1805
+#EXTINF:0 type="stream" channelId="2503", HBO HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2360
+#EXTINF:0 type="stream" channelId="2503", HBO HD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1525
+#EXTINF:0 type="stream" channelId="2503", HBO Plus E SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2184
+
+#EXTINF:0 type="stream" channelId="2503", HBO Plus HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1803
+#EXTINF:0 type="stream" channelId="2503", HBO Plus HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2359
+#EXTINF:0 type="stream" channelId="2503", HBO Plus HD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1523
+#EXTINF:0 type="stream" channelId="2503", HBO Plus SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1804
+#EXTINF:0 type="stream" channelId="2503", HBO Plus SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2183
+#EXTINF:0 type="stream" channelId="2503", HBO Plus SD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1522
+#EXTINF:0 type="stream" channelId="2503", HBO SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1810
+#EXTINF:0 type="stream" channelId="2503", HBO SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2182
+#EXTINF:0 type="stream" channelId="2503", HBO SD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1524
+#EXTINF:0 type="stream" channelId="2503", HBO Signature HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1801
+#EXTINF:0 type="stream" channelId="2503", HBO Signature HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2358
+#EXTINF:0 type="stream" channelId="2503", HBO Signature SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1802
+#EXTINF:0 type="stream" channelId="2503", HBO Signature SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2181
+#EXTINF:0 type="stream" channelId="2503", He-Man [24H]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2085
+#EXTINF:0 type="stream" channelId="2503", Hércules [24H]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2026
+#EXTINF:0 type="stream" channelId="2503", Historias da Disney [24H]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2084
+
+#EXTINF:0 type="stream" channelId="2503", History Channel HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1799
+#EXTINF:0 type="stream" channelId="2503", History Channel HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2320
+#EXTINF:0 type="stream" channelId="2503", History Channel SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1800
+#EXTINF:0 type="stream" channelId="2503", History Channel SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2143
+#EXTINF:0 type="stream" channelId="2503", Homem de Ferro [24H]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2036
+#EXTINF:0 type="stream" channelId="2503", Homem-Aranha [24H]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2083
+
+#EXTINF:0 type="stream" channelId="2503", Investigation Discovery HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1797
+#EXTINF:0 type="stream" channelId="2503", Investigation Discovery HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2357
+#EXTINF:0 type="stream" channelId="2503", Investigation Discovery SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1798
+#EXTINF:0 type="stream" channelId="2503", Investigation Discovery SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2119
+#EXTINF:0 type="stream" channelId="2503", Jack-Chan [24H]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2052
+#EXTINF:0 type="stream" channelId="2503", Jaspion [24H]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2082
+
+#EXTINF:0 type="stream" channelId="2503", Lifetime HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1795
+#EXTINF:0 type="stream" channelId="2503", Lifetime HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2356
+#EXTINF:0 type="stream" channelId="2503", Lifetime SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1796
+#EXTINF:0 type="stream" channelId="2503", Lifetime SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2180
+#EXTINF:0 type="stream" channelId="2503", Like FHD+
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/24996
+#EXTINF:0 type="stream" channelId="2503", Los Angeles [Camera]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2432
+
+#EXTINF:0 type="stream" channelId="2503", Mais GloboSat HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1793
+#EXTINF:0 type="stream" channelId="2503", Mais GloboSat HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2366
+#EXTINF:0 type="stream" channelId="2503", Mais GloboSat SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1794
+#EXTINF:0 type="stream" channelId="2503", Mais GloboSat SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2188
+
+#EXTINF:0 type="stream" channelId="2503", MAX HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1791
+#EXTINF:0 type="stream" channelId="2503", MAX HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2355
+
+#EXTINF:0 type="stream" channelId="2503", MAX Prime HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1789
+#EXTINF:0 type="stream" channelId="2503", MAX Prime HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2354
+#EXTINF:0 type="stream" channelId="2503", MAX Prime SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1790
+#EXTINF:0 type="stream" channelId="2503", MAX Prime SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2179
+#EXTINF:0 type="stream" channelId="2503", MAX Prime SD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1521
+#EXTINF:0 type="stream" channelId="2503", MAX SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1792
+#EXTINF:0 type="stream" channelId="2503", MAX SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2178
+#EXTINF:0 type="stream" channelId="2503", MAX SD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1520
+
+#EXTINF:0 type="stream" channelId="2503", MAX Up HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1787
+#EXTINF:0 type="stream" channelId="2503", MAX Up HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2353
+#EXTINF:0 type="stream" channelId="2503", MAX Up HD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1505
+#EXTINF:0 type="stream" channelId="2503", MAX Up SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1788
+#EXTINF:0 type="stream" channelId="2503", MAX Up SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2177
+#EXTINF:0 type="stream" channelId="2503", MAX Up SD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1504
+
+#EXTINF:0 type="stream" channelId="2503", Megapix HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1785
+#EXTINF:0 type="stream" channelId="2503", Megapix HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2352
+#EXTINF:0 type="stream" channelId="2503", Megapix HD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1503
+#EXTINF:0 type="stream" channelId="2503", Megapix SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1786
+#EXTINF:0 type="stream" channelId="2503", Megapix SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2176
+#EXTINF:0 type="stream" channelId="2503", Megapix SD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1502
+
+#EXTINF:0 type="stream" channelId="2503", MTV HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1783
+#EXTINF:0 type="stream" channelId="2503", MTV HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2351
+
+#EXTINF:0 type="stream" channelId="2503", MTV Live HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1676
+#EXTINF:0 type="stream" channelId="2503", MTV Live SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1677
+#EXTINF:0 type="stream" channelId="2503", MTV SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1784
+
+#EXTINF:0 type="stream" channelId="2503", Multishow HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1781
+#EXTINF:0 type="stream" channelId="2503", Multishow HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2350
+#EXTINF:0 type="stream" channelId="2503", Multishow SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1782
+#EXTINF:0 type="stream" channelId="2503", Multishow SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2175
+
+#EXTINF:0 type="stream" channelId="2503", Music Box Brasil HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1779
+#EXTINF:0 type="stream" channelId="2503", Music Box Brasil SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1780
+
+#EXTINF:0 type="stream" channelId="2503", NatGeo HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1777
+#EXTINF:0 type="stream" channelId="2503", NatGeo HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2349
+
+#EXTINF:0 type="stream" channelId="2503", NatGeo Kids HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1775
+#EXTINF:0 type="stream" channelId="2503", NatGeo Kids HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2348
+#EXTINF:0 type="stream" channelId="2503", NatGeo Kids SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1776
+#EXTINF:0 type="stream" channelId="2503", NatGeo Kids SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2174
+#EXTINF:0 type="stream" channelId="2503", NatGeo SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1778
+#EXTINF:0 type="stream" channelId="2503", NatGeo SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2173
+
+
+#EXTINF:0 type="stream" channelId="2503", NatGeo Wild HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2347
+#EXTINF:0 type="stream" channelId="2503", NatGeo Wild SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1773
+#EXTINF:0 type="stream" channelId="2503", NatGeo Wild SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2172
+#EXTINF:0 type="stream" channelId="2503", NBR SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1772
+#EXTINF:0 type="stream" channelId="2503", New York City [Camera]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2418
+
+#EXTINF:0 type="stream" channelId="2503", Nick Jr HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1770
+#EXTINF:0 type="stream" channelId="2503", Nick Jr HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2346
+#EXTINF:0 type="stream" channelId="2503", Nick Jr SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1771
+#EXTINF:0 type="stream" channelId="2503", Nick Jr SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2171
+
+#EXTINF:0 type="stream" channelId="2503", Nickelodeon HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1768
+#EXTINF:0 type="stream" channelId="2503", Nickelodeon HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2345
+#EXTINF:0 type="stream" channelId="2503", Nickelodeon SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1769
+#EXTINF:0 type="stream" channelId="2503", Nickelodeon SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2170
+
+
+#EXTINF:0 type="stream" channelId="2503", OFF HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1766
+
+#EXTINF:0 type="stream" channelId="2503", OFF SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1767
+#EXTINF:0 type="stream" channelId="2503", OFF SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2169
+
+
+#EXTINF:0 type="stream" channelId="2503", Paramount Channel HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1764
+#EXTINF:0 type="stream" channelId="2503", Paramount Channel HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2343
+#EXTINF:0 type="stream" channelId="2503", Paramount Channel SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1765
+#EXTINF:0 type="stream" channelId="2503", Paramount Channel SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2168
+
+#EXTINF:0 type="stream" channelId="2503", Play TV SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2167
+
+#EXTINF:0 type="stream" channelId="2503", PlayKids HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1668
+#EXTINF:0 type="stream" channelId="2503", PlayKids SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1667
+
+#EXTINF:0 type="stream" channelId="2503", Polishop TV HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1652
+
+#EXTINF:0 type="stream" channelId="2503", Power Couple Brasil HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1643
+#EXTINF:0 type="stream" channelId="2503", Power Couple Brasil HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2308
+
+#EXTINF:0 type="stream" channelId="2503", Premiere 2 HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1762
+#EXTINF:0 type="stream" channelId="2503", Premiere 2 HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2342
+#EXTINF:0 type="stream" channelId="2503", Premiere 2 SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1763
+#EXTINF:0 type="stream" channelId="2503", Premiere 2 SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2165
+
+#EXTINF:0 type="stream" channelId="2503", Premiere 3 HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1760
+#EXTINF:0 type="stream" channelId="2503", Premiere 3 HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2341
+#EXTINF:0 type="stream" channelId="2503", Premiere 3 SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1761
+#EXTINF:0 type="stream" channelId="2503", Premiere 3 SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2164
+
+#EXTINF:0 type="stream" channelId="2503", Premiere 4 HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1758
+#EXTINF:0 type="stream" channelId="2503", Premiere 4 HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2340
+#EXTINF:0 type="stream" channelId="2503", Premiere 4 SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1759
+#EXTINF:0 type="stream" channelId="2503", Premiere 4 SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2163
+
+#EXTINF:0 type="stream" channelId="2503", Premiere 5 HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1756
+#EXTINF:0 type="stream" channelId="2503", Premiere 5 HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2339
+#EXTINF:0 type="stream" channelId="2503", Premiere 5 SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1757
+#EXTINF:0 type="stream" channelId="2503", Premiere 5 SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2162
+
+#EXTINF:0 type="stream" channelId="2503", Premiere 6 HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1754
+#EXTINF:0 type="stream" channelId="2503", Premiere 6 HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2338
+#EXTINF:0 type="stream" channelId="2503", Premiere 6 SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1755
+#EXTINF:0 type="stream" channelId="2503", Premiere 6 SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2161
+
+#EXTINF:0 type="stream" channelId="2503", Premiere 7 HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1752
+#EXTINF:0 type="stream" channelId="2503", Premiere 7 HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2337
+#EXTINF:0 type="stream" channelId="2503", Premiere 7 SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1753
+#EXTINF:0 type="stream" channelId="2503", Premiere 7 SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2160
+#EXTINF:0 type="stream" channelId="2503", Premiere 8 SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2159
+
+#EXTINF:0 type="stream" channelId="2503", Premiere Clubes HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1750
+#EXTINF:0 type="stream" channelId="2503", Premiere Clubes HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2336
+#EXTINF:0 type="stream" channelId="2503", Premiere Clubes SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1751
+#EXTINF:0 type="stream" channelId="2503", Premiere Clubes SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2158
+
+#EXTINF:0 type="stream" channelId="2503", Prime Box Brasil HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1748
+#EXTINF:0 type="stream" channelId="2503", Prime Box Brasil SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1749
+
+#EXTINF:0 type="stream" channelId="2503", Record News HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1745
+#EXTINF:0 type="stream" channelId="2503", Record News SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1746
+
+#EXTINF:0 type="stream" channelId="2503", RecordTV BA HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1665
+#EXTINF:0 type="stream" channelId="2503", RecordTV BA SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1664
+#EXTINF:0 type="stream" channelId="2503", RecordTV DF FHD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1912
+#EXTINF:0 type="stream" channelId="2503", RecordTV DF HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1663
+#EXTINF:0 type="stream" channelId="2503", RecordTV DF SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1662
+
+#EXTINF:0 type="stream" channelId="2503", Rede Brasil SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1742
+
+
+
+#EXTINF:0 type="stream" channelId="2503", Rede TV HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1740
+#EXTINF:0 type="stream" channelId="2503", Rede TV HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2335
+
+#EXTINF:0 type="stream" channelId="2503", Rede Vida HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1673
+#EXTINF:0 type="stream" channelId="2503", Rede Vida SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1739
+#EXTINF:0 type="stream" channelId="2503", Rede Vida SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2110
+
+
+#EXTINF:0 type="stream" channelId="2503", SBT HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2334
+#EXTINF:0 type="stream" channelId="2503", SBT PI FHD+
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/24981
+#EXTINF:0 type="stream" channelId="2503", SBT SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1738
+#EXTINF:0 type="stream" channelId="2503", SBT SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2157
+
+#EXTINF:0 type="stream" channelId="2503", Space HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1732
+#EXTINF:0 type="stream" channelId="2503", Space HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2333
+#EXTINF:0 type="stream" channelId="2503", Space HD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1501
+#EXTINF:0 type="stream" channelId="2503", Space SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1733
+#EXTINF:0 type="stream" channelId="2503", Space SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2156
+#EXTINF:0 type="stream" channelId="2503", Space SD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1500
+
+#EXTINF:0 type="stream" channelId="2503", SporTV 2 HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1729
+#EXTINF:0 type="stream" channelId="2503", SporTV 2 HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2332
+#EXTINF:0 type="stream" channelId="2503", SporTV 2 SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1730
+#EXTINF:0 type="stream" channelId="2503", SporTV 2 SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2155
+
+#EXTINF:0 type="stream" channelId="2503", SporTV 3 HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1727
+#EXTINF:0 type="stream" channelId="2503", SporTV 3 HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2331
+#EXTINF:0 type="stream" channelId="2503", SporTV 3 SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1728
+#EXTINF:0 type="stream" channelId="2503", SporTV 3 SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2131
+
+#EXTINF:0 type="stream" channelId="2503", SporTV HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1726
+#EXTINF:0 type="stream" channelId="2503", SporTV HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2330
+#EXTINF:0 type="stream" channelId="2503", SporTV SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1731
+#EXTINF:0 type="stream" channelId="2503", SporTV SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2154
+
+#EXTINF:0 type="stream" channelId="2503", Studio Universal HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1724
+#EXTINF:0 type="stream" channelId="2503", Studio Universal HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2329
+#EXTINF:0 type="stream" channelId="2503", Studio Universal SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1725
+#EXTINF:0 type="stream" channelId="2503", Studio Universal SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2153
+
+#EXTINF:0 type="stream" channelId="2503", SyFy HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1734
+#EXTINF:0 type="stream" channelId="2503", SyFy HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2328
+#EXTINF:0 type="stream" channelId="2503", SyFy SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1735
+#EXTINF:0 type="stream" channelId="2503", SyFy SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2152
+
+#EXTINF:0 type="stream" channelId="2503", TBS HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1722
+#EXTINF:0 type="stream" channelId="2503", TBS HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2327
+#EXTINF:0 type="stream" channelId="2503", TBS SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1723
+#EXTINF:0 type="stream" channelId="2503", TBS SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2151
+#EXTINF:0 type="stream" channelId="2503", TCM SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1721
+#EXTINF:0 type="stream" channelId="2503", TCM SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2150
+
+#EXTINF:0 type="stream" channelId="2503", Telecine Action HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1719
+#EXTINF:0 type="stream" channelId="2503", Telecine Action HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2326
+#EXTINF:0 type="stream" channelId="2503", Telecine Action HD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1519
+#EXTINF:0 type="stream" channelId="2503", Telecine Action SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1720
+#EXTINF:0 type="stream" channelId="2503", Telecine Action SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2149
+#EXTINF:0 type="stream" channelId="2503", Telecine Action SD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1518
+
+#EXTINF:0 type="stream" channelId="2503", Telecine Cult HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1717
+#EXTINF:0 type="stream" channelId="2503", Telecine Cult HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2325
+#EXTINF:0 type="stream" channelId="2503", Telecine Cult SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1718
+#EXTINF:0 type="stream" channelId="2503", Telecine Cult SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2148
+
+#EXTINF:0 type="stream" channelId="2503", Telecine Fun HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1715
+#EXTINF:0 type="stream" channelId="2503", Telecine Fun HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2324
+#EXTINF:0 type="stream" channelId="2503", Telecine Fun HD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1517
+#EXTINF:0 type="stream" channelId="2503", Telecine Fun SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1716
+#EXTINF:0 type="stream" channelId="2503", Telecine Fun SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2147
+#EXTINF:0 type="stream" channelId="2503", Telecine Fun SD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1516
+
+#EXTINF:0 type="stream" channelId="2503", Telecine Pipoca HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1713
+#EXTINF:0 type="stream" channelId="2503", Telecine Pipoca HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2323
+#EXTINF:0 type="stream" channelId="2503", Telecine Pipoca HD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1515
+#EXTINF:0 type="stream" channelId="2503", Telecine Pipoca SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1714
+#EXTINF:0 type="stream" channelId="2503", Telecine Pipoca SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2146
+#EXTINF:0 type="stream" channelId="2503", Telecine Pipoca SD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1514
+
+#EXTINF:0 type="stream" channelId="2503", Telecine Premium HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1711
+#EXTINF:0 type="stream" channelId="2503", Telecine Premium HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2322
+#EXTINF:0 type="stream" channelId="2503", Telecine Premium HD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1513
+#EXTINF:0 type="stream" channelId="2503", Telecine Premium SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1712
+#EXTINF:0 type="stream" channelId="2503", Telecine Premium SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2145
+#EXTINF:0 type="stream" channelId="2503", Telecine Premium SD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1512
+
+#EXTINF:0 type="stream" channelId="2503", Telecine Touch HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1709
+#EXTINF:0 type="stream" channelId="2503", Telecine Touch HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2321
+#EXTINF:0 type="stream" channelId="2503", Telecine Touch HD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1511
+#EXTINF:0 type="stream" channelId="2503", Telecine Touch SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1710
+#EXTINF:0 type="stream" channelId="2503", Telecine Touch SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2144
+#EXTINF:0 type="stream" channelId="2503", Telecine Touch SD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1510
+#EXTINF:0 type="stream" channelId="2503", Terra Viva SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1708
+#EXTINF:0 type="stream" channelId="2503", Terra Viva SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2103
+
+#EXTINF:0 type="stream" channelId="2503", TLC HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1706
+#EXTINF:0 type="stream" channelId="2503", TLC HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2319
+#EXTINF:0 type="stream" channelId="2503", TLC SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1707
+#EXTINF:0 type="stream" channelId="2503", TLC SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2142
+
+
+#EXTINF:0 type="stream" channelId="2503", TNT HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2318
+#EXTINF:0 type="stream" channelId="2503", TNT HD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1509
+#EXTINF:0 type="stream" channelId="2503", TNT SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1705
+#EXTINF:0 type="stream" channelId="2503", TNT SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2141
+#EXTINF:0 type="stream" channelId="2503", TNT SD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1508
+
+#EXTINF:0 type="stream" channelId="2503", TNT Series HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1702
+#EXTINF:0 type="stream" channelId="2503", TNT Series HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2317
+#EXTINF:0 type="stream" channelId="2503", TNT Series HD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1499
+#EXTINF:0 type="stream" channelId="2503", TNT Series SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1703
+#EXTINF:0 type="stream" channelId="2503", TNT Series SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2140
+
+#EXTINF:0 type="stream" channelId="2503", Tooncast HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2316
+#EXTINF:0 type="stream" channelId="2503", Tooncast SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1701
+#EXTINF:0 type="stream" channelId="2503", Tooncast SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2139
+
+#EXTINF:0 type="stream" channelId="2503", Travel Box Brazil FHD [H265]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/25367
+#EXTINF:0 type="stream" channelId="2503", Travel Box Brazil FHD+
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/24992
+
+
+#EXTINF:0 type="stream" channelId="2503", TruTV HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1690
+#EXTINF:0 type="stream" channelId="2503", TruTV SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1691
+#EXTINF:0 type="stream" channelId="2503", TV Aparecida FHD [H265]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/25349
+#EXTINF:0 type="stream" channelId="2503", TV Aparecida SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1698
+#EXTINF:0 type="stream" channelId="2503", TV Aparecida SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2108
+#EXTINF:0 type="stream" channelId="2503", TV Brasil SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1697
+#EXTINF:0 type="stream" channelId="2503", TV Camara SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1696
+
+#EXTINF:0 type="stream" channelId="2503", TV Cultura HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1674
+#EXTINF:0 type="stream" channelId="2503", TV Cultura SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1675
+#EXTINF:0 type="stream" channelId="2503", TV Escola SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1695
+
+#EXTINF:0 type="stream" channelId="2503", TV Gazeta SP HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1694
+#EXTINF:0 type="stream" channelId="2503", TV Gazeta SP HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2411
+#EXTINF:0 type="stream" channelId="2503", TV Justica SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1699
+#EXTINF:0 type="stream" channelId="2503", TV Justica SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2138
+
+#EXTINF:0 type="stream" channelId="2503", TV Ra Tim Bum HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1692
+#EXTINF:0 type="stream" channelId="2503", TV Ra Tim Bum HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2310
+#EXTINF:0 type="stream" channelId="2503", TV Ra Tim Bum SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1693
+#EXTINF:0 type="stream" channelId="2503", TV Ra Tim Bum SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2129
+#EXTINF:0 type="stream" channelId="2503", TV Senado SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1700
+#EXTINF:0 type="stream" channelId="2503", TV Senado SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2128
+
+#EXTINF:0 type="stream" channelId="2503", Universal Channel HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1688
+#EXTINF:0 type="stream" channelId="2503", Universal Channel HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2315
+#EXTINF:0 type="stream" channelId="2503", Universal Channel SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1689
+#EXTINF:0 type="stream" channelId="2503", Universal Channel SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2137
+
+#EXTINF:0 type="stream" channelId="2503", VH1 HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1686
+#EXTINF:0 type="stream" channelId="2503", VH1 MegaHits SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1685
+#EXTINF:0 type="stream" channelId="2503", VH1 MegaHits SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2136
+#EXTINF:0 type="stream" channelId="2503", VH1 SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1687
+
+#EXTINF:0 type="stream" channelId="2503", Viva HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1683
+#EXTINF:0 type="stream" channelId="2503", Viva HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2314
+#EXTINF:0 type="stream" channelId="2503", Viva SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1684
+#EXTINF:0 type="stream" channelId="2503", Viva SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2135
+
+#EXTINF:0 type="stream" channelId="2503", Warner Channel HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1681
+#EXTINF:0 type="stream" channelId="2503", Warner Channel HD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2313
+#EXTINF:0 type="stream" channelId="2503", Warner Channel HD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1497
+#EXTINF:0 type="stream" channelId="2503", Warner Channel SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1682
+#EXTINF:0 type="stream" channelId="2503", Warner Channel SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2134
+#EXTINF:0 type="stream" channelId="2503", Warner Channel SD [Legendado]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1496
+
+#EXTINF:0 type="stream" channelId="2503", WooHoo HD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1679
+#EXTINF:0 type="stream" channelId="2503", WooHoo SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1680
+#EXTINF:0 type="stream" channelId="2503", WooHoo SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2133
+
+#EXTINF:0 type="stream" channelId="2503", ZooMoo SD
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/1653
+#EXTINF:0 type="stream" channelId="2503", ZooMoo SD [Alter]
+http://clubsrv.me:80/User:_rossela_||_Pass:_julia/bujsbvZSQ5/2111
+

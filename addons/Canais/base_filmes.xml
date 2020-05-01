@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?> 
+<layoutype>list</layoutype>
+
+<channels>
+
+<channel>
+<name>[B][COLOR yellow]•• [COLOR lime]ATUALIZADO EM: 05/07/2019 [COLOR yellow]••[/COLOR][/B]</name>
+<info>[B][COLOR yellow]KallPlay[/COLOR] [COLOR lime]//[/COLOR] [COLOR deepskyblue]Free4ALL[/COLOR][/B]</info>
+<thumbnail>https://i.upimg.com/BJCiKuVIm</thumbnail>
+<fanart>https://setimadefinicao.files.wordpress.com/2018/01/justice_league.jpg?w=1200</fanart>
+<link>http://faustinotv</link>
+<externallink>http://0.0.0.0</externallink> 
+</channel>
+
+<channel>
+<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]FILMES EM 4K[/COLOR][/B]</name>
+<info>[B][COLOR yellow]KallPlay[/COLOR] [COLOR lime]//[/COLOR] [COLOR deepskyblue]Free4ALL[/COLOR][/B]
+
+[B][COLOR lime]ESTEJA CIENTE DE QUE FILMES EM 4K EXIGEM U	MA VELOCIDADE DE CONEXÃO RECOMENDADA DE 25Mbps[/COLOR][/B]</info>
+<thumbnail>https://imgur.com/Jmowp88.png</thumbnail>
+<fanart>https://setimadefinicao.files.wordpress.com/2018/01/justice_league.jpg?w=1200</fanart>
+<link>http://faustinotv</link>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/FILMES4K</externallink> 
+</channel>
+
+<channel>
+<name>[B][COLOR lime]••[/COLOR] [COLOR yellow]LANÇAMENTOS[/COLOR][/B]</name>
+<info>[B][COLOR yellow]KallPlay[/COLOR] [COLOR lime]//[/COLOR] [COLOR deepskyblue]Free4ALL[/COLOR][/B]</info>
+<thumbnail>https://imgur.com/Jmowp88.png</thumbnail>
+<fanart>https://setimadefinicao.files.wordpress.com/2018/01/justice_league.jpg?w=1200</fanart>
+<link>http://faustinotv</link>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/lancamentos2019.xml</externallink> 
+</channel>
+
+<channel>
+<name>[B][COLOR lime]••[/COLOR][COLOR yellow]AÇÃO, GUERRA[/COLOR][/B]</name>
+<info>[B][COLOR yellow]KallPlay[/COLOR] [COLOR lime]//[/COLOR] [COLOR deepskyblue]Free4ALL[/COLOR][/B]</info>
+<thumbnail>https://imgur.com/Jmowp88.png</thumbnail>
+<fanart>https://setimadefinicao.files.wordpress.com/2018/01/justice_league.jpg?w=1200</fanart>
+<link>http://faustinotv</link>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/a%C3%A7%C3%A3o%2C%20guerra.xml</externallink> 
+</channel>
+
+<channel>
+<name>[B][COLOR lime]••[/COLOR][COLOR yellow]AVENTURA, COMÉDIA[/COLOR][/B]</name>
+<info>[B][COLOR yellow]KallPlay[/COLOR] [COLOR lime]//[/COLOR] [COLOR deepskyblue]Free4ALL[/COLOR][/B]</info>
+<thumbnail>https://imgur.com/Jmowp88.png</thumbnail>
+<fanart>https://setimadefinicao.files.wordpress.com/2018/01/justice_league.jpg?w=1200</fanart>
+<link>http://faustinotv</link>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/aventura%2C%20comedia.xml</externallink> 
+</channel>
+
+<channel>
+<name>[B][COLOR lime]••[/COLOR][COLOR yellow]DRAMA, SUSPENSE[/COLOR][/B]</name>
+<info>[B][COLOR yellow]KallPlay[/COLOR] [COLOR lime]//[/COLOR] [COLOR deepskyblue]Free4ALL[/COLOR][/B]</info>
+<thumbnail>https://imgur.com/Jmowp88.png</thumbnail>
+<fanart>https://setimadefinicao.files.wordpress.com/2018/01/justice_league.jpg?w=1200</fanart>
+<link>http://faustinotv</link>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/drama%2C%20suspense.xml</externallink> 
+</channel>
+
+<channel>
+<name>[B][COLOR lime]••[/COLOR][COLOR yellow]FANTASIA[/COLOR][/B]</name>
+<info>[B][COLOR yellow]KallPlay[/COLOR] [COLOR lime]//[/COLOR] [COLOR deepskyblue]Free4ALL[/COLOR][/B]</info>
+<thumbnail>https://imgur.com/Jmowp88.png</thumbnail>
+<fanart>https://setimadefinicao.files.wordpress.com/2018/01/justice_league.jpg?w=1200</fanart>
+<link>http://faustinotv</link>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/Fantasia.xml</externallink> 
+</channel>
+
+<channel>
+<name>[B][COLOR lime]••[/COLOR][COLOR yellow]ANIMAÇÃO[/COLOR][/B]</name>
+<info>[B][COLOR yellow]KallPlay[/COLOR] [COLOR lime]//[/COLOR] [COLOR deepskyblue]Free4ALL[/COLOR][/B]</info>
+<thumbnail>https://imgur.com/Jmowp88.png</thumbnail>
+<fanart>https://setimadefinicao.files.wordpress.com/2018/01/justice_league.jpg?w=1200</fanart>
+<link>http://faustinotv</link>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/anima%C3%A7%C3%A3o.xml</externallink> 
+</channel>
+
+<channel>
+<name>[B][COLOR lime]••[/COLOR][COLOR yellow]POLICIAL[/COLOR][/B]</name>
+<info>[B][COLOR yellow]KallPlay[/COLOR] [COLOR lime]//[/COLOR] [COLOR deepskyblue]Free4ALL[/COLOR][/B]</info>
+<thumbnail>https://imgur.com/Jmowp88.png</thumbnail>
+<fanart>https://setimadefinicao.files.wordpress.com/2018/01/justice_league.jpg?w=1200</fanart>
+<link>http://faustinotv</link>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/policial.xml</externallink> 
+</channel>
+
+<channel>
+<name>[B][COLOR lime]••[/COLOR][COLOR yellow]CLÁSSICOS[/COLOR][/B]</name>
+<info>[B][COLOR yellow]KallPlay[/COLOR] [COLOR lime]//[/COLOR] [COLOR deepskyblue]Free4ALL[/COLOR][/B]</info>
+<thumbnail>https://imgur.com/Jmowp88.png</thumbnail>
+<fanart>https://setimadefinicao.files.wordpress.com/2018/01/justice_league.jpg?w=1200</fanart>
+<link>http://faustinotv</link>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay-repo/master/Canais/classicos.xml</externallink> 
+</channel>

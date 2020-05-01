@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para><note><remark>Chatra {literal}</remark></note>    (function(d, w, c) {
+        w.ChatraID = 'BK5agwuADiPbZQcNh';
+        var s = d.createElement('script');
+        w[c] = w[c] || function() {
+            (w[c].q = w[c].q || []).push(arguments);
+        };
+        s.async = true;
+        s.src = 'https://call.chatra.io/chatra.js';
+        if (d.head) d.head.appendChild(s);
+    })(document, window, 'Chatra');<note><remark>/Chatra {/literal}</remark></note>REPO - BRAZUCA PLAY</para>
+  <informaltable frame="all">
+    <tgroup cols="2.777777777777778"><tbody><row><entry namest="c1" nameend="c5"><para/></entry></row><row><entry namest="c1" nameend="c5"><para>ADD-ONS:</para><para/></entry></row><row><entry><para><inlinegraphic fileref="http://temporada.peraltas.com.br/wp-content/plugins/download-manager/assets/file-type-icons/download2.png" width="0.2083inch" depth="0.2083inch"/></para></entry><entry><para><olink targetdocent="addons/repository.BrazucaPlay.zip">addons/repository.BrazucaPlay.zip</olink></para></entry><entry><para>||| V:</para></entry><entry><para>1.3</para></entry><entry><para/></entry></row><row><entry><para><inlinegraphic fileref="http://temporada.peraltas.com.br/wp-content/plugins/download-manager/assets/file-type-icons/download2.png" width="0.2083inch" depth="0.2083inch"/></para></entry><entry><para><olink targetdocent="addons/plugin.video.BrazucaPlay.zip">addons/plugin.video.BrazucaPlay.zip</olink></para></entry><entry><para>||| V:</para></entry><entry><para>2.0.8</para></entry><entry><para/></entry></row><row><entry namest="c1" nameend="c5"><para/></entry></row><row><entry namest="c1" nameend="c5"><para>PLUGINS:</para><para/></entry></row><row><entry><para><inlinegraphic fileref="http://temporada.peraltas.com.br/wp-content/plugins/download-manager/assets/file-type-icons/download2.png" width="0.2083inch" depth="0.2083inch"/></para></entry><entry><para><olink targetdocent="addons/plugin.video.f4mTester-2.7.1.zip">addons/plugin.video.f4mTester-2.7.1.zip</olink></para></entry><entry><para>||| V:</para></entry><entry><para>2.7.1</para></entry><entry><para/></entry></row><row><entry><para><inlinegraphic fileref="http://temporada.peraltas.com.br/wp-content/plugins/download-manager/assets/file-type-icons/download2.png" width="0.2083inch" depth="0.2083inch"/></para></entry><entry><para><olink targetdocent="addons/script.video.F4mProxy-2.8.7.zip">addons/script.video.F4mProxy-2.8.7.zip</olink></para></entry><entry><para>||| V:</para></entry><entry><para>2.8.7</para></entry><entry><para/></entry></row><row><entry namest="c1" nameend="c5"><para/></entry></row></tbody></tgroup>
+  </informaltable>
+  <para/>
+</article>

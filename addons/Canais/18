@@ -1,0 +1,1969 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://encurtador.com.br/CHQU4" group-title="", CANAL RICOS
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.ts
+#EXTINF:-1,Globo RJ FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12665.m3u8
+#EXTINF:-1,Globo RJ HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1586.m3u8
+#EXTINF:-1,Globo RJ
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1752.m3u8
+#EXTINF:-1,Globo RJ  FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41723.m3u8
+#EXTINF:-1,Globo RJ Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12991.m3u8
+#EXTINF:-1,Globo RJ Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/8667.m3u8
+#EXTINF:-1,Globo TV RIO Sul RJ FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41765.m3u8
+#EXTINF:-1,Globo TV RIO Sul RJ HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41764.m3u8
+#EXTINF:-1,Globo TV RIO Sul RJ
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41763.m3u8
+#EXTINF:-1,Globo Inter TV Alto Litoral RJ FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41792.m3u8
+#EXTINF:-1,Globo Inter TV Alto Litoral RJ HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41791.m3u8
+#EXTINF:-1,Globo Inter TV Alto Litoral RJ
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41790.m3u8
+#EXTINF:-1,Globo Inter TV Serra Mar RJ FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41783.m3u8
+#EXTINF:-1,Globo Inter TV Serra Mar RJ HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41782.m3u8
+#EXTINF:-1,Globo Inter TV Serra Mar
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41781.m3u8
+#EXTINF:-1,Globo SP FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21615.m3u8
+#EXTINF:-1,Globo SP HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17241.m3u8
+#EXTINF:-1,Globo SP
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/111.m3u8
+#EXTINF:-1,Globo SP  FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31624.m3u8
+#EXTINF:-1,Globo SP Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/18836.m3u8
+#EXTINF:-1,Globo SP Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/8664.m3u8
+#EXTINF:-1,Globo MG FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21616.m3u8
+#EXTINF:-1,Globo MG HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/5989.m3u8
+#EXTINF:-1,Globo MG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1653.m3u8
+#EXTINF:-1,Globo MG Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/9461.m3u8
+#EXTINF:-1,Globo MG Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/11450.m3u8
+#EXTINF:-1,Globo Inter TV Dos Vales MG FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41789.m3u8
+#EXTINF:-1,Globo Inter TV Dos Vales MG HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41788.m3u8
+#EXTINF:-1,Globo Inter TV Dos Vales MG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41787.m3u8
+#EXTINF:-1,Globo Inter TV Grande Minas FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41786.m3u8
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41785.m3u8
+#EXTINF:-1,Globo Inter TV Grande Minas
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41784.m3u8
+#EXTINF:-1,Globo Nordeste FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17071.m3u8
+#EXTINF:-1,Globo Nordeste HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/8485.m3u8
+#EXTINF:-1,Globo Nordeste
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/6136.m3u8
+#EXTINF:-1,Globo Nordeste Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/9469.m3u8
+#EXTINF:-1,Globo RPC TV Curitiba FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21617.m3u8
+#EXTINF:-1,Globo RPC TV Curitiba HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/18837.m3u8
+#EXTINF:-1,Globo RPC TV Curitiba
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/18838.m3u8
+#EXTINF:-1,Globo RPC Foz do Iguaçu FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29676.m3u8
+#EXTINF:-1,Globo RPC Foz do Iguaçu HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29677.m3u8
+#EXTINF:-1,Globo RPC Foz do Iguaçu
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29678.m3u8
+#EXTINF:-1,Globo RPC TV Paraná
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/30678.m3u8
+#EXTINF:-1,Globo NSC TV Florianopolis FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29777.m3u8
+#EXTINF:-1,Globo NSC TV Florianopolis HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21619.m3u8
+#EXTINF:-1,Globo NSC TV Florianopolis
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21618.m3u8
+#EXTINF:-1,Globo NSC TV Chapecó FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29673.m3u8
+#EXTINF:-1,Globo NSC TV Chapecó HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29674.m3u8
+#EXTINF:-1,Globo NSC TV Chapecó
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29675.m3u8
+#EXTINF:-1,Globo NSC TV Santa Catarina
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/40391.m3u8
+#EXTINF:-1,Globo NSC TV Blumenau SC FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41780.m3u8
+#EXTINF:-1,Globo NSC TV Blumenau SC HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41779.m3u8
+#EXTINF:-1,Globo NSC TV Blumenau SC
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41778.m3u8
+#EXTINF:-1,Globo NSC TV Joinville SC FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41774.m3u8
+#EXTINF:-1,Globo NSC TV Joinville SC HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41773.m3u8
+#EXTINF:-1,Globo NSC TV Joinville SC
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41772.m3u8
+#EXTINF:-1,Globo RBS TV Porto Alegre FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29663.m3u8
+#EXTINF:-1,Globo RBS TV Porto Alegre HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21620.m3u8
+#EXTINF:-1,Globo RBS TV Porto Alegre
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12095.m3u8
+#EXTINF:-1,Globo RBS TV Porto Alegre Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1484.m3u8
+#EXTINF:-1,Globo RBS TV Caxias Do Sul RS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41775.m3u8
+#EXTINF:-1,Globo RBS TV Caxias Do Sul RS FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41777.m3u8
+#EXTINF:-1,Globo RBS TV Caxias Do Sul RS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41776.m3u8
+#EXTINF:-1,Globo RBS TV Pelotas RS FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41771.m3u8
+#EXTINF:-1,Globo RBS TV Pelotas RS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41770.m3u8
+#EXTINF:-1,Globo RBS TV Pelotas RS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41769.m3u8
+#EXTINF:-1,Globo TV Gazeta Vitória FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29682.m3u8
+#EXTINF:-1,Globo TV Gazeta Vitória HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29683.m3u8
+#EXTINF:-1,Globo TV Gazeta Vitória
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29684.m3u8
+#EXTINF:-1,Globo TV Gazeta Sul ES FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31274.m3u8
+#EXTINF:-1,Globo TV Gazeta Sul ES HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31275.m3u8
+#EXTINF:-1,Globo TV Gazeta Alagoas FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29892.m3u8
+#EXTINF:-1,Globo TV Gazeta Alagoas HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29891.m3u8
+#EXTINF:-1,Globo TV Gazeta Alagoas
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29893.m3u8
+#EXTINF:-1,Globo TV Sergipe FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29685.m3u8
+#EXTINF:-1,Globo TV Sergipe HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29686.m3u8
+#EXTINF:-1,Globo TV Sergipe
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29687.m3u8
+#EXTINF:-1,Globo TV Clube Teresina FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29679.m3u8
+#EXTINF:-1,Globo TV Clube Teresina HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29680.m3u8
+#EXTINF:-1,Globo TV Clube Teresina
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29681.m3u8
+#EXTINF:-1,Globo Brasília FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29779.m3u8
+#EXTINF:-1,Globo Brasília HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/18200.m3u8
+#EXTINF:-1,Globo Brasília
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1751.m3u8
+#EXTINF:-1,Globo Brasília Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21583.m3u8
+#EXTINF:-1,Globo Brasília Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21584.m3u8
+#EXTINF:-1,Globo Bahia FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29775.m3u8
+#EXTINF:-1,Globo Bahia HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21206.m3u8
+#EXTINF:-1,Globo Bahia
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/8481.m3u8
+#EXTINF:-1,Globo Bahia Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21694.m3u8
+#EXTINF:-1,Globo Bahia Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21695.m3u8
+#EXTINF:-1,Globo TV Anhanguera Goiânia FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29776.m3u8
+#EXTINF:-1,Globo TV Anhanguera Goiânia HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/9463.m3u8
+#EXTINF:-1,Globo TV Anhanguera Goiânia
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/2409.m3u8
+#EXTINF:-1,Globo TV Mirante Sao Luis FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29774.m3u8
+#EXTINF:-1,Globo TV Mirante Sao Luis HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29773.m3u8
+#EXTINF:-1,Globo TV Mirante Sao Luis
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29772.m3u8
+#EXTINF:-1,Globo TV Morena Campo Grande FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29771.m3u8
+#EXTINF:-1,Globo TV Morena Campo Grande HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29770.m3u8
+#EXTINF:-1,Globo TV Morena Campo Grande
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29769.m3u8
+#EXTINF:-1,Globo TV Cabo Branco PB FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41768.m3u8
+#EXTINF:-1,Globo TV Cabo Branco PB HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41767.m3u8
+#EXTINF:-1,Globo TV Cabo Branco PB
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41766.m3u8
+#EXTINF:-1,Globo TV Santa Cruz BA FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41762.m3u8
+#EXTINF:-1,Globo TV Santa Cruz BA HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41761.m3u8
+#EXTINF:-1,Globo TV Santa Cruz BA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41760.m3u8
+#EXTINF:-1,Globo TV Verde Mares HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/43350.m3u8
+#EXTINF:-1,Globo TV Verdes Mares
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12303.m3u8
+#EXTINF:-1,Globo TV Verdes Mares Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/27396.m3u8
+#EXTINF:-1,Globo InterTV Cabugi
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/6992.m3u8
+#EXTINF:-1,Globo Inter TV RN
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21624.m3u8
+#EXTINF:-1,Globo TV Amazonas
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/6990.m3u8
+#EXTINF:-1,Globo TV Amazonas Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/11444.m3u8
+#EXTINF:-1,Globo EPTV Campinas FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29781.m3u8
+#EXTINF:-1,Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19971.m3u8
+#EXTINF:-1,Globo EPTV Campinas
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19972.m3u8
+#EXTINF:-1,Globo EPTV Campinas Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31545.m3u8
+#EXTINF:-1,Globo EPTV Ribeirao Preto FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31270.m3u8
+#EXTINF:-1,Globo EPTV Ribeirao Preto HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19979.m3u8
+#EXTINF:-1,Globo EPTV Ribeirão Preto
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/7003.m3u8
+#EXTINF:-1,Globo EPTV Ribeirao Preto Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31546.m3u8
+#EXTINF:-1,Globo EPTV São Carlos
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19981.m3u8
+#EXTINF:-1,Globo EPTV São Carlos Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31549.m3u8
+#EXTINF:-1,Globo EPTV Araraquara
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21623.m3u8
+#EXTINF:-1,Globo TV Tem Sao Jose Rio do Preto FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29780.m3u8
+#EXTINF:-1,Globo TV Tem Sao Jose do Rio Preto HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19984.m3u8
+#EXTINF:-1,Globo Tv Tem Sao Jose do Rio Preto
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19985.m3u8
+#EXTINF:-1,Globo Tv Tem Sao Jose do Rio Preto Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31547.m3u8
+#EXTINF:-1,Globo Tv Tem Sorocaba
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/6993.m3u8
+#EXTINF:-1,Globo Tv Tem Sorocaba Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31548.m3u8
+#EXTINF:-1,Globo Tv Tem Bauru
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19987.m3u8
+#EXTINF:-1,Globo TV Tribuna
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/16169.m3u8
+#EXTINF:-1,Globo TV Liberal Belém
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/9464.m3u8
+#EXTINF:-1,Globo TV Centro America MT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21696.m3u8
+#EXTINF:-1,Globo TV Vanguarda S. J. dos Campos
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13800.m3u8
+#EXTINF:-1,Globo Internacional FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31128.m3u8
+#EXTINF:-1,Globo Internacional
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29617.m3u8
+#EXTINF:-1,Globo Portugal
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/283.m3u8
+#EXTINF:-1,Globo Portugal Aternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31095.m3u8
+#EXTINF:-1,Globo Now
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/226.m3u8
+#EXTINF:-1,Globo Now Aternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31094.m3u8
+#EXTINF:-1,Power Couple Brasil FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/47233.m3u8
+#EXTINF:-1,Power Couple Brasil HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/47234.m3u8
+#EXTINF:-1,Power Couple Brasil
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/47235.m3u8
+#EXTINF:-1,RecordTV SP FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21622.m3u8
+#EXTINF:-1,RecordTV SP HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1694.m3u8
+#EXTINF:-1,RecordTV SP
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/252.m3u8
+#EXTINF:-1,RecordTV Alternativo SP FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/38017.m3u8
+#EXTINF:-1,RecordTV Alternativo SP HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/7045.m3u8
+#EXTINF:-1,RecordTV Alternativo SP
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13532.m3u8
+#EXTINF:-1,RecordTV RJ FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31262.m3u8
+#EXTINF:-1,RecordTV RJ HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31212.m3u8
+#EXTINF:-1,RecordTV RJ
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31263.m3u8
+#EXTINF:-1,RecordTV MG FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31264.m3u8
+#EXTINF:-1,RecordTV MG HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31265.m3u8
+#EXTINF:-1,RecordTV MG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31266.m3u8
+#EXTINF:-1,RecordTV RS FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/35863.m3u8
+#EXTINF:-1,RecordTV RS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/35858.m3u8
+#EXTINF:-1,RecordTV RS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/35857.m3u8
+#EXTINF:-1,RecordTV DF FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/35848.m3u8
+#EXTINF:-1,RecordTV DF HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/35860.m3u8
+#EXTINF:-1,RecordTV DF
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/35859.m3u8
+#EXTINF:-1,RecordTV Goiás HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/34655.m3u8
+#EXTINF:-1,RecordTV BA FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/35864.m3u8
+#EXTINF:-1,RecordTV BA HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/35862.m3u8
+#EXTINF:-1,RecordTV BA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/35861.m3u8
+#EXTINF:-1,RecordTV TV Atalaia Sergipe HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41950.m3u8
+#EXTINF:-1,RecordTV TV Atalaia Sergipe
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41974.m3u8
+#EXTINF:-1,RecordTV RICTV Curitiba HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41976.m3u8
+#EXTINF:-1,RecordTV RICTV Curitiba
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41978.m3u8
+#EXTINF:-1,RecordTV TV Litoral Santos HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/47524.m3u8
+#EXTINF:-1,RecordTV Sao Jose do Rio Preto HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/47526.m3u8
+#EXTINF:-1,RecordTV TV Paranaiba MG HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/47523.m3u8
+#EXTINF:-1,RecordTV TV Cabralia BA HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/47527.m3u8
+#EXTINF:-1,RecordTV RICTV SC HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41898.m3u8
+#EXTINF:-1,RecordTV Belem HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/47525.m3u8
+#EXTINF:-1,RecordTV Portugal
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/289.m3u8
+#EXTINF:-1,RecordTV Portugal Aternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31093.m3u8
+#EXTINF:-1,SBT FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12662.m3u8
+#EXTINF:-1,SBT HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1961.m3u8
+#EXTINF:-1,Sbt
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/373.m3u8
+#EXTINF:-1,SBT HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12886.m3u8
+#EXTINF:-1,SBT Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/18203.m3u8
+#EXTINF:-1,SBT SP Interior
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21676.m3u8
+#EXTINF:-1,SBT TV Alterosa HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31127.m3u8
+#EXTINF:-1,SBT TV Alterosa Divinopolis MG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/47522.m3u8
+#EXTINF:-1,SBT RJ HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/46792.m3u8
+#EXTINF:-1,SBT Santa Catarina HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41897.m3u8
+#EXTINF:-1,SBT RS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/46023.m3u8
+#EXTINF:-1,SBT Parana HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41975.m3u8
+#EXTINF:-1,SBT Sergipe HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41952.m3u8
+#EXTINF:-1,SBT TV Aratu BA HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/47529.m3u8
+#EXTINF:-1,Band FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/7047.m3u8
+#EXTINF:-1,Band HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1744.m3u8
+#EXTINF:-1,Band
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/372.m3u8
+#EXTINF:-1,Band Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19956.m3u8
+#EXTINF:-1,Band Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21197.m3u8
+#EXTINF:-1,Band TV Goiania FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/43306.m3u8
+#EXTINF:-1,Band RJ HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/46791.m3u8
+#EXTINF:-1,Band Aracaju SE HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41951.m3u8
+#EXTINF:-1,Band TV Taroba Parana HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41977.m3u8
+#EXTINF:-1,Band TV Taroba
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/40385.m3u8
+#EXTINF:-1,Rede TV FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/7046.m3u8
+#EXTINF:-1,Rede TV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1862.m3u8
+#EXTINF:-1,Rede Tv
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/297.m3u8
+#EXTINF:-1,Rede TV Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21198.m3u8
+#EXTINF:-1,Rede Tv Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21199.m3u8
+#EXTINF:-1,TV Diario Fortaleza FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41971.m3u8
+#EXTINF:-1,TV Diario Fortaleza HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41972.m3u8
+#EXTINF:-1,TV Diario Fortaleza
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41973.m3u8
+#EXTINF:-1,TV Cultura FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31272.m3u8
+#EXTINF:-1,TV Cultura HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31271.m3u8
+#EXTINF:-1,TV Cultura
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/2422.m3u8
+#EXTINF:-1,TV Brasil
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1928.m3u8
+#EXTINF:-1,TV Diario
+plugin://plugin.video.f4mTester/?url=http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8.m3u8
+#EXTINF:-1,TV Gazeta HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/18202.m3u8
+#EXTINF:-1,TV Gazeta
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1929.m3u8
+#EXTINF:-1,TV Escola
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12108.m3u8
+#EXTINF:-1,TV Câmara
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1783.m3u8
+#EXTINF:-1,TV Justica
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/35902.m3u8
+#EXTINF:-1,TV Senado
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/6651.m3u8
+#EXTINF:-1,Canal Brasil FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13899.m3u8
+#EXTINF:-1,Canal Brasil HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/6542.m3u8
+#EXTINF:-1,Canal Brasil
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/237.m3u8
+#EXTINF:-1,Canal Brasil Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21730.m3u8
+#EXTINF:-1,Canal Brasil Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21731.m3u8
+#EXTINF:-1,Futura FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31204.m3u8
+#EXTINF:-1,Futura HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21692.m3u8
+#EXTINF:-1,Futura
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/6653.m3u8
+#EXTINF:-1,NBR
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1843.m3u8
+#EXTINF:-1,Terra Viva
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17520.m3u8
+#EXTINF:-1,Canal Rural
+plugin://plugin.video.f4mTester/?url=http://hls-live.crur.al/hlsmedium/playlist.m3u8.m3u8
+#EXTINF:-1,Rede Brasil
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1780.m3u8
+#EXTINF:-1,Globo News FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21625.m3u8
+#EXTINF:-1,Globo News HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/18760.m3u8
+#EXTINF:-1,Globo News
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/227.m3u8
+#EXTINF:-1,Globo News Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19955.m3u8
+#EXTINF:-1,Globo News Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13526.m3u8
+#EXTINF:-1,Globo News -Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13527.m3u8
+#EXTINF:-1,Band News FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21626.m3u8
+#EXTINF:-1,Band News HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/20885.m3u8
+#EXTINF:-1,Band News
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/239.m3u8
+#EXTINF:-1,Band News Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13528.m3u8
+#EXTINF:-1,Record News FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29662.m3u8
+#EXTINF:-1,Record News HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19996.m3u8
+#EXTINF:-1,Record News
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/290.m3u8
+#EXTINF:-1,Record News Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/35903.m3u8
+#EXTINF:-1,Record News Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13529.m3u8
+#EXTINF:-1,SporTV UHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21749.m3u8
+#EXTINF:-1,SporTV FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/11472.m3u8
+#EXTINF:-1,SporTV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1583.m3u8
+#EXTINF:-1,SporTV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/109.m3u8
+#EXTINF:-1,SporTV HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12864.m3u8
+#EXTINF:-1,SporTV Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13520.m3u8
+#EXTINF:-1,SporTV HD ‐ Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29938.m3u8
+#EXTINF:-1,SporTV - Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29939.m3u8
+#EXTINF:-1,SporTV 2 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21627.m3u8
+#EXTINF:-1,SporTV 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1619.m3u8
+#EXTINF:-1,SporTv 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/402.m3u8
+#EXTINF:-1,SporTV 2 HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/18833.m3u8
+#EXTINF:-1,SporTV 2 Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/18834.m3u8
+#EXTINF:-1,SporTV 3 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17042.m3u8
+#EXTINF:-1,SporTV 3 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1620.m3u8
+#EXTINF:-1,SporTV 3
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/366.m3u8
+#EXTINF:-1,SporTV 3 HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19959.m3u8
+#EXTINF:-1,SporTV 3 Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19960.m3u8
+#EXTINF:-1,FOX Sports FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13522.m3u8
+#EXTINF:-1,FOX Sports ‐FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29336.m3u8
+#EXTINF:-1,FOX Sports HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1589.m3u8
+#EXTINF:-1,Fox Sports
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/368.m3u8
+#EXTINF:-1,FOX Sports HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/18835.m3u8
+#EXTINF:-1,Fox Sports Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17191.m3u8
+#EXTINF:-1,FOX Sports 2 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21629.m3u8
+#EXTINF:-1,Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1499.m3u8
+#EXTINF:-1,Fox Sports 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/367.m3u8
+#EXTINF:-1,Fox Sports 2 HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/20934.m3u8
+#EXTINF:-1,Fox Sports 2 Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17193.m3u8
+#EXTINF:-1,ESPN Brasil FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13523.m3u8
+#EXTINF:-1,ESPN Brasil HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1588.m3u8
+#EXTINF:-1,ESPN Brasil
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/369.m3u8
+#EXTINF:-1,ESPN Brasil HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17967.m3u8
+#EXTINF:-1,Espn Brasil Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/16172.m3u8
+#EXTINF:-1,ESPN FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17045.m3u8
+#EXTINF:-1,ESPN HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1602.m3u8
+#EXTINF:-1,ESPN
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/232.m3u8
+#EXTINF:-1,ESPN HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19957.m3u8
+#EXTINF:-1,ESPN Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21732.m3u8
+#EXTINF:-1,ESPN 2 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17511.m3u8
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1603.m3u8
+#EXTINF:-1,ESPN 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/408.m3u8
+#EXTINF:-1,ESPN 2 Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31617.m3u8
+#EXTINF:-1,ESPN Extra FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21630.m3u8
+#EXTINF:-1,ESPN Extra HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21631.m3u8
+#EXTINF:-1,ESPN Extra
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21632.m3u8
+#EXTINF:-1,EI Plus HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/43012.m3u8
+#EXTINF:-1,EI Plus
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/43013.m3u8
+#EXTINF:-1,EI Plus Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/42125.m3u8
+#EXTINF:-1,EI Plus Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/42126.m3u8
+#EXTINF:-1,Combate UHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/35865.m3u8
+#EXTINF:-1,Combate FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21621.m3u8
+#EXTINF:-1,Combate ‐FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29735.m3u8
+#EXTINF:-1,Combate HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1601.m3u8
+#EXTINF:-1,Combate
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/110.m3u8
+#EXTINF:-1,Combate HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12806.m3u8
+#EXTINF:-1,Combate Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/20984.m3u8
+#EXTINF:-1,Combate Alternativo -HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21733.m3u8
+#EXTINF:-1,Band Sports FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31197.m3u8
+#EXTINF:-1,Band Sports HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1600.m3u8
+#EXTINF:-1,Band Sports
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/370.m3u8
+#EXTINF:-1,Band Sports HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21192.m3u8
+#EXTINF:-1,Band Sports Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21193.m3u8
+#EXTINF:-1,Brasileirão Série C
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/47709.m3u8
+#EXTINF:-1,Copa Libertadores
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/47710.m3u8
+#EXTINF:-1,Copa Sulamericana
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/47711.m3u8
+#EXTINF:-1,DAZN HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/47675.m3u8
+#EXTINF:-1,DAZN 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/47676.m3u8
+#EXTINF:-1,NBA TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12236.m3u8
+#EXTINF:-1,DAZN Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/47796.m3u8
+#EXTINF:-1,Premiere Clubes UHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29690.m3u8
+#EXTINF:-1,Premiere Clubes FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17293.m3u8
+#EXTINF:-1,Premiere Clubes HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/204.m3u8
+#EXTINF:-1,Premiere Clubes
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1930.m3u8
+#EXTINF:-1,Premiere Clubes  FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31625.m3u8
+#EXTINF:-1,Premiere Clubes Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12857.m3u8
+#EXTINF:-1,Premiere Clubes Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13511.m3u8
+#EXTINF:-1,PFC
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/210.m3u8
+#EXTINF:-1,Premiere 2 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13796.m3u8
+#EXTINF:-1,Premiere 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1717.m3u8
+#EXTINF:-1,Premiere 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/259.m3u8
+#EXTINF:-1,Premiere 2 -Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13495.m3u8
+#EXTINF:-1,Premiere 2 Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13510.m3u8
+#EXTINF:-1,Premiere 3 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13797.m3u8
+#EXTINF:-1,Premiere 3 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1721.m3u8
+#EXTINF:-1,Premiere 3
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/269.m3u8
+#EXTINF:-1,Premiere 3 -Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13496.m3u8
+#EXTINF:-1,Premiere 3  Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13509.m3u8
+#EXTINF:-1,Premiere 4 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17051.m3u8
+#EXTINF:-1,Premiere 4 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1722.m3u8
+#EXTINF:-1,Premiere 4
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/270.m3u8
+#EXTINF:-1,Premiere 4 -Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13497.m3u8
+#EXTINF:-1,Premiere 4  Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13508.m3u8
+#EXTINF:-1,Premiere 5 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17050.m3u8
+#EXTINF:-1,Premiere 5 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1723.m3u8
+#EXTINF:-1,Premiere 5
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/271.m3u8
+#EXTINF:-1,Premiere 5 -Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13498.m3u8
+#EXTINF:-1,Premiere 5  Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13507.m3u8
+#EXTINF:-1,Premiere 6 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17049.m3u8
+#EXTINF:-1,Premiere 6 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/8488.m3u8
+#EXTINF:-1,Premiere 6
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/208.m3u8
+#EXTINF:-1,Premiere 6 Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/27417.m3u8
+#EXTINF:-1,Premiere 6  Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13506.m3u8
+#EXTINF:-1,Premiere 7 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17048.m3u8
+#EXTINF:-1,Premiere 7 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/8482.m3u8
+#EXTINF:-1,Premiere 7
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/207.m3u8
+#EXTINF:-1,Premiere 7 Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/27418.m3u8
+#EXTINF:-1,Premiere 7  Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13505.m3u8
+#EXTINF:-1,Premiere 8
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/206.m3u8
+#EXTINF:-1,Premiere 9
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/205.m3u8
+#EXTINF:-1,Tabela Jogos Premiere
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29657.m3u8
+#EXTINF:-1,Telecine Premium FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/11475.m3u8
+#EXTINF:-1,Telecine Premium HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1631.m3u8
+#EXTINF:-1,Telecine Premium
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/805.m3u8
+#EXTINF:-1,Telecine Premium HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12872.m3u8
+#EXTINF:-1,Telecine Premium Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21114.m3u8
+#EXTINF:-1,Telecine Pipoca FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12204.m3u8
+#EXTINF:-1,Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1596.m3u8
+#EXTINF:-1,Telecine Pipoca
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/804.m3u8
+#EXTINF:-1,Telecine Pipoca HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12871.m3u8
+#EXTINF:-1,Telecine Pipoca Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/9228.m3u8
+#EXTINF:-1,Telecine Action FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/11476.m3u8
+#EXTINF:-1,Telecine Action HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1584.m3u8
+#EXTINF:-1,Telecine Action
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/806.m3u8
+#EXTINF:-1,Telecine Action HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12868.m3u8
+#EXTINF:-1,Telecine Action Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/6997.m3u8
+#EXTINF:-1,Telecine Touch FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/11477.m3u8
+#EXTINF:-1,Telecine Touch HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1626.m3u8
+#EXTINF:-1,Telecine Touch
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/807.m3u8
+#EXTINF:-1,Telecine Touch HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12873.m3u8
+#EXTINF:-1,Telecine Touch Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/6677.m3u8
+#EXTINF:-1,Telecine Fun FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12205.m3u8
+#EXTINF:-1,Telecine Fun HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1624.m3u8
+#EXTINF:-1,Telecine Fun
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/803.m3u8
+#EXTINF:-1,Telecine Fun HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12870.m3u8
+#EXTINF:-1,Telecine Fun Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/9230.m3u8
+#EXTINF:-1,Telecine Cult FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13885.m3u8
+#EXTINF:-1,Telecine Cult HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/5902.m3u8
+#EXTINF:-1,Telecine Cult
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/808.m3u8
+#EXTINF:-1,Telecine Cult HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21353.m3u8
+#EXTINF:-1,Telecine Cult Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/9229.m3u8
+#EXTINF:-1,MegaPix FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17510.m3u8
+#EXTINF:-1,MegaPix HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1615.m3u8
+#EXTINF:-1,MegaPix
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/112.m3u8
+#EXTINF:-1,Megapix HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19961.m3u8
+#EXTINF:-1,MegaPix Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/6996.m3u8
+#EXTINF:-1,Universal TV FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17512.m3u8
+#EXTINF:-1,Universal TV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1501.m3u8
+#EXTINF:-1,Universal TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/265.m3u8
+#EXTINF:-1,Universal TV HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21352.m3u8
+#EXTINF:-1,Universal TV Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/7002.m3u8
+#EXTINF:-1,Studio Universal FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13888.m3u8
+#EXTINF:-1,Studio Universal HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/7021.m3u8
+#EXTINF:-1,Studio Universal
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/174.m3u8
+#EXTINF:-1,Studio Universal HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12865.m3u8
+#EXTINF:-1,Studio Universal Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/8684.m3u8
+#EXTINF:-1,Syfy FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13887.m3u8
+#EXTINF:-1,SyFy HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/9231.m3u8
+#EXTINF:-1,Syfy
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/103.m3u8
+#EXTINF:-1,SyFy HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21350.m3u8
+#EXTINF:-1,SyFy Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21351.m3u8
+#EXTINF:-1,HBO FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/16180.m3u8
+#EXTINF:-1,HBO HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1585.m3u8
+#EXTINF:-1,HBO
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/390.m3u8
+#EXTINF:-1,HBO Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12836.m3u8
+#EXTINF:-1,HBO Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/6988.m3u8
+#EXTINF:-1,HBO 2 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/16181.m3u8
+#EXTINF:-1,HBO 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1594.m3u8
+#EXTINF:-1,HBO 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/387.m3u8
+#EXTINF:-1,HBO 2 Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12834.m3u8
+#EXTINF:-1,HBO 2 Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12103.m3u8
+#EXTINF:-1,HBO Signature FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/20939.m3u8
+#EXTINF:-1,HBO Signature HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1608.m3u8
+#EXTINF:-1,HBO Signature
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1485.m3u8
+#EXTINF:-1,HBO Signature Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12838.m3u8
+#EXTINF:-1,HBO Signature Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/6995.m3u8
+#EXTINF:-1,HBO Family FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/20940.m3u8
+#EXTINF:-1,HBO Family HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1606.m3u8
+#EXTINF:-1,HBO Family
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/219.m3u8
+#EXTINF:-1,HBO Family Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12835.m3u8
+#EXTINF:-1,HBO Family Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/7005.m3u8
+#EXTINF:-1,HBO Plus FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/20941.m3u8
+#EXTINF:-1,HBO Plus HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1607.m3u8
+#EXTINF:-1,HBO Plus
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/357.m3u8
+#EXTINF:-1,HBO Plus Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12837.m3u8
+#EXTINF:-1,Max Prime FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13892.m3u8
+#EXTINF:-1,Max Prime HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/7013.m3u8
+#EXTINF:-1,Max Prime
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/214.m3u8
+#EXTINF:-1,Max Prime Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21724.m3u8
+#EXTINF:-1,Max Prime Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21725.m3u8
+#EXTINF:-1,Max UP FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13891.m3u8
+#EXTINF:-1,MAX UP HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/7014.m3u8
+#EXTINF:-1,Max UP
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/213.m3u8
+#EXTINF:-1,MAX UP Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21726.m3u8
+#EXTINF:-1,MAX UP Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21727.m3u8
+#EXTINF:-1,Max FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13893.m3u8
+#EXTINF:-1,MAX HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/7012.m3u8
+#EXTINF:-1,Max
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/215.m3u8
+#EXTINF:-1,MAX Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21722.m3u8
+#EXTINF:-1,MAX Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21723.m3u8
+#EXTINF:-1,Warner Channel FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17186.m3u8
+#EXTINF:-1,Warner Channel HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1597.m3u8
+#EXTINF:-1,Warner Channel
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/266.m3u8
+#EXTINF:-1,Warner Channel Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19993.m3u8
+#EXTINF:-1,Warner Channel Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/7001.m3u8
+#EXTINF:-1,Cinemax FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13812.m3u8
+#EXTINF:-1,Cinemax HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/5894.m3u8
+#EXTINF:-1,Cinemax
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/236.m3u8
+#EXTINF:-1,Cinemax Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19992.m3u8
+#EXTINF:-1,Cinemax Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/6998.m3u8
+#EXTINF:-1,Space FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12861.m3u8
+#EXTINF:-1,Space HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1587.m3u8
+#EXTINF:-1,Space
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/98.m3u8
+#EXTINF:-1,Space Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/20980.m3u8
+#EXTINF:-1,Space Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/20979.m3u8
+#EXTINF:-1,Paramount FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/20883.m3u8
+#EXTINF:-1,Paramount HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1617.m3u8
+#EXTINF:-1,Paramount
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/211.m3u8
+#EXTINF:-1,Paramount Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21194.m3u8
+#EXTINF:-1,Paramount Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21195.m3u8
+#EXTINF:-1,TNT FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/20884.m3u8
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1595.m3u8
+#EXTINF:-1,TNT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/380.m3u8
+#EXTINF:-1,TNT Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21111.m3u8
+#EXTINF:-1,TNT Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/16185.m3u8
+#EXTINF:-1,TNT Séries FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21229.m3u8
+#EXTINF:-1,TNT Séries HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1623.m3u8
+#EXTINF:-1,TNT Séries
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/798.m3u8
+#EXTINF:-1,TNT Séries Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21728.m3u8
+#EXTINF:-1,TNT Séries Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21729.m3u8
+#EXTINF:-1,AMC FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13902.m3u8
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13757.m3u8
+#EXTINF:-1,AMC
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/9226.m3u8
+#EXTINF:-1,AMC Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21354.m3u8
+#EXTINF:-1,AMC Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/16189.m3u8
+#EXTINF:-1,AXN FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17505.m3u8
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1599.m3u8
+#EXTINF:-1,AXN
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/188.m3u8
+#EXTINF:-1,AXN Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21196.m3u8
+#EXTINF:-1,AXN Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31228.m3u8
+#EXTINF:-1,FOX FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12663.m3u8
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1582.m3u8
+#EXTINF:-1,Fox
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/260.m3u8
+#EXTINF:-1,FOX Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/8678.m3u8
+#EXTINF:-1,Fox Premium 1 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17514.m3u8
+#EXTINF:-1,FOX Premium 1 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21753.m3u8
+#EXTINF:-1,Fox Premium 1
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1500.m3u8
+#EXTINF:-1,Fox Premium 2 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21641.m3u8
+#EXTINF:-1,FOX Premium 2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21754.m3u8
+#EXTINF:-1,Fox Premium 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1635.m3u8
+#EXTINF:-1,Fox Life FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13896.m3u8
+#EXTINF:-1,FOX Life HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21349.m3u8
+#EXTINF:-1,Fox Life
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/391.m3u8
+#EXTINF:-1,FOX Life HD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21751.m3u8
+#EXTINF:-1,FOX Life Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21752.m3u8
+#EXTINF:-1,FX FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17513.m3u8
+#EXTINF:-1,FX HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1604.m3u8
+#EXTINF:-1,FX
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/113.m3u8
+#EXTINF:-1,FX Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21348.m3u8
+#EXTINF:-1,FX Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/16183.m3u8
+#EXTINF:-1,Sony FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29641.m3u8
+#EXTINF:-1,Sony HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1618.m3u8
+#EXTINF:-1,Sony
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/186.m3u8
+#EXTINF:-1,Sony Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21227.m3u8
+#EXTINF:-1,Sony Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/16187.m3u8
+#EXTINF:-1,TBS FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21228.m3u8
+#EXTINF:-1,TBS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1765.m3u8
+#EXTINF:-1,TBS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1621.m3u8
+#EXTINF:-1,TBS Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21756.m3u8
+#EXTINF:-1,TBS Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21757.m3u8
+#EXTINF:-1,TCM
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/173.m3u8
+#EXTINF:-1,TCM Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/8686.m3u8
+#EXTINF:-1,AXN HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29729.m3u8
+#EXTINF:-1,AXN - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29728.m3u8
+#EXTINF:-1,FOX HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29727.m3u8
+#EXTINF:-1,FOX - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29726.m3u8
+#EXTINF:-1,FX HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29707.m3u8
+#EXTINF:-1,FX - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29706.m3u8
+#EXTINF:-1,HBO HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29725.m3u8
+#EXTINF:-1,HBO - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29724.m3u8
+#EXTINF:-1,HBO Plus HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29723.m3u8
+#EXTINF:-1,HBO Plus - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29722.m3u8
+#EXTINF:-1,MAX - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29720.m3u8
+#EXTINF:-1,MAX Prime  - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29721.m3u8
+#EXTINF:-1,MAX UP HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29705.m3u8
+#EXTINF:-1,MAX UP - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29704.m3u8
+#EXTINF:-1,MegaPix HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29703.m3u8
+#EXTINF:-1,MegaPix - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29702.m3u8
+#EXTINF:-1,Sony HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29695.m3u8
+#EXTINF:-1,Sony - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29694.m3u8
+#EXTINF:-1,Space HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29701.m3u8
+#EXTINF:-1,Space - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29700.m3u8
+#EXTINF:-1,Telecine Action HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29719.m3u8
+#EXTINF:-1,Telecine Action - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29718.m3u8
+#EXTINF:-1,Telecine Fun HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29717.m3u8
+#EXTINF:-1,Telecine Fun - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29716.m3u8
+#EXTINF:-1,Telecine Pipoca HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29715.m3u8
+#EXTINF:-1,Telecine Pipoca - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29714.m3u8
+#EXTINF:-1,Telecine Premium HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29713.m3u8
+#EXTINF:-1,Telecine Premium - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29712.m3u8
+#EXTINF:-1,Telecine Touch HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29711.m3u8
+#EXTINF:-1,Telecine Touch - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29710.m3u8
+#EXTINF:-1,TNT HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29709.m3u8
+#EXTINF:-1,TNT - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29708.m3u8
+#EXTINF:-1,TNT Series HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29699.m3u8
+#EXTINF:-1,TNT Series - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29698.m3u8
+#EXTINF:-1,Warner Channel HD - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29697.m3u8
+#EXTINF:-1,Warner Channel - LEG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29696.m3u8
+#EXTINF:-1,Animal Planet FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/18631.m3u8
+#EXTINF:-1,Animal Planet HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1861.m3u8
+#EXTINF:-1,Animal Planet
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/94.m3u8
+#EXTINF:-1,Animal Planet Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/18832.m3u8
+#EXTINF:-1,Animal Planet Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12895.m3u8
+#EXTINF:-1,Discovery Channel FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17040.m3u8
+#EXTINF:-1,Discovery Channel HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1611.m3u8
+#EXTINF:-1,Discovery Channel
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1497.m3u8
+#EXTINF:-1,Discovery Channel Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19962.m3u8
+#EXTINF:-1,Discovery Channel Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/16178.m3u8
+#EXTINF:-1,Discovery Turbo  FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17182.m3u8
+#EXTINF:-1,Discovery Turbo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1612.m3u8
+#EXTINF:-1,Discovery Turbo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/183.m3u8
+#EXTINF:-1,Discovery Turbo Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19969.m3u8
+#EXTINF:-1,Discovery Turbo Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19970.m3u8
+#EXTINF:-1,Discovery H&H FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17183.m3u8
+#EXTINF:-1,Discovery H&H HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1610.m3u8
+#EXTINF:-1,Discovery H&H
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/359.m3u8
+#EXTINF:-1,Discovery H&H Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19963.m3u8
+#EXTINF:-1,Discovery H&H Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19964.m3u8
+#EXTINF:-1,Discovery Civilization FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13804.m3u8
+#EXTINF:-1,Discovery Civilization HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13785.m3u8
+#EXTINF:-1,Discovery Civilization
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/26380.m3u8
+#EXTINF:-1,Discovery Science FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13805.m3u8
+#EXTINF:-1,Discovery Science HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13784.m3u8
+#EXTINF:-1,Discovery Science
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/26381.m3u8
+#EXTINF:-1,Discovery World FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17184.m3u8
+#EXTINF:-1,Discovery World HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1779.m3u8
+#EXTINF:-1,Discovery Theater FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/20990.m3u8
+#EXTINF:-1,Discovery Theater HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/3016.m3u8
+#EXTINF:-1,Discovery Theather FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31229.m3u8
+#EXTINF:-1,History FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17185.m3u8
+#EXTINF:-1,History HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1627.m3u8
+#EXTINF:-1,History
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/172.m3u8
+#EXTINF:-1,History Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19965.m3u8
+#EXTINF:-1,History Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/8681.m3u8
+#EXTINF:-1,H2 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/20882.m3u8
+#EXTINF:-1,H2 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1598.m3u8
+#EXTINF:-1,H2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/222.m3u8
+#EXTINF:-1,H2 Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19966.m3u8
+#EXTINF:-1,H2 Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19967.m3u8
+#EXTINF:-1,National Geografic HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1749.m3u8
+#EXTINF:-1,National Geographic
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/392.m3u8
+#EXTINF:-1,National Geografic Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19968.m3u8
+#EXTINF:-1,National Geografic Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31255.m3u8
+#EXTINF:-1,Nat Geo Wild FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31243.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1747.m3u8
+#EXTINF:-1,Nat Geo Wild
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/375.m3u8
+#EXTINF:-1,Nat Geo Wild Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31244.m3u8
+#EXTINF:-1,Nat Geo Wild Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31245.m3u8
+#EXTINF:-1,Investigação Discovery FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31246.m3u8
+#EXTINF:-1,ID -  Investigação Discovery HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1613.m3u8
+#EXTINF:-1,ID - Investigation Discovery
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/393.m3u8
+#EXTINF:-1,ID - Investigation Discovery Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21356.m3u8
+#EXTINF:-1,ID - Investigation Discovery Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21357.m3u8
+#EXTINF:-1,Smithsonian Channel FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/47216.m3u8
+#EXTINF:-1,Smithsonian Channel HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/47217.m3u8
+#EXTINF:-1,Smithsonian Channel
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/47218.m3u8
+#EXTINF:-1,Fish TV FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/30182.m3u8
+#EXTINF:-1,Fish TV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21675.m3u8
+#EXTINF:-1,Fish Tv
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1488.m3u8
+#EXTINF:-1,Multishow FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17072.m3u8
+#EXTINF:-1,Multishow HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1616.m3u8
+#EXTINF:-1,Multishow
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/212.m3u8
+#EXTINF:-1,Multishow Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17244.m3u8
+#EXTINF:-1,Multishow Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/16754.m3u8
+#EXTINF:-1,Viva FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17041.m3u8
+#EXTINF:-1,Viva HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1630.m3u8
+#EXTINF:-1,Viva
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1860.m3u8
+#EXTINF:-1,Viva Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19990.m3u8
+#EXTINF:-1,Viva Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19991.m3u8
+#EXTINF:-1,GNT FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/20991.m3u8
+#EXTINF:-1,GNT HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/362.m3u8
+#EXTINF:-1,GNT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1713.m3u8
+#EXTINF:-1,GNT Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21359.m3u8
+#EXTINF:-1,GNT Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21360.m3u8
+#EXTINF:-1,Mais Globosat FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13895.m3u8
+#EXTINF:-1,Mais Globosat HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/6549.m3u8
+#EXTINF:-1,Mais Globosat
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/122.m3u8
+#EXTINF:-1,Mais Globosat Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21703.m3u8
+#EXTINF:-1,Mais Globosat Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21704.m3u8
+#EXTINF:-1,Comedy Central FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13810.m3u8
+#EXTINF:-1,Comedy Central HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13789.m3u8
+#EXTINF:-1,Comedy Central
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/93.m3u8
+#EXTINF:-1,Comedy Central Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21689.m3u8
+#EXTINF:-1,Comedy Central Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21690.m3u8
+#EXTINF:-1,MTV FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13890.m3u8
+#EXTINF:-1,MTV HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/5895.m3u8
+#EXTINF:-1,MTV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/128.m3u8
+#EXTINF:-1,MTV Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21700.m3u8
+#EXTINF:-1,MTV Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21701.m3u8
+#EXTINF:-1,MTV Live FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31202.m3u8
+#EXTINF:-1,MTV Live HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29782.m3u8
+#EXTINF:-1,MTV Live
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29783.m3u8
+#EXTINF:-1,VH1 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13884.m3u8
+#EXTINF:-1,VH1 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13788.m3u8
+#EXTINF:-1,VH1 Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21710.m3u8
+#EXTINF:-1,BIS FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21674.m3u8
+#EXTINF:-1,BIS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1740.m3u8
+#EXTINF:-1,BIS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/428.m3u8
+#EXTINF:-1,BIS Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21705.m3u8
+#EXTINF:-1,BIS Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21706.m3u8
+#EXTINF:-1,Prime Box Brazil FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31201.m3u8
+#EXTINF:-1,Prime Box Brazil HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21698.m3u8
+#EXTINF:-1,Prime Box Brazil
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1781.m3u8
+#EXTINF:-1,Music Box Brazil FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31200.m3u8
+#EXTINF:-1,Music Box Brazil HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21699.m3u8
+#EXTINF:-1,Music Box Brazil
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/355.m3u8
+#EXTINF:-1,Vh1 Megahits
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/794.m3u8
+#EXTINF:-1,TruTV FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31199.m3u8
+#EXTINF:-1,TruTv HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21649.m3u8
+#EXTINF:-1,TruTv
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/180.m3u8
+#EXTINF:-1,TruTv Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21708.m3u8
+#EXTINF:-1,A&E FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13903.m3u8
+#EXTINF:-1,A&E HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/5986.m3u8
+#EXTINF:-1,A&E Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21711.m3u8
+#EXTINF:-1,A&E
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1487.m3u8
+#EXTINF:-1,A&E Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/8679.m3u8
+#EXTINF:-1,OFF FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17517.m3u8
+#EXTINF:-1,OFF HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/398.m3u8
+#EXTINF:-1,OFF
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/2624.m3u8
+#EXTINF:-1,OFF Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21712.m3u8
+#EXTINF:-1,OFF Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21713.m3u8
+#EXTINF:-1,Woohoo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13883.m3u8
+#EXTINF:-1,Woohoo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13794.m3u8
+#EXTINF:-1,Woohoo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1702.m3u8
+#EXTINF:-1,Woohoo Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21714.m3u8
+#EXTINF:-1,Woohoo Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21715.m3u8
+#EXTINF:-1,TLC FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13886.m3u8
+#EXTINF:-1,TLC HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/5985.m3u8
+#EXTINF:-1,TLC
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/360.m3u8
+#EXTINF:-1,TLC Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21358.m3u8
+#EXTINF:-1,TLC Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13525.m3u8
+#EXTINF:-1,Food Network FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13897.m3u8
+#EXTINF:-1,Food Network HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/20992.m3u8
+#EXTINF:-1,Food Network
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/374.m3u8
+#EXTINF:-1,Food Network Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21716.m3u8
+#EXTINF:-1,Food Network Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21717.m3u8
+#EXTINF:-1,E! FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21230.m3u8
+#EXTINF:-1,E! HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/5901.m3u8
+#EXTINF:-1,E!
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1712.m3u8
+#EXTINF:-1,E! Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21718.m3u8
+#EXTINF:-1,E! Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21719.m3u8
+#EXTINF:-1,Lifetime FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13894.m3u8
+#EXTINF:-1,Lifetime HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/5900.m3u8
+#EXTINF:-1,Lifetime Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21720.m3u8
+#EXTINF:-1,Lifetime Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21721.m3u8
+#EXTINF:-1,Lifetime
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1725.m3u8
+#EXTINF:-1,Arte 1 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31198.m3u8
+#EXTINF:-1,Arte 1 HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21650.m3u8
+#EXTINF:-1,Arte 1
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1704.m3u8
+#EXTINF:-1,Play Tv
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1493.m3u8
+#EXTINF:-1,NHK
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12172.m3u8
+#EXTINF:-1,AMC H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/40076.m3u8
+#EXTINF:-1,Animal Planet H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/35705.m3u8
+#EXTINF:-1,AXN H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13860.m3u8
+#EXTINF:-1,Band H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/46968.m3u8
+#EXTINF:-1,Band News H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41927.m3u8
+#EXTINF:-1,Band Sports H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13859.m3u8
+#EXTINF:-1,Boomerang H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41928.m3u8
+#EXTINF:-1,BIS H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/40079.m3u8
+#EXTINF:-1,Canal Brasil H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/46917.m3u8
+#EXTINF:-1,Cinemax H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/35708.m3u8
+#EXTINF:-1,Combate H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/46969.m3u8
+#EXTINF:-1,Comedy Central H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/46970.m3u8
+#EXTINF:-1,Discovery Channel H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/35706.m3u8
+#EXTINF:-1,Discovery H&H H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13856.m3u8
+#EXTINF:-1,Discovery Theater H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13855.m3u8
+#EXTINF:-1,Discovery Turbo H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/35707.m3u8
+#EXTINF:-1,Discovery World H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13853.m3u8
+#EXTINF:-1,E! H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41931.m3u8
+#EXTINF:-1,ESPN 2 H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13849.m3u8
+#EXTINF:-1,ESPN Brasil H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13850.m3u8
+#EXTINF:-1,Fox Life H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13846.m3u8
+#EXTINF:-1,Fox Premium 1 H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13847.m3u8
+#EXTINF:-1,Fx H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13844.m3u8
+#EXTINF:-1,Globo RJ H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/46980.m3u8
+#EXTINF:-1,Globo SP H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/46981.m3u8
+#EXTINF:-1,Globo RBS TV Poa H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/46974.m3u8
+#EXTINF:-1,Gloob H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/40080.m3u8
+#EXTINF:-1,H2 H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13836.m3u8
+#EXTINF:-1,HBO 2 H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13841.m3u8
+#EXTINF:-1,HBO Family H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13840.m3u8
+#EXTINF:-1,HBO H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13839.m3u8
+#EXTINF:-1,HBO Plus H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13838.m3u8
+#EXTINF:-1,HBO Signature H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13837.m3u8
+#EXTINF:-1,History H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13835.m3u8
+#EXTINF:-1,Investigation Discovery H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13834.m3u8
+#EXTINF:-1,MAX H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/40078.m3u8
+#EXTINF:-1,MAX Up H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41955.m3u8
+#EXTINF:-1,MAX Prime H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/40077.m3u8
+#EXTINF:-1,MegaPix H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13833.m3u8
+#EXTINF:-1,Multishow H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13832.m3u8
+#EXTINF:-1,Nat Geo H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13831.m3u8
+#EXTINF:-1,Paramount H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13830.m3u8
+#EXTINF:-1,SBT H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13825.m3u8
+#EXTINF:-1,SporTV H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13824.m3u8
+#EXTINF:-1,TBS H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13823.m3u8
+#EXTINF:-1,Telecine Action H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13822.m3u8
+#EXTINF:-1,Telecine Pipoca H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13821.m3u8
+#EXTINF:-1,Telecine Premium H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13820.m3u8
+#EXTINF:-1,Telecine Touch H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13819.m3u8
+#EXTINF:-1,TLC H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/46919.m3u8
+#EXTINF:-1,TNT H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13818.m3u8
+#EXTINF:-1,TNT Series H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13817.m3u8
+#EXTINF:-1,Universal TV H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13816.m3u8
+#EXTINF:-1,Viva H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13815.m3u8
+#EXTINF:-1,VH1 H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/40075.m3u8
+#EXTINF:-1,Warner Channel H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13814.m3u8
+#EXTINF:-1,Disney Channel H265
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/41929.m3u8
+#EXTINF:-1,A&E -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31203.m3u8
+#EXTINF:-1,AMC -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31225.m3u8
+#EXTINF:-1,Animal Planet -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21644.m3u8
+#EXTINF:-1,Band News -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31193.m3u8
+#EXTINF:-1,Band Sports -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31616.m3u8
+#EXTINF:-1,BIS -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/30180.m3u8
+#EXTINF:-1,Boomerang -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21653.m3u8
+#EXTINF:-1,Cinemax -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/30184.m3u8
+#EXTINF:-1,Discovery Channel -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21645.m3u8
+#EXTINF:-1,Discovery Civilization -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31231.m3u8
+#EXTINF:-1,Discovery H&H -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21646.m3u8
+#EXTINF:-1,Discovery Kids -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31232.m3u8
+#EXTINF:-1,Discovery Science -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31230.m3u8
+#EXTINF:-1,Discovery Turbo -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21647.m3u8
+#EXTINF:-1,Disney Channel -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17046.m3u8
+#EXTINF:-1,E! -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31260.m3u8
+#EXTINF:-1,ESPN -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/30181.m3u8
+#EXTINF:-1,ESPN Brasil -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21687.m3u8
+#EXTINF:-1,ESPN Extra -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31261.m3u8
+#EXTINF:-1,Fish TV -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31429.m3u8
+#EXTINF:-1,Food Network -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31258.m3u8
+#EXTINF:-1,FOX -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21643.m3u8
+#EXTINF:-1,FOX Premium 1 -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31249.m3u8
+#EXTINF:-1,FOX Premium 2 -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31250.m3u8
+#EXTINF:-1,FOX Sports 2 -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17044.m3u8
+#EXTINF:-1,Globo News -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13802.m3u8
+#EXTINF:-1,Globo RBS TV Porto Alegre -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31129.m3u8
+#EXTINF:-1,Gloob -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17053.m3u8
+#EXTINF:-1,GNT -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31242.m3u8
+#EXTINF:-1,H2 -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31247.m3u8
+#EXTINF:-1,HBO -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21639.m3u8
+#EXTINF:-1,HBO 2 -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21640.m3u8
+#EXTINF:-1,HBO Family -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31211.m3u8
+#EXTINF:-1,HBO Plus -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31210.m3u8
+#EXTINF:-1,HBO Signature -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31209.m3u8
+#EXTINF:-1,History -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21693.m3u8
+#EXTINF:-1,MAX -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31208.m3u8
+#EXTINF:-1,MAX Prime -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31207.m3u8
+#EXTINF:-1,MAX UP -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31206.m3u8
+#EXTINF:-1,MegaPix -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31224.m3u8
+#EXTINF:-1,MTV -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31248.m3u8
+#EXTINF:-1,Multishow -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29900.m3u8
+#EXTINF:-1,Nat Geo Kids -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31252.m3u8
+#EXTINF:-1,National Geografic -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31254.m3u8
+#EXTINF:-1,Nick Jr -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31251.m3u8
+#EXTINF:-1,Nickelodeon -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21652.m3u8
+#EXTINF:-1,OFF -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/30183.m3u8
+#EXTINF:-1,Paramount -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31227.m3u8
+#EXTINF:-1,Premiere Clubes ‐FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29661.m3u8
+#EXTINF:-1,Premiere 4 -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31134.m3u8
+#EXTINF:-1,Premiere 5 -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31133.m3u8
+#EXTINF:-1,Sony -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31241.m3u8
+#EXTINF:-1,Space -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29951.m3u8
+#EXTINF:-1,SporTV -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/18831.m3u8
+#EXTINF:-1,SporTV 2 -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19995.m3u8
+#EXTINF:-1,SporTV 3 -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29615.m3u8
+#EXTINF:-1,SyFy -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31235.m3u8
+#EXTINF:-1,TBS -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31239.m3u8
+#EXTINF:-1,Telecine Action -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21636.m3u8
+#EXTINF:-1,Telecine Action  - FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29609.m3u8
+#EXTINF:-1,Telecine Fun -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21637.m3u8
+#EXTINF:-1,Telecine Fun  - FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29608.m3u8
+#EXTINF:-1,Telecine Pipoca -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21635.m3u8
+#EXTINF:-1,Telecine Pipoca - FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29607.m3u8
+#EXTINF:-1,Telecine Premium -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21634.m3u8
+#EXTINF:-1,Telecine Premium  - FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29606.m3u8
+#EXTINF:-1,Telecine Touch -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21638.m3u8
+#EXTINF:-1,Telecine Touch  - FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29605.m3u8
+#EXTINF:-1,Telecine Cult - FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29604.m3u8
+#EXTINF:-1,TLC -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31257.m3u8
+#EXTINF:-1,TNT -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31236.m3u8
+#EXTINF:-1,TNT Séries -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31237.m3u8
+#EXTINF:-1,Universal TV -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31233.m3u8
+#EXTINF:-1,VH1 -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31253.m3u8
+#EXTINF:-1,Viva -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21648.m3u8
+#EXTINF:-1,Warner Channel -FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21642.m3u8
+#EXTINF:-1,A&E Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/38013.m3u8
+#EXTINF:-1,AMC Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/38012.m3u8
+#EXTINF:-1,Animal Planet Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/38011.m3u8
+#EXTINF:-1,AXN Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/38010.m3u8
+#EXTINF:-1,Cartoon Network Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/38009.m3u8
+#EXTINF:-1,Cinemax Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/38008.m3u8
+#EXTINF:-1,Combate Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37970.m3u8
+#EXTINF:-1,Discovery Channel Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/38007.m3u8
+#EXTINF:-1,Discovery Civilization Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37968.m3u8
+#EXTINF:-1,Discovery H&H Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37967.m3u8
+#EXTINF:-1,Discovery Kids Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37966.m3u8
+#EXTINF:-1,Discovery Science Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37965.m3u8
+#EXTINF:-1,Discovery Turbo Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37964.m3u8
+#EXTINF:-1,ESPN Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37952.m3u8
+#EXTINF:-1,ESPN Brasil Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/38005.m3u8
+#EXTINF:-1,ESPN Extra Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/43256.m3u8
+#EXTINF:-1,Food Network Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/38003.m3u8
+#EXTINF:-1,FOX Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/38002.m3u8
+#EXTINF:-1,FOX Life Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37946.m3u8
+#EXTINF:-1,Fox Premium 1 Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37955.m3u8
+#EXTINF:-1,Fox Premium 2 Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37954.m3u8
+#EXTINF:-1,FOX Sports 2 Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37951.m3u8
+#EXTINF:-1,FOX Sports Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/38001.m3u8
+#EXTINF:-1,Globo MG Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/38015.m3u8
+#EXTINF:-1,Globo SP Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/38014.m3u8
+#EXTINF:-1,Globo News Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37950.m3u8
+#EXTINF:-1,Gloob Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37949.m3u8
+#EXTINF:-1,GNT Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37948.m3u8
+#EXTINF:-1,H2 Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37962.m3u8
+#EXTINF:-1,HBO 2 Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37999.m3u8
+#EXTINF:-1,HBO Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/38000/live.m3u8
+#EXTINF:-1,HBO Family Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/40752.m3u8
+#EXTINF:-1,HBO Plus Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/40754.m3u8
+#EXTINF:-1,HBO Signature Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/40753.m3u8
+#EXTINF:-1,History Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37998.m3u8
+#EXTINF:-1,ID FHD Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37953.m3u8
+#EXTINF:-1,MAX Prime Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37997.m3u8
+#EXTINF:-1,MegaPix Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37996.m3u8
+#EXTINF:-1,Multishow Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37995.m3u8
+#EXTINF:-1,Nat Geo Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37994.m3u8
+#EXTINF:-1,Nat Geo Kids Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37993.m3u8
+#EXTINF:-1,Nick Jr Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37992.m3u8
+#EXTINF:-1,OFF Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37972.m3u8
+#EXTINF:-1,Premiere 3 Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37990.m3u8
+#EXTINF:-1,Premiere 4 Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37971.m3u8
+#EXTINF:-1,Premiere Clubes Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37989.m3u8
+#EXTINF:-1,RBS TV Porto Alegre Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/38016.m3u8
+#EXTINF:-1,Record News Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37988.m3u8
+#EXTINF:-1,RecordTV Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/36353.m3u8
+#EXTINF:-1,SBT Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/40386.m3u8
+#EXTINF:-1,Sony Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37987.m3u8
+#EXTINF:-1,Space Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37986.m3u8
+#EXTINF:-1,SporTV Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37984.m3u8
+#EXTINF:-1,SporTV 2 Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37983.m3u8
+#EXTINF:-1,SporTV 3 Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37985.m3u8
+#EXTINF:-1,Studio Universal Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37982.m3u8
+#EXTINF:-1,SyFy Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37981.m3u8
+#EXTINF:-1,Telecine Action Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37980.m3u8
+#EXTINF:-1,Telecine Cult Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37975.m3u8
+#EXTINF:-1,Telecine Fun Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37979.m3u8
+#EXTINF:-1,Telecine Pipoca Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37978.m3u8
+#EXTINF:-1,Telecine Premium Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37977.m3u8
+#EXTINF:-1,Telecine Touch Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37976.m3u8
+#EXTINF:-1,TNT Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37961.m3u8
+#EXTINF:-1,TNT Series Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37947.m3u8
+#EXTINF:-1,Universal TV Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37963.m3u8
+#EXTINF:-1,Warner Channel Alternativo FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/37973.m3u8
+#EXTINF:-1,Rede Vida FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31618.m3u8
+#EXTINF:-1,Rede Vida HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31619.m3u8
+#EXTINF:-1,Rede Vida
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/6657.m3u8
+#EXTINF:-1,TV Aparecida HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/29796.m3u8
+#EXTINF:-1,TV Aparecida
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/6550.m3u8
+#EXTINF:-1,Canção Nova
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/304.m3u8
+#EXTINF:-1,Novo tempo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/2408.m3u8
+#EXTINF:-1,TV Mundial
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/6658.m3u8
+#EXTINF:-1,TV Evangelizar
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/8494.m3u8
+#EXTINF:-1,Boa Vontade TV
+plugin://plugin.video.f4mTester/?url=http://infinityzamigos.ddns.me:8080/Infinity/VQ1YugzBCs/1343.m3u8
+#EXTINF:-1,TV Gideões
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/16790.m3u8
+#EXTINF:-1,RIT TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/2626.m3u8
+#EXTINF:-1,RBI TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/2627.m3u8
+#EXTINF:-1,Canal Promessas
+plugin://plugin.video.f4mTester/?url=http://177.153.227.41:1935/canal/cpro/stream/live.m3u8.m3u8
+#EXTINF:-1,TV Missao
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/17246.m3u8
+#EXTINF:-1,Rede 21
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/6660.m3u8
+#EXTINF:-1,Discovery Kids FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21651.m3u8
+#EXTINF:-1,Discovery Kids
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/426.m3u8
+#EXTINF:-1,Discovery Kids Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21176.m3u8
+#EXTINF:-1,Discovery Kids Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21177.m3u8
+#EXTINF:-1,PlayKids FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31267.m3u8
+#EXTINF:-1,PlayKids HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31268.m3u8
+#EXTINF:-1,PlayKids
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31269.m3u8
+#EXTINF:-1,Disney Channel FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13807.m3u8
+#EXTINF:-1,Disney Channel
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/1486.m3u8
+#EXTINF:-1,Disney Channel Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21178.m3u8
+#EXTINF:-1,Disney Channel Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21179.m3u8
+#EXTINF:-1,Cartoon Network FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13803.m3u8
+#EXTINF:-1,Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13756.m3u8
+#EXTINF:-1,Cartoon Network
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/377.m3u8
+#EXTINF:-1,Cartoon Network ‐FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31196.m3u8
+#EXTINF:-1,Cartoon Network Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21174.m3u8
+#EXTINF:-1,Cartoon Network Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21175.m3u8
+#EXTINF:-1,Disney Jr FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/20879.m3u8
+#EXTINF:-1,Disney Jr HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/8483.m3u8
+#EXTINF:-1,Disney Jr
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/181.m3u8
+#EXTINF:-1,Disney Jr Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21185.m3u8
+#EXTINF:-1,Disney Jr Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21186.m3u8
+#EXTINF:-1,Nickelodeon FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13809.m3u8
+#EXTINF:-1,Nickelodeon HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/7020.m3u8
+#EXTINF:-1,Nickelodeon
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/126.m3u8
+#EXTINF:-1,Nickelodeon Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21182.m3u8
+#EXTINF:-1,Nickelodeon Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21183.m3u8
+#EXTINF:-1,Nick JR FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13889.m3u8
+#EXTINF:-1,Nick Jr HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21189.m3u8
+#EXTINF:-1,Nick Jr
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/286.m3u8
+#EXTINF:-1,Nick Jr Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21187.m3u8
+#EXTINF:-1,Nick Jr Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21188.m3u8
+#EXTINF:-1,Gloob FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13811.m3u8
+#EXTINF:-1,Gloob HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/5899.m3u8
+#EXTINF:-1,Gloob
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/378.m3u8
+#EXTINF:-1,Gloob Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21184.m3u8
+#EXTINF:-1,Gloob Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/12272.m3u8
+#EXTINF:-1,Boomerang FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/20878.m3u8
+#EXTINF:-1,Boomerang HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/8484.m3u8
+#EXTINF:-1,Boomerang
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/187.m3u8
+#EXTINF:-1,Boomerang Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21190.m3u8
+#EXTINF:-1,Boomerang Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21191.m3u8
+#EXTINF:-1,Globinho FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31192.m3u8
+#EXTINF:-1,Globinho HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/9453.m3u8
+#EXTINF:-1,Globinho
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/9454.m3u8
+#EXTINF:-1,Nat Geo Kids FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/13808.m3u8
+#EXTINF:-1,Nat Geo Kids HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/7042.m3u8
+#EXTINF:-1,Nat Geo Kids
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/6541.m3u8
+#EXTINF:-1,Nat Geo Kids Alternativo HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21180.m3u8
+#EXTINF:-1,Nat Geo Kids Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21181.m3u8
+#EXTINF:-1,TV Rá Tim Bum FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31195.m3u8
+#EXTINF:-1,TV Rá Tim Bum HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/21654.m3u8
+#EXTINF:-1,TV Rá Tim Bum
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/6135.m3u8
+#EXTINF:-1,Tooncast
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/127.m3u8
+#EXTINF:-1,Tooncast Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/40388.m3u8
+#EXTINF:-1,Baby - TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/5904.m3u8
+#EXTINF:-1,Baby TV -Alternativo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/31518.m3u8
+#EXTINF:-1,Disney XD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/277.m3u8
+#EXTINF:-1,Zoomoo
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://dns.clientetv.xyz:8000/live/daniel1704/daniel1704/19994.m3u8

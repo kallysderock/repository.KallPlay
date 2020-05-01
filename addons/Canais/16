@@ -1,0 +1,171 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://encurtador.com.br/CHQU4" group-title="", CANAL RICOS
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.ts
+#EXTINF:-1,ABC NEWS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11114.m3u8
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11122.m3u8
+#EXTINF:-1,BAND HD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11111.m3u8
+#EXTINF:-1,BAND HD¹
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11185.m3u8
+#EXTINF:-1,Band News HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11121.m3u8
+#EXTINF:-1,Band Sports FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11181.m3u8
+#EXTINF:-1,BAND SPORTS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11136.m3u8
+#EXTINF:-1,CANAL BRASIL²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11098.m3u8
+#EXTINF:-1,CARTOON NETWORK HD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11179.m3u8
+#EXTINF:-1,COMBATE FHD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11135.m3u8
+#EXTINF:-1,COMEDY CENTRAL FHD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11110.m3u8
+#EXTINF:-1,DISCOVERY TURBO FHD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11180/live.m3u8
+#EXTINF:-1,DISCOVERY TURBO HD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11138.m3u8
+#EXTINF:-1,ESPN  HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11178.m3u8
+#EXTINF:-1,ESPN EXTRA FHD 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11189.m3u8
+#EXTINF:-1,ESPN EXTRA SD 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11187.m3u8
+#EXTINF:-1,Espn FHD 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11182.m3u8
+#EXTINF:-1,FOX HD¹
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11119.m3u8
+#EXTINF:-1,FOX LIFE FHD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11132.m3u8
+#EXTINF:-1,Fox Premium 1 FHD¹
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11133.m3u8
+#EXTINF:-1,GLOBO FHD GAZETA SUL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11191.m3u8
+#EXTINF:-1,GLOBO FHD RJ
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11193.m3u8
+#EXTINF:-1,GLOBO FHD SP
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11173.m3u8
+#EXTINF:-1,GLOBO GAZETA SUL HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11190.m3u8
+#EXTINF:-1,GLOBO HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11172.m3u8
+#EXTINF:-1,GLOBO HD RJ
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11192.m3u8
+#EXTINF:-1,GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11097.m3u8
+#EXTINF:-1,HBO 2 FHD.²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11170.m3u8
+#EXTINF:-1,HBO2 HD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11169.m3u8
+#EXTINF:-1,HBO FHD.²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11168.m3u8
+#EXTINF:-1,HBO HD.²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11171.m3u8
+#EXTINF:-1,HBO PLUS FHD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11123.m3u8
+#EXTINF:-1,HBO PLUS SD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11108.m3u8
+#EXTINF:-1,H2 HD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11127.m3u8
+#EXTINF:-1,ID-INVESTIGAÇÃO DISCOVERY HD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11118.m3u8
+#EXTINF:-1,MAX FHD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11131.m3u8
+#EXTINF:-1,MAX SD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11107.m3u8
+#EXTINF:-1,MAXPRIME FHD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11112.m3u8
+#EXTINF:-1,MAXPRIME SD¹
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11106.m3u8
+#EXTINF:-1,MEGAPIX FHD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11120.m3u8
+#EXTINF:-1,MTV LIVE FHD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11115.m3u8
+#EXTINF:-1,MTV LIVE SD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11105.m3u8
+#EXTINF:-1,MULTISHOW  HD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11113.m3u8
+#EXTINF:-1,NATGEO HD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11151.m3u8
+#EXTINF:-1,NATGEO KIDS FHD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11116.m3u8
+#EXTINF:-1,NATGEOKIDS SD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11104.m3u8
+#EXTINF:-1,NHK WORLD HD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11124.m3u8
+#EXTINF:-1,Nick Jr HD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11150.m3u8
+#EXTINF:-1,PLAYBOY FHD.²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11141.m3u8
+#EXTINF:-1,PLAYBOY HD.²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11184.m3u8
+#EXTINF:-1,RECORD FHD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11130.m3u8
+#EXTINF:-1,RECORD SD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11188.m3u8
+#EXTINF:-1,SBT FHD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11140.m3u8
+#EXTINF:-1,SBT HD¹
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11139.m3u8
+#EXTINF:-1,SEXY HOT FHD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11137.m3u8
+#EXTINF:-1,SEXY HOT HD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11158.m3u8
+#EXTINF:-1,SPACE FHD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11117.m3u8
+#EXTINF:-1,Sportv 2 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11156.m3u8
+#EXTINF:-1,Sportv 2 HD*
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11153.m3u8
+#EXTINF:-1,Sportv 3 FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11155.m3u8
+#EXTINF:-1,SPORTV 3 HD*
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11152.m3u8
+#EXTINF:-1,SPORTV FHD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11157.m3u8
+#EXTINF:-1,Sportv HD (2)
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11154.m3u8
+#EXTINF:-1,TBS FHD H265²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11129.m3u8
+#EXTINF:-1,TBS SD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11103.m3u8
+#EXTINF:-1,TELECINE ACTION HD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11167.m3u8
+#EXTINF:-1,TELECINE ACTION HD¹
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11183.m3u8
+#EXTINF:-1,TELECINE FUN FHD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11166.m3u8
+#EXTINF:-1,TELECINE FUN HD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11165.m3u8
+#EXTINF:-1,TELECINE PIPOCA FHD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11164.m3u8
+#EXTINF:-1,TELECINE PIPOCA HD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11163.m3u8
+#EXTINF:-1,TELECINE PREMIUM FHD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11162.m3u8
+#EXTINF:-1,TELECINE PREMIUM HD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11161.m3u8
+#EXTINF:-1,TELECINE TOUCH FHD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11160.m3u8
+#EXTINF:-1,TELECINE TOUCH HD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11159.m3u8
+#EXTINF:-1,TLC HD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11099.m3u8
+#EXTINF:-1,TNT SERIES FHD H265²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11128.m3u8
+#EXTINF:-1,TNT SERIES SD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11102.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11186.m3u8
+#EXTINF:-1,VENUS FHD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11126.m3u8
+#EXTINF:-1,VENUS SD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11101.m3u8
+#EXTINF:-1,WARNER CHANNEL HD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11125.m3u8
+#EXTINF:-1,WARNER SD²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11100.m3u8
+#EXTINF:-1,ALLSPORTS TV²
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://srv01.iptvquantum.co:80/live/murilo/murilo/11483.m3u8

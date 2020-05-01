@@ -1,0 +1,239 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://encurtador.com.br/CHQU4" group-title="", CANAL RICOS
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.ts
+#EXTINF:-1,BRAZILIAN: A&E
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50771.m3u8
+#EXTINF:-1,BRAZILIAN: AMC
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/52910.m3u8
+#EXTINF:-1,BRAZILIAN: ANIMAL PLANET
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50770.m3u8
+#EXTINF:-1,BRAZILIAN: ARTE 1
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50767.m3u8
+#EXTINF:-1,BRAZILIAN: AXN
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50769.m3u8
+#EXTINF:-1,BRAZILIAN: BABY TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/52911.m3u8
+#EXTINF:-1,BRAZILIAN: BAND
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50766.m3u8
+#EXTINF:-1,BRAZILIAN: BAND NEWS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50765.m3u8
+#EXTINF:-1,BRAZILIAN: BAND SPORTS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50764.m3u8
+#EXTINF:-1,BRAZILIAN: BIS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50763.m3u8
+#EXTINF:-1,BRAZILIAN: BOOMERANG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50762.m3u8
+#EXTINF:-1,BRAZILIAN: BRAZIL 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50761.m3u8
+#EXTINF:-1,BRAZILIAN: CANAL BRAZIL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50758.m3u8
+#EXTINF:-1,BRAZILIAN: CANAL DO BOI TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50756.m3u8
+#EXTINF:-1,BRAZILIAN: CANAL DO TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50757.m3u8
+#EXTINF:-1,BRAZILIAN: CANAL ESCOLA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50760.m3u8
+#EXTINF:-1,BRAZILIAN: CANAL SONY
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50755.m3u8
+#EXTINF:-1,BRAZILIAN: CANCAO NOVA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50754.m3u8
+#EXTINF:-1,BRAZILIAN: CARTOON NETWORK
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50753.m3u8
+#EXTINF:-1,BRAZILIAN: CINEMAX
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50759.m3u8
+#EXTINF:-1,BRAZILIAN: COMBATE
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50752.m3u8
+#EXTINF:-1,BRAZILIAN: CONEXAOBR TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50751.m3u8
+#EXTINF:-1,BRAZILIAN: DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50750.m3u8
+#EXTINF:-1,BRAZILIAN: DISCOVERY CIVILIZATION
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50748.m3u8
+#EXTINF:-1,BRAZILIAN: DISCOVERY HOME AND HEALTH
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50747.m3u8
+#EXTINF:-1,BRAZILIAN: DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50746.m3u8
+#EXTINF:-1,BRAZILIAN: DISCOVERY TURBO
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50745.m3u8
+#EXTINF:-1,BRAZILIAN: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50744.m3u8
+#EXTINF:-1,BRAZILIAN: DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50743.m3u8
+#EXTINF:-1,BRAZILIAN: DISNEY XD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50742.m3u8
+#EXTINF:-1,BRAZILIAN: DW TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50749.m3u8
+#EXTINF:-1,BRAZILIAN: E!
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50741.m3u8
+#EXTINF:-1,BRAZILIAN: EI MAXX
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50737.m3u8
+#EXTINF:-1,BRAZILIAN: EI MAXX 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50740.m3u8
+#EXTINF:-1,BRAZILIAN: ESPN
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50738.m3u8
+#EXTINF:-1,BRAZILIAN: ESPN BRAZIL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50739.m3u8
+#EXTINF:-1,BRAZILIAN: FISH TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50732.m3u8
+#EXTINF:-1,BRAZILIAN: FOX
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50736.m3u8
+#EXTINF:-1,BRAZILIAN: FOX LIFE
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50731.m3u8
+#EXTINF:-1,BRAZILIAN: FOX SPORTS 1
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50735.m3u8
+#EXTINF:-1,BRAZILIAN: FOX SPORTS 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50730.m3u8
+#EXTINF:-1,BRAZILIAN: FUTURA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50734.m3u8
+#EXTINF:-1,BRAZILIAN: FX
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50733.m3u8
+#EXTINF:-1,BRAZILIAN: GLOBAL TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50729.m3u8
+#EXTINF:-1,BRAZILIAN: GLOBO
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50727.m3u8
+#EXTINF:-1,BRAZILIAN: GLOOB
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50726.m3u8
+#EXTINF:-1,BRAZILIAN: GNT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50728.m3u8
+#EXTINF:-1,BRAZILIAN: H2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50725.m3u8
+#EXTINF:-1,BRAZILIAN: HBO
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50724.m3u8
+#EXTINF:-1,BRAZILIAN: HBO 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50723.m3u8
+#EXTINF:-1,BRAZILIAN: HBO FAMILY
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50722.m3u8
+#EXTINF:-1,BRAZILIAN: HBO PLUS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50721.m3u8
+#EXTINF:-1,BRAZILIAN: HBO SIGNATURE
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50720.m3u8
+#EXTINF:-1,BRAZILIAN: HISTORY CHANNEL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50719.m3u8
+#EXTINF:-1,BRAZILIAN: ID
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50718.m3u8
+#EXTINF:-1,BRAZILIAN: MAIS GLOBOSAT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50715.m3u8
+#EXTINF:-1,BRAZILIAN: MANA SAT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50717.m3u8
+#EXTINF:-1,BRAZILIAN: MAX
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50714.m3u8
+#EXTINF:-1,BRAZILIAN: MAX PRIME
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50713.m3u8
+#EXTINF:-1,BRAZILIAN: MAX UP
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50712.m3u8
+#EXTINF:-1,BRAZILIAN: MEGA PIX
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50711.m3u8
+#EXTINF:-1,BRAZILIAN: MTV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50716.m3u8
+#EXTINF:-1,BRAZILIAN: MULTISHOW
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50710.m3u8
+#EXTINF:-1,BRAZILIAN: MUSIC BOX BRAZIL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50709.m3u8
+#EXTINF:-1,BRAZILIAN: NAT GEOGRAPHIC
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50708.m3u8
+#EXTINF:-1,BRAZILIAN: NICK JUNIOR
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50706.m3u8
+#EXTINF:-1,BRAZILIAN: NICKELODEON
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50707.m3u8
+#EXTINF:-1,BRAZILIAN: NOV TEMPO
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50705.m3u8
+#EXTINF:-1,BRAZILIAN: OFF
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50704.m3u8
+#EXTINF:-1,BRAZILIAN: PARAMOUNT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50702.m3u8
+#EXTINF:-1,BRAZILIAN: PFC
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50703.m3u8
+#EXTINF:-1,BRAZILIAN: PREMIERE CLUBES
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50701.m3u8
+#EXTINF:-1,BRAZILIAN: PRIME BOX BRAZIL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50700.m3u8
+#EXTINF:-1,BRAZILIAN: PROYECTO 40
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50699.m3u8
+#EXTINF:-1,BRAZILIAN: RCTV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50698.m3u8
+#EXTINF:-1,BRAZILIAN: RECORD NEWS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50693.m3u8
+#EXTINF:-1,BRAZILIAN: RECORD TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50697.m3u8
+#EXTINF:-1,BRAZILIAN: REDE GOSPEL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50696.m3u8
+#EXTINF:-1,BRAZILIAN: REDE RECORD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50695.m3u8
+#EXTINF:-1,BRAZILIAN: REDE TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50694.m3u8
+#EXTINF:-1,BRAZILIAN: SBT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50692.m3u8
+#EXTINF:-1,BRAZILIAN: SBT BRAZIL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50691.m3u8
+#EXTINF:-1,BRAZILIAN: SPACE
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50690.m3u8
+#EXTINF:-1,BRAZILIAN: SPORT TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50689.m3u8
+#EXTINF:-1,BRAZILIAN: SPORT TV 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50688.m3u8
+#EXTINF:-1,BRAZILIAN: SPORT TV 3
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50687.m3u8
+#EXTINF:-1,BRAZILIAN: STUDIO UNIVERSAL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50686.m3u8
+#EXTINF:-1,BRAZILIAN: SYFY
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50685.m3u8
+#EXTINF:-1,BRAZILIAN: TBS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50684.m3u8
+#EXTINF:-1,BRAZILIAN: TCM
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50677.m3u8
+#EXTINF:-1,BRAZILIAN: TELECINE ACTION
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50683.m3u8
+#EXTINF:-1,BRAZILIAN: TELECINE CULT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50682.m3u8
+#EXTINF:-1,BRAZILIAN: TELECINE FUN
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50681.m3u8
+#EXTINF:-1,BRAZILIAN: TELECINE PIPOCA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50680.m3u8
+#EXTINF:-1,BRAZILIAN: TELECINE PREMIUM
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50679.m3u8
+#EXTINF:-1,BRAZILIAN: TELECINE TOUCH
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50678.m3u8
+#EXTINF:-1,BRAZILIAN: TLC
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50676.m3u8
+#EXTINF:-1,BRAZILIAN: TNT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50675.m3u8
+#EXTINF:-1,BRAZILIAN: TNT SERIES
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50674.m3u8
+#EXTINF:-1,BRAZILIAN: TOONCAST
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50661.m3u8
+#EXTINF:-1,BRAZILIAN: TRU TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50660.m3u8
+#EXTINF:-1,BRAZILIAN: TV APARCEIDA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50768.m3u8
+#EXTINF:-1,BRAZILIAN: TV BRASIL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50672.m3u8
+#EXTINF:-1,BRAZILIAN: TV DIARIO BRASIL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50670.m3u8
+#EXTINF:-1,BRAZILIAN: TV ESCOLA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50659.m3u8
+#EXTINF:-1,BRAZILIAN: TV GAZETA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50669.m3u8
+#EXTINF:-1,BRAZILIAN: TV GERAL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50668.m3u8
+#EXTINF:-1,BRAZILIAN: TV GLOBO
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50667.m3u8
+#EXTINF:-1,BRAZILIAN: TV GLOBO PREMIUM
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50666.m3u8
+#EXTINF:-1,BRAZILIAN: TV RECORD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50665.m3u8
+#EXTINF:-1,BRAZILIAN: TV URBANA BRAZIL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50664.m3u8
+#EXTINF:-1,BRAZILIAN: TVE
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50663.m3u8
+#EXTINF:-1,BRAZILIAN: TVI
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50662.m3u8
+#EXTINF:-1,BRAZILIAN: UNIVERSAL CHANNEL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50658.m3u8
+#EXTINF:-1,BRAZILIAN: VH1 MEGA HITS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50657.m3u8
+#EXTINF:-1,BRAZILIAN: VIVA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50656.m3u8
+#EXTINF:-1,BRAZILIAN: WARNER
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50655.m3u8
+#EXTINF:-1,BRAZILIAN: WOOHOO
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=HLSRETRY&amp;url=http://thepk.co:2086/live/rware73/d0Qa94cX0w/50654.m3u8

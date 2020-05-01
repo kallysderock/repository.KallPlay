@@ -1,0 +1,61 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais Web TV",TV GIDEÕES HD
+http://streaming02.zas.media:1935/gideoes/programacao/live.m3u8?CANALANDRONALTAS
+
+#EXTINF:0 tvg-logo="" group-title="Gospel",Rede Brasil AD
+http://rbc.directradios.com:1935/rbc/rbc_360p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Gospel",TV ADBelém
+http://streaming60.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Gospel",BOAS NOVAS
+https://5cf4a2c2512a2.streamlock.net/boasnovas/boasnovas/chunklist_w1215839331.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",GOSPEL CARTOON
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105?CANAISGLAU
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV",IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV",Rede Gênesis
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV",Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV",Boa Vontade
+http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CHRISTIANITY",Esperanza TV (USA) [ES]
+http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="EVANGELICO",REDE BRASIL
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Tv_evangelizar.jpg" group-title="EVANGELICO",REDE EVANGELIZAR
+http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="RELIGIAO",Gospel Movies Television
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8?ISAQUE
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS INFANTIL",Gospel Cartoon
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS",Gospel Music TV
+http://stmv2.srvstm.com:1935/16692/16692/playlist.m3u8?ISAQUE
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES",Gospel Movies Television
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="RELIGIOSOS",Rede Gênesis
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="RELIGIOSO",TV Igreja Mundial
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="RELIGIOSO",SOBRENATURAL TV
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?CANAISGLAU

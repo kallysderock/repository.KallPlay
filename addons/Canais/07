@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://encurtador.com.br/CHQU4" group-title="", CANAL RICOS
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.ts
+#EXTINF:-1 ,A&E 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41935
+#EXTINF:-1 ,BAND 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41934
+#EXTINF:-1 ,BAND NEWS 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41933
+#EXTINF:-1 ,BAND SPORTS 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41932
+#EXTINF:-1 ,Brazil 2 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41936
+#EXTINF:-1 ,Canal Do Boi Tv
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41937
+#EXTINF:-1 ,Combate 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41931
+#EXTINF:-1 ,Conexaobr Tv 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41938
+#EXTINF:-1 ,ESPN Brasil 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41939
+#EXTINF:-1 ,ESPN HD 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41940
+#EXTINF:-1 ,ESPN plus 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41941
+#EXTINF:-1 ,FOX Sports 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41942
+#EXTINF:-1 ,Fox Sports 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41943
+#EXTINF:-1 ,Globo Premium 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41930
+#EXTINF:-1 ,Gloob 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41929
+#EXTINF:-1 ,GNT 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41928
+#EXTINF:-1 ,PFC 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41927
+#EXTINF:-1 ,Premiere 2 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41926
+#EXTINF:-1 ,Premiere 3 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41925
+#EXTINF:-1 ,Premiere 4 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41924
+#EXTINF:-1 ,Premiere 5 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41923
+#EXTINF:-1 ,Premiere 9 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41922
+#EXTINF:-1 ,Premiere Clubes 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41921
+#EXTINF:-1 ,Prime Box Brasil 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41920
+#EXTINF:-1 ,RECORD PB 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41944
+#EXTINF:-1 ,REDE GOSPEL 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41945
+#EXTINF:-1 ,REDE TV 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41946
+#EXTINF:-1 ,Sport TV 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41919
+#EXTINF:-1 ,SPORT TV 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41947
+#EXTINF:-1 ,SPORT TV 3
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41948
+#EXTINF:-1 ,Sport TV2 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41918
+#EXTINF:-1 ,Sport TV3 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41917
+#EXTINF:-1 ,TV Diario Brasil 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41949
+#EXTINF:-1 ,TV Globo 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41950
+#EXTINF:-1 ,TV Globo Premium 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41951
+#EXTINF:-1 ,TV Record 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41952
+#EXTINF:-1 ,TV Urbana Brasil 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41953
+#EXTINF:-1 ,TVE HD 720 Brasil 
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://tv.proyectox.vip:25461/72B0kQj6bu/McsghgYhvs/41954

@@ -1,0 +1,239 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://encurtador.com.br/CHQU4" group-title="", CANAL RICOS
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.ts
+#EXTINF:-1, A&E
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50771
+#EXTINF:-1, AMC
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/52910
+#EXTINF:-1, ANIMAL PLANET
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50770
+#EXTINF:-1, ARTE 1
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50767
+#EXTINF:-1, AXN
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50769
+#EXTINF:-1, BABY TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/52911
+#EXTINF:-1, BAND
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50766
+#EXTINF:-1, BAND NEWS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50765
+#EXTINF:-1, BAND SPORTS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50764
+#EXTINF:-1, BIS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50763
+#EXTINF:-1, BOOMERANG
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50762
+#EXTINF:-1, BRAZIL 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50761
+#EXTINF:-1, CANAL BRAZIL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50758
+#EXTINF:-1, CANAL DO BOI TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50756
+#EXTINF:-1, CANAL DO TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50757
+#EXTINF:-1, CANAL ESCOLA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50760
+#EXTINF:-1, CANAL SONY
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50755
+#EXTINF:-1, CANCAO NOVA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50754
+#EXTINF:-1, CARTOON NETWORK
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50753
+#EXTINF:-1, CINEMAX
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50759
+#EXTINF:-1, COMBATE
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50752
+#EXTINF:-1, CONEXAOBR TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50751
+#EXTINF:-1, DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50750
+#EXTINF:-1, DISCOVERY CIVILIZATION
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50748
+#EXTINF:-1, DISCOVERY HOME AND HEALTH
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50747
+#EXTINF:-1, DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50746
+#EXTINF:-1, DISCOVERY TURBO
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50745
+#EXTINF:-1, DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50744
+#EXTINF:-1, DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50743
+#EXTINF:-1, DISNEY XD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50742
+#EXTINF:-1, DW TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50749
+#EXTINF:-1, E!
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50741
+#EXTINF:-1, EI MAXX
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50737
+#EXTINF:-1, EI MAXX 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50740
+#EXTINF:-1, ESPN
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50738
+#EXTINF:-1, ESPN BRAZIL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50739
+#EXTINF:-1, FISH TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50732
+#EXTINF:-1, FOX
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50736
+#EXTINF:-1, FOX LIFE
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50731
+#EXTINF:-1, FOX SPORTS 1
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50735
+#EXTINF:-1, FOX SPORTS 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50730
+#EXTINF:-1, FUTURA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50734
+#EXTINF:-1, FX
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50733
+#EXTINF:-1, GLOBAL TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50729
+#EXTINF:-1, GLOBO
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50727
+#EXTINF:-1, GLOOB
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50726
+#EXTINF:-1, GNT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50728
+#EXTINF:-1, H2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50725
+#EXTINF:-1, HBO
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50724
+#EXTINF:-1, HBO 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50723
+#EXTINF:-1, HBO FAMILY
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50722
+#EXTINF:-1, HBO PLUS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50721
+#EXTINF:-1, HBO SIGNATURE
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50720
+#EXTINF:-1, HISTORY CHANNEL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50719
+#EXTINF:-1, ID
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50718
+#EXTINF:-1, MAIS GLOBOSAT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50715
+#EXTINF:-1, MANA SAT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50717
+#EXTINF:-1, MAX
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50714
+#EXTINF:-1, MAX PRIME
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50713
+#EXTINF:-1, MAX UP
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50712
+#EXTINF:-1, MEGA PIX
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50711
+#EXTINF:-1, MTV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50716
+#EXTINF:-1, MULTISHOW
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50710
+#EXTINF:-1, MUSIC BOX BRAZIL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50709
+#EXTINF:-1, NAT GEOGRAPHIC
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50708
+#EXTINF:-1, NICK JUNIOR
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50706
+#EXTINF:-1, NICKELODEON
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50707
+#EXTINF:-1, NOV TEMPO
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50705
+#EXTINF:-1, OFF
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50704
+#EXTINF:-1, PARAMOUNT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50702
+#EXTINF:-1, PFC
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50703
+#EXTINF:-1, PREMIERE CLUBES
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50701
+#EXTINF:-1, PRIME BOX BRAZIL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50700
+#EXTINF:-1, PROYECTO 40
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50699
+#EXTINF:-1, RCTV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50698
+#EXTINF:-1, RECORD NEWS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50693
+#EXTINF:-1, RECORD TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50697
+#EXTINF:-1, REDE GOSPEL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50696
+#EXTINF:-1, REDE RECORD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50695
+#EXTINF:-1, REDE TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50694
+#EXTINF:-1, SBT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50692
+#EXTINF:-1, SBT BRAZIL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50691
+#EXTINF:-1, SPACE
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50690
+#EXTINF:-1, SPORT TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50689
+#EXTINF:-1, SPORT TV 2
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50688
+#EXTINF:-1, SPORT TV 3
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50687
+#EXTINF:-1, STUDIO UNIVERSAL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50686
+#EXTINF:-1, SYFY
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50685
+#EXTINF:-1, TBS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50684
+#EXTINF:-1, TCM
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50677
+#EXTINF:-1, TELECINE ACTION
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50683
+#EXTINF:-1, TELECINE CULT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50682
+#EXTINF:-1, TELECINE FUN
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50681
+#EXTINF:-1, TELECINE PIPOCA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50680
+#EXTINF:-1, TELECINE PREMIUM
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50679
+#EXTINF:-1, TELECINE TOUCH
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50678
+#EXTINF:-1, TLC
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50676
+#EXTINF:-1, TNT
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50675
+#EXTINF:-1, TNT SERIES
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50674
+#EXTINF:-1, TOONCAST
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50661
+#EXTINF:-1, TRU TV
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50660
+#EXTINF:-1, TV APARCEIDA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50768
+#EXTINF:-1, TV BRASIL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50672
+#EXTINF:-1, TV DIARIO BRASIL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50670
+#EXTINF:-1, TV ESCOLA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50659
+#EXTINF:-1, TV GAZETA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50669
+#EXTINF:-1, TV GERAL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50668
+#EXTINF:-1, TV GLOBO
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50667
+#EXTINF:-1, TV GLOBO PREMIUM
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50666
+#EXTINF:-1, TV RECORD
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50665
+#EXTINF:-1, TV URBANA BRAZIL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50664
+#EXTINF:-1, TVE
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50663
+#EXTINF:-1, TVI
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50662
+#EXTINF:-1, UNIVERSAL CHANNEL
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50658
+#EXTINF:-1, VH1 MEGA HITS
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50657
+#EXTINF:-1, VIVA
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50656
+#EXTINF:-1, WARNER
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50655
+#EXTINF:-1, WOOHOO
+plugin://plugin.video.f4mTester/?name=BR/Live-TV-A-Qualidade/10&streamtype=TSDOWNLOADER&amp;url=http://thepk.co:2086/rware73/d0Qa94cX0w/50654

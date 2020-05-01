@@ -1,0 +1,177 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://encurtador.com.br/CHQU4" group-title="", CANAL RICOS
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT | BTV" tvg-logo="" group-title="BR/LIVE | BRASIL",PT | BTV
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/111907
+#EXTINF:-1 tvg-id="" tvg-name="BRA | AMC" tvg-logo="https://i.imgur.com/YhH7rkC.png" group-title="PORTUGAL | BRASIL",BRA | AMC
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114327
+#EXTINF:-1 tvg-id="" tvg-name="BRA | ANIMAL PLANET" tvg-logo="https://i.imgur.com/Y7cwaq7.png" group-title="PORTUGAL | BRASIL",BRA | ANIMAL PLANET
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114325
+#EXTINF:-1 tvg-id="" tvg-name="BRA |  ANIMAL PLANET ʜᴅ" tvg-logo="" group-title="PORTUGAL | BRASIL",BRA |  ANIMAL PLANET ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114324
+#EXTINF:-1 tvg-id="" tvg-name="BRA | BABY TV ʜᴅ" tvg-logo="https://i.imgur.com/9hurRZI.png" group-title="PORTUGAL | BRASIL",BRA | BABY TV ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114320
+#EXTINF:-1 tvg-id="" tvg-name="BRA | BIS" tvg-logo="https://i.imgur.com/lm4hinh.png" group-title="PORTUGAL | BRASIL",BRA | BIS
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114315
+#EXTINF:-1 tvg-id="" tvg-name="BRA | BIS HD" tvg-logo="https://i.imgur.com/lm4hinh.png" group-title="PORTUGAL | BRASIL",BRA | BIS HD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114314
+#EXTINF:-1 tvg-id="" tvg-name="BRA | CANAL BRASIL" tvg-logo="https://i.imgur.com/vknFVOG.png" group-title="PORTUGAL | BRASIL",BRA | CANAL BRASIL
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114312
+#EXTINF:-1 tvg-id="" tvg-name="BRA | CANAL BRAZIL ʜᴅ" tvg-logo="https://i.imgur.com/vknFVOG.png" group-title="PORTUGAL | BRASIL",BRA | CANAL BRAZIL ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114311
+#EXTINF:-1 tvg-id="" tvg-name="BRA | CANAL SONY" tvg-logo="https://i.imgur.com/ZiVy13W.png" group-title="PORTUGAL | BRASIL",BRA | CANAL SONY
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114310
+#EXTINF:-1 tvg-id="" tvg-name="BRA | CANAL SONY ʜᴅ" tvg-logo="https://i.imgur.com/ZiVy13W.png" group-title="PORTUGAL | BRASIL",BRA | CANAL SONY ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114309
+#EXTINF:-1 tvg-id="" tvg-name="BRA | DISCOVERY CIVILIZATION" tvg-logo="https://i.imgur.com/HqLB6Xh.png" group-title="PORTUGAL | BRASIL",BRA | DISCOVERY CIVILIZATION
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114299
+#EXTINF:-1 tvg-id="" tvg-name="BRA | DISCOVERY H&H" tvg-logo="https://i.imgur.com/iARPAzs.png" group-title="PORTUGAL | BRASIL",BRA | DISCOVERY H&H
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114298
+#EXTINF:-1 tvg-id="" tvg-name="BRA | DISCOVERY H&H ʜᴅ" tvg-logo="https://i.imgur.com/iARPAzs.png" group-title="PORTUGAL | BRASIL",BRA | DISCOVERY H&H ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114297
+#EXTINF:-1 tvg-id="" tvg-name="BRA | DISCOVERY THEATER ʜᴅ" tvg-logo="https://i.imgur.com/7ZLHcp0.png" group-title="PORTUGAL | BRASIL",BRA | DISCOVERY THEATER ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114292
+#EXTINF:-1 tvg-id="" tvg-name="BRA | DISNEY CHANNEL" tvg-logo="https://i.imgur.com/YMZCp43.png" group-title="PORTUGAL | BRASIL",BRA | DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114289
+#EXTINF:-1 tvg-id="" tvg-name="BRA | DISNEY CHANNEL ʜᴅ" tvg-logo="https://i.imgur.com/YMZCp43.png" group-title="PORTUGAL | BRASIL",BRA | DISNEY CHANNEL ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114287
+#EXTINF:-1 tvg-id="" tvg-name="BRA | DISNEY JUNIOR ʜᴅ" tvg-logo="https://i.imgur.com/YMZCp43.png" group-title="PORTUGAL | BRASIL",BRA | DISNEY JUNIOR ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114296
+#EXTINF:-1 tvg-id="" tvg-name="BRA | DISNEY XD" tvg-logo="https://i.imgur.com/QOFFK4V.png" group-title="PORTUGAL | BRASIL",BRA | DISNEY XD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114285
+#EXTINF:-1 tvg-id="" tvg-name="BRA | E!" tvg-logo="https://i.imgur.com/QpnGTP5.png" group-title="PORTUGAL | BRASIL",BRA | E!
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114284
+#EXTINF:-1 tvg-id="" tvg-name="BRA | FISH TV" tvg-logo="https://i.imgur.com/yrcLKYt.png" group-title="PORTUGAL | BRASIL",BRA | FISH TV
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114271
+#EXTINF:-1 tvg-id="" tvg-name="BRA | FOOD NETWORK ʜᴅ" tvg-logo="https://i.imgur.com/pFXzuwe.png" group-title="PORTUGAL | BRASIL",BRA | FOOD NETWORK ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114270
+#EXTINF:-1 tvg-id="" tvg-name="BRA | FOX LIFE  ʜᴅ" tvg-logo="https://i.imgur.com/rSHgamo.png" group-title="PORTUGAL | BRASIL",BRA | FOX LIFE  ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114267
+#EXTINF:-1 tvg-id="" tvg-name="BRA | FOX PREMIUM 1 ʜᴅ" tvg-logo="https://i.imgur.com/Iz3dAfM.png" group-title="PORTUGAL | BRASIL",BRA | FOX PREMIUM 1 ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114266
+#EXTINF:-1 tvg-id="" tvg-name="BRA | FOX PREMIUM 2 ʜᴅ" tvg-logo="https://i.imgur.com/c17FIjM.png" group-title="PORTUGAL | BRASIL",BRA | FOX PREMIUM 2 ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114265
+#EXTINF:-1 tvg-id="" tvg-name="BRA | FOX SPORTS" tvg-logo="https://i.imgur.com/0Fu1lnM.png" group-title="PORTUGAL | BRASIL",BRA | FOX SPORTS
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114264
+#EXTINF:-1 tvg-id="" tvg-name="BRA | FOX SPORTS ʜᴅ" tvg-logo="https://i.imgur.com/0Fu1lnM.png" group-title="PORTUGAL | BRASIL",BRA | FOX SPORTS ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114261
+#EXTINF:-1 tvg-id="" tvg-name="BRA | FUTURA" tvg-logo="https://i.imgur.com/CSdAxKe.png" group-title="PORTUGAL | BRASIL",BRA | FUTURA
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114260
+#EXTINF:-1 tvg-id="" tvg-name="BRA |  FX ʜᴅ" tvg-logo="https://i.imgur.com/dEDnPHv.png" group-title="PORTUGAL | BRASIL",BRA |  FX ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114258
+#EXTINF:-1 tvg-id="" tvg-name="BRA | GLOBO  BRASILLIA" tvg-logo="https://i.imgur.com/fLnkrcd.png" group-title="PORTUGAL | BRASIL",BRA | GLOBO  BRASILLIA
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114257
+#EXTINF:-1 tvg-id="" tvg-name="BRA | GLOBO MG ʜᴅ" tvg-logo="https://i.imgur.com/fLnkrcd.png" group-title="PORTUGAL | BRASIL",BRA | GLOBO MG ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114254
+#EXTINF:-1 tvg-id="" tvg-name="BRA | GLOBO NEWS" tvg-logo="https://i.imgur.com/wmNHRrr.png" group-title="PORTUGAL | BRASIL",BRA | GLOBO NEWS
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114253
+#EXTINF:-1 tvg-id="" tvg-name="BRA | GLOBO NEWS ʜᴅ" tvg-logo="https://i.imgur.com/wmNHRrr.png" group-title="PORTUGAL | BRASIL",BRA | GLOBO NEWS ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114252
+#EXTINF:-1 tvg-id="" tvg-name="BRA | GLOBO NEWS ʜᴅ *" tvg-logo="https://i.imgur.com/wmNHRrr.png" group-title="PORTUGAL | BRASIL",BRA | GLOBO NEWS ʜᴅ *
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114251
+#EXTINF:-1 tvg-id="" tvg-name="BRA | GLOBO  RJ" tvg-logo="https://i.imgur.com/lmZCaNC.png" group-title="PORTUGAL | BRASIL",BRA | GLOBO  RJ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114248
+#EXTINF:-1 tvg-id="" tvg-name="BRA | GLOBO RJ  ʜᴅ" tvg-logo="https://i.imgur.com/lmZCaNC.png" group-title="PORTUGAL | BRASIL",BRA | GLOBO RJ  ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114247
+#EXTINF:-1 tvg-id="" tvg-name="BRA | GLOBO SP" tvg-logo="https://i.imgur.com/lmZCaNC.png" group-title="PORTUGAL | BRASIL",BRA | GLOBO SP
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114246
+#EXTINF:-1 tvg-id="" tvg-name="BRA | GLOBO  SP (b)" tvg-logo="https://i.imgur.com/lmZCaNC.png" group-title="PORTUGAL | BRASIL",BRA | GLOBO  SP (b)
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114245
+#EXTINF:-1 tvg-id="" tvg-name="BRA | GLOOB" tvg-logo="https://i.imgur.com/zWNHKpl.png" group-title="PORTUGAL | BRASIL",BRA | GLOOB
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114243
+#EXTINF:-1 tvg-id="" tvg-name="BRA | GLOOB FHD" tvg-logo="https://i.imgur.com/zWNHKpl.png" group-title="PORTUGAL | BRASIL",BRA | GLOOB FHD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114242
+#EXTINF:-1 tvg-id="" tvg-name="BRA | GNT" tvg-logo="https://i.imgur.com/fWplVaR.png" group-title="PORTUGAL | BRASIL",BRA | GNT
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114241
+#EXTINF:-1 tvg-id="" tvg-name="BRA | HBO  FAMILY" tvg-logo="https://i.imgur.com/MTm2fD4.png" group-title="PORTUGAL | BRASIL",BRA | HBO  FAMILY
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114234
+#EXTINF:-1 tvg-id="" tvg-name="BRA | HBO FAMILY  ʜᴅ" tvg-logo="https://i.imgur.com/MTm2fD4.png" group-title="PORTUGAL | BRASIL",BRA | HBO FAMILY  ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114233
+#EXTINF:-1 tvg-id="" tvg-name="BRA | HISTORY CHANNEL" tvg-logo="https://i.imgur.com/r4WzDUv.png" group-title="PORTUGAL | BRASIL",BRA | HISTORY CHANNEL
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114226
+#EXTINF:-1 tvg-id="" tvg-name="BRA | MAX ʜᴅ" tvg-logo="https://i.imgur.com/oXvXwLT.png" group-title="PORTUGAL | BRASIL",BRA | MAX ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114220
+#EXTINF:-1 tvg-id="" tvg-name="BRA | MAX PRIME" tvg-logo="https://i.imgur.com/oXvXwLT.png" group-title="PORTUGAL | BRASIL",BRA | MAX PRIME
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114219
+#EXTINF:-1 tvg-id="" tvg-name="BRA | MAX PRIME ʜᴅ" tvg-logo="https://i.imgur.com/oXvXwLT.png" group-title="PORTUGAL | BRASIL",BRA | MAX PRIME ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114218
+#EXTINF:-1 tvg-id="" tvg-name="BRA | MAX UP ʜᴅ" tvg-logo="https://i.imgur.com/oXvXwLT.png" group-title="PORTUGAL | BRASIL",BRA | MAX UP ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114217
+#EXTINF:-1 tvg-id="" tvg-name="BRA | MEGAPIX" tvg-logo="https://i.imgur.com/KLmLXc4.png" group-title="PORTUGAL | BRASIL",BRA | MEGAPIX
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114216
+#EXTINF:-1 tvg-id="" tvg-name="BRA |  Megapix ʜᴅ" tvg-logo="" group-title="PORTUGAL | BRASIL",BRA |  Megapix ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114215
+#EXTINF:-1 tvg-id="" tvg-name="BRA | MTV ʜᴅ" tvg-logo="https://i.imgur.com/JWB3bnm.png" group-title="PORTUGAL | BRASIL",BRA | MTV ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114213
+#EXTINF:-1 tvg-id="" tvg-name="BRA | MUSIC BOX  BRAZIL" tvg-logo="https://i.imgur.com/YxDNDWG.png" group-title="PORTUGAL | BRASIL",BRA | MUSIC BOX  BRAZIL
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114210
+#EXTINF:-1 tvg-id="" tvg-name="BRA | NAT GEO KIDS  ʜᴅ" tvg-logo="https://i.imgur.com/8LyKwOb.png" group-title="PORTUGAL | BRASIL",BRA | NAT GEO KIDS  ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114208
+#EXTINF:-1 tvg-id="" tvg-name="BRA | NAT GEO WILD  ʜᴅ" tvg-logo="https://i.imgur.com/aMiHwPX.png" group-title="PORTUGAL | BRASIL",BRA | NAT GEO WILD  ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114209
+#EXTINF:-1 tvg-id="" tvg-name="BRA | NATGEO  Wild" tvg-logo="https://i.imgur.com/1b50Azj.png" group-title="PORTUGAL | BRASIL",BRA | NATGEO  Wild
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114207
+#EXTINF:-1 tvg-id="" tvg-name="BRA | NATGEO WILD ʜᴅ" tvg-logo="https://i.imgur.com/1b50Azj.png" group-title="PORTUGAL | BRASIL",BRA | NATGEO WILD ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114206
+#EXTINF:-1 tvg-id="" tvg-name="BRA | NATIONAL GEOGRAPHIC" tvg-logo="https://i.imgur.com/0IEBjT6.png" group-title="PORTUGAL | BRASIL",BRA | NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114205
+#EXTINF:-1 tvg-id="" tvg-name="BRA | NATIONAL GEOGRAPHIC  ʜᴅ" tvg-logo="https://i.imgur.com/0IEBjT6.png" group-title="PORTUGAL | BRASIL",BRA | NATIONAL GEOGRAPHIC  ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114204
+#EXTINF:-1 tvg-id="" tvg-name="BRA | NICK JR ʜᴅ" tvg-logo="https://i.imgur.com/kMpsvgO.png" group-title="PORTUGAL | BRASIL",BRA | NICK JR ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114203
+#EXTINF:-1 tvg-id="" tvg-name="BRA | PARAMOUNT" tvg-logo="https://i.imgur.com/TNkVmPS.png" group-title="PORTUGAL | BRASIL",BRA | PARAMOUNT
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114200
+#EXTINF:-1 tvg-id="" tvg-name="BRA | PARAMOUNT ʜᴅ" tvg-logo="https://i.imgur.com/TNkVmPS.png" group-title="PORTUGAL | BRASIL",BRA | PARAMOUNT ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114199
+#EXTINF:-1 tvg-id="" tvg-name="BRA | PFC" tvg-logo="https://i.imgur.com/cDfMJdb.png" group-title="PORTUGAL | BRASIL",BRA | PFC
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114198
+#EXTINF:-1 tvg-id="" tvg-name="BRA | PREMIERE 1 ʜᴅ" tvg-logo="https://i.imgur.com/v7O1bzm.png" group-title="PORTUGAL | BRASIL",BRA | PREMIERE 1 ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114196
+#EXTINF:-1 tvg-id="" tvg-name="BRA | PREMIERE  2" tvg-logo="https://i.imgur.com/v7O1bzm.png" group-title="PORTUGAL | BRASIL",BRA | PREMIERE  2
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114197
+#EXTINF:-1 tvg-id="" tvg-name="BRA | PREMIERE 3" tvg-logo="https://i.imgur.com/v7O1bzm.png" group-title="PORTUGAL | BRASIL",BRA | PREMIERE 3
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114195
+#EXTINF:-1 tvg-id="" tvg-name="BRA | PREMIERE  3 ʜᴅ" tvg-logo="https://i.imgur.com/v7O1bzm.png" group-title="PORTUGAL | BRASIL",BRA | PREMIERE  3 ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114194
+#EXTINF:-1 tvg-id="" tvg-name="BRA | PREMIERE  4" tvg-logo="https://i.imgur.com/v7O1bzm.png" group-title="PORTUGAL | BRASIL",BRA | PREMIERE  4
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114193
+#EXTINF:-1 tvg-id="" tvg-name="BRA | PREMIERE 4  ʜᴅ" tvg-logo="https://i.imgur.com/v7O1bzm.png" group-title="PORTUGAL | BRASIL",BRA | PREMIERE 4  ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114192
+#EXTINF:-1 tvg-id="" tvg-name="BRA | PREMIERE  5" tvg-logo="https://i.imgur.com/v7O1bzm.png" group-title="PORTUGAL | BRASIL",BRA | PREMIERE  5
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114191
+#EXTINF:-1 tvg-id="" tvg-name="BRA | PREMIERE CLUBES  ʜᴅ" tvg-logo="https://i.imgur.com/pzll1xz.png" group-title="PORTUGAL | BRASIL",BRA | PREMIERE CLUBES  ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114184
+#EXTINF:-1 tvg-id="" tvg-name="BRA | RECORD" tvg-logo="https://i.imgur.com/VtnJLEV.png" group-title="PORTUGAL | BRASIL",BRA | RECORD
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114182
+#EXTINF:-1 tvg-id="" tvg-name="BRA | RECORD  ʜᴅ" tvg-logo="https://i.imgur.com/VtnJLEV.png" group-title="PORTUGAL | BRASIL",BRA | RECORD  ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114181
+#EXTINF:-1 tvg-id="" tvg-name="BRA | RECORD MG ʜᴅ" tvg-logo="https://i.imgur.com/TOKyoZz.png" group-title="PORTUGAL | BRASIL",BRA | RECORD MG ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114255
+#EXTINF:-1 tvg-id="" tvg-name="BRA | RECORD  NEWS" tvg-logo="https://i.imgur.com/VtnJLEV.png" group-title="PORTUGAL | BRASIL",BRA | RECORD  NEWS
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114180
+#EXTINF:-1 tvg-id="" tvg-name="BRA | RECORD NEWS  ʜᴅ" tvg-logo="https://i.imgur.com/VtnJLEV.png" group-title="PORTUGAL | BRASIL",BRA | RECORD NEWS  ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114179
+#EXTINF:-1 tvg-id="" tvg-name="BRA | RECORD SP ʜᴅ" tvg-logo="https://i.imgur.com/VtnJLEV.png" group-title="PORTUGAL | BRASIL",BRA | RECORD SP ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114178
+#EXTINF:-1 tvg-id="" tvg-name="BRA | SONY ʜᴅ" tvg-logo="https://i.imgur.com/UgjYCIr.png" group-title="PORTUGAL | BRASIL",BRA | SONY ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114165
+#EXTINF:-1 tvg-id="" tvg-name="BRA | SPORTV  2" tvg-logo="https://i.imgur.com/AR5f6ud.png" group-title="PORTUGAL | BRASIL",BRA | SPORTV  2
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114170
+#EXTINF:-1 tvg-id="" tvg-name="BRA | SPORTV 2  ʜᴅ" tvg-logo="https://i.imgur.com/AR5f6ud.png" group-title="PORTUGAL | BRASIL",BRA | SPORTV 2  ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114169
+#EXTINF:-1 tvg-id="" tvg-name="BRA | SYFY" tvg-logo="https://i.imgur.com/Gkl4XuR.png" group-title="PORTUGAL | BRASIL",BRA | SYFY
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114163
+#EXTINF:-1 tvg-id="" tvg-name="BRA | TBS ʜᴅ" tvg-logo="https://i.imgur.com/7SEB7ch.png" group-title="PORTUGAL | BRASIL",BRA | TBS ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114161
+#EXTINF:-1 tvg-id="" tvg-name="BRA |  TELECINE CULT ʜᴅ" tvg-logo="https://i.imgur.com/Phvr5jL.png" group-title="PORTUGAL | BRASIL",BRA |  TELECINE CULT ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114157
+#EXTINF:-1 tvg-id="" tvg-name="BRA |  TELECINE FUN ʜᴅ" tvg-logo="https://i.imgur.com/Phvr5jL.png" group-title="PORTUGAL | BRASIL",BRA |  TELECINE FUN ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114156
+#EXTINF:-1 tvg-id="" tvg-name="BRA |  TLC ʜᴅ" tvg-logo="https://i.imgur.com/1rwYRDs.png" group-title="PORTUGAL | BRASIL",BRA |  TLC ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114151
+#EXTINF:-1 tvg-id="" tvg-name="BRA |  UNIVERSAL CHANNEL ʜᴅ" tvg-logo="https://i.imgur.com/RlXAY6t.png" group-title="PORTUGAL | BRASIL",BRA |  UNIVERSAL CHANNEL ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114146
+#EXTINF:-1 tvg-id="" tvg-name="BRA |  WARNER CHANNEL ʜᴅ" tvg-logo="https://i.imgur.com/SKhuud1.png" group-title="PORTUGAL | BRASIL",BRA |  WARNER CHANNEL ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114143
+#EXTINF:-1 tvg-id="" tvg-name="BRA | BOOMERANG ʜᴅ" tvg-logo="https://i.imgur.com/AXE4ycG.png" group-title="PORTUGAL | BRASIL",BRA | BOOMERANG ʜᴅ
+plugin://plugin.video.f4mTester/?name=BR/L-TV&streamtype=TSDOWNLOADER&amp;url=http://p5.giffy.be:8080/RghyHCIE4i/SDrQatrZkx/114313
