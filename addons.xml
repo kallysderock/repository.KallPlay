@@ -266,10 +266,10 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
     <import addon="script.module.metahandler" version="2.5.1"/>
 	  <import addon="script.module.livestreamer" optional="true"/>
  </requires>
-  <extension point="xbmc.python.pluginsource" library="youtube.py">
+  <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
-  <extension point="xbmc.addon.repository">
+  <extension point="xbmc.addon.repository" name="repository.KallPlay">
 		<info compressed="false">https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/repo/Plugins/</datadir>
@@ -288,9 +288,6 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
   <assets>
 <icon>icon.png</icon>
 <fanart>fanart.jpg</fanart>
-<screenshot>resources/screenshots/1.jpeg</screenshot>
-<screenshot>resources/screenshots/2.jpeg</screenshot>
-<screenshot>resources/screenshots/3.jpeg</screenshot>
   </assets>
   </extension>
 </addon>
