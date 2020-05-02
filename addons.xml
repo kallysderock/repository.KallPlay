@@ -3351,7 +3351,9 @@ Skin and code for skin by Demonstratorz</description>
   </extension>
 </addon>
 
-<addon id="repository.KallPlay" name="KallPlay" version="0.0.3" provider-name="kallysderock">
+<addon id="repository.KallPlay" name="[B][COLOR lightsteelblue]Kall[COLOR deepskyblue][B]P[/B][COLOR  lightsteelblue][B]ay[/COLOR][COLOR white]-[COLOR deepskyblue]Multi[COLOR white]-[COLOR dodgerblue]Addons[/COLOR][/B]" 
+version="0.0.3" 
+provider-name="[B][COLOR deepskyblue]Equipe:[/B] [B][COLOR lightsteelblue]Kall[COLOR deepskyblue][B]P[/B][COLOR  lightsteelblue][B]ay[/COLOR][COLOR white]-[COLOR deepskyblue]Multi[COLOR white]-[COLOR dodgerblue]Addons[/COLOR][/B]">
 <requires>
 <import addon="xbmc.python" version="2.1.0"/>
 <import addon="script.module.beautifulsoup"/>
@@ -3394,7 +3396,7 @@ Skin and code for skin by Demonstratorz</description>
 <fanart>fanart.jpg</fanart>
 </assets>
 </extension>
-</addon>	
+</addon>
 	
 <addon id="repo.conexaoTV"
  name="[B][COLOR white]Repositorio Cone[B][COLOR violet]x[B][COLOR  white]ão[/COLOR][/B] [B][COLOR violet]Tv[/COLOR][/B]"
