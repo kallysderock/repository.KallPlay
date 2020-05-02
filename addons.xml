@@ -269,7 +269,7 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
   <extension point="xbmc.python.pluginsource" library="youtube.py">
     <provides>video</provides>
   </extension>
-  <extension point="xbmc.addon.repository" name="plugin.video.kallplay">
+  <extension point="xbmc.addon.repository">
 		<info compressed="false">https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/repo/Plugins/</datadir>
