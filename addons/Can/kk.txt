@@ -1,4 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VNURDxE.jpg" group-title="movies", [COLOR red][B]ยบ[/B][/COLOR]LIVE FAMILIA 24h
-plugin://plugin.video.KallPlay/?url=redecanais_m3u8=animalplanet.m3u8&mode=16&name=[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR aquamarine]HD[/COLOR][/B]&fanart=https://i.imgur.com/fnxQON3.jpg&iconimage=https://canaisgratis.org/player3/imgs-videos/Canais/animalplanet.jpg&subtitle=&cleaname=&description=O Animal Planet é um canal de televisão por assinatura com sede nos Estados Unidos da América e transmitido também para a América latina. Estabelecido pela primeira vez em 1 de outubro de 1996, a rede é dedicada principalmente a séries e documentários sobre animais selvagens e animais domésticos.
-                                                                                                                                                           
