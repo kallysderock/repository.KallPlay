@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://univesptv.com.br/_img/logomockup.jpg" group-title="movies", [COLOR medium turquoise][B] UNIVESP - Transmissão ao vivo de UNIVESP[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588671754/ei/quCwXuDXGJeEobIPxeemqAk/ip/191.163.139.128/id/1MKR8QGE93g.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRgIhAIpTk21H9tyYN1yolkjutbQOMJY98SWmsTs9qkBMUqNYAiEAr_U6BcAm5i_9mqE3B7Mdk0ZeXysn8-eW72XWKYuTn_Y%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1588671754/ei/quCwXuDXGJeEobIPxeemqAk/ip/191.163.139.128/id/1MKR8QGE93g.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRgIhAIpTk21H9tyYN1yolkjutbQOMJY98SWmsTs9qkBMUqNYAiEAr_U6BcAm5i_9mqE3B7Mdk0ZeXysn8-eW72XWKYuTn_Y%3D/file/index.m3u8
 
 
                                                                                                                                                            
