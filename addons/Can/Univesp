@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://univesptv.com.br/_img/logomockup.jpg" group-title="movies", [COLOR medium turquoise][B] UNIVESP - Transmissão ao vivo de UNIVESP[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=https://www.youtube.com/watch?v=1MKR8QGE93g
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=1MKR8QGE93g
 
 
                                                                                                                                                            
