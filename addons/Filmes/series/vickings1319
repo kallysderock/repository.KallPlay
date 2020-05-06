@@ -16,55 +16,55 @@
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 1[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST01EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu1.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 2[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST01EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu1.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 3[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST01EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu1.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 4[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST01EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu1.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 5[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST01EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu1.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 6[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST01EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu1.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 7[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST01EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu1.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 8[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST01EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu1.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 9[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST01EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu1.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -78,61 +78,61 @@
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 1[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST02EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu2.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 2[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST02EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu2.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 3[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST02EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu2.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 4[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST02EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu2.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 5[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST02EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu2.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 6[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST02EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu2.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 7[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST02EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu2.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 8[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST02EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu2.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 9[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST02EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu2.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 10[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST02EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu2.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -147,67 +147,67 @@
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 0 - (LEGENDADO)[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGSS03EP00.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu3.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 1[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST03EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu3.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 2[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST03EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu3.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 3[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST03EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu3.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 4[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST03EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu3.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 5[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST03EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu3.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 6[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST03EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu3.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 7[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST03EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu3.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 8[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST03EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu3.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 9[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST03EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu3.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 10[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST03EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu3.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 
 <item>
@@ -222,121 +222,121 @@
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 1[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST04EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu4.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 2[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST04EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu4.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 3[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST04EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu4.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 4[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST04EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu4.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 5[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST04EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu4.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 6[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST04EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu4.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 7[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST04EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu4.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 8[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST04EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu4.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 9[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST04EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu4.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 10[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST04EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu4.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 11[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST04EP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu4.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 12[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST04EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu4.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 13[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST04EP13.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu4.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 14[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST04EP14.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu4.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 15[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST04EP15.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu4.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 16[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST04EP16.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu4.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 17[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST04EP17.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu4.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 18[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST04EP18.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu4.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 19[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST04EP19.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu4.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 20[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST04EP20.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601409.us.archive.org/20/items/paunocu2_201912/paunocu4.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 
 
@@ -351,121 +351,121 @@
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 1[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST05EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601509.us.archive.org/4/items/paunocu6/paunocu5.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 2[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST05EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601509.us.archive.org/4/items/paunocu6/paunocu5.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 3[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST05EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601509.us.archive.org/4/items/paunocu6/paunocu5.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 4[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST05EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601509.us.archive.org/4/items/paunocu6/paunocu5.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 5[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST05EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601509.us.archive.org/4/items/paunocu6/paunocu5.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 6[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST05EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601509.us.archive.org/4/items/paunocu6/paunocu5.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 7[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST05EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601509.us.archive.org/4/items/paunocu6/paunocu5.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 8[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST05EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601509.us.archive.org/4/items/paunocu6/paunocu5.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 9[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST05EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601509.us.archive.org/4/items/paunocu6/paunocu5.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 10[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST05EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601509.us.archive.org/4/items/paunocu6/paunocu5.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 11[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST05EP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601509.us.archive.org/4/items/paunocu6/paunocu5.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 12[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST05EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601509.us.archive.org/4/items/paunocu6/paunocu5.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 13[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST05EP13.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601509.us.archive.org/4/items/paunocu6/paunocu5.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 14[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST05EP14.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601509.us.archive.org/4/items/paunocu6/paunocu5.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 15[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST05EP15.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601509.us.archive.org/4/items/paunocu6/paunocu5.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 16[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST05EP16.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601509.us.archive.org/4/items/paunocu6/paunocu5.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 17[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST05EP17.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601509.us.archive.org/4/items/paunocu6/paunocu5.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 18[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST05EP18.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601509.us.archive.org/4/items/paunocu6/paunocu5.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 19[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST05EP19.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601509.us.archive.org/4/items/paunocu6/paunocu5.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 20[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST05EP20.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://ia601509.us.archive.org/4/items/paunocu6/paunocu5.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 
 
@@ -480,42 +480,42 @@
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 1[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST06EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://archive.org/download/paunocu6/paunocu6.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 2[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST06EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://archive.org/download/paunocu6/paunocu6.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 3[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST06EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://archive.org/download/paunocu6/paunocu6.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 4[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST06EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://archive.org/download/paunocu6/paunocu6.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 5[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST06EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://archive.org/download/paunocu6/paunocu6.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 6[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST06EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://archive.org/download/paunocu6/paunocu6.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white]Vikings[/COLOR] - [COLOR yellow]EPISÓDIO - 7[/COLOR]</title>
 <link>$doregex[repository.KallPlay1]VKGST06EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 <thumbnail>https://archive.org/download/paunocu6/paunocu6.jpg</thumbnail>
-<fanart>https://ia601500.us.archive.org/1/items/copiadoresdemerdarevolucionariosdefundodequintalnuncaseraojamaisseraonuncaforamc/COPIADORESDEMERDAREVOLUCIONARIOSDEFUNDODEQUINTALNUNCASERAOJAMAISSERAONUNCAFORAMCONCORRENTEEJAMAISSERAO.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 </item>
