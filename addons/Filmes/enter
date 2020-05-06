@@ -1,21 +1,9 @@
 
-<!DOCTYPE html><html><script>location.href = "";</script><style>body{display:none;}</style><body>
-
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-
-<item>
- <title>[COLOR red][B]1� Temporada[/B][/COLOR][COLOR yellow][B] (2018)[/B][/COLOR]</title>
- <link>here</link>
- <thumbnail></thumbnail>
-</item>
-
-
 <channels>
 <channel>
 <name>[COLOR red]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]CANAIS[/COLOR] [COLOR red][B]KP[/B][/COLOR][COLORyellow][B]Multi-Addons[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white] AO VIVO [/COLOR] [COLOR yellow]|[/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/icon.png</thumbnail>
-<externallink>http://tony.twtutoriais.site/tony/2addon/2addon/channels</externallink>
+<externallink>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/Lcan</externallink>
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 <info>
 
@@ -29,8 +17,8 @@
 <channels>
 <channel>
 <name>[COLOR red]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]MOVIES[/COLOR] [COLOR red][B]KP[/B][/COLOR][COLORyellow][B]Multi-Addons[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white] VOD [/COLOR] [COLOR yellow]|[/COLOR]</name>
-<thumbnail>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/VOD.png</thumbnail>
-<externallink>http://tony.twtutoriais.site/tony/2addon/2addon/vod</externallink>
+<thumbnail>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/movies</externallink>
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 <info>
 
@@ -44,8 +32,8 @@
 <channels>
 <channel>
 <name>[COLOR red]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]SÉRIES[/COLOR] [COLOR red][B]KP[/B][/COLOR][COLORyellow][B]Multi-Addons[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]ESPORÁDICAS E TEMPORÁRIAS [/COLOR] [COLOR yellow]|[/COLOR]</name>
-<thumbnail>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/SERIES.png</thumbnail>
-<externallink>http://tony.twtutoriais.site/tony/2addon/2addon/tvshow</externallink>
+<thumbnail>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/series/tvshows</externallink>
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 <info>
 
@@ -59,8 +47,8 @@
 <channels>
 <channel>
 <name>[COLOR red]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]DESENHOS[/COLOR] [COLOR red][B]KP[/B][/COLOR][COLORyellow][B]Multi-Addons[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]VARIADOS [/COLOR] [COLOR yellow]|[/COLOR]</name>
-<thumbnail>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/desenhos.png</thumbnail>
-<externallink>http://tony.twtutoriais.site/tony/2addon/2addon/desenhos/desenhos</externallink>
+<thumbnail>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Desenhos/desenhos</externallink>
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 <info>
 
