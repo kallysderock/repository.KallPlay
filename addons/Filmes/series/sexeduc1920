@@ -14,49 +14,49 @@
                 </item>
 
                 <item>
-                    <title>[COLOR white]Sex Education - [COLOR yellow][B]EpisÃ³dio 01[/B][/COLOR]</title>
+                    <title>[COLOR white]Sex Education - [COLOR yellow][B]Episódio 01[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]SXEDCTNT01EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/01sedu/01sedu.jpg</thumbnail>
                     <fanart>https://archive.org/download/sedfan/SEdFAN.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Sex Education - [COLOR yellow][B]EpisÃ³dio 02[/B][/COLOR]</title>
+                    <title>[COLOR white]Sex Education - [COLOR yellow][B]Episódio 02[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]SXEDCTNT01EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/01sedu/01sedu.jpg</thumbnail>
                     <fanart>https://archive.org/download/sedfan/SEdFAN.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Sex Education - [COLOR yellow][B]EpisÃ³dio 03[/B][/COLOR]</title>
+                    <title>[COLOR white]Sex Education - [COLOR yellow][B]Episódio 03[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]SXEDCTNT01EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/01sedu/01sedu.jpg</thumbnail>
                     <fanart>https://archive.org/download/sedfan/SEdFAN.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Sex Education - [COLOR yellow][B]EpisÃ³dio 04[/B][/COLOR]</title>
+                    <title>[COLOR white]Sex Education - [COLOR yellow][B]Episódio 04[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]SXEDCTNT01EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/01sedu/01sedu.jpg</thumbnail>
                     <fanart>https://archive.org/download/sedfan/SEdFAN.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Sex Education - [COLOR yellow][B]EpisÃ³dio 05[/B][/COLOR]</title>
+                    <title>[COLOR white]Sex Education - [COLOR yellow][B]Episódio 05[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]SXEDCTNT01EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/01sedu/01sedu.jpg</thumbnail>
                     <fanart>https://archive.org/download/sedfan/SEdFAN.jpg</fanart>
                 </item>
 				<item>
-                    <title>[COLOR white]Sex Education - [COLOR yellow][B]EpisÃ³dio 06[/B][/COLOR]</title>
+                    <title>[COLOR white]Sex Education - [COLOR yellow][B]Episódio 06[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]SXEDCTNT01EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/01sedu/01sedu.jpg</thumbnail>
                     <fanart>https://archive.org/download/sedfan/SEdFAN.jpg</fanart>
                 </item>
 				<item>
-                    <title>[COLOR white]Sex Education - [COLOR yellow][B]EpisÃ³dio 07[/B][/COLOR]</title>
+                    <title>[COLOR white]Sex Education - [COLOR yellow][B]Episódio 07[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]SXEDCTNT01EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/01sedu/01sedu.jpg</thumbnail>
                     <fanart>https://archive.org/download/sedfan/SEdFAN.jpg</fanart>
                 </item>
 				<item>
-                    <title>[COLOR white]Sex Education - [COLOR yellow][B]EpisÃ³dio 08[/B][/COLOR]</title>
+                    <title>[COLOR white]Sex Education - [COLOR yellow][B]Episódio 08[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]SXEDCTNT01EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/01sedu/01sedu.jpg</thumbnail>
                     <fanart>https://archive.org/download/sedfan/SEdFAN.jpg</fanart>
@@ -72,49 +72,49 @@
                 </item>
 
                 <item>
-                    <title>[COLOR white]Sex Education - [COLOR yellow][B]EpisÃ³dio 01[/B][/COLOR]</title>
+                    <title>[COLOR white]Sex Education - [COLOR yellow][B]Episódio 01[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]SXEDCTNT02EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801406.us.archive.org/6/items/01sedu/02sedu.jpg</thumbnail>
                     <fanart>https://archive.org/download/sedfan/SEdFAN.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Sex Education - [COLOR yellow][B]EpisÃ³dio 02[/B][/COLOR]</title>
+                    <title>[COLOR white]Sex Education - [COLOR yellow][B]Episódio 02[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]SXEDCTNT02EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801406.us.archive.org/6/items/01sedu/02sedu.jpg</thumbnail>
                     <fanart>https://archive.org/download/sedfan/SEdFAN.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Sex Education - [COLOR yellow][B]EpisÃ³dio 03[/B][/COLOR]</title>
+                    <title>[COLOR white]Sex Education - [COLOR yellow][B]Episódio 03[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]SXEDCTNT02EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801406.us.archive.org/6/items/01sedu/02sedu.jpg</thumbnail>
                     <fanart>https://archive.org/download/sedfan/SEdFAN.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Sex Education - [COLOR yellow][B]EpisÃ³dio 04[/B][/COLOR]</title>
+                    <title>[COLOR white]Sex Education - [COLOR yellow][B]Episódio 04[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]SXEDCTNT02EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801406.us.archive.org/6/items/01sedu/02sedu.jpg</thumbnail>
                     <fanart>https://archive.org/download/sedfan/SEdFAN.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Sex Education - [COLOR yellow][B]EpisÃ³dio 05[/B][/COLOR]</title>
+                    <title>[COLOR white]Sex Education - [COLOR yellow][B]Episódio 05[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]SXEDCTNT02EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801406.us.archive.org/6/items/01sedu/02sedu.jpg</thumbnail>
                     <fanart>https://archive.org/download/sedfan/SEdFAN.jpg</fanart>
                 </item>
 				<item>
-                    <title>[COLOR white]Sex Education - [COLOR yellow][B]EpisÃ³dio 06[/B][/COLOR]</title>
+                    <title>[COLOR white]Sex Education - [COLOR yellow][B]Episódio 06[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]SXEDCTNT02EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801406.us.archive.org/6/items/01sedu/02sedu.jpg</thumbnail>
                     <fanart>https://archive.org/download/sedfan/SEdFAN.jpg</fanart>
                 </item>
 				<item>
-                    <title>[COLOR white]Sex Education - [COLOR yellow][B]EpisÃ³dio 07[/B][/COLOR]</title>
+                    <title>[COLOR white]Sex Education - [COLOR yellow][B]Episódio 07[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]SXEDCTNT02EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801406.us.archive.org/6/items/01sedu/02sedu.jpg</thumbnail>
                     <fanart>https://archive.org/download/sedfan/SEdFAN.jpg</fanart>
                 </item>
 				<item>
-                    <title>[COLOR white]Sex Education - [COLOR yellow][B]EpisÃ³dio 08[/B][/COLOR]</title>
+                    <title>[COLOR white]Sex Education - [COLOR yellow][B]Episódio 08[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]SXEDCTNT02EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801406.us.archive.org/6/items/01sedu/02sedu.jpg</thumbnail>
                     <fanart>https://archive.org/download/sedfan/SEdFAN.jpg</fanart>

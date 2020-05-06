@@ -13,70 +13,70 @@
                 
 
                 <item>
-                    <title>[COLOR white]Ozark - Doce Como Mel - [COLOR yellow][B]EpisÃ³dio 01[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - Doce Como Mel - [COLOR yellow][B]Episódio 01[/B][/COLOR]</title>
 					<link>http://webtvcde.com/Series/Ozark.1/Ozark.S01E01.mkv$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO</link>
                     <link>$doregex[repository.KallPlay1]OZRKT01EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO RC</link>
 					<thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak1.jpg</thumbnail>
                     <fanart>https://ia601503.us.archive.org/14/items/ozakfan2/ozakfan1.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - Blue Cat - [COLOR yellow][B]EpisÃ³dio 02[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - Blue Cat - [COLOR yellow][B]Episódio 02[/B][/COLOR]</title>
 					<link>http://webtvcde.com/Series/Ozark.1/Ozark.S01E02.mkv$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO</link>
                     <link>$doregex[repository.KallPlay1]OZRKT01EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO RC</link>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak1.jpg</thumbnail>
                     <fanart>https://ia601503.us.archive.org/14/items/ozakfan2/ozakfan1.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - InsÃ´nia - [COLOR yellow][B]EpisÃ³dio 03[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - InsÃ´nia - [COLOR yellow][B]Episódio 03[/B][/COLOR]</title>
 					<link>http://webtvcde.com/Series/Ozark.1/Ozark.S01E03.mkv$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO</link>
                     <link>$doregex[repository.KallPlay1]OZRKT01EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO RC</link>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak1.jpg</thumbnail>
                     <fanart>https://ia601503.us.archive.org/14/items/ozakfan2/ozakfan1.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - LiÃ§Ã£o De Lavagem - [COLOR yellow][B]EpisÃ³dio 04[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - LiÃ§Ã£o De Lavagem - [COLOR yellow][B]Episódio 04[/B][/COLOR]</title>
 					<link>http://webtvcde.com/Series/Ozark.1/Ozark.S01E04.mkv$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO</link>
                     <link>$doregex[repository.KallPlay1]OZRKT01EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO RC</link>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak1.jpg</thumbnail>
                     <fanart>https://ia601503.us.archive.org/14/items/ozakfan2/ozakfan1.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - Dias Decisivos - [COLOR yellow][B]EpisÃ³dio 05[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - Dias Decisivos - [COLOR yellow][B]Episódio 05[/B][/COLOR]</title>
 					<link>http://webtvcde.com/Series/Ozark.1/Ozark.S01E05.mkv$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO</link>
                     <link>$doregex[repository.KallPlay1]OZRKT01EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO RC</link>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak1.jpg</thumbnail>
                     <fanart>https://ia601503.us.archive.org/14/items/ozakfan2/ozakfan1.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - O Livro De Ruth - [COLOR yellow][B]EpisÃ³dio 06[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - O Livro De Ruth - [COLOR yellow][B]Episódio 06[/B][/COLOR]</title>
 					<link>http://webtvcde.com/Series/Ozark.1/Ozark.S01E06.mkv$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO</link>
                     <link>$doregex[repository.KallPlay1]OZRKT01EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO RC</link>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak1.jpg</thumbnail>
                     <fanart>https://ia601503.us.archive.org/14/items/ozakfan2/ozakfan1.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - Casa De Passarinho - [COLOR yellow][B]EpisÃ³dio 07[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - Casa De Passarinho - [COLOR yellow][B]Episódio 07[/B][/COLOR]</title>
 					<link>http://webtvcde.com/Series/Ozark.1/Ozark.S01E07.mkv$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO</link>
                     <link>$doregex[repository.KallPlay1]OZRKT01EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO RC</link>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak1.jpg</thumbnail>
                     <fanart>https://ia601503.us.archive.org/14/items/ozakfan2/ozakfan1.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - CaleidoscÃ³pio - [COLOR yellow][B]EpisÃ³dio 08[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - CaleidoscÃ³pio - [COLOR yellow][B]Episódio 08[/B][/COLOR]</title>
 					<link>http://webtvcde.com/Series/Ozark.1/Ozark.S01E08.mkv$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO</link>
                     <link>$doregex[repository.KallPlay1]OZRKT01EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO RC</link>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak1.jpg</thumbnail>
                     <fanart>https://ia601503.us.archive.org/14/items/ozakfan2/ozakfan1.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - CafÃ© Amargo - [COLOR yellow][B]EpisÃ³dio 09 [/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - CafÃ© Amargo - [COLOR yellow][B]Episódio 09 [/B][/COLOR]</title>
 					<link>http://webtvcde.com/Series/Ozark.1/Ozark.S01E09.mkv$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO</link>
                     <link>$doregex[repository.KallPlay1]OZRKT01EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO RC</link>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak1.jpg</thumbnail>
                     <fanart>https://ia601503.us.archive.org/14/items/ozakfan2/ozakfan1.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - O PreÃ§o - [COLOR yellow][B]EpisÃ³dio 10[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - O PreÃ§o - [COLOR yellow][B]Episódio 10[/B][/COLOR]</title>
 					<link>http://webtvcde.com/Series/Ozark.1/Ozark.S01E10.mkv$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO</link>
                     <link>$doregex[repository.KallPlay1]OZRKT01EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO RC</link>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak1.jpg</thumbnail>
@@ -91,61 +91,61 @@
                 
 
                 <item>
-                    <title>[COLOR white]Ozark - ReparaÃ§Ãµes - [COLOR yellow][B]EpisÃ³dio 01[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - ReparaÃ§Ãµes - [COLOR yellow][B]Episódio 01[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]OZRKT02EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 					<thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak2.jpg</thumbnail>
                     <fanart>https://archive.org/download/ozakfan2/ozakfan2.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - O Sangue Sagrado De Jesus - [COLOR yellow][B]EpisÃ³dio 02[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - O Sangue Sagrado De Jesus - [COLOR yellow][B]Episódio 02[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]OZRKT02EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak2.jpg</thumbnail>
                     <fanart>https://archive.org/download/ozakfan2/ozakfan2.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - Ã‰ Da Natureza Dos Langmores - [COLOR yellow][B]EpisÃ³dio 03[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - Ã‰ Da Natureza Dos Langmores - [COLOR yellow][B]Episódio 03[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]OZRKT02EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak2.jpg</thumbnail>
                     <fanart>https://archive.org/download/ozakfan2/ozakfan2.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - Por Conta PrÃ³pria - [COLOR yellow][B]EpisÃ³dio 04[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - Por Conta PrÃ³pria - [COLOR yellow][B]Episódio 04[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]OZRKT02EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak2.jpg</thumbnail>
                     <fanart>https://archive.org/download/ozakfan2/ozakfan2.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - Cartas Na Mesa - [COLOR yellow][B]EpisÃ³dio 05[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - Cartas Na Mesa - [COLOR yellow][B]Episódio 05[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]OZRKT02EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak2.jpg</thumbnail>
                     <fanart>https://archive.org/download/ozakfan2/ozakfan2.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - Nas Trevas Exteriores - [COLOR yellow][B]EpisÃ³dio 06[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - Nas Trevas Exteriores - [COLOR yellow][B]Episódio 06[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]OZRKT02EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak2.jpg</thumbnail>
                     <fanart>https://archive.org/download/ozakfan2/ozakfan2.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - Uma Ãšnica SaÃ­da - [COLOR yellow][B]EpisÃ³dio 07[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - Uma Ãšnica SaÃ­da - [COLOR yellow][B]Episódio 07[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]OZRKT02EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak2.jpg</thumbnail>
                     <fanart>https://archive.org/download/ozakfan2/ozakfan2.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - A Arte De Matar - [COLOR yellow][B]EpisÃ³dio 08[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - A Arte De Matar - [COLOR yellow][B]Episódio 08[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]OZRKT02EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak2.jpg</thumbnail>
                     <fanart>https://archive.org/download/ozakfan2/ozakfan2.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - O Texugo - [COLOR yellow][B]EpisÃ³dio 09 [/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - O Texugo - [COLOR yellow][B]Episódio 09 [/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]OZRKT02EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak2.jpg</thumbnail>
                     <fanart>https://archive.org/download/ozakfan2/ozakfan2.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - Gold Coast - [COLOR yellow][B]EpisÃ³dio 10[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - Gold Coast - [COLOR yellow][B]Episódio 10[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]OZRKT02EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak2.jpg</thumbnail>
                     <fanart>https://archive.org/download/ozakfan2/ozakfan2.jpg</fanart>
@@ -160,61 +160,61 @@
                 
 
                 <item>
-                    <title>[COLOR white]Ozark - Guerra - [COLOR yellow][B]EpisÃ³dio 01[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - Guerra - [COLOR yellow][B]Episódio 01[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]OZRKT03EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 					<thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak3.jpg</thumbnail>
                     <fanart>https://ia601503.us.archive.org/14/items/ozakfan2/ozakfan3.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - UniÃ£o Civil - [COLOR yellow][B]EpisÃ³dio 02[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - UniÃ£o Civil - [COLOR yellow][B]Episódio 02[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]OZRKT03EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak3.jpg</thumbnail>
                     <fanart>https://ia601503.us.archive.org/14/items/ozakfan2/ozakfan3.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - Kevin Cronin Esteve Aqui - [COLOR yellow][B]EpisÃ³dio 03[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - Kevin Cronin Esteve Aqui - [COLOR yellow][B]Episódio 03[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]OZRKT03EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak3.jpg</thumbnail>
                     <fanart>https://ia601503.us.archive.org/14/items/ozakfan2/ozakfan3.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - Briga De Chefes - [COLOR yellow][B]EpisÃ³dio 04[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - Briga De Chefes - [COLOR yellow][B]Episódio 04[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]OZRKT03EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak3.jpg</thumbnail>
                     <fanart>https://ia601503.us.archive.org/14/items/ozakfan2/ozakfan3.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - Veio De MichoacÃ¡n - [COLOR yellow][B]EpisÃ³dio 05[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - Veio De MichoacÃ¡n - [COLOR yellow][B]Episódio 05[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]OZRKT03EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak3.jpg</thumbnail>
                     <fanart>https://ia601503.us.archive.org/14/items/ozakfan2/ozakfan3.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - Seu TerritÃ³rio Ã‰ Meu - [COLOR yellow][B]EpisÃ³dio 06[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - Seu TerritÃ³rio Ã‰ Meu - [COLOR yellow][B]Episódio 06[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]OZRKT03EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak3.jpg</thumbnail>
                     <fanart>https://ia601503.us.archive.org/14/items/ozakfan2/ozakfan3.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - Em Caso De EmergÃªncia... - [COLOR yellow][B]EpisÃ³dio 07[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - Em Caso De EmergÃªncia... - [COLOR yellow][B]Episódio 07[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]OZRKT03EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak3.jpg</thumbnail>
                     <fanart>https://ia601503.us.archive.org/14/items/ozakfan2/ozakfan3.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - FundaÃ§Ã£o Da FamÃ­lia Byrde - [COLOR yellow][B]EpisÃ³dio 08[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - FundaÃ§Ã£o Da FamÃ­lia Byrde - [COLOR yellow][B]Episódio 08[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]OZRKT03EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak3.jpg</thumbnail>
                     <fanart>https://ia601503.us.archive.org/14/items/ozakfan2/ozakfan3.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - Nostalgia - [COLOR yellow][B]EpisÃ³dio 09 [/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - Nostalgia - [COLOR yellow][B]Episódio 09 [/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]OZRKT03EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak3.jpg</thumbnail>
                     <fanart>https://ia601503.us.archive.org/14/items/ozakfan2/ozakfan3.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Ozark - Alto Risco - [COLOR yellow][B]EpisÃ³dio 10[/B][/COLOR]</title>
+                    <title>[COLOR white]Ozark - Alto Risco - [COLOR yellow][B]Episódio 10[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]OZRKT03EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia601503.us.archive.org/14/items/ozakfan2/ozak3.jpg</thumbnail>
                     <fanart>https://ia601503.us.archive.org/14/items/ozakfan2/ozakfan3.jpg</fanart>

@@ -16,73 +16,73 @@
                 
 
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 01[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 01[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST01EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 					<thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/01suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 02[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 02[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST01EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/01suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 03[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 03[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST01EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/01suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 04[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 04[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST01EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/01suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 05[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 05[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST01EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/01suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 06[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 06[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST01EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/01suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 07[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 07[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST01EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/01suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 08[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 08[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST01EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/01suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 09 [/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 09 [/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST01EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/01suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 10[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 10[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST01EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/01suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>               
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 11[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 11[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST01EP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/01suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 12[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 12[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST01EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/01suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
@@ -99,98 +99,98 @@
                 
 
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 01[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 01[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST02EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 					<thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/02suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 02[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 02[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST02EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/02suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 03[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 03[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST02EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/02suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 04[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 04[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST02EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/02suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits -- [COLOR yellow][B]EpisÃ³dio 05[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits -- [COLOR yellow][B]Episódio 05[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST02EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/02suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 06[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 06[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST02EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/02suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 07[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 07[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST02EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/02suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 08[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 08[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST02EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/02suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 09 [/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 09 [/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST02EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/02suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 10[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 10[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST02EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/02suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>               
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 11[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 11[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST02EP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/02suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 12[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 12[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST02EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/02suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 13[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 13[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST02EP13.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/02suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 14[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 14[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST02EP14.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/02suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 15[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 15[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST02EP15.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/02suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 16[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 16[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST02EP16.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/02suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
@@ -206,98 +206,98 @@
                 
 
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 01[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 01[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST03EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 					<thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/03suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 02[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 02[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST03EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/03suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 03[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 03[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST03EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/03suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 04[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 04[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST03EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/03suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 05[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 05[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST03EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/03suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 06[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 06[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST03EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/03suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 07[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 07[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST03EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/03suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 08[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 08[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST03EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/03suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 09 [/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 09 [/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST03EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/03suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 10[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 10[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST03EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/03suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>               
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 11[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 11[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST03EP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/03suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 12[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 12[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST03EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/03suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 13[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 13[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST03EP13.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/03suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 14[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 14[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST03EP14.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/03suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 15[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 15[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST03EP15.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/03suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 16[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 16[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST03EP16.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/03suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
@@ -313,101 +313,101 @@
                 
 
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 01[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 01[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST04EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 					<thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/04suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 02[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 02[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST04EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/04suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 03[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 03[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST04EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/04suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 04[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 04[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST04EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/04suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 05[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 05[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST04EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/04suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 06[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 06[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST04EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/04suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 07[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 07[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST04EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/04suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 08[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 08[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST04EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/04suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 09 [/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 09 [/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST04EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/04suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 10[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 10[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST04EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/04suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>               
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 11[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 11[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST04EP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/04suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 12[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 12[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST04EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/04suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 13[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 13[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST04EP13.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/04suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 14[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 14[/B][/COLOR]</title>
 					<link>$doregex[repository.KallPlay1]SUTST04EP14.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/04suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 15[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 15[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST04EP15.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/04suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 16[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 16[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST04EP16.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/04suits.jpg</thumbnail>
@@ -425,7 +425,7 @@
                 
 
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 01[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 01[/B][/COLOR]</title>
 
 
 					<link>$doregex[repository.KallPlay1]SUTST05EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
@@ -433,105 +433,105 @@
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 02[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 02[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST05EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/05suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 03[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 03[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST05EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/05suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 04[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 04[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST05EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/05suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 05[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 05[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST05EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/05suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 06[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 06[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST05EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/05suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 07[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 07[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST05EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/05suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 08[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 08[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST05EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/05suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 09 [/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 09 [/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST05EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/05suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 10[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 10[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST05EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/05suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>               
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 11[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 11[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST05EP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/05suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 12[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 12[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST05EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/05suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 13[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 13[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST05EP13.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/05suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 14[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 14[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST05EP14.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/05suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 15[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 15[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST05EP15.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/05suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 16[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 16[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST05EP16.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/05suits.jpg</thumbnail>
@@ -549,7 +549,7 @@
                 
 
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 01[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 01[/B][/COLOR]</title>
 
 
 					<link>$doregex[repository.KallPlay1]SUTST06EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
@@ -557,105 +557,105 @@
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 02[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 02[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST06EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/06suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 03[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 03[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST06EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/06suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 04[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 04[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST06EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/06suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 05[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 05[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST06EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/06suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 06[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 06[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST06EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/06suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 07[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 07[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST06EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/06suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 08[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 08[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST06EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/06suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 09 [/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 09 [/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST06EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/06suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 10[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 10[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST06EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/06suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>               
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 11[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 11[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST06EP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/06suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 12[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 12[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST06EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/06suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 13[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 13[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST06EP13.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/06suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 14[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 14[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST06EP14.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/06suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 15[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 15[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST06EP15.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/06suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 16[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 16[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST06EP16.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/06suits.jpg</thumbnail>
@@ -673,7 +673,7 @@
                 
 
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 01[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 01[/B][/COLOR]</title>
 
 
 					<link>$doregex[repository.KallPlay1]SUTST07EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
@@ -681,105 +681,105 @@
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 02[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 02[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST07EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/07suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 03[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 03[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST07EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/07suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 04[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 04[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST07EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/07suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 05[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 05[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST07EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/07suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 06[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 06[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST07EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/07suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 07[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 07[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST07EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/07suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 08[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 08[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST07EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/07suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 09 [/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 09 [/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST07EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/07suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 10[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 10[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST07EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/07suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>               
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 11[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 11[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST07EP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/07suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 12[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 12[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST07EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/07suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 13[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 13[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST07EP13.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/07suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 14[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 14[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST07EP14.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/07suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 15[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 15[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST07EP15.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/07suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 16[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 16[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST07EP16.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/07suits.jpg</thumbnail>
@@ -797,7 +797,7 @@
                 
 
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 01[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 01[/B][/COLOR]</title>
 
 
 					<link>$doregex[repository.KallPlay1]SUTST08EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
@@ -805,105 +805,105 @@
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 02[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 02[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST08EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/08suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 03[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 03[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST08EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/08suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 04[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 04[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST08EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/08suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 05[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 05[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST08EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/08suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 06[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 06[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST08EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/08suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 07[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 07[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST08EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/08suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 08[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 08[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST08EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/08suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 09 [/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 09 [/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST08EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/08suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 10[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 10[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST08EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/08suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>               
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 11[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 11[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST08EP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/08suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 12[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 12[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST08EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/08suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 13[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 13[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST08EP13.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/08suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 14[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 14[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST08EP14.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/08suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 15[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 15[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST08EP15.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/08suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 16[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 16[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST08EP16.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/08suits.jpg</thumbnail>
@@ -921,7 +921,7 @@
                 
 
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 01[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 01[/B][/COLOR]</title>
 
 
 					<link>$doregex[repository.KallPlay1]SUTST09EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
@@ -929,63 +929,63 @@
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 02[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 02[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST09EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/09suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 03[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 03[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST09EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/09suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 04[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 04[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST09EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/09suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 05[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 05[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST09EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/09suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 06[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 06[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST09EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/09suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 07[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 07[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST09EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/09suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 08[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 08[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST09EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/09suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 09 [/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 09 [/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST09EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/09suits.jpg</thumbnail>
                     <fanart>https://archive.org/download/osuitfan/osuitfan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Suits - [COLOR yellow][B]EpisÃ³dio 10[/B][/COLOR]</title>
+                    <title>[COLOR white]Suits - [COLOR yellow][B]Episódio 10[/B][/COLOR]</title>
 
 					<link>$doregex[repository.KallPlay1]SUTST09EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801505.us.archive.org/16/items/osuitfan/09suits.jpg</thumbnail>

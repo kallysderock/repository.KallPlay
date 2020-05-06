@@ -13,49 +13,49 @@
                 
 
                 <item>
-                    <title>[COLOR white]Killing Eve - Rostinho Bonito - [COLOR yellow][B]EpisÃ³dio 01[/B][/COLOR]</title>
+                    <title>[COLOR white]Killing Eve - Rostinho Bonito - [COLOR yellow][B]Episódio 01[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]KLNGEVET01EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 					<thumbnail>https://ia801403.us.archive.org/20/items/kili3fan/kili1.jpg</thumbnail>
                     <fanart>https://ia601504.us.archive.org/21/items/kilifan1_202004/KILIFAN1.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Killing Eve - Lido Com Ele Depois - [COLOR yellow][B]EpisÃ³dio 02[/B][/COLOR]</title>
+                    <title>[COLOR white]Killing Eve - Lido Com Ele Depois - [COLOR yellow][B]Episódio 02[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]KLNGEVET01EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801403.us.archive.org/20/items/kili3fan/kili1.jpg</thumbnail>
                     <fanart>https://ia601504.us.archive.org/21/items/kilifan1_202004/KILIFAN1.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Killing Eve - Eu Te ConheÃ§o? - [COLOR yellow][B]EpisÃ³dio 03[/B][/COLOR]</title>
+                    <title>[COLOR white]Killing Eve - Eu Te ConheÃ§o? - [COLOR yellow][B]Episódio 03[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]KLNGEVET01EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801403.us.archive.org/20/items/kili3fan/kili1.jpg</thumbnail>
                     <fanart>https://ia601504.us.archive.org/21/items/kilifan1_202004/KILIFAN1.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Killing Eve - Desculpe Baby - [COLOR yellow][B]EpisÃ³dio 04[/B][/COLOR]</title>
+                    <title>[COLOR white]Killing Eve - Desculpe Baby - [COLOR yellow][B]Episódio 04[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]KLNGEVET01EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801403.us.archive.org/20/items/kili3fan/kili1.jpg</thumbnail>
                     <fanart>https://ia601504.us.archive.org/21/items/kilifan1_202004/KILIFAN1.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Killing Eve - Eu Tenho Uma Coisa Com Banheiros - [COLOR yellow][B]EpisÃ³dio 05[/B][/COLOR]</title>
+                    <title>[COLOR white]Killing Eve - Eu Tenho Uma Coisa Com Banheiros - [COLOR yellow][B]Episódio 05[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]KLNGEVET01EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801403.us.archive.org/20/items/kili3fan/kili1.jpg</thumbnail>
                     <fanart>https://ia601504.us.archive.org/21/items/kilifan1_202004/KILIFAN1.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Killing Eve - Leve-me Ao Buraco! - [COLOR yellow][B]EpisÃ³dio 06[/B][/COLOR]</title>
+                    <title>[COLOR white]Killing Eve - Leve-me Ao Buraco! - [COLOR yellow][B]Episódio 06[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]KLNGEVET01EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801403.us.archive.org/20/items/kili3fan/kili1.jpg</thumbnail>
                     <fanart>https://ia601504.us.archive.org/21/items/kilifan1_202004/KILIFAN1.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Killing Eve - Eu NÃ£o Quero Ser Livre - [COLOR yellow][B]EpisÃ³dio 07[/B][/COLOR]</title>
+                    <title>[COLOR white]Killing Eve - Eu NÃ£o Quero Ser Livre - [COLOR yellow][B]Episódio 07[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]KLNGEVET01EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801403.us.archive.org/20/items/kili3fan/kili1.jpg</thumbnail>
                     <fanart>https://ia601504.us.archive.org/21/items/kilifan1_202004/KILIFAN1.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Killing Eve - Deus, Eu Estou Cansada... - [COLOR yellow][B]EpisÃ³dio 08[/B][/COLOR]</title>
+                    <title>[COLOR white]Killing Eve - Deus, Eu Estou Cansada... - [COLOR yellow][B]Episódio 08[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]KLNGEVET01EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801403.us.archive.org/20/items/kili3fan/kili1.jpg</thumbnail>
                     <fanart>https://ia601504.us.archive.org/21/items/kilifan1_202004/KILIFAN1.jpg</fanart>
@@ -72,49 +72,49 @@
                 
 
                 <item>
-                    <title>[COLOR white]Killing Eve - VocÃª Sabe Desovar Um Corpo? - [COLOR yellow][B]EpisÃ³dio 01[/B][/COLOR]</title>
+                    <title>[COLOR white]Killing Eve - VocÃª Sabe Desovar Um Corpo? - [COLOR yellow][B]Episódio 01[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]KLNGEVET02EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 					<thumbnail>https://ia801403.us.archive.org/20/items/kili3fan/kili2.jpg</thumbnail>
                     <fanart>https://ia801403.us.archive.org/20/items/kili3fan/kilifan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Killing Eve - Bem Arrumadinho - [COLOR yellow][B]EpisÃ³dio 02[/B][/COLOR]</title>
+                    <title>[COLOR white]Killing Eve - Bem Arrumadinho - [COLOR yellow][B]Episódio 02[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]KLNGEVET02EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801403.us.archive.org/20/items/kili3fan/kili2.jpg</thumbnail>
                     <fanart>https://ia801403.us.archive.org/20/items/kili3fan/kilifan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Killing Eve - Uma Lagarta Muito Comilona - [COLOR yellow][B]EpisÃ³dio 03[/B][/COLOR]</title>
+                    <title>[COLOR white]Killing Eve - Uma Lagarta Muito Comilona - [COLOR yellow][B]Episódio 03[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]KLNGEVET02EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801403.us.archive.org/20/items/kili3fan/kili2.jpg</thumbnail>
                     <fanart>https://ia801403.us.archive.org/20/items/kili3fan/kilifan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Killing Eve - Momentos De Desespero - [COLOR yellow][B]EpisÃ³dio 04[/B][/COLOR]</title>
+                    <title>[COLOR white]Killing Eve - Momentos De Desespero - [COLOR yellow][B]Episódio 04[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]KLNGEVET02EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801403.us.archive.org/20/items/kili3fan/kili2.jpg</thumbnail>
                     <fanart>https://ia801403.us.archive.org/20/items/kili3fan/kilifan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Killing Eve - A Gente Se VÃª... - [COLOR yellow][B]EpisÃ³dio 05[/B][/COLOR]</title>
+                    <title>[COLOR white]Killing Eve - A Gente Se VÃª... - [COLOR yellow][B]Episódio 05[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]KLNGEVET02EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801403.us.archive.org/20/items/kili3fan/kili2.jpg</thumbnail>
                     <fanart>https://ia801403.us.archive.org/20/items/kili3fan/kilifan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Killing Eve - Espero Que Goste De Papai E MamÃ£e! - [COLOR yellow][B]EpisÃ³dio 06[/B][/COLOR]</title>
+                    <title>[COLOR white]Killing Eve - Espero Que Goste De Papai E MamÃ£e! - [COLOR yellow][B]Episódio 06[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]KLNGEVET02EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801403.us.archive.org/20/items/kili3fan/kili2.jpg</thumbnail>
                     <fanart>https://ia801403.us.archive.org/20/items/kili3fan/kilifan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Killing Eve - Muito Viva - [COLOR yellow][B]EpisÃ³dio 07[/B][/COLOR]</title>
+                    <title>[COLOR white]Killing Eve - Muito Viva - [COLOR yellow][B]Episódio 07[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]KLNGEVET02EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801403.us.archive.org/20/items/kili3fan/kili2.jpg</thumbnail>
                     <fanart>https://ia801403.us.archive.org/20/items/kili3fan/kilifan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Killing Eve - VocÃª Ã‰ Minha - [COLOR yellow][B]EpisÃ³dio 08[/B][/COLOR]</title>
+                    <title>[COLOR white]Killing Eve - VocÃª Ã‰ Minha - [COLOR yellow][B]Episódio 08[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]KLNGEVET02EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801403.us.archive.org/20/items/kili3fan/kili2.jpg</thumbnail>
                     <fanart>https://ia801403.us.archive.org/20/items/kili3fan/kilifan.jpg</fanart>
@@ -130,13 +130,13 @@
                 
 
                 <item>
-                    <title>EM BREVE... [COLOR white]Killing Eve - Lentamente, Lentamente, Macaco Cativante - [COLOR yellow][B]EpisÃ³dio 01[/B][/COLOR]</title>
+                    <title>EM BREVE... [COLOR white]Killing Eve - Lentamente, Lentamente, Macaco Cativante - [COLOR yellow][B]Episódio 01[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]KLNGEVET02EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
 					<thumbnail>https://ia801403.us.archive.org/20/items/kili3fan/kili3.jpg</thumbnail>
                     <fanart>https://archive.org/download/kili3fan/kili3fan.jpg</fanart>
                 </item>
                 <item>
-                    <title>EM BREVE... [COLOR white]Killing Eve - [COLOR yellow][B]EpisÃ³dio 02[/B][/COLOR]</title>
+                    <title>EM BREVE... [COLOR white]Killing Eve - [COLOR yellow][B]Episódio 02[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]KLNGEVET02EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801403.us.archive.org/20/items/kili3fan/kili3.jpg</thumbnail>
                     <fanart>https://archive.org/download/kili3fan/kili3fan.jpg</fanart>

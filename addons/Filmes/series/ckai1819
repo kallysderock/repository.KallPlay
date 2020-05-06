@@ -14,70 +14,70 @@
                 
 
                 <item>
-                    <title>[COLOR white]Cobra Kai - Ace Degenerado - [COLOR yellow][B]EpisÃ³dio 01[/B][/COLOR] - [COLOR red][B](FULLHD)[/B][/COLOR]</title>
+                    <title>[COLOR white]Cobra Kai - Ace Degenerado - [COLOR yellow][B]Episódio 01[/B][/COLOR] - [COLOR red][B](FULLHD)[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]CBRKAS01EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red]FULLHD[/COLOR]</link>
 					<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1-g4N1KU2FRo73T8EEqbAoDkA9xouFWRB$$lsname=Cobra Kai - Ace Degenerado - [COLOR yellow][B]Episodio 01[/B][/COLOR] - [COLOR red][B](HD720)[/B][/COLOR]</link>
 					<thumbnail>https://ia601509.us.archive.org/1/items/1crobrafan/1t.jpg</thumbnail>
                     <fanart>https://archive.org/download/1crobrafan/1crobrafan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Cobra Kai - Primeiro Ataque - [COLOR yellow][B]EpisÃ³dio 02[/B][/COLOR] - [COLOR red][B](FULLHD)[/B][/COLOR]</title>
+                    <title>[COLOR white]Cobra Kai - Primeiro Ataque - [COLOR yellow][B]Episódio 02[/B][/COLOR] - [COLOR red][B](FULLHD)[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]CBRKAS01EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red]FULLHD[/COLOR]</link>
                     <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cKtxcQEsmO9BLaRxJeh0LlNOz-yU5NyG$$lsname=Cobra Kai - Primeiro Ataque - [COLOR yellow][B]Episodio 02[/B][/COLOR] - [COLOR red][B](HD720)[/B][/COLOR]</link>
 					<thumbnail>https://ia601509.us.archive.org/1/items/1crobrafan/1t.jpg</thumbnail>
                     <fanart>https://archive.org/download/1crobrafan/1crobrafan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Cobra Kai - Esqueleto - [COLOR yellow][B]EpisÃ³dio 03[/B][/COLOR] - [COLOR red][B](FULLHD)[/B][/COLOR]</title>
+                    <title>[COLOR white]Cobra Kai - Esqueleto - [COLOR yellow][B]Episódio 03[/B][/COLOR] - [COLOR red][B](FULLHD)[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]CBRKAS01EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red]FULLHD[/COLOR]</link>
                     <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1b25vEwunTaXNk3ikQy5V38txKb6RZzge$$lsname=Cobra Kai - Esqueleto - [COLOR yellow][B]Episodio 03[/B][/COLOR] - [COLOR red][B](HD720)[/B][/COLOR]</link>
 					<thumbnail>https://ia601509.us.archive.org/1/items/1crobrafan/1t.jpg</thumbnail>
                     <fanart>https://archive.org/download/1crobrafan/1crobrafan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Cobra Kai - Cobra Kai Nunca Morre - [COLOR yellow][B]EpisÃ³dio 04[/B][/COLOR] - [COLOR red][B](FULLHD)[/B][/COLOR]</title>
+                    <title>[COLOR white]Cobra Kai - Cobra Kai Nunca Morre - [COLOR yellow][B]Episódio 04[/B][/COLOR] - [COLOR red][B](FULLHD)[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]CBRKAS01EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red]FULLHD[/COLOR]</link>
                     <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1p6bF1chOdlZgvJaGLLlloeBZMU6ZvWns$$lsname=Cobra Kai - Cobra Kai Nunca Morre - [COLOR yellow][B]Episodio 04[/B][/COLOR] - [COLOR red][B](HD720)[/B][/COLOR]</link>
 					<thumbnail>https://ia601509.us.archive.org/1/items/1crobrafan/1t.jpg</thumbnail>
                     <fanart>https://archive.org/download/1crobrafan/1crobrafan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Cobra Kai - ContrabalanÃ§ar - [COLOR yellow][B]EpisÃ³dio 05[/B][/COLOR] - [COLOR red][B](FULLHD)[/B][/COLOR]</title>
+                    <title>[COLOR white]Cobra Kai - ContrabalanÃ§ar - [COLOR yellow][B]Episódio 05[/B][/COLOR] - [COLOR red][B](FULLHD)[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]CBRKAS01EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red]FULLHD[/COLOR]</link>
                     <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11-Y3x0oV32g1hOgMiU7RoZip42Gvnxyw$$lsname=Cobra Kai - Contrabalancar - [COLOR yellow][B]Episodio 05[/B][/COLOR] - [COLOR red][B](HD720)[/B][/COLOR]</link>
 					<thumbnail>https://ia601509.us.archive.org/1/items/1crobrafan/1t.jpg</thumbnail>
                     <fanart>https://archive.org/download/1crobrafan/1crobrafan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Cobra Kai - Tremor - [COLOR yellow][B]EpisÃ³dio 06[/B][/COLOR] - [COLOR red][B](FULLHD)[/B][/COLOR]</title>
+                    <title>[COLOR white]Cobra Kai - Tremor - [COLOR yellow][B]Episódio 06[/B][/COLOR] - [COLOR red][B](FULLHD)[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]CBRKAS01EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red]FULLHD[/COLOR]</link>
                     <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CBSXfIWfYUxDS2C7rx36UUp2hItmHxWP$$lsname=Cobra Kai - Tremor - [COLOR yellow][B]Episodio 06[/B][/COLOR] - [COLOR red][B](HD720)[/B][/COLOR]</link>
 					<thumbnail>https://ia601509.us.archive.org/1/items/1crobrafan/1t.jpg</thumbnail>
                     <fanart>https://archive.org/download/1crobrafan/1crobrafan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Cobra Kai - Todo o Vale - [COLOR yellow][B]EpisÃ³dio 07[/B][/COLOR] - [COLOR red][B](FULLHD)[/B][/COLOR]</title>
+                    <title>[COLOR white]Cobra Kai - Todo o Vale - [COLOR yellow][B]Episódio 07[/B][/COLOR] - [COLOR red][B](FULLHD)[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]CBRKAS01EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red]FULLHD[/COLOR]</link>
                     <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15wwYdQo1Vseijnm53FoJHYb_Jesqmu_g$$lsname=Cobra Kai - Todo o Vale - [COLOR yellow][B]Episodio 07[/B][/COLOR] - [COLOR red][B](HD720)[/B][/COLOR]</link>
 					<thumbnail>https://ia601509.us.archive.org/1/items/1crobrafan/1t.jpg</thumbnail>
                     <fanart>https://archive.org/download/1crobrafan/1crobrafan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Cobra Kai - Muda - [COLOR yellow][B]EpisÃ³dio 08[/B][/COLOR] - [COLOR red][B](FULLHD)[/B][/COLOR]</title>
+                    <title>[COLOR white]Cobra Kai - Muda - [COLOR yellow][B]Episódio 08[/B][/COLOR] - [COLOR red][B](FULLHD)[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]CBRKAS01EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red]FULLHD[/COLOR]</link>
                     <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1llMaoLu7tE5khOeTnigtxPwnp-3UWH47$$lsname=Cobra Kai - Muda - [COLOR yellow][B]Episodio 08[/B][/COLOR] - [COLOR red][B](HD720)[/B][/COLOR]</link>
 					<thumbnail>https://ia601509.us.archive.org/1/items/1crobrafan/1t.jpg</thumbnail>
                     <fanart>https://archive.org/download/1crobrafan/1crobrafan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Cobra Kai - Diferente, Mas O Mesmo - [COLOR yellow][B]EpisÃ³dio 09 [/B][/COLOR] - [COLOR red][B](FULLHD)[/B][/COLOR]</title>
+                    <title>[COLOR white]Cobra Kai - Diferente, Mas O Mesmo - [COLOR yellow][B]Episódio 09 [/B][/COLOR] - [COLOR red][B](FULLHD)[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]CBRKAS01EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red]FULLHD[/COLOR]</link>
                     <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KTHPKiuiUcszj7GtBdk4MFnLu1piKush$$lsname=Cobra Kai - Diferente, Mas O Mesmo - [COLOR yellow][B]Episodio 09 [/B][/COLOR] - [COLOR red][B](HD720)[/B][/COLOR]</link>
 					<thumbnail>https://ia601509.us.archive.org/1/items/1crobrafan/1t.jpg</thumbnail>
                     <fanart>https://archive.org/download/1crobrafan/1crobrafan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Cobra Kai - MisericÃ³rdia - [COLOR yellow][B]EpisÃ³dio 10[/B][/COLOR] - [COLOR red][B](FULLHD)[/B][/COLOR]</title>
+                    <title>[COLOR white]Cobra Kai - MisericÃ³rdia - [COLOR yellow][B]Episódio 10[/B][/COLOR] - [COLOR red][B](FULLHD)[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]CBRKAS01EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red]FULLHD[/COLOR]</link>
                     <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1G6N_WdYN5mCw_L52_0n-ZeUWjFNRRWwZ$$lsname=Cobra Kai - Misericordia - [COLOR yellow][B]Episodio 10[/B][/COLOR] - [COLOR red][B](HD720)[/B][/COLOR]</link>
 					<thumbnail>https://ia601509.us.archive.org/1/items/1crobrafan/1t.jpg</thumbnail>
@@ -95,70 +95,70 @@
                 
 
                 <item>
-                    <title>[COLOR white]Cobra Kai - MisericÃ³rdia Parte II - [COLOR yellow][B]EpisÃ³dio 01[/B][/COLOR]</title>
+                    <title>[COLOR white]Cobra Kai - MisericÃ³rdia Parte II - [COLOR yellow][B]Episódio 01[/B][/COLOR]</title>
 					<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12LOuNiPqfklKLlb5Mi4S_3po2DI3ZLjO$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL 1</link>
                     <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DSz-ABF2KW5zBBpCzV5vAUCv-SzD9jgX$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL 2</link>
 					<thumbnail>https://ia601509.us.archive.org/1/items/1crobrafan/2t.jpg</thumbnail>
                     <fanart>https://archive.org/download/1crobrafan/1crobrafan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Cobra Kai - De Volta- [COLOR yellow][B]EpisÃ³dio 02[/B][/COLOR]</title>
+                    <title>[COLOR white]Cobra Kai - De Volta- [COLOR yellow][B]Episódio 02[/B][/COLOR]</title>
 					<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HJmck-WAv7dWIue1eotrggfM9rPOKuZT$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL 1</link>
                     <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/177qqch4zzcf65JmL8xDEaRF_yyWFLN1v$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL 2</link>
                     <thumbnail>https://ia601509.us.archive.org/1/items/1crobrafan/2t.jpg</thumbnail>
                     <fanart>https://archive.org/download/1crobrafan/1crobrafan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Cobra Kai - Fogo e Gelo - [COLOR yellow][B]EpisÃ³dio 03[/B][/COLOR]</title>
+                    <title>[COLOR white]Cobra Kai - Fogo e Gelo - [COLOR yellow][B]Episódio 03[/B][/COLOR]</title>
 					<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1f045HcG9Hb6wbZ8p97pP3BgaTdE70mgc$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL 1</link>
                     <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kTRiqDNSyY2nx1Yr8xpY_WgSIGlpnIGx$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL 2</link>
                     <thumbnail>https://ia601509.us.archive.org/1/items/1crobrafan/2t.jpg</thumbnail>
                     <fanart>https://archive.org/download/1crobrafan/1crobrafan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Cobra Kai - O Momento da Verdade - [COLOR yellow][B]EpisÃ³dio 04[/B][/COLOR]</title>
+                    <title>[COLOR white]Cobra Kai - O Momento da Verdade - [COLOR yellow][B]Episódio 04[/B][/COLOR]</title>
 					<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1e8l3V-qAWtEnlskj2kKm3DjEtRPwkc_D$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL 1</link>
                     <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rFmPlSF0bitzvaITQdzV31lySKg-yJhx$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL 2</link>
                     <thumbnail>https://ia601509.us.archive.org/1/items/1crobrafan/2t.jpg</thumbnail>
                     <fanart>https://archive.org/download/1crobrafan/1crobrafan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Cobra Kai - Apostando Tudo - [COLOR yellow][B]EpisÃ³dio 05[/B][/COLOR]</title>
+                    <title>[COLOR white]Cobra Kai - Apostando Tudo - [COLOR yellow][B]Episódio 05[/B][/COLOR]</title>
 					<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gyR_R_aWUlSYd4BMiCZryhJMGkqL5BQP$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL 1</link>
                     <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mF09FiuOLHoGhGQN5OWQpSNpVfOGDRB7$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL 2</link>
                     <thumbnail>https://ia601509.us.archive.org/1/items/1crobrafan/2t.jpg</thumbnail>
                     <fanart>https://archive.org/download/1crobrafan/1crobrafan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Cobra Kai - Pegue a Direita - [COLOR yellow][B]EpisÃ³dio 06[/B][/COLOR]</title>
+                    <title>[COLOR white]Cobra Kai - Pegue a Direita - [COLOR yellow][B]Episódio 06[/B][/COLOR]</title>
 					<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JM88KQDaIHT9LfF6bIMclBbvLdp1TVlP$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL 1</link>
                     <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12idWyAaRFcp1aAMHhX7dpLh-5kK3ai31$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL 2</link>
                     <thumbnail>https://ia601509.us.archive.org/1/items/1crobrafan/2t.jpg</thumbnail>
                     <fanart>https://archive.org/download/1crobrafan/1crobrafan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Cobra Kai - CanÃ§Ã£o de Ninar - [COLOR yellow][B]EpisÃ³dio 07[/B][/COLOR]</title>
+                    <title>[COLOR white]Cobra Kai - CanÃ§Ã£o de Ninar - [COLOR yellow][B]Episódio 07[/B][/COLOR]</title>
 					<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hjLtI7c8vAKYBpeoKfBYkwCEZ4HtHlAy$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL 1</link>
                     <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eq9rO5_f6agPvi_Kl5y0WnaLpNg9wpiy$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL 2</link>
                     <thumbnail>https://ia601509.us.archive.org/1/items/1crobrafan/2t.jpg</thumbnail>
                     <fanart>https://archive.org/download/1crobrafan/1crobrafan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Cobra Kai - A GlÃ³ria do Amor - [COLOR yellow][B]EpisÃ³dio 08[/B][/COLOR]</title>
+                    <title>[COLOR white]Cobra Kai - A GlÃ³ria do Amor - [COLOR yellow][B]Episódio 08[/B][/COLOR]</title>
 					<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_EyKYpryjtAr72D200N8VHaUFCJPig_A$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL 1</link>
                     <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/143vwd5lD-shqSg4mMvKu9W57vLgJ2TdN$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL 2</link>
                     <thumbnail>https://ia601509.us.archive.org/1/items/1crobrafan/2t.jpg</thumbnail>
                     <fanart>https://archive.org/download/1crobrafan/1crobrafan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Cobra Kai - Pulpo - [COLOR yellow][B]EpisÃ³dio 09 [/B][/COLOR]</title>
+                    <title>[COLOR white]Cobra Kai - Pulpo - [COLOR yellow][B]Episódio 09 [/B][/COLOR]</title>
 					<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YJAyp5gyjNmovB4QdxJ7_gK57MsR4cgA$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL 1</link>
                     <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/161agwTaKyrC2XYGgGxWVUmaLWUpRcWRe$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL 2</link>
                     <thumbnail>https://ia601509.us.archive.org/1/items/1crobrafan/2t.jpg</thumbnail>
                     <fanart>https://archive.org/download/1crobrafan/1crobrafan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Cobra Kai - Sem MisericÃ³rdia - [COLOR yellow][B]EpisÃ³dio 10[/B][/COLOR]</title>
+                    <title>[COLOR white]Cobra Kai - Sem MisericÃ³rdia - [COLOR yellow][B]Episódio 10[/B][/COLOR]</title>
 					<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AiuE49SvrD2taGVcgkNYh09KV415KrA5$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL 1</link>
                     <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-WRP6YCEigYhu17WV0I6H0w0XeML-sBH$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL 2</link>
                     <thumbnail>https://ia601509.us.archive.org/1/items/1crobrafan/2t.jpg</thumbnail>
