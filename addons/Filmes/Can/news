@@ -1,0 +1,19 @@
+
+<item>
+<title>[B][COLOR white]BAND NEWS[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]bandnews.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/band.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]GLOBO NEWS[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]globonews.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/globo.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]RECORD NEWS[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]recordnews.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/record.png</thumbnail>
+</item>

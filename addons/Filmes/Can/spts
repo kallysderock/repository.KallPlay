@@ -1,0 +1,120 @@
+<item>
+<title>[B][COLOR white]BAND SPORTS[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]bandsports.m3u8|Referer=https://lojadebicicleta.com.br/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia601503.us.archive.org/13/items/fox2_20191003/bandsort.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]COMBATE[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]combate.m3u8|Referer=https://lojadebicicleta.com.br/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia601503.us.archive.org/13/items/fox2_20191003/cambate.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]ESPN[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]espn.m3u8|Referer=https://lojadebicicleta.com.br/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/espn.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]ESPN 2[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]espn2.m3u8|Referer=https://lojadebicicleta.com.br/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/espn2.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]ESPN BRASIL[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]espnbrasil.m3u8|Referer=https://lojadebicicleta.com.br/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/espnbr.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]Espn Extra[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]espnextra.m3u8|Referer=https://lojadebicicleta.com.br/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia601505.us.archive.org/33/items/fox2_20191003_201910/espn%2B.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]FOX SPORTS[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]foxsports1.m3u8|Referer=https://lojadebicicleta.com.br/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/fox.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]FOX SPORTS 2[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]foxsports2.m3u8|Referer=https://lojadebicicleta.com.br/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/fox2.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]SPORTV[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]sportv1.m3u8|Referer=https://lojadebicicleta.com.br/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia601505.us.archive.org/33/items/fox2_20191003_201910/sportv.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]SPORTV 2[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]sportv2.m3u8|Referer=https://lojadebicicleta.com.br/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/sportv2.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]SPORTV 3[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]sportv3.m3u8|Referer=https://lojadebicicleta.com.br/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/sportv3.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]PREMIERE CLUBE[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]premiereclubes.m3u8|Referer=https://lojadebicicleta.com.br/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/premiere.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]PREMIERE 2[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]premiere2.m3u8|Referer=https://lojadebicicleta.com.br/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/pfc.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]PREMIERE 3[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]premiere3.m3u8|Referer=https://lojadebicicleta.com.br/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/pfc.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]PREMIERE 4[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]premiere4.m3u8|Referer=https://lojadebicicleta.com.br/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/pfc.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]PREMIERE 5[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]premiere5.m3u8|Referer=https://lojadebicicleta.com.br/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/pfc.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]PREMIERE 6[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]premiere6.m3u8|Referer=https://lojadebicicleta.com.br/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/pfc.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]PREMIERE 7[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]premiere7.m3u8|Referer=https://lojadebicicleta.com.br/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/pfc.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]PREMIERE 8[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]premiere8.m3u8|Referer=https://lojadebicicleta.com.br/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/pfc.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]PREMIERE 9[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]premiere9.m3u8|Referer=https://lojadebicicleta.com.br/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/pfc.png</thumbnail>
+</item>

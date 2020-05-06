@@ -1,0 +1,445 @@
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]BAND NEWS[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/bandnews.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=bandnews</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/band.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]GLOBO NEWS[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/globonews.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=globonews</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/globo.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]BAND[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/band.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=band</link>
+                    <thumbnail>https://ia801501.us.archive.org/33/items/band_20191003/BAND.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]GLOBO NORDESTE[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/bobonordeste.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=bobonordeste</link>
+                    <thumbnail>https://ia801501.us.archive.org/33/items/band_20191003/GLOBONE.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]GLOBO RJ[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/boborj.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=boborj</link>
+                    <thumbnail>https://ia801501.us.archive.org/33/items/band_20191003/GLOBO%20RJ.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]SBT[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/sbt.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=sbt</link>
+                    <thumbnail>https://ia801501.us.archive.org/33/items/band_20191003/SBT.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]RECORD[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/recordsp.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=recordsp</link>
+                    <thumbnail>https://ia601501.us.archive.org/33/items/band_20191003/RECORD.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]ANIMAL PLANET[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/animalplanet.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=animalplanet</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/animal.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/hls1/discovery.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=discovery</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/discochanel.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]DISCOVERY CIVILIZATION[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/discoverycivilization.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=discoverycivilization</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/discocivi.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]DISCOVERY SCIENCE[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/discoverysience.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=discoverysience</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/discocieni.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]HISTORY[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/history.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=history</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/history.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]H2[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/history2.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=history2</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/h2.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]NAT GEO[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/natgeo.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=natgeo</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/nategeo.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]NAT GEO WILD[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/natgeowild.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=natgeowild</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/natewild.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]BAND SPORTS[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/bandsports.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=bandsports</link>
+                    <thumbnail>https://ia601503.us.archive.org/13/items/fox2_20191003/bandsort.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]COMBATE[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/combate.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=combate</link>
+                    <thumbnail>https://ia601503.us.archive.org/13/items/fox2_20191003/cambate.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]DISCOVERY TURBO[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/discoveryturbo.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=discoveryturbo</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/discoturbo.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]ESPN[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/espn.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=espn</link>
+                    <thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/espn.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]ESPN 2[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/espn2.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=espn2</link>
+                    <thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/espn2.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]ESPN BRASIL[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/espnbrasil.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=espnbrasil</link>
+                    <thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/espnbr.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]FOX SPORTS[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/foxsports1.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=foxsports1</link>
+                    <thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/fox.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]FOX SPORTS 2[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/foxsports2.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=foxsports2</link>
+                    <thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/fox2.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]PREMIERE CLUBE[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/premiereclubes.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=premiereclubes</link>
+                    <thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/premiere.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]PREMIERE 2[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/premiere2.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=premiere2</link>
+                    <thumbnail>https://ia801505.us.archive.org/33/items/fox2_20191003_201910/pfc.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]SPORTV[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/sportv1.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=sportv1</link>
+                    <thumbnail>https://ia601505.us.archive.org/33/items/fox2_20191003_201910/sportv.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]SPORTV 2[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/sportv2.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=sportv2</link>
+                    <thumbnail>https://ia601505.us.archive.org/33/items/fox2_20191003_201910/sportv2.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]SPORTV 3[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/sportv3.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=sportv3</link>
+                    <thumbnail>https://ia601505.us.archive.org/33/items/fox2_20191003_201910/sportv3.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]A&E[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/aie.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=aie</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/ae.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]HBO[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/hbo.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=hbo</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/hbo.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]CINEMAX[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/cinemax.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=cinemax</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/cinemax.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]AMC[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/amc.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=amc</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/amc.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]AXN[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/axn.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=axn</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/axn.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]FOX[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/fox.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=fox</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/fox.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]FOX PREMIUM 1[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/foxpremium1.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=foxpremium1</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/foxp.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]FOX PREMIUM 2[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/foxpremium2.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=foxpremium2</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/foxp.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]FX[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/fx.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=fx</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/fx.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]HBO 2[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/hbo2.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=hbo2</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/hbo2.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]HBO FAMILY[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/hbofamily.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=hbofamily</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/hbofamily.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]HBO PLUS[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/hboplus.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=hboplus</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/hobplus.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]HBO SIGNATURE[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/hbosignature.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=hbosignature</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/hobsig.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]MAX[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/max.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=max</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/max.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]MAX PRIME[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/maxprime.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=maxprime</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/maxprime.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]MAX UP[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/maxup.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=maxup</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/maxup.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]MEGAPIX[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/megapix.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=megapix</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/megapix.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]PARAMOUNT[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/paramount.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=paramount</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/paramoum.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]SONY[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/sony.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=sony</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/sony.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]SPACE[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/space.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=space</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/space.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]STUDIO UNIVERSAL[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/studiouniversal.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=studiouniversal</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/studiouni.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]SYFY[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/syfy.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=syfy</link>
+                    <thumbnail>syfy.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]TCM[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/tcm.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=tcm</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tcm.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]TELECINE ACTION[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/telecineaction.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=telecineaction</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tcact.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]TELECINE CULT[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/telecinecult.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=telecinecult</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tccult.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]TELECINE FUN[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/telecinefun.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=telecinefun</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tcfun.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]TELECINE PIPOCA[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/telecinepipoca.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=telecinepipoca</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tcpipo.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]TELECINE PREMIUM[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/telecinepremium.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=telecinepremium</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tcpremium.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]TELECINE TOUCH[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/telecinetouch.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=telecinetouch</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tctouch.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]TNT[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/tnt.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=tnt</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tnt.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]TNT SERIES[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/tntseries.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=tntseries</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tntseries.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]UNIVERSAL CHANNEL[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/universal.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=universal</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/uni.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]WARNER[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/warner.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=warner</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/wb.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]BOOMERANG[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/boomerang.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=boomerang</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/bomerange.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]CARTOON NETWORK[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/cartoon.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=cartoon</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/cartoon.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]DISCOVERY KIDS[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/discoverykids.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=discoverykids</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/discoverykids.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]DISNEY CHANNEL[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/disney.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=disney</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/disney.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]DISNEY JUNIOR[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/disneyjunior.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=disneyjunior</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/disneyjunior.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]DISNEY XD[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/disneyxd.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=disneyxd</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/disneyxd.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]GLOOB[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/gloob.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=gloob</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/gloob.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]NICKELODEON[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/nick.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=nick</link>
+                    <thumbnail>nick.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]NICK JR[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/nickjr.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=nickjr</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/nickjr.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]TOONCAST[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/tooncast.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=tooncast</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tooncast.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]ARTE 1[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/arte1.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=arte1</link>
+                    <thumbnail>arte1.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]BIS[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/bis.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=bis</link>
+                    <thumbnail>https://ia601501.us.archive.org/33/items/bis_20190927/BIS.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]CANAL OFF[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/off.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=off</link>
+                    <thumbnail>https://ia601502.us.archive.org/33/items/canaloff_201909/CANALOFF.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]COMEDY CENTRAL[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/comedycentral.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=comedycentral</link>
+                    <thumbnail>https://ia801508.us.archive.org/10/items/lifetime_201909/COMEDY.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]CURTA![/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/curta.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=curta</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/curta.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]DISCOVERY HOME & HEALTH[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/discoveryhomeihealth.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=discoveryhomeihealth</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/discoheh.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]DISCOVERY WORLD[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/discoveryworld.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=discoveryworld</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/discoworld.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]FISH TV[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/fishtv.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=fishtv</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/fishtv.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]FOX LIFE[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/foxlife.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=foxlife</link>
+                    <thumbnail>fox_life.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]GNT[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/gnt.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=gnt</link>
+                    <thumbnail>https://ia801508.us.archive.org/10/items/lifetime_201909/GNT.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]ID[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/investigacaodiscovery.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=investigacaodiscovery</link>
+                    <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/id.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]LIFETIME[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/lifetime.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=lifetime</link>
+                    <thumbnail>https://ia801508.us.archive.org/10/items/lifetime_201909/LIFETIME.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]MAIS GLOBOSAT[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/maisbobosat.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=maisbobosat</link>
+                    <thumbnail>https://ia801508.us.archive.org/10/items/lifetime_201909/GLOBOMAIS.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]MTV[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/mtv.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=mtv</link>
+                    <thumbnail>https://ia801508.us.archive.org/10/items/lifetime_201909/MTV.png</thumbnail>
+                </item>
+				<item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]MTV LIVE[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/mtvlive.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=mtvlive</link>
+                    <thumbnail>https://ia601409.us.archive.org/13/items/mtvlive_202001/mtvlive.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]MULTISHOW[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/multishow.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=multishow</link>
+                    <thumbnail>https://ia601508.us.archive.org/10/items/lifetime_201909/MULTI.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]TLC[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/tlc.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=tlc</link>
+                    <thumbnail>https://ia601406.us.archive.org/6/items/tlc_20190927/TLC.png</thumbnail>
+                </item>
+                <item>
+                    <title>[B][COLOR red]KP[/COLOR][COLOR yellow]KP-Multi-Addons[/COLOR] - [COLOR white]VIVA[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+                    <link>http://proxyts.canais.gratis:8080/a//hls/viva.m3u8?|Referer=https://lojadebicicleta.com.br/contadorcanais/player3/canaishlb.php?canal=viva</link>
+                    <thumbnail>https://ia601403.us.archive.org/30/items/viva_20190925/viva.png</thumbnail>
+                </item>

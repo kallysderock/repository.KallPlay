@@ -1,0 +1,991 @@
+#EXTM3U
+
+#EXTINF:-1,A&E
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37130
+
+#EXTINF:-1,A&E FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40263
+
+#EXTINF:-1,A&E HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36929
+
+#EXTINF:-1,Agro Canal
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40244
+
+#EXTINF:-1,AMC FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40262
+
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36928
+
+#EXTINF:-1,Animal Planet
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37128
+
+#EXTINF:-1,ANIMAL PLANET FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38392
+
+#EXTINF:-1,Animal Planet HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36992
+
+#EXTINF:-1,Arte 1
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37133
+
+#EXTINF:-1,Arte 1 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41467
+
+#EXTINF:-1,AXN
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37132
+
+#EXTINF:-1,AXN FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41468
+
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36991
+
+#EXTINF:-1,BabyTV
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36993
+
+#EXTINF:-1,Band
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37127
+
+#EXTINF:-1,BAND FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38429
+
+#EXTINF:-1,Band HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36990
+
+#EXTINF:-1,Band News
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37126
+
+#EXTINF:-1,BAND NEWS FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38391
+
+#EXTINF:-1,Band SP FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41514
+
+#EXTINF:-1,Band SP HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41530
+
+#EXTINF:-1,BAND SPORTS FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/42900
+
+#EXTINF:-1,BandNews HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/42411
+
+#EXTINF:-1,BandSports
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37125
+
+#EXTINF:-1,BandSports FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41469
+
+#EXTINF:-1,BandSports HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36989
+
+#EXTINF:-1,Bis
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37131
+
+#EXTINF:-1,BIS FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38403
+
+#EXTINF:-1,Bis HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36988
+
+#EXTINF:-1,Boomerang
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37123
+
+#EXTINF:-1,BOOMERANG FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38390
+
+#EXTINF:-1,Canal Brasil
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37122
+
+#EXTINF:-1,Canal Brasil FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41517
+
+#EXTINF:-1,Canção Nova
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37023
+
+#EXTINF:-1,Cartoon Network
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37121
+
+#EXTINF:-1,Cartoon Network FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41471
+
+#EXTINF:-1,Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36927
+
+#EXTINF:-1,Cascavel Panorâmica
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40116
+
+#EXTINF:-1,Cinemax
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37120
+
+#EXTINF:-1,CINEMAX FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40261
+
+#EXTINF:-1,Cinemax HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36926
+
+#EXTINF:-1,Combate
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37119
+
+#EXTINF:-1,COMBATE 4K
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/42635
+
+#EXTINF:-1,Combate FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38428
+
+#EXTINF:-1,Combate HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36986
+
+#EXTINF:-1,Comedy Central
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37118
+
+#EXTINF:-1,Comedy Central HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36925
+
+#EXTINF:-1,Comedy Central. FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40260
+
+#EXTINF:-1,Cultura
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40073
+
+#EXTINF:-1,CULTURA FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/42903
+
+#EXTINF:-1,Curta!
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37117
+
+#EXTINF:-1,Curta! FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41472
+
+#EXTINF:-1,Discovery Channel
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37116
+
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38404
+
+#EXTINF:-1,Discovery Channel HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36985
+
+#EXTINF:-1,DISCOVERY CIVILIZATION FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40259
+
+#EXTINF:-1,Discovery Civilization HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36924
+
+#EXTINF:-1,Discovery Home & Health
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36984
+
+#EXTINF:-1,DISCOVERY HOME & HEALTH FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38389
+
+#EXTINF:-1,Discovery Home & Health HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37115
+
+#EXTINF:-1,Discovery Kids
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37113
+
+#EXTINF:-1,Discovery Kids FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41473
+
+#EXTINF:-1,Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36923
+
+#EXTINF:-1,Discovery Science FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41474
+
+#EXTINF:-1,Discovery Science HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36922
+
+#EXTINF:-1,Discovery Theater FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41475
+
+#EXTINF:-1,Discovery Theater HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36983
+
+#EXTINF:-1,Discovery Turbo
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37112
+
+#EXTINF:-1,Discovery Turbo FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38388
+
+#EXTINF:-1,Discovery Turbo HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36982
+
+#EXTINF:-1,Discovery World FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38387
+
+#EXTINF:-1,Discovery World HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36981
+
+#EXTINF:-1,Disney Channel
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37111
+
+#EXTINF:-1,Disney Channel FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38402
+
+#EXTINF:-1,Disney Channel HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36921
+
+#EXTINF:-1,Disney Junior
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37110
+
+#EXTINF:-1,Disney Junior  FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41512
+
+#EXTINF:-1,Disney Junior HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40517
+
+#EXTINF:-1,Disney XD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37109
+
+#EXTINF:-1,E! Entertainment Television
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37108
+
+#EXTINF:-1,E! FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41476
+
+#EXTINF:-1,E! HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36920
+
+#EXTINF:-1,EPTV Campinas
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40248
+
+#EXTINF:-1,EPTV Campinas HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40249
+
+#EXTINF:-1,EPTV Ribeirão
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40514
+
+#EXTINF:-1,EPTV Ribeirão HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38640
+
+#EXTINF:-1,ESPN
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37105
+
+#EXTINF:-1,ESPN 2 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41477
+
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36976
+
+#EXTINF:-1,Globo 4K
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/43430
+
+#EXTINF:-1,Espn Brasil
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37104
+
+#EXTINF:-1,ESPN BRASIL FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38413
+
+#EXTINF:-1,ESPN Brasil HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36978
+
+#EXTINF:-1,ESPN Extra
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41977
+
+#EXTINF:-1,ESPN Extra FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38380
+
+#EXTINF:-1,ESPN Extra HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/42910
+
+#EXTINF:-1,ESPN FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38401
+
+#EXTINF:-1,ESPN HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36977
+
+#EXTINF:-1,Fish TV
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37103
+
+#EXTINF:-1,Fish TV FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41478
+
+#EXTINF:-1,Fish TV HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/42911
+
+#EXTINF:-1,Food Network
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37102
+
+#EXTINF:-1,FOOD NETWORK FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40257
+
+#EXTINF:-1,Food Network HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36919
+
+#EXTINF:-1,Fox
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37101
+
+#EXTINF:-1,Fox Channel HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36972
+
+#EXTINF:-1,FOX FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38427
+
+#EXTINF:-1,Fox Premium 1
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37335
+
+#EXTINF:-1,Fox Premium 1  HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36974
+
+#EXTINF:-1,Fox Premium 1 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41480
+
+#EXTINF:-1,Fox Premium 2
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37336
+
+#EXTINF:-1,FOX PREMIUM 2 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38386
+
+#EXTINF:-1,Fox Premium 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36973
+
+#EXTINF:-1,FoxLife
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37100
+
+#EXTINF:-1,FoxLife FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41479
+
+#EXTINF:-1,FoxLife HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36918
+
+#EXTINF:-1,FoxSports
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37099
+
+#EXTINF:-1,FoxSports 2
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37098
+
+#EXTINF:-1,FoxSports 2 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38398
+
+#EXTINF:-1,FoxSports 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36971
+
+#EXTINF:-1,FoxSports FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38412
+
+#EXTINF:-1,FoxSports HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36970
+
+#EXTINF:-1,Futura
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40074
+
+#EXTINF:-1,Futura FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41481
+
+#EXTINF:-1,FX
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37097
+
+#EXTINF:-1,FX FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41482
+
+#EXTINF:-1,FX HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36969
+
+#EXTINF:-1,Gazeta HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40120
+
+#EXTINF:-1,GloboNews
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37093
+
+#EXTINF:-1,GloboNews FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38397
+
+#EXTINF:-1,GloboNews HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36917
+
+#EXTINF:-1,GloboSat HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36916
+
+#EXTINF:-1,Gloob
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37089
+
+#EXTINF:-1,Gloob FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38396
+
+#EXTINF:-1,Gloob HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36915
+
+#EXTINF:-1,Gloobinho FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41483
+
+#EXTINF:-1,Gloobinho HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38969
+
+#EXTINF:-1,GNT
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37088
+
+#EXTINF:-1,GNT FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41484
+
+#EXTINF:-1,GNT HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36967
+
+#EXTINF:-1,H2 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41485
+
+#EXTINF:-1,HBO
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37087
+
+#EXTINF:-1,HBO 2
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37086
+
+#EXTINF:-1,HBO 2 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38423
+
+#EXTINF:-1,HBO 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36966
+
+#EXTINF:-1,HBO Family
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37085
+
+#EXTINF:-1,HBO Family FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41486
+
+#EXTINF:-1,HBO Family HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36965
+
+#EXTINF:-1,HBO HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36964
+
+#EXTINF:-1,HBO Plus
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37084
+
+#EXTINF:-1,HBO PLUS E
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37083
+
+#EXTINF:-1,HBO Plus FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41487
+
+#EXTINF:-1,HBO Plus HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36963
+
+#EXTINF:-1,HBO Signature
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37082
+
+#EXTINF:-1,HBO Signature FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41488
+
+#EXTINF:-1,HBO Signature HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36962
+
+#EXTINF:-1,History
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37081
+
+#EXTINF:-1,History 2
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/42915
+
+#EXTINF:-1,History 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36961
+
+#EXTINF:-1,History FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38383
+
+#EXTINF:-1,History HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36960
+
+#EXTINF:-1,HIT TV HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40075
+
+#EXTINF:-1,ID: Investigação Discovery
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37114
+
+#EXTINF:-1,Investigação Discovery HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36959
+
+#EXTINF:-1,Investigação Discovery FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41489
+
+#EXTINF:-1,LIFE TIME FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40265
+
+#EXTINF:-1,Lifetime
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37077
+
+#EXTINF:-1,Lifetime FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41490
+
+#EXTINF:-1,Lifetime HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36914
+
+#EXTINF:-1,MAIS GLOBOSAT FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/42902
+
+#EXTINF:-1,Max
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37076
+
+#EXTINF:-1,MAX FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40268
+
+#EXTINF:-1,Max HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36913
+
+#EXTINF:-1,MAX PRIME E
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37074
+
+#EXTINF:-1,MAX PRIME FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/42901
+
+#EXTINF:-1,Max Prime HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36912
+
+#EXTINF:-1,Max UP
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37073
+
+#EXTINF:-1,MAX UP FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40270
+
+#EXTINF:-1,Max UP HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36911
+
+#EXTINF:-1,MaxPrime
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37075
+
+#EXTINF:-1,MaxPrime FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40269
+
+#EXTINF:-1,Megapix
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37072
+
+#EXTINF:-1,Megapix FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41491
+
+#EXTINF:-1,Megapix HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36958
+
+#EXTINF:-1,MTV
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37071
+
+#EXTINF:-1,MTV FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40266
+
+#EXTINF:-1,MTV HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36910
+
+#EXTINF:-1,MTV Live
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40519
+
+#EXTINF:-1,MTV Live FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41492
+
+#EXTINF:-1,MTV LIVE HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40518
+
+#EXTINF:-1,Multishow
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37070
+
+#EXTINF:-1,Multishow FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41493
+
+#EXTINF:-1,Multishow HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36957
+
+#EXTINF:-1,Music Box Brazil
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37069
+
+#EXTINF:-1,Music Box Brazil FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41494
+
+#EXTINF:-1,NatGeo Kids
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37067
+
+#EXTINF:-1,NatGeo Kids FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41496
+
+#EXTINF:-1,NatGeo Kids HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36909
+
+#EXTINF:-1,National Geographic FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41495
+
+#EXTINF:-1,National Geographic Wild
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37066
+
+#EXTINF:-1,National Geographic Wild FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41497
+
+#EXTINF:-1,National Geographic Wild HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36955
+
+#EXTINF:-1,NATIONAL GEOGRAPHICS
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37068
+
+#EXTINF:-1,NATIONAL GEOGRAPHICS FULL HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41280
+
+#EXTINF:-1,NATIONAL GEOGRAPHICS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36956
+
+#EXTINF:-1,NBR
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37021
+
+#EXTINF:-1,Nick
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37064
+
+#EXTINF:-1,NICK FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40039
+
+#EXTINF:-1,Nick HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36907
+
+#EXTINF:-1,Nick Jr.
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37065
+
+#EXTINF:-1,Nick Jr. FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41498
+
+#EXTINF:-1,Nick Jr. HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36908
+
+#EXTINF:-1,Novo Tempo
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/39793
+
+#EXTINF:-1,Off
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37063
+
+#EXTINF:-1,OFF FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41499
+
+#EXTINF:-1,Off HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36954
+
+#EXTINF:-1,Paramount Channel
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37062
+
+#EXTINF:-1,Paramount Channel FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41500
+
+#EXTINF:-1,Paramount HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36953
+
+#EXTINF:-1,PLAYKIDS FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41522
+
+#EXTINF:-1,PlayKids HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41359
+
+#EXTINF:-1,Premiere 2
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37060
+
+#EXTINF:-1,PREMIERE 2 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38410
+
+#EXTINF:-1,Premiere 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36952
+
+#EXTINF:-1,Premiere 3
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37059
+
+#EXTINF:-1,PREMIERE 3 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38409
+
+#EXTINF:-1,Premiere 3 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36951
+
+#EXTINF:-1,Premiere 4
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37058
+
+#EXTINF:-1,PREMIERE 4 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38408
+
+#EXTINF:-1,Premiere 4 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36950
+
+#EXTINF:-1,Premiere 5
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37057
+
+#EXTINF:-1,PREMIERE 5 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38407
+
+#EXTINF:-1,Premiere 5 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36949
+
+#EXTINF:-1,Premiere 6
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37056
+
+#EXTINF:-1,PREMIERE 6 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38406
+
+#EXTINF:-1,Premiere 6 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36906
+
+#EXTINF:-1,Premiere 7
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37017
+
+#EXTINF:-1,PREMIERE 7 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38405
+
+#EXTINF:-1,Premiere 7 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36905
+
+#EXTINF:-1,PREMIERE CLUBES
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37016
+
+#EXTINF:-1,PREMIERE CLUBES 4K
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40783
+
+#EXTINF:-1,PREMIERE CLUBES FULL HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38411
+
+#EXTINF:-1,Premiere Clubes HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36948
+
+#EXTINF:-1,Prime Box Brazil
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37053
+
+#EXTINF:-1,Prime Box Brazil FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41501
+
+#EXTINF:-1,Record News
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41529
+
+#EXTINF:-1,Record News FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41502
+
+#EXTINF:-1,Record News HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37050
+
+#EXTINF:-1,Rede Brasil
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37013
+
+#EXTINF:-1,Rede Minas
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40183
+
+#EXTINF:-1,Rede Vida
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37011
+
+#EXTINF:-1,Rede Vida FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41519
+
+#EXTINF:-1,RedeTV
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37012
+
+#EXTINF:-1,RedeTV FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41518
+
+#EXTINF:-1,RedeTV HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36946
+
+#EXTINF:-1,SBT
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37048
+
+#EXTINF:-1,SBT FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38420
+
+#EXTINF:-1,SBT HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36945
+
+#EXTINF:-1,SBT SP Interior
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/42912
+
+#EXTINF:-1,Sony
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37007
+
+#EXTINF:-1,Sony FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41470
+
+#EXTINF:-1,Sony HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36987
+
+#EXTINF:-1,Space
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37046
+
+#EXTINF:-1,Space FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41503
+
+#EXTINF:-1,Space HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36944
+
+#EXTINF:-1,SporTV
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37256
+
+#EXTINF:-1,Sportv 2
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37044
+
+#EXTINF:-1,SporTV 2 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38395
+
+#EXTINF:-1,Sportv 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36943
+
+#EXTINF:-1,Sportv 3
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37006
+
+#EXTINF:-1,SporTV 3 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38394
+
+#EXTINF:-1,Sportv 3 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36942
+
+#EXTINF:-1,SPORTV 4K
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40785
+
+#EXTINF:-1,SPORTV FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38419
+
+#EXTINF:-1,Sportv HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37255
+
+#EXTINF:-1,Studio Universal
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37043
+
+#EXTINF:-1,Studio Universal FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40258
+
+#EXTINF:-1,Studio Universal HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36904
+
+#EXTINF:-1,Syfy
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37042
+
+#EXTINF:-1,Syfy FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41504
+
+#EXTINF:-1,Syfy HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36903
+
+#EXTINF:-1,TBS
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37041
+
+#EXTINF:-1,TBS FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41505
+
+#EXTINF:-1,TBS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36940
+
+#EXTINF:-1,TCM
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37037
+
+#EXTINF:-1,Telecine Action
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37040
+
+#EXTINF:-1,Telecine Action FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38418
+
+#EXTINF:-1,Telecine Action HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36939
+
+#EXTINF:-1,Telecine Cult
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37039
+
+#EXTINF:-1,Telecine Cult FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41506
+
+#EXTINF:-1,Telecine Cult HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36901
+
+#EXTINF:-1,Telecine Fun
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37005
+
+#EXTINF:-1,Telecine Fun FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38417
+
+#EXTINF:-1,Telecine Fun HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36938
+
+#EXTINF:-1,Telecine Pipoca
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37038
+
+#EXTINF:-1,Telecine Pipoca FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38416
+
+#EXTINF:-1,Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36937
+
+#EXTINF:-1,Telecine Premium
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36994
+
+#EXTINF:-1,Telecine Premium FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38415
+
+#EXTINF:-1,Telecine Premium HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36936
+
+#EXTINF:-1,Telecine Touch
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36995
+
+#EXTINF:-1,Telecine Touch FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38414
+
+#EXTINF:-1,Telecine Touch HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36935
+
+#EXTINF:-1,TLC HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36902
+
+#EXTINF:-1,TLC SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37036
+
+#EXTINF:-1,TNT
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37035
+
+#EXTINF:-1,TNT FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41507
+
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36934
+
+#EXTINF:-1,TNT Series
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37034
+
+#EXTINF:-1,TNT Series FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41508
+
+#EXTINF:-1,TNT Series HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36933
+
+#EXTINF:-1,Tooncast
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37033
+
+#EXTINF:-1,TruTV
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37032
+
+#EXTINF:-1,TRUTV FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41509
+
+#EXTINF:-1,TV Ra Tim Bum
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37015
+
+#EXTINF:-1,TV RA TIM BUM FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41510
+
+#EXTINF:-1,Universal Channel
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37027
+
+#EXTINF:-1,UNIVERSAL CHANNEL FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/41511
+
+#EXTINF:-1,Universal Channel HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36932
+
+#EXTINF:-1,VH1 FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40271
+
+#EXTINF:-1,VH1 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36900
+
+#EXTINF:-1,Viva
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36997
+
+#EXTINF:-1,VIVA FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38393
+
+#EXTINF:-1,Viva HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36931
+
+#EXTINF:-1,Warner Channel
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36996
+
+#EXTINF:-1,WARNER FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/38384
+
+#EXTINF:-1,Warner HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/36930
+
+#EXTINF:-1,Woohoo
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/37025
+
+#EXTINF:-1,WOOHOO FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP-Multi-Addons[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/alex21/alex21/40267

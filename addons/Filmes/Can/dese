@@ -1,0 +1,67 @@
+
+<item>
+<title>[B][COLOR white]BOOMERANG[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]boomerang.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/bomerange.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]cartoon.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/cartoon.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]DISCOVERY KIDS[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]discoverykids.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/discoverykids.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]DISNEY CHANNEL[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]disney.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/disney.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]DISNEY JUNIOR[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]disneyjunior.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/disneyjunior.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]DISNEY XD[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]disneyxd.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/disneyxd.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]GLOOB[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]gloob.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/gloob.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]NICKELODEON[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]nick.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/nicklodeaon.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]NICK JR[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]nickjr.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/nickjr.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]TOONCAST[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]tooncast.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tooncast.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]PLAY KIDS[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]playkids.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/playkids.png</thumbnail>
+</item>

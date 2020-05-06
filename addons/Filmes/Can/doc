@@ -1,0 +1,85 @@
+
+<item>
+<title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]animalplanet.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/animal.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]discovery.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/discochanel.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]DISCOVERY CIVILIZATION[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]discoverycivilization.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/discocivi.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]DISCOVERY SCIENCE[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]discoverysience.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/discocieni.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]DISCOVERY THEATER[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]discoverytheater.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/discotheater.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]discoveryturbo.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/discoturbo.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]DISCOVERY HOME & HEALTH[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]discoveryhomeihealth.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/discoheh.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]DISCOVERY WORLD[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]discoveryworld.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/discoworld.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]ID[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]investigacaodiscovery.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/id.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]FISH TV[/COLOR] [COLOR red]SD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]fishtv.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/fishtv.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]HISTORY[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]history.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/history.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]H2[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]history2.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/h2.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]NAT GEO[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]natgeo.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/nategeo.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]natgeowild.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/natewild.png</thumbnail>
+</item>

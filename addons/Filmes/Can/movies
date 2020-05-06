@@ -1,0 +1,199 @@
+
+<item>
+<title>[B][COLOR white]A&E[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]aie.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/ae2.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]AMC[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]amc.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/amc.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]AXN[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]axn.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/axn.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]CINEMAX[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]cinemax.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/cinemax.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]FOX[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]fox.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/fox.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]FOX PREMIUM 1[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]foxpremium1.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/foxp.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]FOX PREMIUM 2[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]foxpremium2.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/foxp.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]FX[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]fx.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/fx.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]HBO[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]hbo.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/hbo.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]HBO 2[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]hbo2.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/hbo2.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]HBO FAMILY[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]hbofamily.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/hbofamily.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]HBO PLUS[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]hboplus.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/hobplus.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]HBO SIGNATURE[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]hbosignature.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/hobsig.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]MAX[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]max.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/max.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]MAX PRIME[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]maxprime.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/maxprime.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]MAX UP[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]maxup.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/maxup.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]MEGAPIX[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]megapix.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/megapix.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]PARAMOUNT[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]paramount.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/paramoum.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]SONY[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]sony.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/sony.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]SPACE[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]space.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/space.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]STUDIO UNIVERSAL[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]studiouniversal.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/studiouni.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]SYFY[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]syfy.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/syfy.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]TCM[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]tcm.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tcm.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]TELECINE ACTION[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]telecineaction.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tcact.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]TELECINE CULT[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]telecinecult.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tccult.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]TELECINE FUN[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]telecinefun.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tcfun.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]TELECINE PIPOCA[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]telecinepipoca.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tcpipo.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]TELECINE PREMIUM[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]telecinepremium.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tcpremium.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]TELECINE TOUCH[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]telecinetouch.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tctouch.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]TNT[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]tnt.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tnt.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]TNT SERIES[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]tntseries.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/tntseries.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]UNIVERSAL CHANNEL[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]universal.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/uni.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]WARNER[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]warner.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/logos/wb.png</thumbnail>
+</item>

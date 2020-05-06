@@ -1,0 +1,38 @@
+    
+<item>
+<title>[B][COLOR white]GLOBO NORDESTE[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]bobonordeste.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia801501.us.archive.org/33/items/band_20191003/GLOBONE.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]GLOBO RJ[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]boborj.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia801501.us.archive.org/33/items/band_20191003/GLOBO%20RJ.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]GLOBO SP[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]bobosp.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia801501.us.archive.org/33/items/band_20191003/GLOBO%20SP.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]SBT[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]sbt.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia801501.us.archive.org/33/items/band_20191003/SBT.png</thumbnail>
+</item>
+<item>
+<title>[B][COLOR white]BAND[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]band.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia801501.us.archive.org/33/items/band_20191003/BAND.png</thumbnail>
+</item>	    
+	    
+<item>
+<title>[B][COLOR white]RECORD[/COLOR] [COLOR red]HD[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay]recordsp.m3u8|Referer=https://canaisgratis.eu/contadorcanais/</link>
+<regex><name>repository.KallPlay</name><expres>(.*?).rccanais</expres><page>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/cr2</page></regex>
+<thumbnail>https://ia601501.us.archive.org/33/items/band_20191003/RECORD.png</thumbnail>
+</item>
