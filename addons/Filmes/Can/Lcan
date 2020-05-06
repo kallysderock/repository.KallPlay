@@ -47,22 +47,7 @@
 
 <channels>
 <channel>
-<name>[COLOR darkorange]|||[/COLOR][COLOR deepskyblue]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR mediumblue][/COLOR][COLOR red][B][/B][/COLOR][COLORyellow][B][/B][/COLOR][COLOR yellow][/COLOR][B][COLOR darkorange]BIG BROTHER BRASIL[/COLOR] - [COLOR deepskyblue]2020[/COLOR][/B][COLOR black] |[/COLOR][COLOR red][B] ON [/B][/COLOR]</name>
-<thumbnail>https://archive.org/download/bbbtw/bbbtw.png</thumbnail>
-<externallink>http://tony.twtutoriais.site/tony/2addon/2addon/channel/bbb</externallink>
-<fanart>https://ia601401.us.archive.org/31/items/bbb_20200122_202001/bbb.jpg</fanart>
-<info>
-
-
-[COLOR yellow]|[/COLOR]- LISTAS ACHADAS NA INTERNET -[COLOR yellow]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR red]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR red][B]KP[/B][/COLOR][COLORyellow][B]Multi-Addons[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]SERV-1[/COLOR] [COLOR yellow]|[/COLOR][COLOR red][B] ON [/B][/COLOR]</name>
+<name>[COLOR red]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR red][B]KP[/B][/COLOR][COLORyellow][B]Multi-Addons[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]SERV-1[/COLOR] [COLOR yellow]|[/COLOR][COLOR green][B] ON [/B][/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/icon.png</thumbnail>
 <externallink>http://tony.twtutoriais.site/tony/2addon/2addon/channel/20fev</externallink>
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
@@ -78,7 +63,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR red][B]KP[/B][/COLOR][COLORyellow][B]Multi-Addons[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]SERV-2[/COLOR] [COLOR yellow]|[/COLOR][COLOR red][B] ON [/B][/COLOR]</name>
+<name>[COLOR red]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR red][B]KP[/B][/COLOR][COLORyellow][B]Multi-Addons[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]SERV-2[/COLOR] [COLOR yellow]|[/COLOR][COLOR green][B] ON [/B][/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/icon.png</thumbnail>
 <externallink>http://tony.twtutoriais.site/tony/2addon/2addon/channel/serv02</externallink>
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
@@ -94,7 +79,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR red][B]KP[/B][/COLOR][COLORyellow][B]Multi-Addons[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]SERV-3[/COLOR] [COLOR yellow]|[/COLOR][COLOR red][B] ON [/B][/COLOR]</name>
+<name>[COLOR red]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR red][B]KP[/B][/COLOR][COLORyellow][B]Multi-Addons[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]SERV-3[/COLOR] [COLOR yellow]|[/COLOR][COLOR green][B] ON [/B][/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/icon.png</thumbnail>
 <externallink>http://tony.twtutoriais.site/tony/2addon/2addon/channel/test4</externallink>
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
@@ -273,7 +258,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR red][B]KP[/B][/COLOR][COLORyellow][B]Multi-Addons[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]DAZN FUTEBOL[/COLOR] [COLOR yellow]|[/COLOR][COLOR red][B] ON [/B][/COLOR]</name>
+<name>[COLOR red]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR red][B]KP[/B][/COLOR][COLORyellow][B]Multi-Addons[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]DAZN FUTEBOL[/COLOR] [COLOR yellow]|[/COLOR][COLOR green][B] ON [/B][/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/icon.png</thumbnail>
 <externallink>http://tony.twtutoriais.site/tony/2addon/2addon/channel/dazn</externallink>
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
