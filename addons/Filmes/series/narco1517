@@ -14,61 +14,61 @@
                 
 
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 01[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 01[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST01EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801408.us.archive.org/22/items/onarcos2/onarcost.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 02[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 02[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST01EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801408.us.archive.org/22/items/onarcos2/onarcost.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 03[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 03[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST01EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801408.us.archive.org/22/items/onarcos2/onarcost.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 04[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 04[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST01EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801408.us.archive.org/22/items/onarcos2/onarcost.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 05[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 05[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST01EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801408.us.archive.org/22/items/onarcos2/onarcost.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 06[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 06[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST01EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801408.us.archive.org/22/items/onarcos2/onarcost.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 07[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 07[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST01EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801408.us.archive.org/22/items/onarcos2/onarcost.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 08[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 08[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST01EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801408.us.archive.org/22/items/onarcos2/onarcost.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 09[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 09[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST01EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801408.us.archive.org/22/items/onarcos2/onarcost.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 10[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 10[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST01EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801408.us.archive.org/22/items/onarcos2/onarcost.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
@@ -83,61 +83,61 @@
                 
 
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 01[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 01[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST02EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/onarcos2/onarcos2.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 02[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 02[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST02EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/onarcos2/onarcos2.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 03[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 03[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST02EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/onarcos2/onarcos2.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 04[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 04[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST02EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/onarcos2/onarcos2.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 05[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 05[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST02EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/onarcos2/onarcos2.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 06[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 06[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST02EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/onarcos2/onarcos2.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 07[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 07[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST02EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/onarcos2/onarcos2.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 08[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 08[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST02EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/onarcos2/onarcos2.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 09[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 09[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST02EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/onarcos2/onarcos2.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 10[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 10[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST02EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/onarcos2/onarcos2.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
@@ -153,61 +153,61 @@
 
 
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 01[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 01[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST03EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801408.us.archive.org/22/items/onarcos2/onarcos3.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 02[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 02[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST03EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801408.us.archive.org/22/items/onarcos2/onarcos3.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 03[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 03[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST03EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801408.us.archive.org/22/items/onarcos2/onarcos3.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 04[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 04[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST03EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801408.us.archive.org/22/items/onarcos2/onarcos3.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 05[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 05[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST03EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801408.us.archive.org/22/items/onarcos2/onarcos3.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 06[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 06[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST03EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801408.us.archive.org/22/items/onarcos2/onarcos3.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 07[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 07[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST03EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801408.us.archive.org/22/items/onarcos2/onarcos3.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 08[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 08[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST03EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801408.us.archive.org/22/items/onarcos2/onarcos3.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 09[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 09[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST03EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801408.us.archive.org/22/items/onarcos2/onarcos3.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>
                 </item>
                 <item>
-                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÃ“DIO 10[/B][/COLOR]</title>
+                    <title>[COLOR white]Narcos - [COLOR yellow][B]EPISÓDIO 10[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]NRCST03EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://ia801408.us.archive.org/22/items/onarcos2/onarcos3.jpg</thumbnail>
                     <fanart>https://ia601408.us.archive.org/22/items/onarcos2/0narcofan.jpg</fanart>

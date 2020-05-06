@@ -15,7 +15,7 @@
 
 
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 1[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 1[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT01EP01.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -25,7 +25,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 2[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 2[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT01EP02.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -35,7 +35,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 3[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 3[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT01EP03.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -45,7 +45,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 4[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 4[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT01EP04.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -55,7 +55,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 5[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 5[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT01EP05.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -65,7 +65,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 6[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 6[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT01EP06.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -75,7 +75,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 7[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 7[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT01EP07.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -85,7 +85,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 8[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 8[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT01EP08.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -95,7 +95,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 9[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 9[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT01EP09.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -105,7 +105,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 10[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 10[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT01EP10.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -115,7 +115,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 11[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 11[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT01EP11.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -125,7 +125,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 12[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 12[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT01EP12.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -135,7 +135,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 13[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 13[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT01EP13.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -145,7 +145,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 14[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 14[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT01EP14.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -155,7 +155,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 15[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 15[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT01EP15.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -165,7 +165,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 16[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 16[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT01EP16.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -175,7 +175,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 17[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 17[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT01EP17.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -185,7 +185,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 18[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 18[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT01EP18.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -195,7 +195,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 19[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 19[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT01EP19.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -205,7 +205,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 20[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 20[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT01EP20.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -215,7 +215,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 21[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 21[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT01EP21.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -225,7 +225,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 22[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 22[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT01EP22.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -245,7 +245,7 @@
 
 
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 1[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 1[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT02EP01.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -255,7 +255,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 2[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 2[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT02EP02.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -265,7 +265,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 3[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 3[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT02EP03.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -275,7 +275,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 4[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 4[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT02EP04.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -285,7 +285,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 5[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 5[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT02EP05.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -295,7 +295,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 6[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 6[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT02EP06.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -305,7 +305,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 7[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 7[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT02EP07.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -315,7 +315,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 8[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 8[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT02EP08.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -325,7 +325,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 9[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 9[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT02EP09.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -335,7 +335,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 10[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 10[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT02EP10.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -345,7 +345,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 11[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 11[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT02EP11.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -355,7 +355,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 12[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 12[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT02EP12.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -365,7 +365,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 13[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 13[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT02EP13.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -375,7 +375,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 14[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 14[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT02EP14.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -385,7 +385,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 15[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 15[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT02EP15.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -395,7 +395,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 16[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 16[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT02EP16.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -405,7 +405,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 17[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 17[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT02EP17.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -415,7 +415,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 18[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 18[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT02EP18.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -425,7 +425,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 19[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 19[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT02EP19.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -435,7 +435,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 20[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 20[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT02EP20.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -445,7 +445,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 21[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 21[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT02EP21.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -455,7 +455,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 22[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 22[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT02EP22.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -475,7 +475,7 @@
 
 
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 1[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 1[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNTS03EP01.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -485,7 +485,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 2[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 2[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT03EP02.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -495,7 +495,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 3[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 3[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT03EP03.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -505,7 +505,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 4[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 4[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT03EP04.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -515,7 +515,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 5[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 5[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT03EP05.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -525,7 +525,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 6[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 6[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT03EP06.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -535,7 +535,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 7[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 7[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT03EP07.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -545,7 +545,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 8[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 8[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT03EP08.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -555,7 +555,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 9[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 9[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT03EP09.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -565,7 +565,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 10[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 10[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT03EP10.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -575,7 +575,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 11[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 11[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT03EP11.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -585,7 +585,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 12[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 12[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT03EP12.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -595,7 +595,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 13[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 13[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT03EP13.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -605,7 +605,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 14[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 14[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT03EP14.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -615,7 +615,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 15[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 15[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT03EP15.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -625,7 +625,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 16[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 16[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT03EP16.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -635,7 +635,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 17[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 17[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT03EP17.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -645,7 +645,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 18[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 18[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT03EP18.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -655,7 +655,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 19[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 19[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT03EP19.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -665,7 +665,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 20[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 20[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT03EP20.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -675,7 +675,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 21[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 21[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT03EP21.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -685,7 +685,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 22[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 22[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLT03EP22.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -705,7 +705,7 @@
 
 
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 1[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 1[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS04EP01.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -715,7 +715,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 2[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 2[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS04EP02.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -725,7 +725,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 3[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 3[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS04EP03.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -735,7 +735,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 4[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 4[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS04EP04.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -745,7 +745,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 5[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 5[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS04EP05.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -755,7 +755,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 6[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 6[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS04EP06.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -765,7 +765,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 7[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 7[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS04EP07.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -775,7 +775,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 8[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 8[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS04EP08.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -785,7 +785,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 9[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 9[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS04EP09.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -795,7 +795,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 10[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 10[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS04EP10.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -805,7 +805,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 11[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 11[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS04EP11.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -815,7 +815,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 12[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 12[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS04EP12.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -825,7 +825,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 13[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 13[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS04EP13.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -848,7 +848,7 @@
 
 
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 1[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 1[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS05EP01.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -858,7 +858,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 2[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 2[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS05EP02.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -868,7 +868,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 3[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 3[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS05EP03.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -878,7 +878,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 4[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 4[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS05EP04.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -888,7 +888,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 5[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 5[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS05EP05.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -898,7 +898,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 6[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 6[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS05EP06.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -908,7 +908,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 7[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 7[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS05EP07.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -918,7 +918,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 8[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 8[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS05EP08.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -928,7 +928,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 9[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 9[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS05EP09.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -938,7 +938,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 10[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 10[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS05EP10.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -948,7 +948,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 11[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 11[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS05EP11.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -958,7 +958,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 12[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 12[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS05EP12.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
@@ -968,7 +968,7 @@
 <fanart>https://ia601507.us.archive.org/4/items/ofan_20200122/OFAN.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÃ“DIO - 13[/COLOR][/B]</title>
+<title>[B][COLOR white]The Originais[/COLOR] - [COLOR yellow]EPISÓDIO - 13[/COLOR][/B]</title>
 <link>$doregex[repository.KallPlay1]THORGNLS05EP13.mp4$doregex[repository.KallPlay2]</link>
 <regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
 <regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>

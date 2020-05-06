@@ -13,70 +13,70 @@
                 </item>
 
                 <item>
-                    <title>[COLOR white][B]ASSÃ‰DIO - Stela - EPISÃ“DIO - 01[/B][/COLOR]</title>
+                    <title>[COLOR white][B]ASSÃ‰DIO - Stela - EPISÓDIO - 01[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]ASDIOT01EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/ass1t/ass1t.jpg</thumbnail>
                     <fanart>https://archive.org/download/ass1t/ass1t.jpg</fanart>
                     <info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Roger promove uma festa para celebrar seu sucesso como um dos maiores mÃ©dicos de reproduÃ§Ã£o assistida do paÃ­s. Ali mesmo, contudo, hÃ¡ pessoas que pretendem acabar com o festejo.</info>
                 </item>
                 <item>
-                    <title>[COLOR white][B]ASSÃ‰DIO - EugÃªnia - EPISÃ“DIO - 02[/B][/COLOR]</title>
+                    <title>[COLOR white][B]ASSÃ‰DIO - EugÃªnia - EPISÓDIO - 02[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]ASDIOT01EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/ass1t/ass1t.jpg</thumbnail>
                     <fanart>https://archive.org/download/ass1t/ass1t.jpg</fanart>
                     <info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]O carÃ¡ter de Roger Ã© duvidoso nÃ£o sÃ³ entre suas pacientes. Enquanto Stela vÃª o sonho de ser mÃ£e acabar, GlÃ³ria, esposa do mÃ©dico, descobre mais uma traiÃ§Ã£o.</info>
                 </item>
                 <item>
-                    <title>[COLOR white][B]ASSÃ‰DIO - Maria JosÃ© - EPISÃ“DIO - 03[/B][/COLOR]</title>
+                    <title>[COLOR white][B]ASSÃ‰DIO - Maria JosÃ© - EPISÓDIO - 03[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]ASDIOT01EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/ass1t/ass1t.jpg</thumbnail>
                     <fanart>https://archive.org/download/ass1t/ass1t.jpg</fanart>
                     <info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]EugÃªnia Ã© vÃ­tima de Roger, conta ao marido e eles registram uma denÃºncia no cartÃ³rio. Sem conhecer a histÃ³ria, Mira tenta investigar o mÃ©dico, mas nÃ£o tem provas.</info>
                 </item>
                 <item>
-                    <title>[COLOR white][B]ASSÃ‰DIO - Vera - EPISÃ“DIO - 04[/B][/COLOR]</title>
+                    <title>[COLOR white][B]ASSÃ‰DIO - Vera - EPISÓDIO - 04[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]ASDIOT01EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/ass1t/ass1t.jpg</thumbnail>
                     <fanart>https://archive.org/download/ass1t/ass1t.jpg</fanart>
                     <info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Stela atenta contra a prÃ³pria vida. EugÃªnia duvida que o marido seja o pai de seu bebÃª. GlÃ³ria descobre um cÃ¢ncer. Mira ainda nÃ£o tem provas contra Roger.</info>
                 </item>
                 <item>
-                    <title>[COLOR white][B]ASSÃ‰DIO - Daiane - EPISÃ“DIO - 05[/B][/COLOR]</title>
+                    <title>[COLOR white][B]ASSÃ‰DIO - Daiane - EPISÓDIO - 05[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]ASDIOT01EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/ass1t/ass1t.jpg</thumbnail>
                     <fanart>https://archive.org/download/ass1t/ass1t.jpg</fanart>
                     <info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Maria JosÃ© Ã© mais uma vÃ­tima de Roger, que inicia um caso com Carolina. GlÃ³ria descobre a traiÃ§Ã£o. Tamires, sua filha, e Mira acham uma comunidade com acusaÃ§Ãµes contra o mÃ©dico.</info>
                 </item>
                 <item>
-                    <title>[COLOR white][B]ASSÃ‰DIO - Eva - EPISÃ“DIO - 06[/B][/COLOR]</title>
+                    <title>[COLOR white][B]ASSÃ‰DIO - Eva - EPISÓDIO - 06[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]ASDIOT01EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/ass1t/ass1t.jpg</thumbnail>
                     <fanart>https://archive.org/download/ass1t/ass1t.jpg</fanart>
                     <info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Os filhos vÃ£o Ã  festa de Roger incomodados com as acusaÃ§Ãµes contra o pai. Mira e Stela se conhecem e a jornalista percebe que foi ela quem fez as denÃºncias contra o mÃ©dico.</info>
                 </item>
                 <item>
-                    <title>[COLOR white][B]ASSÃ‰DIO - As Vozes - EPISÃ“DIO - 07[/B][/COLOR]</title>
+                    <title>[COLOR white][B]ASSÃ‰DIO - As Vozes - EPISÓDIO - 07[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]ASDIOT01EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/ass1t/ass1t.jpg</thumbnail>
                     <fanart>https://archive.org/download/ass1t/ass1t.jpg</fanart>
                     <info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]GlÃ³ria vÃª a doenÃ§a avanÃ§ar e Mira convence Stela a depor. Daiane Ã© outra vÃ­tima de Roger. Carolina abandona o marido.</info>
                 </item>
                 <item>
-                    <title>[COLOR white][B]ASSÃ‰DIO - O Processo - EPISÃ“DIO - 08[/B][/COLOR]</title>
+                    <title>[COLOR white][B]ASSÃ‰DIO - O Processo - EPISÓDIO - 08[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]ASDIOT01EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/ass1t/ass1t.jpg</thumbnail>
                     <fanart>https://archive.org/download/ass1t/ass1t.jpg</fanart>
                     <info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Com a ajuda de Mira, o MinistÃ©rio PÃºblico abre um inquÃ©rito policial e Roger Ã© intimado. A histÃ³ria vai parar nos jornais. O mÃ©dico perde o apoio dos filhos</info>
                 </item>
                 <item>
-                    <title>[COLOR white][B]ASSÃ‰DIO - O Julgamento - EPISÃ“DIO - 09[/B][/COLOR]</title>
+                    <title>[COLOR white][B]ASSÃ‰DIO - O Julgamento - EPISÓDIO - 09[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]ASDIOT01EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/ass1t/ass1t.jpg</thumbnail>
                     <fanart>https://archive.org/download/ass1t/ass1t.jpg</fanart>
                     <info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]O registro de Roger Ã© cassado e ele tem o julgamento marcado. Carolina fica ao lado do mÃ©dico.</info>
                 </item>
                 <item>
-                    <title>[COLOR white][B]ASSÃ‰DIO - A Busca - EPISÃ“DIO - 10[/B][/COLOR]</title>
+                    <title>[COLOR white][B]ASSÃ‰DIO - A Busca - EPISÓDIO - 10[/B][/COLOR]</title>
                     <link>$doregex[repository.KallPlay1]ASDIOT01EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
                     <thumbnail>https://archive.org/download/ass1t/ass1t.jpg</thumbnail>
                     <fanart>https://archive.org/download/ass1t/ass1t.jpg</fanart>
