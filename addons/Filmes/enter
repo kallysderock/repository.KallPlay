@@ -1,60 +1,64 @@
-
 <channels>
 <channel>
-<name>[COLOR red]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]CANAIS[/COLOR] [COLOR red][B]KP[/B][/COLOR][COLORyellow][B]Multi-Addons[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white] AO VIVO [/COLOR] [COLOR yellow]|[/COLOR]</name>
-<thumbnail>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/Lcan</externallink>
-<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR red][B]CANAIS[/B][/COLOR] </name>
+<thumbnail>https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kallysderock/KallPlay/master/Canais/TvOn</externallink>
+<fanart>https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png</fanart>
 <info>
 
 
-[COLOR yellow]|[/COLOR]- SERVIDORES NOVOS TODOS OS DIAS -[COLOR yellow]|[/COLOR]</info>
+[COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
 
 <channels>
 <channel>
-<name>[COLOR red]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]MOVIES[/COLOR] [COLOR red][B]KP[/B][/COLOR][COLORyellow][B]Multi-Addons[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white] VOD [/COLOR] [COLOR yellow]|[/COLOR]</name>
-<thumbnail>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/icon.png</thumbnail>
+<name>[COLOR gold]|[/COLOR] [COLOR aquamarine][B]KALL[/B][/COLOR][COLOR white][B]PLAY[/B][/COLOR][COLOR gold]|[/COLOR][COLOR blue][B]MOVIES[/B][/COLOR]</name>
+<thumbnail>https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Can/movies</externallink>
-<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
+<fanart>https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png</fanart>
 <info>
 
 
-[COLOR yellow]|[/COLOR]- FILMES NOVOS TODOS OS DIAS -[COLOR yellow]|[/COLOR]</info>
+[COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 
 <channels>
 <channel>
-<name>[COLOR red]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]SÉRIES[/COLOR] [COLOR red][B]KP[/B][/COLOR][COLORyellow][B]Multi-Addons[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]ESPORÁDICAS E TEMPORÁRIAS [/COLOR] [COLOR yellow]|[/COLOR]</name>
-<thumbnail>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/icon.png</thumbnail>
+<name>[COLOR gold]|[/COLOR] [COLOR aquamarine][B]KALL[/B][/COLOR][COLOR white][B]PLAY[/B][/COLOR][COLOR gold]|[/COLOR][COLOR red][B]SÉRIES[/B][/COLOR]</name>
+<thumbnail>https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/series/tvshows</externallink>
-<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
+<fanart>https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png</fanart>
 <info>
 
 
-[COLOR yellow]|[/COLOR]- SÉRIES LEGAIS DO MOMENTO -[COLOR yellow]|[/COLOR]</info>
+[COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
 <channel>
-<name>[COLOR red]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]DESENHOS[/COLOR] [COLOR red][B]KP[/B][/COLOR][COLORyellow][B]Multi-Addons[/B][/COLOR] [COLOR yellow]|[/COLOR] [COLOR white]VARIADOS [/COLOR] [COLOR yellow]|[/COLOR]</name>
-<thumbnail>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/icon.png</thumbnail>
+<name>[COLOR gold]|[/COLOR][COLOR aquamarine][B]KALL[/B][/COLOR][COLOR white][B]PLAY[/B][/COLOR][COLOR gold]|[/COLOR][COLOR cyan][B]DESENHOS[/B][/COLOR]</name>
+<thumbnail>https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Desenhos/desenhos</externallink>
-<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
+<fanart>https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png</fanart>
 <info>
 
 
-[COLOR yellow]|[/COLOR]- DESENHOS VARIADOS -[COLOR yellow]|[/COLOR]</info>
+[COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
