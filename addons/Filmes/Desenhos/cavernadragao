@@ -1,0 +1,204 @@
+
+
+<!DOCTYPE html><html><script>location.href = "";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<item>
+ <title>[COLOR red][B]1Âª Temporada[/B][/COLOR][COLOR yellow][B] (1983)[/B][/COLOR]</title>
+ <link>here</link>
+ <thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 01[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/01caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 02[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/01caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 03[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/01caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 04[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/01caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 05[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/01caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 06[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/01caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 07[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/01caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 08[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/01caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 09[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/01caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 10[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/01caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 11[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/01caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 12[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/01caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 13[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP13.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/01caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+
+
+
+<item>
+ <title>[COLOR red][B]2Âª Temporada[/B][/COLOR][COLOR yellow][B] (1984)[/B][/COLOR]</title>
+ <link>here</link>
+ <thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 14[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP14.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/02caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 15[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP15.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/02caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 16[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP16.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/02caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 17[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP17.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/02caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 18[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP18.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/02caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 19[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP19.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/02caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 20[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP20.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/02caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 21[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP21.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/02caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+
+
+
+<item>
+ <title>[COLOR red][B]3Âª Temporada[/B][/COLOR][COLOR yellow][B] (1985)[/B][/COLOR]</title>
+ <link>here</link>
+ <thumbnail></thumbnail>
+</item>
+
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 22[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP22.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/03caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 23[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP23.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/03caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 24[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP24.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/03caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 25[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP25.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/03caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 26[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP26.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/03caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 27[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP27.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/03caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Caverna do DragÃ£o - [COLOR yellow][B]EPISÃ“DIO 28[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]CVRNDDRGEP28.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia801409.us.archive.org/8/items/fancaverna/03caverna.jpg</thumbnail>
+ <fanart>https://archive.org/download/fancaverna/fancaverna.jpg</fanart>
+</item>

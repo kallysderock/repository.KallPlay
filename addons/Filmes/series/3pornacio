@@ -1,0 +1,293 @@
+
+<!DOCTYPE html><html><script>location.href = "";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+<item>
+<title>[COLOR red][B]1Âª TEMPORADA[/B][/COLOR] - [COLOR yellow][B](2016)[/B][/COLOR]</title>
+<link>here</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]3% - Cubos - [/COLOR][COLOR yellow][B]EpisÃ³dio - 01[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT01EP01.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3port.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white]3% - Moedas - [/COLOR][COLOR yellow][B]EpisÃ³dio - 02[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT01EP02.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3port.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white]3% - Corredor - [/COLOR][COLOR yellow][B]EpisÃ³dio - 03[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT01EP03.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3port.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white]3% - PortÃ£o - [/COLOR][COLOR yellow][B]EpisÃ³dio - 04[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT01EP04.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3port.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white]3% - Ãgua - [/COLOR][COLOR yellow][B]EpisÃ³dio - 05[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT01EP05.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3port.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white]3% - Vidro - [/COLOR][COLOR yellow][B]EpisÃ³dio - 06[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT01EP06.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3port.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white]3% - CÃ¡psula - [/COLOR][COLOR yellow][B]EpisÃ³dio - 07[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT01EP07.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3port.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white]3% - BotÃ£o - [/COLOR][COLOR yellow][B]EpisÃ³dio - 08[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT01EP08.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc11"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3port.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR red][B]2Âª TEMPORADA[/B][/COLOR] - [COLOR yellow][B](2018)[/B][/COLOR]</title>
+<link>here</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]3% - Espelho - [/COLOR][COLOR yellow][B]EpisÃ³dio - 01[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT02EP01.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3por2.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white]3% - Torredeira - [/COLOR][COLOR yellow][B]EpisÃ³dio - 02[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT02EP02.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3por2.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white]3% - EstÃ¡tica - [/COLOR][COLOR yellow][B]EpisÃ³dio - 03[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT02EP03.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3por2.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white]3% - Guardanapo - [/COLOR][COLOR yellow][B]EpisÃ³dio - 04[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT02EP04.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3por2.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white]3% - LampiÃ£o - [/COLOR][COLOR yellow][B]EpisÃ³dio - 05[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT02EP05.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3por2.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white]3% - Garrafas - [/COLOR][COLOR yellow][B]EpisÃ³dio - 06[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT02EP06.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3por2.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white]3% - NÃ©voa - [/COLOR][COLOR yellow][B]EpisÃ³dio - 07[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT02EP07.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3por2.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white]3% - Sapos - [/COLOR][COLOR yellow][B]EpisÃ³dio - 08[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT02EP08.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3por2.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white]3% - Colar - [/COLOR][COLOR yellow][B]EpisÃ³dio - 09[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT02EP09.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3por2.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white]3% - Sangue - [/COLOR][COLOR yellow][B]EpisÃ³dio - 10[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT02EP10.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3por2.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR red][B]3Âª TEMPORADA[/B][/COLOR] - [COLOR yellow][B](2019)[/B][/COLOR]</title>
+<link>here</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR white]3% - Areia - [/COLOR][COLOR yellow][B]EpisÃ³dio - 01[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT03EP01.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3por3.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white]3% - LÃ¢mina - [/COLOR][COLOR yellow][B]EpisÃ³dio - 02[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT03EP02.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3por3.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white]3% - RemÃ©dio - [/COLOR][COLOR yellow][B]EpisÃ³dio - 03[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT03EP03.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3por3.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white]3% - Pato - [/COLOR][COLOR yellow][B]EpisÃ³dio - 04[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT03EP04.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3por3.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white]3% - Alavanca - [/COLOR][COLOR yellow][B]EpisÃ³dio - 05[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT03EP05.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3por3.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white]3% - AlÃ§apÃ£o - [/COLOR][COLOR yellow][B]EpisÃ³dio - 06[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT03EP06.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3por3.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white]3% - Jardrone - [/COLOR][COLOR yellow][B]EpisÃ³dio - 07[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT03EP07.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3por3.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white]3% - Onda - [/COLOR][COLOR yellow][B]EpisÃ³dio - 08[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]3PRCT03EP08.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/33/items/3porfan/3por3.jpg</thumbnail>
+<fanart>https://archive.org/download/3porfan/3porfan.jpg</fanart>
+</item>

@@ -1,0 +1,130 @@
+
+
+<!DOCTYPE html><html><script>location.href = "";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+<item>
+<title>[COLOR red][B]1Â° - TEMPORADA[/B][/COLOR]</title>
+<link>here</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][B]DARK - Segredos - [COLOR white]1x1[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DRKT01EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601402.us.archive.org/10/items/darfan2/dark.jpg</thumbnail>
+<fanart>https://ia601402.us.archive.org/10/items/darfan2/darkfan1.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]DARK - Mentiras - [COLOR white]1x2[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DRKT01EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601402.us.archive.org/10/items/darfan2/dark.jpg</thumbnail>
+<fanart>https://ia601402.us.archive.org/10/items/darfan2/darkfan1.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]DARK - Passado e Presente - [COLOR white]1x3[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DRKT01EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601402.us.archive.org/10/items/darfan2/dark.jpg</thumbnail>
+<fanart>https://ia601402.us.archive.org/10/items/darfan2/darkfan1.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]DARK - Vidas Duplas - [COLOR white]1x4[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DRKT01EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601402.us.archive.org/10/items/darfan2/dark.jpg</thumbnail>
+<fanart>https://ia601402.us.archive.org/10/items/darfan2/darkfan1.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]DARK - Verdades - [COLOR white]1x5[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DRKT01EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601402.us.archive.org/10/items/darfan2/dark.jpg</thumbnail>
+<fanart>https://ia601402.us.archive.org/10/items/darfan2/darkfan1.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]DARK - Assim Foi Criado o Mundo - [COLOR white]1x6[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DRKT01EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601402.us.archive.org/10/items/darfan2/dark.jpg</thumbnail>
+<fanart>https://ia601402.us.archive.org/10/items/darfan2/darkfan1.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]DARK - Ponto CrÃ­tico - [COLOR white]1x7[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DRKT01EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601402.us.archive.org/10/items/darfan2/dark.jpg</thumbnail>
+<fanart>https://ia601402.us.archive.org/10/items/darfan2/darkfan1.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]DARK - VocÃª Colhe o Que Planta - [COLOR white]1x8[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DRKT01EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601402.us.archive.org/10/items/darfan2/dark.jpg</thumbnail>
+<fanart>https://ia601402.us.archive.org/10/items/darfan2/darkfan1.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]DARK - Tudo Acontece Agora - [COLOR white]1x9[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DRKT01EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601402.us.archive.org/10/items/darfan2/dark.jpg</thumbnail>
+<fanart>https://ia601402.us.archive.org/10/items/darfan2/darkfan1.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]DARK - Alfa e Ã”mega - [COLOR white]1x10[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DRKT01EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601402.us.archive.org/10/items/darfan2/dark.jpg</thumbnail>
+<fanart>https://ia601402.us.archive.org/10/items/darfan2/darkfan1.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR red][B]2Â° - TEMPORADA[/B][/COLOR]</title>
+<link>here</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][B]DARK - ComeÃ§os e Fins - [COLOR yellow]2x1[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DRKT02EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601402.us.archive.org/10/items/darfan2/dark2.jpg</thumbnail>
+<fanart>https://archive.org/download/darfan2/darfan2.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]DARK - MatÃ©ria escura - [COLOR yellow]2x2[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DRKT02EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601402.us.archive.org/10/items/darfan2/dark2.jpg</thumbnail>
+<fanart>https://archive.org/download/darfan2/darfan2.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]DARK - Fantasmas - [COLOR yellow]2x3[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DRKT02EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601402.us.archive.org/10/items/darfan2/dark2.jpg</thumbnail>
+<fanart>https://archive.org/download/darfan2/darfan2.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]DARK - Os Viajantes - [COLOR yellow]2x4[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DRKT02EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601402.us.archive.org/10/items/darfan2/dark2.jpg</thumbnail>
+<fanart>https://archive.org/download/darfan2/darfan2.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]DARK - Achados e Perdidos - [COLOR yellow]2x5[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DRKT02EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601402.us.archive.org/10/items/darfan2/dark2.jpg</thumbnail>
+<fanart>https://archive.org/download/darfan2/darfan2.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]DARK - Ciclo sem fim - [COLOR yellow]2x6[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DRKT02EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601402.us.archive.org/10/items/darfan2/dark2.jpg</thumbnail>
+<fanart>https://archive.org/download/darfan2/darfan2.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]DARK - Diabo Branco - [COLOR yellow]2x7[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DRKT02EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601402.us.archive.org/10/items/darfan2/dark2.jpg</thumbnail>
+<fanart>https://archive.org/download/darfan2/darfan2.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]DARK - Fins e ComeÃ§os - [COLOR yellow]2x8[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DRKT02EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601402.us.archive.org/10/items/darfan2/dark2.jpg</thumbnail>
+<fanart>https://archive.org/download/darfan2/darfan2.jpg</fanart>
+</item>

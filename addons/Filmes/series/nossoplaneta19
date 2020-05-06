@@ -1,0 +1,55 @@
+
+<!DOCTYPE html><html><script>location.href = "";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+<item>
+<title>[COLOR red][B]1Âª Temporada[/B][/COLOR][COLOR yellow][B] (2019)[/B][/COLOR]</title>
+<link>ignora</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item><title>[COLOR white][B][COLOR white]Nosso Planeta - [COLOR yellow]EPISÃ“DIO 01[/B][/COLOR]</title>
+<thumbnail>https://ia601503.us.archive.org/17/items/0planetafan/0PLANETA.jpg</thumbnail>
+<fanart>https://ia601503.us.archive.org/20/items/0planetafan_201912/0PLANETAFAN.jpg</fanart>
+<link>$doregex[repository.KallPlay1]NOSOPLNTAT01EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+</item>
+<item><title>[COLOR white][B][COLOR white]Nosso Planeta - [COLOR yellow]EPISÃ“DIO 02[/B][/COLOR]</title>
+<thumbnail>https://ia601503.us.archive.org/17/items/0planetafan/0PLANETA.jpg</thumbnail>
+<fanart>https://ia601503.us.archive.org/20/items/0planetafan_201912/0PLANETAFAN.jpg</fanart>
+<link>$doregex[repository.KallPlay1]NOSOPLNTAT01EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+</item>
+<item><title>[COLOR white][B][COLOR white]Nosso Planeta - [COLOR yellow]EPISÃ“DIO 03[/B][/COLOR]</title>
+<thumbnail>https://ia601503.us.archive.org/17/items/0planetafan/0PLANETA.jpg</thumbnail>
+<fanart>https://ia601503.us.archive.org/20/items/0planetafan_201912/0PLANETAFAN.jpg</fanart>
+<link>$doregex[repository.KallPlay1]NOSOPLNTAT01EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+</item>
+<item><title>[COLOR white][B][COLOR white]Nosso Planeta - [COLOR yellow]EPISÃ“DIO 04[/B][/COLOR]</title>
+<thumbnail>https://ia601503.us.archive.org/17/items/0planetafan/0PLANETA.jpg</thumbnail>
+<fanart>https://ia601503.us.archive.org/20/items/0planetafan_201912/0PLANETAFAN.jpg</fanart>
+<link>$doregex[repository.KallPlay1]NOSOPLNTAT01EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+</item>
+<item><title>[COLOR white][B][COLOR white]Nosso Planeta - [COLOR yellow]EPISÃ“DIO 05[/B][/COLOR]</title>
+<thumbnail>https://ia601503.us.archive.org/17/items/0planetafan/0PLANETA.jpg</thumbnail>
+<fanart>https://ia601503.us.archive.org/20/items/0planetafan_201912/0PLANETAFAN.jpg</fanart>
+<link>$doregex[repository.KallPlay1]NOSOPLNTAT01EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+</item>
+<item><title>[COLOR white][B][COLOR white]Nosso Planeta - [COLOR yellow]EPISÃ“DIO 06[/B][/COLOR]</title>
+<thumbnail>https://ia601503.us.archive.org/17/items/0planetafan/0PLANETA.jpg</thumbnail>
+<fanart>https://ia601503.us.archive.org/20/items/0planetafan_201912/0PLANETAFAN.jpg</fanart>
+<link>$doregex[repository.KallPlay1]NOSOPLNTAT01EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+</item>
+<item><title>[COLOR white][B][COLOR white]Nosso Planeta - [COLOR yellow]EPISÃ“DIO 07[/B][/COLOR]</title>
+<thumbnail>https://ia601503.us.archive.org/17/items/0planetafan/0PLANETA.jpg</thumbnail>
+<fanart>https://ia601503.us.archive.org/20/items/0planetafan_201912/0PLANETAFAN.jpg</fanart>
+<link>$doregex[repository.KallPlay1]NOSOPLNTAT01EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+</item>
+<item><title>[COLOR white][B][COLOR white]Nosso Planeta - [COLOR yellow]EPISÃ“DIO 08[/B][/COLOR]</title>
+<thumbnail>https://ia601503.us.archive.org/17/items/0planetafan/0PLANETA.jpg</thumbnail>
+<fanart>https://ia601503.us.archive.org/20/items/0planetafan_201912/0PLANETAFAN.jpg</fanart>
+<link>$doregex[repository.KallPlay1]NOSOPLNTAT01EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+</item>

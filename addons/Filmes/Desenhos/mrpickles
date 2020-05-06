@@ -1,0 +1,341 @@
+
+<!DOCTYPE html><html><script>location.href = "";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+<item>
+<title>[COLOR red][B]1Âª Temporada[/B][/COLOR][COLOR yellow][B] (2014)[/B][/COLOR] - DUBLADO</title>
+<link>ignora</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 1[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST01EP01.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia801501.us.archive.org/1/items/0fan_20200123/01pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 2[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST01EP02.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia801501.us.archive.org/1/items/0fan_20200123/01pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>OFF - [B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 3[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST01EP03.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia801501.us.archive.org/1/items/0fan_20200123/01pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 4[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST01EP04.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia801501.us.archive.org/1/items/0fan_20200123/01pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 5[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST01EP05.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia801501.us.archive.org/1/items/0fan_20200123/01pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 6[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST01EP06.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia801501.us.archive.org/1/items/0fan_20200123/01pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 7[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST01EP07.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia801501.us.archive.org/1/items/0fan_20200123/01pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 8[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST01EP08.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia801501.us.archive.org/1/items/0fan_20200123/01pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 9[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST01EP09.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia801501.us.archive.org/1/items/0fan_20200123/01pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 10[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST01EP10.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia801501.us.archive.org/1/items/0fan_20200123/01pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR red][B]2Âª Temporada[/B][/COLOR][COLOR yellow][B] (2016)[/B][/COLOR] - DUBLADO</title>
+<link>ignora</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 1[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST02EP01.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia801501.us.archive.org/1/items/0fan_20200123/02pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 2[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST02EP02.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia801501.us.archive.org/1/items/0fan_20200123/02pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 3[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST02EP03.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia801501.us.archive.org/1/items/0fan_20200123/02pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 4[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST02EP04.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia801501.us.archive.org/1/items/0fan_20200123/02pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 5[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST02EP05.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia801501.us.archive.org/1/items/0fan_20200123/02pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 6[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST02EP06.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia801501.us.archive.org/1/items/0fan_20200123/02pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 7[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST02EP07.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia801501.us.archive.org/1/items/0fan_20200123/02pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 8[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST02EP08.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia801501.us.archive.org/1/items/0fan_20200123/02pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 9[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST02EP09.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia801501.us.archive.org/1/items/0fan_20200123/02pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 10[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST02EP10.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia801501.us.archive.org/1/items/0fan_20200123/02pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR red][B]3Âª Temporada[/B][/COLOR][COLOR yellow][B] (2018)[/B][/COLOR] - DUBLADO</title>
+<link>ignora</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 1[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST03EP01.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601501.us.archive.org/1/items/0fan_20200123/03pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 2[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST03EP02.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601501.us.archive.org/1/items/0fan_20200123/03pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 3[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST03EP03.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601501.us.archive.org/1/items/0fan_20200123/03pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 4[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST03EP04.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601501.us.archive.org/1/items/0fan_20200123/03pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 5[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST03EP05.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601501.us.archive.org/1/items/0fan_20200123/03pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 6[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST03EP06.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601501.us.archive.org/1/items/0fan_20200123/03pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 7[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST03EP07.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601501.us.archive.org/1/items/0fan_20200123/03pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 8[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST03EP08.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601501.us.archive.org/1/items/0fan_20200123/03pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 9[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST03EP09.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601501.us.archive.org/1/items/0fan_20200123/03pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]Mr. Pickles[/COLOR] - [COLOR yellow]EPISÃ“DIO - 10[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]MRPCKLST03EP10.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601501.us.archive.org/1/items/0fan_20200123/03pic.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/1/items/0fan_20200123/0fan.jpg</fanart>
+</item>

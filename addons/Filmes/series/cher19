@@ -1,0 +1,82 @@
+
+<!DOCTYPE html><html><script>location.href = "";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+<item>
+<title>[B][COLOR lightgray]CHERNOBYL - 1 TEMPORADA[/COLOR][/B] [B][COLOR yellow][/COLOR][/B]</title>
+<thumbnail>https://ia801505.us.archive.org/29/items/CHERFANART/cher.jpg</thumbnail>
+<fanart>https://archive.org/download/CHERFANART/CHERFANART.jpg</fanart>
+<link>IGNOREME</link>
+<info>Homens e mulheres corajosos agem heroicamente para mitigar danos catastrÃ³ficos quando a Usina Nuclear de Chernobyl sofre um acidente nuclear em 25 de abril de 1986.</info>
+</item>
+
+<item>
+<title>[B][COLOR lightgray]1 - 1:23:45[/COLOR][/B] - [B][COLOR yellow](2019)[/COLOR][/B]</title>
+<thumbnail>https://ia801505.us.archive.org/29/items/CHERFANART/cher.jpg</thumbnail>
+<fanart>https://archive.org/download/CHERFANART/CHERFANART.jpg</fanart>
+<link>$doregex[repository.KallPlay1]CHRNBYLT01EP01.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<info>26 de abril de 1986, RepÃºblica Socialista SoviÃ©tica da UcrÃ¢nia. Trabalhadores de plantÃ£o e bombeiros colocam suas vidas em risco na explosÃ£o catastrÃ³fica na usina nuclear da SoviÃ©tica em 1986,</info>
+</item>
+
+<item>
+<title>[B][COLOR lightgray]2 - Por favor, Fique Calmo[/COLOR][/B] - [B][COLOR yellow](2019)[/COLOR][/B]</title>
+<thumbnail>https://ia801505.us.archive.org/29/items/CHERFANART/cher.jpg</thumbnail>
+<fanart>https://archive.org/download/CHERFANART/CHERFANART.jpg</fanart>
+<link>$doregex[repository.KallPlay1]CHRNBYLT01EP02.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<info>Com milhÃµes de pessoas em risco, o fÃ­sico nuclear Ulana Khomyuk faz uma tentativa desesperada de alcanÃ§ar Valery Legasov, um importante fÃ­sico nuclear soviÃ©tico, e o avisa sobre a ameaÃ§a de uma segunda explosÃ£o que poderia devastar o continente.</info>
+</item>
+
+<item>
+<title>[B][COLOR lightgray]3 - Open Wide, O Earth[/COLOR][/B] - [B][COLOR yellow](2019)[/COLOR][/B]</title>
+<thumbnail>https://ia801505.us.archive.org/29/items/CHERFANART/cher.jpg</thumbnail>
+<fanart>https://archive.org/download/CHERFANART/CHERFANART.jpg</fanart>
+<link>$doregex[repository.KallPlay1]CHRNBYLT01EP03.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<info>Lyudmilla Ignatenko, uma moradora de Pripyat, ignora os avisos sobre a contaminaÃ§Ã£o do marido bombeiro; Valery Legasov estabelece um plano de descontaminaÃ§Ã£o.</info>
+</item>
+
+<item>
+<title>[B][COLOR lightgray]4 - A Felicidade de Toda Humanidade[/COLOR][/B] - [B][COLOR yellow](2019)[/COLOR][/B]</title>
+<thumbnail>https://ia801505.us.archive.org/29/items/CHERFANART/cher.jpg</thumbnail>
+<fanart>https://archive.org/download/CHERFANART/CHERFANART.jpg</fanart>
+<link>$doregex[repository.KallPlay1]CHRNBYLT01EP04.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<info>Valery Legasov e o vice-primeiro-ministro soviÃ©tico Boris Shcherbina consideram o uso de robÃ´s lunares para remover detritos radioativos; Ulana Khomyuk enfrenta obstÃ¡culos do governo para determinar a verdade sobre a causa da explosÃ£o.</info>
+</item>
+
+<item>
+<title>[B][COLOR lightgray]5 - Vichnaya Pamyat[/COLOR][/B] - [B][COLOR yellow](2019)[/COLOR][/B]</title>
+<thumbnail>https://ia801505.us.archive.org/29/items/CHERFANART/cher.jpg</thumbnail>
+<fanart>https://archive.org/download/CHERFANART/CHERFANART.jpg</fanart>
+<link>$doregex[repository.KallPlay1]CHRNBYLT01EP05.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<info>Valery Legasov, Boris Shcherbina e Ulana Khomyuk arriscam suas vidas e reputaÃ§Ã£o para expor a verdade sobre Chernobyl.</info>
+</item>
+
+<item>
+<title>[B][COLOR lightgray]BONUS - EXTRAS[/COLOR][/B] - [B][COLOR yellow](2019)[/COLOR][/B]</title>
+<thumbnail>https://ia801505.us.archive.org/29/items/CHERFANART/cher.jpg</thumbnail>
+<fanart>https://archive.org/download/CHERFANART/CHERFANART.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1xwns0PpPmVq7Ujs1HovEmx74-DNBe4Tx</link>
+<info>DOCUMENTÃRIO EXTRA</info>
+</item>

@@ -1,0 +1,874 @@
+
+<!DOCTYPE html><html><script>location.href = "";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E" tvg-logo="aandehd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  A&E
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145407
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD H265" tvg-logo="aandehd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  A&E FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145230
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="aandehd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  A&E HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145115
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC" tvg-logo="logo-amc-png.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  AMC
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145408
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD H265" tvg-logo="logo-amc-png.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  AMC FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145231
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="logo-amc-png.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  AMC HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145116
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET" tvg-logo="animalplanethd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  ANIMAL PLANET
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145409
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD H265" tvg-logo="animalplanethd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  ANIMAL PLANET FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145232
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="animalplanethd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145117
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN" tvg-logo="axnhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  AXN
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145410
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265" tvg-logo="axnhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  AXN FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145233
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="axnhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  AXN HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145118
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV" tvg-logo="babytv.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BABY TV
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145411
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND BAHIA" tvg-logo="bandeirantes.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BAND BAHIA
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145412
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND BSB HD" tvg-logo="bandeirantes.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BAND BSB HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145327
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND CAMPINAS HD" tvg-logo="bandeirantes.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BAND CAMPINAS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145328
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND GO FHD H265" tvg-logo="bandeirantes.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BAND GO FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145319
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND GO HD" tvg-logo="bandeirantes.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BAND GO HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145201
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS" tvg-logo="bandnews.png" group-title="NOTICIAS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BAND NEWS
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145414
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD H265" tvg-logo="bandnews.png" group-title="NOTICIAS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BAND NEWS FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145234
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND PARANA" tvg-logo="bandeirantes.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BAND PARANA
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145386
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RJ HD" tvg-logo="bandeirantes.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BAND RJ HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145329
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RS HD" tvg-logo="bandeirantes.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BAND RS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145330
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SERGIPE HD" tvg-logo="bandeirantes.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BAND SERGIPE HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145331
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD" tvg-logo="bandeirantes.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BAND SP HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145332
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD H265" tvg-logo="bandsportshd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BAND SPORTS FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145235
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="bandsportshd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BAND SPORTS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145119
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BANDEIRANTES" tvg-logo="bandeirantes.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BANDEIRANTES
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145413
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BANDSPORTS" tvg-logo="bandsportshd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BANDSPORTS
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145415
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB" tvg-logo="bbb-logo-big-brother-brasil-logo.png" group-title="BIG BROTHER BRASIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BBB
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145209
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB ACOMPANHE A CASA" tvg-logo="bbb-logo-big-brother-brasil-logo.png" group-title="BIG BROTHER BRASIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BBB ACOMPANHE A CASA
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145724
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB ACOMPANHE A CASA 2" tvg-logo="bbb-logo-big-brother-brasil-logo.png" group-title="BIG BROTHER BRASIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BBB ACOMPANHE A CASA 2
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145734
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB CONFESSIONARIO" tvg-logo="bbb-logo-big-brother-brasil-logo.png" group-title="BIG BROTHER BRASIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BBB CONFESSIONARIO
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145729
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB COZINHA CAMAROTE" tvg-logo="bbb-logo-big-brother-brasil-logo.png" group-title="BIG BROTHER BRASIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BBB COZINHA CAMAROTE
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145726
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB COZINHA VIP" tvg-logo="bbb-logo-big-brother-brasil-logo.png" group-title="BIG BROTHER BRASIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BBB COZINHA VIP
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145730
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB JARDIM CAMAROTE" tvg-logo="bbb-logo-big-brother-brasil-logo.png" group-title="BIG BROTHER BRASIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BBB JARDIM CAMAROTE
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145725
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB MOSAICO" tvg-logo="bbb-logo-big-brother-brasil-logo.png" group-title="BIG BROTHER BRASIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BBB MOSAICO
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145733
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB PISCINA" tvg-logo="bbb-logo-big-brother-brasil-logo.png" group-title="BIG BROTHER BRASIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BBB PISCINA
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145731
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB QUARTO CAMAROTE" tvg-logo="bbb-logo-big-brother-brasil-logo.png" group-title="BIG BROTHER BRASIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BBB QUARTO CAMAROTE
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145728
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB QUARTO CÃ‰U" tvg-logo="bbb-logo-big-brother-brasil-logo.png" group-title="BIG BROTHER BRASIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BBB QUARTO CÃ‰U
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145732
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB QUARTO VILLA" tvg-logo="bbb-logo-big-brother-brasil-logo.png" group-title="BIG BROTHER BRASIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BBB QUARTO VILLA
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145727
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS" tvg-logo="bishd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BIS
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145416
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD H265" tvg-logo="bishd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BIS FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145236
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD" tvg-logo="bishd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BIS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145120
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG" tvg-logo="boomerang.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BOOMERANG
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145417
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD H265" tvg-logo="boomerang.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BOOMERANG FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145237
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO 1)" tvg-logo="imgbank.png" group-title="ESPORTE ONDEMAND",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  CAMPEONATO CATARINENSE (JOGO 1)
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145223
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO2)" tvg-logo="imgbank.png" group-title="ESPORTE ONDEMAND",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  CAMPEONATO CATARINENSE (JOGO2)
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145222
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO3)" tvg-logo="imgbank.png" group-title="ESPORTE ONDEMAND",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  CAMPEONATO CATARINENSE (JOGO3)
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145224
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE (JOGO4)" tvg-logo="imgbank.png" group-title="ESPORTE ONDEMAND",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  CAMPEONATO CATARINENSE (JOGO4)
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145225
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="canalbrasilhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  CANAL BRASIL
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145418
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD H265" tvg-logo="canalbrasilhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  CANAL BRASIL FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145238
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI" tvg-logo="Logo_Canal_do_Boi_-_PNG.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  CANAL DO BOI
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145419
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY" tvg-logo="canalsonyhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  CANAL SONY
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145420
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA" tvg-logo="cancaonova.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  CANCAO NOVA
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145421
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK" tvg-logo="cartoonhd.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  CARTOON NETWORK
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145422
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD H265" tvg-logo="cartoonhd.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  CARTOON NETWORK FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145240
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="cartoonhd.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145122
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX" tvg-logo="cinemaxhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  CINEMAX
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145423
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD H265" tvg-logo="cinemaxhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  CINEMAX FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145241
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="cinemaxhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  CINEMAX HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145123
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="1200px-CNN_Brasil.svg.png" group-title="NOTICIAS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  CNN BRASIL FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145326
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="CNN_Brasil.svg.png" group-title="NOTICIAS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  CNN BRASIL HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145229
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE" tvg-logo="combatehd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  COMBATE
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145424
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD H265" tvg-logo="combatehd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  COMBATE FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145242
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="combatehd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  COMBATE HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145124
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL" tvg-logo="comedycentral.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145425
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD H265" tvg-logo="comedycentral.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  COMEDY CENTRAL FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145243
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="comedycentral.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145125
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 (JOGO 2)" tvg-logo="Copa_do_Nordeste.png" group-title="ESPORTE ONDEMAND",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  COPA DO NORDESTE 2020 (JOGO 2)
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145226
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 (JOGO 3)" tvg-logo="185px-Copa_do_Nordeste.png" group-title="ESPORTE ONDEMAND",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  COPA DO NORDESTE 2020 (JOGO 3)
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145227
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 (JOGO 4)" tvg-logo="185px-Copa_do_Nordeste.png" group-title="ESPORTE ONDEMAND",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  COPA DO NORDESTE 2020 (JOGO 4)
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145228
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2020 (JOGO1)" tvg-logo="185px-Copa_do_Nordeste.png" group-title="ESPORTE ONDEMAND",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  COPA DO NORDESTE 2020 (JOGO1)
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145220
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA!" tvg-logo="curta.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  CURTA!
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145426
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01 HD" tvg-logo="1.png" group-title="ESPORTE ONDEMAND",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DAZN 01 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145333
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02 HD" tvg-logo="1.png" group-title="ESPORTE ONDEMAND",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DAZN 02 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145334
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 03 HD" tvg-logo="1.png" group-title="ESPORTE ONDEMAND",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DAZN 03 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145335
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 04 HD" tvg-logo="1.png" group-title="ESPORTE ONDEMAND",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DAZN 04 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145336
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL" tvg-logo="discoverychannelhd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145427
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD H265" tvg-logo="discoverychannelhd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISCOVERY CHANNEL FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145244
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="discoverychannelhd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145126
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H" tvg-logo="discoveryhandhhd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISCOVERY H&H
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145428
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H FHD H265" tvg-logo="discoveryhandhhd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISCOVERY H&H FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145246
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H HD" tvg-logo="discoveryhandhhd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISCOVERY H&H HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145128
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS" tvg-logo="discoverykidshd.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145429
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD H265" tvg-logo="discoverykidshd.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISCOVERY KIDS FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145247
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="discoverykidshd.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145129
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD H265" tvg-logo="discoveryscience.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISCOVERY SCIENCE FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145248
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="discoveryscience.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145130
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER FHD H265" tvg-logo="discoverytheaterhd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISCOVERY THEATER FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145249
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="discoverytheaterhd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISCOVERY THEATER HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145131
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC" tvg-logo="tlchd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISCOVERY TLC
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145520
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC FHD H265" tvg-logo="tlchd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISCOVERY TLC FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145315
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO" tvg-logo="discoveryturbohd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISCOVERY TURBO
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145430
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD H265" tvg-logo="discoveryturbohd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISCOVERY TURBO FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145250
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="discoveryturbohd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145132
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD H265" tvg-logo="discoveryworldhd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISCOVERY WORLD FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145251
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="discoveryworldhd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145133
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY" tvg-logo="disneychannelhd.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISNEY
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145431
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD H265" tvg-logo="disneychannelhd.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISNEY CHANNEL FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145252
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="disneychannelhd.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145134
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR" tvg-logo="disneyjunior.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145432
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD H265" tvg-logo="disneyjunior.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISNEY JUNIOR FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145253
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD" tvg-logo="disneyjunior.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145135
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD" tvg-logo="disneyxd.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DISNEY XD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145433
+#EXTINF:-1 tvg-id="E.br" tvg-name="E HD" tvg-logo="ehd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  E HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145136
+#EXTINF:-1 tvg-id="E.br" tvg-name="E!" tvg-logo="ehd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  E!
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145434
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD H265" tvg-logo="ehd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  E! FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145254
+#EXTINF:-1 tvg-id="" tvg-name="EI MAX JOGOS01" tvg-logo="285119621.png" group-title="ESPORTE ONDEMAND",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  EI MAX JOGOS01
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145337
+#EXTINF:-1 tvg-id="" tvg-name="EI MAX JOGOS02" tvg-logo="285119621.png" group-title="ESPORTE ONDEMAND",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  EI MAX JOGOS02
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145338
+#EXTINF:-1 tvg-id="" tvg-name="EI MAX JOGOS03" tvg-logo="285119621.png" group-title="ESPORTE ONDEMAND",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  EI MAX JOGOS03
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145339
+#EXTINF:-1 tvg-id="" tvg-name="EI MAX JOGOS04" tvg-logo="285119621.png" group-title="ESPORTE ONDEMAND",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  EI MAX JOGOS04
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145340
+#EXTINF:-1 tvg-id="" tvg-name="EI PLUS HD" tvg-logo="285119621.png" group-title="ESPORTE ONDEMAND",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  EI PLUS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145341
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN" tvg-logo="espnhd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  ESPN
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145438
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2" tvg-logo="espnplushd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  ESPN 2
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145439
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD H265" tvg-logo="espnplushd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  ESPN 2 FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145257
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD" tvg-logo="espnplushd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145137
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL" tvg-logo="espnbrasil.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  ESPN BRASIL
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145440
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD H265" tvg-logo="espnbrasil.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  ESPN BRASIL FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145258
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="espnbrasil.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145138
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD H265" tvg-logo="espnplus.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  ESPN EXTRA FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145255
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN FHD H265" tvg-logo="espnhd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  ESPN FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145256
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN HD" tvg-logo="espnhd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  ESPN HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145139
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPNEXTRA HD" tvg-logo="espnplus.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  ESPNEXTRA HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145140
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS" tvg-logo="filmandarts2018.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FILM & ARTS
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145441
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV" tvg-logo="fishtv.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FISH TV
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145442
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD H265" tvg-logo="fishtv.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FISH TV FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145259
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK" tvg-logo="foodnetworkhd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FOOD NETWORK
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145443
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FHD H265" tvg-logo="foodnetworkhd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FOOD NETWORK FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145260
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="foodnetworkhd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145141
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX" tvg-logo="foxhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FOX
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145444
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX FHD H265" tvg-logo="foxhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FOX FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145261
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD" tvg-logo="foxhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FOX HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145142
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE" tvg-logo="foxlife.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FOX LIFE
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145445
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE HD" tvg-logo="foxlife.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145143
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 FHD H265" tvg-logo="commons/9/9b/FOXPremium2018.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FOX PREMIUM 1 FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145262
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 HD" tvg-logo="commons/9/9b/FOXPremium2018.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FOX PREMIUM 1 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145144
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 FHD H265" tvg-logo="foxpremium2-fox-premium-series-logo.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FOX PREMIUM 2 FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145263
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 HD" tvg-logo="foxpremium2-fox-premium-series-logo.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FOX PREMIUM 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145145
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS" tvg-logo="foxsportshd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FOX SPORTS
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145446
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2" tvg-logo="foxsports2hd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FOX SPORTS 2
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145447
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD H265" tvg-logo="foxsports2hd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FOX SPORTS 2 FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145265
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="foxsports2hd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145146
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD H265" tvg-logo="foxsportshd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FOX SPORTS FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145264
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="foxsportshd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FOX SPORTS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145147
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA" tvg-logo="futura.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FUTURA
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145448
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX" tvg-logo="fxhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FX
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145449
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD H265" tvg-logo="fxhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FX FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145266
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="fxhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FX HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145148
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="GAZETA HD SP" tvg-logo="Logo+TV+Gazeta.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GAZETA HD SP
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145342
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO AMAZONICA MANAUS" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO AMAZONICA MANAUS
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145499
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO ANHANGUERA GOIANIA" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO ANHANGUERA GOIANIA
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145526
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BAHIA HD" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO BAHIA HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145704
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BAHIA HDÂ²" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO BAHIA HDÂ²
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145705
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BRASILIA" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO BRASILIA
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145450
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BRASILIA FHD H265" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO BRASILIA FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145397
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO BRASILIA HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145343
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO CABO FRIO HD" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO CABO FRIO HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145395
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO CAMPINAS FHD" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO CAMPINAS FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145399
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO CAMPINAS HD" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO CAMPINAS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145398
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO CARUARU PE" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO CARUARU PE
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145404
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO CENTRO AMERICA CUIABA" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO CENTRO AMERICA CUIABA
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145530
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV CAMPINAS" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO EPTV CAMPINAS
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145436
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO EPTV RIBEIRAO PRETO
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145437
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV SAO CARLOS" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO EPTV SAO CARLOS
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145435
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO FLORIANOPOLIS HD" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO FLORIANOPOLIS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/147064
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO FLORIANOPOLIS HD" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO FLORIANOPOLIS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145392
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO GAZETA SUL ES" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO GAZETA SUL ES
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145344
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO GAZETA SUL ES FHD" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO GAZETA SUL ES FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145345
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO GAZETA SUL ES HD" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO GAZETA SUL ES HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145346
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO GO HD" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO GO HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145200
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO INTER TV CABUGI" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO INTER TV CABUGI
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145465
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO INTERNACIONAL HD" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO INTERNACIONAL HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145347
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO LIBERAL BELEM" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO LIBERAL BELEM
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145533
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO LIBERAL BELEM HD" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO LIBERAL BELEM HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145401
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MANAUS HD" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO MANAUS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145389
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MARANHAO" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO MARANHAO
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145390
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MG" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO MG
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145451
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MG FHD H265" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO MG FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145394
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MG HD" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO MG HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145383
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MORENA PP HD" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO MORENA PP HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145706
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NEWS" tvg-logo="globosp.png" group-title="NOTICIAS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO NEWS
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145452
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD H265" tvg-logo="globonews.png" group-title="NOTICIAS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO NEWS FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145267
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NORDESTE" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO NORDESTE
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145453
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO PARAIBA HD" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO PARAIBA HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145400
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO PORTUGUAL" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO PORTUGUAL
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145550
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RBS" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO RBS
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145496
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RBS HD" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO RBS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145351
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RJ" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO RJ
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145707
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RJ FHD" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO RJ FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145708
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RJ HD" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO RJ HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/147001
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RJ SUL HD" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO RJ SUL HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145391
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RPC TV CURITIBA" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO RPC TV CURITIBA
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145503
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SERGIPE HD" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO SERGIPE HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145349
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO SP
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145455
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO SP FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145405
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TEM BAURU" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO TEM BAURU
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145536
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TEM SAO JOSE DO RIO PRETO" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO TEM SAO JOSE DO RIO PRETO
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145537
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TEM SOROCABA" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO TEM SOROCABA
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145538
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TRIBUNA SANTOS" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO TRIBUNA SANTOS
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145539
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO VANGUARDA S.J. DOS CAMPOS" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO VANGUARDA S.J. DOS CAMPOS
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145540
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO VERDES MARES FORTALEZA" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO VERDES MARES FORTALEZA
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145541
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO VERDES MARES HD" tvg-logo="globosp.png" group-title="GLOBOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBO VERDES MARES HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145402
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBONEWS HD" tvg-logo="globonews.png" group-title="NOTICIAS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBONEWS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145149
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBOSAT" tvg-logo="maisglobosathd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBOSAT
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145467
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBOSAT FHD H265" tvg-logo="maisglobosathd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBOSAT FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145279
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBOSAT HD" tvg-logo="maisglobosathd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOBOSAT HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145150
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB" tvg-logo="gloobhd.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOOB
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145456
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD H265" tvg-logo="gloobhd.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOOB FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145268
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="gloobhd.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GLOOB HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145151
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT" tvg-logo="gnthd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GNT
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145457
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD H265" tvg-logo="gnthd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GNT FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145269
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="gnthd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GNT HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145152
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO" tvg-logo="hbohd.png" group-title="HBO",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145458
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2" tvg-logo="hbo2hd.png" group-title="HBO",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO 2
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145462
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD H265" tvg-logo="hbo2hd.png" group-title="HBO",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO 2 FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145274
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="hbo2hd.png" group-title="HBO",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145153
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILLY FHD H265" tvg-logo="hbofamilyhd.png" group-title="HBO",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO FAMILLY FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145270
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY" tvg-logo="hbofamilyhd.png" group-title="HBO",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO FAMILY
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145459
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="hbofamilyhd.png" group-title="HBO",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO FAMILY HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145154
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD H265" tvg-logo="hbohd.png" group-title="HBO",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145271
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="hbohd.png" group-title="HBO",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145155
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI" tvg-logo="commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="HBO",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO MUNDI
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145468
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FHD H265" tvg-logo="commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO MUNDI FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145280
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="HBO",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO MUNDI HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145162
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS" tvg-logo="hboplushd.png" group-title="HBO",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO PLUS
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145460
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD H265" tvg-logo="hboplushd.png" group-title="HBO",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO PLUS FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145272
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="hboplushd.png" group-title="HBO",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO PLUS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145156
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP" tvg-logo="logo-canal-hbo-pop-252x252.png" group-title="HBO",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO POP
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145470
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP FHD H265" tvg-logo="logo-canal-hbo-pop-252x252.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO POP FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145282
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD" tvg-logo="logo-canal-hbo-pop-252x252.png" group-title="HBO",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO POP HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145164
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE" tvg-logo="hbosignaturehd.png" group-title="HBO",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO SIGNATURE
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145461
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD H265" tvg-logo="hbosignaturehd.png" group-title="HBO",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO SIGNATURE FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145273
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="hbosignaturehd.png" group-title="HBO",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145157
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREAM HD" tvg-logo="commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="HBO",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO XTREAM HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145163
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME" tvg-logo="commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="HBO",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO XTREME
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145469
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME FHD H265" tvg-logo="commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO XTREME FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145281
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FHD H265" tvg-logo="commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HGTV FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145245
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV HD" tvg-logo="commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HGTV HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145127
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY" tvg-logo="thehistorychannelhd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HISTORY
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145547
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2" tvg-logo="h2hd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HISTORY 2
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145463
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 FHD H265" tvg-logo="h2hd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HISTORY 2 FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145276
+#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2 HD" tvg-logo="h2hd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HISTORY 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145158
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHD H265" tvg-logo="thehistorychannelhd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HISTORY FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145275
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD" tvg-logo="thehistorychannelhd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HISTORY HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145159
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY" tvg-logo="idinvestigacaodiscoveryhd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  ID - INVESTIGACAO DISCOVERY
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/146248
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY FHD H265" tvg-logo="idinvestigacaodiscoveryhd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  ID - INVESTIGACAO DISCOVERY FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/146246
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY HD" tvg-logo="idinvestigacaodiscoveryhd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  ID - INVESTIGACAO DISCOVERY HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/146247
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME" tvg-logo="lifetimehd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  LIFETIME
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145466
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD H265" tvg-logo="lifetimehd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  LIFETIME FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145278
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="lifetimehd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  LIFETIME HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145161
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE FHD" tvg-logo="100@2x.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  LOVE NATURE FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145325
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX" tvg-logo="megapixhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  MEGAPIX
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145471
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD H265" tvg-logo="megapixhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  MEGAPIX FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145283
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="megapixhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  MEGAPIX HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145165
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV" tvg-logo="mtvhd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  MTV
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145472
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD H265" tvg-logo="mtvhd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  MTV FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145284
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="mtvhd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  MTV HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145166
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW" tvg-logo="multishowhd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  MULTISHOW
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145473
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD H265" tvg-logo="multishowhd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  MULTISHOW FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145285
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="multishowhd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  MULTISHOW HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145167
+#EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="MUSIC BOX BRAZIL" tvg-logo="musicboxbrazil.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  MUSIC BOX BRAZIL
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145474
+#EXTINF:-1 tvg-id="Musicboxbrazil.br" tvg-name="MUSIC BOX BRAZIL HD" tvg-logo="musicboxbrazil.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  MUSIC BOX BRAZIL HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145475
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO FHD H265" tvg-logo="natgeohd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  NATGEO FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145286
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO HD" tvg-logo="natgeohd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  NATGEO HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145168
+#EXTINF:-1 tvg-id="Natgeokids.br	" tvg-name="NATGEO KIDS" tvg-logo="commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  NATGEO KIDS
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145476
+#EXTINF:-1 tvg-id="Natgeokids.br	" tvg-name="NATGEO KIDS FHD H265" tvg-logo="commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  NATGEO KIDS FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145288
+#EXTINF:-1 tvg-id="Natgeokids.br	" tvg-name="NATGEO KIDS HD" tvg-logo="commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  NATGEO KIDS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145169
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD" tvg-logo="natgeowildhd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  NATGEO WILD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145477
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD FHD H265" tvg-logo="natgeowildhd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  NATGEO WILD FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145287
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD HD" tvg-logo="natgeowildhd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  NATGEO WILD HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145170
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="natgeohd.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145478
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK" tvg-logo="nhk.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  NHK
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145479
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD H265" tvg-logo="nickjr.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  NICK JR FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145290
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="nickjr.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  NICK JR HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145172
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK.JR" tvg-logo="nickjr.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  NICK.JR
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145480
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON" tvg-logo="nickelodeonhd.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  NICKELODEON
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145481
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON FHD H265" tvg-logo="nickelodeonhd.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  NICKELODEON FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145289
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="nickelodeonhd.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  NICKELODEON HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145171
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF" tvg-logo="offhd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  OFF
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145482
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FHD H265" tvg-logo="offhd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  OFF FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145291
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="offhd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  OFF HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145173
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT" tvg-logo="paramounthd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PARAMOUNT
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145483
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT FHD H265" tvg-logo="paramounthd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PARAMOUNT FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145292
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD" tvg-logo="paramounthd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PARAMOUNT HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145174
+#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAY TV" tvg-logo="playtv.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PLAY TV
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145484
+#EXTINF:-1 tvg-id="" tvg-name="POLISHOP TV" tvg-logo="polishop.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  POLISHOP TV
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145485
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 2" tvg-logo="premiereclubeshd.png" group-title="PREMIERES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PREMIERE 2
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145486
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 2 FHD H265" tvg-logo="premiereclubeshd.png" group-title="PREMIERES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PREMIERE 2 FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145294
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 2 HD" tvg-logo="premiereclubeshd.png" group-title="PREMIERES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145175
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 3" tvg-logo="premiereclubeshd.png" group-title="PREMIERES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PREMIERE 3
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145487
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 3 FHD H265" tvg-logo="premiereclubeshd.png" group-title="PREMIERES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PREMIERE 3 FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145295
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 3 HD" tvg-logo="premiereclubeshd.png" group-title="PREMIERES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145176
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 4" tvg-logo="premiereclubeshd.png" group-title="PREMIERES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PREMIERE 4
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145488
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 4 FHD H265" tvg-logo="premiereclubeshd.png" group-title="PREMIERES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PREMIERE 4 FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145296
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 4 HD" tvg-logo="premiereclubeshd.png" group-title="PREMIERES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145177
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 5" tvg-logo="premiereclubeshd.png" group-title="PREMIERES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PREMIERE 5
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145489
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 5 FHD H265" tvg-logo="premiereclubeshd.png" group-title="PREMIERES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PREMIERE 5 FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145297
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 5 HD" tvg-logo="premiereclubeshd.png" group-title="PREMIERES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145178
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 6" tvg-logo="premiereclubeshd.png" group-title="PREMIERES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PREMIERE 6
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145490
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 6 FHD H265" tvg-logo="premiereclubeshd.png" group-title="PREMIERES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PREMIERE 6 FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145298
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 6 HD" tvg-logo="premiereclubeshd.png" group-title="PREMIERES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145179
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 7" tvg-logo="premiereclubeshd.png" group-title="PREMIERES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PREMIERE 7
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145491
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 7 FHD H265" tvg-logo="premiereclubeshd.png" group-title="PREMIERES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PREMIERE 7 FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145299
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 7 HD" tvg-logo="premiereclubeshd.png" group-title="PREMIERES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145180
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 8" tvg-logo="premiereclubeshd.png" group-title="PREMIERES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PREMIERE 8
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145492
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE 9" tvg-logo="premiereclubeshd.png" group-title="PREMIERES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PREMIERE 9
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145493
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES" tvg-logo="premiereclubeshd.png" group-title="PREMIERES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PREMIERE CLUBES
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145494
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES FHD H265" tvg-logo="premiereclubeshd.png" group-title="PREMIERES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PREMIERE CLUBES FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145293
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="premiereclubeshd.png" group-title="PREMIERES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145181
+#EXTINF:-1 tvg-id="Primeboxbrazil.br" tvg-name="PRIME BOX BRAZIL" tvg-logo="primeboxbrazil.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  PRIME BOX BRAZIL
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145495
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BELEM HD" tvg-logo="pt/b/bc/Logotipo_da_RecordTV_Bel%C3%A9m.png" group-title="RECORD",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RECORD BELEM HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145360
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BRASILIA HD" tvg-logo="SC9pxyZ.png" group-title="RECORD",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RECORD BRASILIA HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145352
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD CABRALIA HD" tvg-logo="rederecord.png" group-title="RECORD",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RECORD CABRALIA HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145370
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD CAMPINAS HD" tvg-logo="pt/thumb/6/65/Logotipo_da_TVB.png/150px-Logotipo_da_TVB.png" group-title="RECORD",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RECORD CAMPINAS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145381
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD ES" tvg-logo="pt/4/4c/Logotipo_da_TV_Vit%C3%B3ria_%282016%E2%80%932019%29.png" group-title="RECORD",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RECORD ES
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145353
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD ES FHD" tvg-logo="pt/4/4c/Logotipo_da_TV_Vit%C3%B3ria_%282016%E2%80%932019%29.png" group-title="RECORD",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RECORD ES FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145354
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD ES HD" tvg-logo="pt/4/4c/Logotipo_da_TV_Vit%C3%B3ria_%282016%E2%80%932019%29.png" group-title="RECORD",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RECORD ES HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145355
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD GO FHD H265" tvg-logo="RWWsT5x.png" group-title="RECORD",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RECORD GO FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145300
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD GO HD" tvg-logo="RWWsT5x.png" group-title="RECORD",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RECORD GO HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145182
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD MINAS HD" tvg-logo="AZcyUn3.png" group-title="RECORD",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RECORD MINAS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145362
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS" tvg-logo="recordnews.png" group-title="NOTICIAS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RECORD NEWS
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145497
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD PARANA HD" tvg-logo="0uqK53J.png" group-title="RECORD",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RECORD PARANA HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145388
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RJ HD" tvg-logo="9BRksxz.png" group-title="RECORD",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RECORD RJ HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145363
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RS HD" tvg-logo="F0KrTuj.png" group-title="RECORD",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RECORD RS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145356
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SANTOS HD" tvg-logo="pt/thumb/2/2c/Logotipo_da_RecordTV_Litoral.png/150px-Logotipo_da_RecordTV_Litoral.png" group-title="RECORD",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RECORD SANTOS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145361
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SAO JOSE RIO PRETO HD" tvg-logo="pt/thumb/4/4d/Logotipo_da_RecordTV_Rio_Preto.png/200px-Logotipo_da_RecordTV_Rio_Preto.png" group-title="RECORD",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RECORD SAO JOSE RIO PRETO HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145357
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SC HD" tvg-logo="recordtvsc.png" group-title="RECORD",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RECORD SC HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145382
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SERGIPE HD" tvg-logo="l4DUEQG.png" group-title="RECORD",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RECORD SERGIPE HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145358
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP FHD H265" tvg-logo="2DTdcJM.png" group-title="RECORD",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RECORD SP FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145393
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD" tvg-logo="2DTdcJM.png" group-title="RECORD",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RECORD SP HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145359
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV" tvg-logo="mQo0UoK.png" group-title="RECORD",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RECORD TV
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145498
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD UBERLANDIA HD" tvg-logo="rederecord.png" group-title="RECORD",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RECORD UBERLANDIA HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145372
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD VITORIA ES" tvg-logo="rederecord.png" group-title="RECORD",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RECORD VITORIA ES
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145378
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD VITORIA ES FHD" tvg-logo="rederecord.png" group-title="RECORD",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RECORD VITORIA ES FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145379
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD VITORIA ES HD" tvg-logo="rederecord.png" group-title="RECORD",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RECORD VITORIA ES HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145380
+#EXTINF:-1 tvg-id="Redebrasl.br	" tvg-name="REDE BRASIL" tvg-logo="redebrasil.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  REDE BRASIL
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145500
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV" tvg-logo="redetv.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  REDE TV
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145501
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD H265" tvg-logo="redetv.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  REDE TV FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145301
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV HD" tvg-logo="redetv.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  REDE TV HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145183
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA" tvg-logo="redevida.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  REDE VIDA
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145502
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="sbt.png" group-title="SBT",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SBT
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145504
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT ARATU HD" tvg-logo="sbt.png" group-title="SBT",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SBT ARATU HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145369
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT BRASILIA HD" tvg-logo="sbt.png" group-title="SBT",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SBT BRASILIA HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145364
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT ES" tvg-logo="sbt.png" group-title="SBT",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SBT ES
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145375
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT ES HD" tvg-logo="sbt.png" group-title="SBT",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SBT ES HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145377
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD H265" tvg-logo="sbt.png" group-title="SBT",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SBT FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145320
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT GO HD" tvg-logo="sbt.png" group-title="SBT",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SBT GO HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145203
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT MG" tvg-logo="sbt.png" group-title="SBT",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SBT MG
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145384
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT MG FHD" tvg-logo="sbt.png" group-title="SBT",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SBT MG FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145406
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PARANA HD" tvg-logo="sbt.png" group-title="SBT",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SBT PARANA HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145387
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RJ HD" tvg-logo="sbt.png" group-title="SBT",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SBT RJ HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145365
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RS HD" tvg-logo="sbt.png" group-title="SBT",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SBT RS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145366
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SERGIPE HD" tvg-logo="sbt.png" group-title="SBT",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SBT SERGIPE HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145367
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD" tvg-logo="sbt.png" group-title="SBT",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SBT SP HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145368
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY FHD H265" tvg-logo="canalsonyhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SONY FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145239
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY HD" tvg-logo="canalsonyhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SONY HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145121
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE" tvg-logo="spacehd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SPACE
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145505
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD H265" tvg-logo="spacehd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SPACE FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145302
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="spacehd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SPACE HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145184
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV" tvg-logo="sportvhd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SPORTV
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145506
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2" tvg-logo="sportvhd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SPORTV 2
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145507
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD H265" tvg-logo="sportvhd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SPORTV 2 FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145303
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="sportvhd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SPORTV 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145185
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3" tvg-logo="sportvhd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SPORTV 3
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145508
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265" tvg-logo="sportvhd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SPORTV 3 FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145304
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="sportvhd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SPORTV 3 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145186
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD H265" tvg-logo="sportvhd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SPORTV FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145305
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="sportvhd.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SPORTV HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145187
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL" tvg-logo="studiouniversal.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  STUDIO UNIVERSAL
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145509
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD H265" tvg-logo="studiouniversal.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  STUDIO UNIVERSAL FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145306
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="studiouniversal.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145188
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY" tvg-logo="syfy.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SYFY
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145510
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD H265" tvg-logo="syfy.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SYFY FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145307
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="syfy.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SYFY HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145189
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS" tvg-logo="tbshd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TBS
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145511
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD H265" tvg-logo="tbshd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TBS FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145308
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="tbshd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TBS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145190
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM" tvg-logo="tcm.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TCM
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145512
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION" tvg-logo="telecineactionhd.png" group-title="TELECINE",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TELECINE ACTION
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145513
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD H265" tvg-logo="telecineactionhd.png" group-title="TELECINE",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TELECINE ACTION FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145309
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="telecineactionhd.png" group-title="TELECINE",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145191
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT" tvg-logo="telecineculthd.png" group-title="TELECINE",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TELECINE CULT
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145514
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD H265" tvg-logo="telecineculthd.png" group-title="TELECINE",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TELECINE CULT FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145310
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="telecineculthd.png" group-title="TELECINE",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TELECINE CULT HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145192
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN" tvg-logo="telecinefunhd.png" group-title="TELECINE",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TELECINE FUN
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145515
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD H265" tvg-logo="telecinefunhd.png" group-title="TELECINE",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TELECINE FUN FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145311
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="telecinefunhd.png" group-title="TELECINE",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TELECINE FUN HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145193
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA" tvg-logo="telecinepipocahd.png" group-title="TELECINE",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TELECINE PIPOCA
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145516
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD H265" tvg-logo="telecinepipocahd.png" group-title="TELECINE",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TELECINE PIPOCA FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145312
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="telecinepipocahd.png" group-title="TELECINE",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145194
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM" tvg-logo="telecinepremiumhd.png" group-title="TELECINE",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TELECINE PREMIUM
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145517
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD H265" tvg-logo="telecinepremiumhd.png" group-title="TELECINE",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TELECINE PREMIUM FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145313
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="telecinepremiumhd.png" group-title="TELECINE",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145195
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH" tvg-logo="telecinetouchhd.png" group-title="TELECINE",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TELECINE TOUCH
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145518
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD H265" tvg-logo="telecinetouchhd.png" group-title="TELECINE",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TELECINE TOUCH FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145314
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="telecinetouchhd.png" group-title="TELECINE",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145196
+#EXTINF:-1 tvg-id="Terraviva.br" tvg-name="TERRA VIVA" tvg-logo="terraviva.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TERRA VIVA
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145519
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT" tvg-logo="tnthd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TNT
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145521
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD H265" tvg-logo="tnthd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TNT FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145316
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="tnthd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TNT HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145198
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES" tvg-logo="tntserieshd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TNT SERIES
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145522
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD H265" tvg-logo="tntserieshd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TNT SERIES FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145317
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="tntserieshd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TNT SERIES HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145199
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST" tvg-logo="tooncast.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TOONCAST
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145523
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRU TV" tvg-logo="trutv.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TRU TV
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145524
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRU TV HD" tvg-logo="trutv.png" group-title="DOCUMENTARIOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TRU TV HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145525
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA" tvg-logo="aparecida.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TV APARECIDA
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145527
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="TV BAHIA" tvg-logo="tvbahiahd.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TV BAHIA
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145528
+#EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CAMARA" tvg-logo="tvcamara.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TV CAMARA
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145529
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA" tvg-logo="tvcultura.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TV CULTURA
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145531
+#EXTINF:-1 tvg-id="Tvdiario.br" tvg-name="TV DIARIO HD" tvg-logo="tv%2Bdiario.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TV DIARIO HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145221
+#EXTINF:-1 tvg-id="Tvevangelizar.br" tvg-name="TV EVAGILIZAR ES FHD" tvg-logo="commons/6/66/TV_Evangelizar_logo_2019.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TV EVAGILIZAR ES FHD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145376
+#EXTINF:-1 tvg-id="Tvjustica.br" tvg-name="TV JUSTICA" tvg-logo="tvjustica.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TV JUSTICA
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145532
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO" tvg-logo="novotempo.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TV NOVO TEMPO
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145549
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM" tvg-logo="tvratimbum.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TV RA TIM BUM
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145534
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM HD" tvg-logo="tvratimbum.png" group-title="INFANTIL",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TV RA TIM BUM HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145202
+#EXTINF:-1 tvg-id="Tvsenado.br" tvg-name="TV SENADO" tvg-logo="tvsenado.png" group-title="CANAIS ABERTOS",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TV SENADO
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145535
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL" tvg-logo="universalhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  UNIVERSAL CHANNEL
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145548
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="universalhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145204
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV FHD H265" tvg-logo="universalhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  UNIVERSAL TV FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145321
+#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 FHD H265" tvg-logo="vh1hd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  VH1 FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145322
+#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 HD" tvg-logo="vh1hd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  VH1 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145205
+#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 MEGAHITS" tvg-logo="vh1hd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  VH1 MEGAHITS
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145542
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA" tvg-logo="vivahd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  VIVA
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145543
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="vivahd.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  VIVA HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145206
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL" tvg-logo="warnerchannelhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  WARNER CHANNEL
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145544
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD H265" tvg-logo="warnerchannelhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  WARNER CHANNEL FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145323
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="warnerchannelhd.png" group-title="FILMES E SERIES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145207
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO" tvg-logo="woohoo.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  WOOHOO
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145545
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO FHD H265" tvg-logo="woohoo.png" group-title="VARIEDADES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  WOOHOO FHD H265
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145324
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="WOOHOO HD" tvg-logo="woohoo.png" group-title="ESPORTES",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  WOOHOO HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] - &streamtype=TSDOWNLOADER&amp;url=http://p2pbrtv.com:8080/demetrius/demetrius/145197

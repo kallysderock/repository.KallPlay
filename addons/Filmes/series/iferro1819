@@ -1,0 +1,161 @@
+
+
+<!DOCTYPE html><html><script>location.href = "";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+                <item>
+                    <title>[COLOR red][B]1Ā° - TEMPORADA[/B][/COLOR] - [COLOR yellow][B](2018)[/B][/COLOR]</title>
+                    <link>here</link>
+                    <thumbnail></thumbnail>
+                </item>
+                
+
+                <item>
+                    <title>[COLOR white]Ilha de Ferro - NinguĆ©m Ć© uma Ilha - [COLOR yellow][B]EpisĆ³dio 01[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ILHDFROT01EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					<thumbnail>https://ia601503.us.archive.org/27/items/ilhatfan/ilhat.jpg</thumbnail>
+                    <fanart>https://archive.org/download/ilhatfan/ilhatfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Ilha de Ferro - Para Sempre - [COLOR yellow][B]EpisĆ³dio 02[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ILHDFROT01EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601503.us.archive.org/27/items/ilhatfan/ilhat.jpg</thumbnail>
+                    <fanart>https://archive.org/download/ilhatfan/ilhatfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Ilha de Ferro - O Labirinto - [COLOR yellow][B]EpisĆ³dio 03[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ILHDFROT01EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601503.us.archive.org/27/items/ilhatfan/ilhat.jpg</thumbnail>
+                    <fanart>https://archive.org/download/ilhatfan/ilhatfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Ilha de Ferro - Assim na Terra Como no Mar - [COLOR yellow][B]EpisĆ³dio 04[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ILHDFROT01EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601503.us.archive.org/27/items/ilhatfan/ilhat.jpg</thumbnail>
+                    <fanart>https://archive.org/download/ilhatfan/ilhatfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Ilha de Ferro - RespiraĆ§Ć£o Artificial - [COLOR yellow][B]EpisĆ³dio 05[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ILHDFROT01EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601503.us.archive.org/27/items/ilhatfan/ilhat.jpg</thumbnail>
+                    <fanart>https://archive.org/download/ilhatfan/ilhatfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Ilha de Ferro - Fantasmas - [COLOR yellow][B]EpisĆ³dio 06[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ILHDFROT01EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601503.us.archive.org/27/items/ilhatfan/ilhat.jpg</thumbnail>
+                    <fanart>https://archive.org/download/ilhatfan/ilhatfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Ilha de Ferro - Vir Ć  Tona - [COLOR yellow][B]EpisĆ³dio 07[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ILHDFROT01EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601503.us.archive.org/27/items/ilhatfan/ilhat.jpg</thumbnail>
+                    <fanart>https://archive.org/download/ilhatfan/ilhatfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Ilha de Ferro - Culpados - [COLOR yellow][B]EpisĆ³dio 08[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ILHDFROT01EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601503.us.archive.org/27/items/ilhatfan/ilhat.jpg</thumbnail>
+                    <fanart>https://archive.org/download/ilhatfan/ilhatfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Ilha de Ferro - A Terra que nos Devora - [COLOR yellow][B]EpisĆ³dio 09 [/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ILHDFROT01EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601503.us.archive.org/27/items/ilhatfan/ilhat.jpg</thumbnail>
+                    <fanart>https://archive.org/download/ilhatfan/ilhatfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Ilha de Ferro - Todo Mundo Ć© uma Ilha - [COLOR yellow][B]EpisĆ³dio 10[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ILHDFROT01EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601503.us.archive.org/27/items/ilhatfan/ilhat.jpg</thumbnail>
+                    <fanart>https://archive.org/download/ilhatfan/ilhatfan.jpg</fanart>
+                </item>               
+                <item>
+                    <title>[COLOR white]Ilha de Ferro - Inferno 1 - [COLOR yellow][B]EpisĆ³dio 11[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ILHDFROT01EP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601503.us.archive.org/27/items/ilhatfan/ilhat.jpg</thumbnail>
+                    <fanart>https://archive.org/download/ilhatfan/ilhatfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Ilha de Ferro - Inferno 2 - [COLOR yellow][B]EpisĆ³dio 12[/B][/COLOR]</title>
+					<link>$doregex[repository.KallPlay1]ILHDFROT01EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601503.us.archive.org/27/items/ilhatfan/ilhat.jpg</thumbnail>
+                    <fanart>https://archive.org/download/ilhatfan/ilhatfan.jpg</fanart>
+				</item>
+				
+				
+				
+				                <item>
+                    <title>[COLOR red][B]2Ā° - TEMPORADA[/B][/COLOR] - [COLOR yellow][B](2019)[/B][/COLOR]</title>
+                    <link>here</link>
+                    <thumbnail></thumbnail>
+                </item>
+                
+
+                <item>
+                    <title>[COLOR white]Ilha de Ferro - O Inferno de Dante - [COLOR yellow][B]EpisĆ³dio 01[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ILHDFROT02EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					<thumbnail>https://ia601503.us.archive.org/27/items/ilhatfan/ilhat.jpg</thumbnail>
+                    <fanart>https://archive.org/download/ilhatfan/ilhatfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Ilha de Ferro - Ilhas- [COLOR yellow][B]EpisĆ³dio 02[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ILHDFROT02EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601503.us.archive.org/27/items/ilhatfan/ilhat.jpg</thumbnail>
+                    <fanart>https://archive.org/download/ilhatfan/ilhatfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Ilha de Ferro - Partidas e Chegadas - [COLOR yellow][B]EpisĆ³dio 03[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ILHDFROT02EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601503.us.archive.org/27/items/ilhatfan/ilhat.jpg</thumbnail>
+                    <fanart>https://archive.org/download/ilhatfan/ilhatfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Ilha de Ferro - Eterno Retorno - [COLOR yellow][B]EpisĆ³dio 04[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ILHDFROT02EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601503.us.archive.org/27/items/ilhatfan/ilhat.jpg</thumbnail>
+                    <fanart>https://archive.org/download/ilhatfan/ilhatfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Ilha de Ferro - Juntos - [COLOR yellow][B]EpisĆ³dio 05[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ILHDFROT02EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601503.us.archive.org/27/items/ilhatfan/ilhat.jpg</thumbnail>
+                    <fanart>https://archive.org/download/ilhatfan/ilhatfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Ilha de Ferro - Viver Ć© Perigoso - [COLOR yellow][B]EpisĆ³dio 06[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ILHDFROT02EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601503.us.archive.org/27/items/ilhatfan/ilhat.jpg</thumbnail>
+                    <fanart>https://archive.org/download/ilhatfan/ilhatfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Ilha de Ferro - Morrer Ć© uma Grande Aventura - [COLOR yellow][B]EpisĆ³dio 07[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ILHDFROT02EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601503.us.archive.org/27/items/ilhatfan/ilhat.jpg</thumbnail>
+                    <fanart>https://archive.org/download/ilhatfan/ilhatfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Ilha de Ferro - Futuro - [COLOR yellow][B]EpisĆ³dio 08[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ILHDFROT02EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601503.us.archive.org/27/items/ilhatfan/ilhat.jpg</thumbnail>
+                    <fanart>https://archive.org/download/ilhatfan/ilhatfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Ilha de Ferro - Karma - [COLOR yellow][B]EpisĆ³dio 09 [/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ILHDFROT02EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601503.us.archive.org/27/items/ilhatfan/ilhat.jpg</thumbnail>
+                    <fanart>https://archive.org/download/ilhatfan/ilhatfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Ilha de Ferro - Primeiro Ć“leo - [COLOR yellow][B]EpisĆ³dio 10[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ILHDFROT02EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601503.us.archive.org/27/items/ilhatfan/ilhat.jpg</thumbnail>
+                    <fanart>https://archive.org/download/ilhatfan/ilhatfan.jpg</fanart>
+                </item>               
+                
+				
+				
+				
+				

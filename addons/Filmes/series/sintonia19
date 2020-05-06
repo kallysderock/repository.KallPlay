@@ -1,0 +1,59 @@
+
+
+
+<!DOCTYPE html><html><script>location.href = "";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+<item>
+<title>[B][COLOR red]SINTONIA - 1Âª Temporada [/COLOR][COLOR yellow](2019)[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://ia601405.us.archive.org/13/items/sintoniaFAN/sintonia.jpg</thumbnail>
+<fanart>https://archive.org/download/sintoniaFAN/sintoniaFAN.jpg</fanart>
+<info>Criados juntos na quebrada de SÃ£o Paulo, trÃªs jovens amigos correm atrÃ¡s de seus sonhos rodeados por mÃºsica, drogas e religiÃ£o.</info>
+</item>
+
+<item>
+<title>SINTONIA - [COLOR yellow]EP 01 - Pegaram a Cacau[/COLOR]</title>
+<link>$doregex[repository.KallPlay1]SNTNIAT01EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601405.us.archive.org/13/items/sintoniaFAN/sintonia.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>SINTONIA - [COLOR yellow]EP 02 - Fiz uma pro Crime[/COLOR]</title>
+<link>$doregex[repository.KallPlay1]SNTNIAT01EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601405.us.archive.org/13/items/sintoniaFAN/sintonia.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>SINTONIA - [COLOR yellow]EP 03 - Segunda Chance[/COLOR]</title>
+<link>$doregex[repository.KallPlay1]SNTNIAT01EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601405.us.archive.org/13/items/sintoniaFAN/sintonia.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>SINTONIA - [COLOR yellow]EP 04 - O Certo pelo Certo[/COLOR]</title>
+<link>$doregex[repository.KallPlay1]SNTNIAT01EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601405.us.archive.org/13/items/sintoniaFAN/sintonia.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>SINTONIA - [COLOR yellow]EP 05 - Faz teu Nome[/COLOR]</title>
+<link>$doregex[repository.KallPlay1]SNTNIAT01EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601405.us.archive.org/13/items/sintoniaFAN/sintonia.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>SINTONIA - [COLOR yellow]EP 06 - Mesma Sintonia[/COLOR]</title>
+<link>$doregex[repository.KallPlay1]SNTNIAT01EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601405.us.archive.org/13/items/sintoniaFAN/sintonia.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>

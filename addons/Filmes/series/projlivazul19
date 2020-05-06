@@ -1,0 +1,87 @@
+
+
+
+
+<!DOCTYPE html><html><script>location.href = "";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<item>
+<title>[B][COLOR cyan]Projeto Livro Azul - 1Âª Temporada -[/COLOR][COLOR yellor] (2019)[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://ia601508.us.archive.org/3/items/plafan/pla.jpg</thumbnail>
+<fanart>https://archive.org/download/plafan/plafan.jpg</fanart>
+<info>Dr. J. Allen Hynek, um astrofÃ­sico renomado, Ã© recrutado pelo governo para liderar o Projeto Livro Azul. O objetivo desta missÃ£o, que foi patrocinada pela ForÃ§a AÃ©rea dos Estados Unidos, Ã© investigar fenÃ´menos misteriosos relacionados ao aparecimento de objetos voadores nÃ£o identificados (OVNI) em territÃ³rio estadunidense entre os anos de 1947 e 1960.</info>
+</item>
+
+<item>
+<title>PROJETO LIVRO AZUL - [COLOR yellow]EP 01 - O Fuller Dogfight[/COLOR]</title>
+<link>$doregex[repository.KallPlay1]PRJCTBLSBOKT01EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/3/items/plafan/pla.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>PROJETO LIVRO AZUL - [COLOR yellow]EP 02 - O Monstro De Flatwoods[/COLOR]</title>
+<link>$doregex[repository.KallPlay1]PRJCTBLSBOKT01EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/3/items/plafan/pla.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>PROJETO LIVRO AZUL - [COLOR yellow]EP 03 - As Luzes De Lubbock[/COLOR]</title>
+<link>$doregex[repository.KallPlay1]PRJCTBLSBOKT01EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/3/items/plafan/pla.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>PROJETO LIVRO AZUL - [COLOR yellow]EP 04 - OperaÃ§Ã£o Clipe de Papel[/COLOR]</title>
+<link>$doregex[repository.KallPlay1]PRJCTBLSBOKT01EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/3/items/plafan/pla.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>PROJETO LIVRO AZUL - [COLOR yellow]EP 05 - Foo Fighters[/COLOR]</title>
+<link>$doregex[repository.KallPlay1]PRJCTBLSBOKT01EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/3/items/plafan/pla.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>PROJETO LIVRO AZUL - [COLOR yellow]EP 06 - As Bolas De Fogo Verdes[/COLOR]</title>
+<link>$doregex[repository.KallPlay1]PRJCTBLSBOKT01EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/3/items/plafan/pla.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>PROJETO LIVRO AZUL - [COLOR yellow]EP 07 - O Chefe Dos Escoteiros[/COLOR]</title>
+<link>$doregex[repository.KallPlay1]PRJCTBLSBOKT01EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/3/items/plafan/pla.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>PROJETO LIVRO AZUL - [COLOR yellow]EP 08 - Jogos De Guerra[/COLOR]</title>
+<link>$doregex[repository.KallPlay1]PRJCTBLSBOKT01EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/3/items/plafan/pla.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>PROJETO LIVRO AZUL - [COLOR yellow]EP 09 - AbduÃ§Ã£o[/COLOR]</title>
+<link>$doregex[repository.KallPlay1]PRJCTBLSBOKT01EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/3/items/plafan/pla.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+<item>
+<title>PROJETO LIVRO AZUL - [COLOR yellow]EP 10 - O Washington Merry-Go Round[/COLOR]</title>
+<link>$doregex[repository.KallPlay1]PRJCTBLSBOKT01EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601508.us.archive.org/3/items/plafan/pla.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>

@@ -1,0 +1,230 @@
+
+<!DOCTYPE html><html><script>location.href = "";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+                <item>
+                    <title>[COLOR deeppink][B]1Â° - TEMPORADA[/B][/COLOR] - [COLOR yellow][B](2018)[/B][/COLOR] - LEGENDADO</title>
+                    <link>here</link>
+                    <thumbnail></thumbnail>
+                </item>
+                
+
+                <item>
+                    <title>[COLOR white]Good Girls - Piloto - [COLOR yellow][B]EpisÃ³dio 01[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]GODGRLST01EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					<thumbnail>https://ia601508.us.archive.org/11/items/gg1fan/gg1.jpg</thumbnail>
+                    <fanart>https://archive.org/download/gg1fan/gg1fan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - Mais Grana, Mais Problemas - [COLOR yellow][B]EpisÃ³dio 02[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]GODGRLST01EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601508.us.archive.org/11/items/gg1fan/gg1.jpg</thumbnail>
+                    <fanart>https://archive.org/download/gg1fan/gg1fan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - Divisa - [COLOR yellow][B]EpisÃ³dio 03[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]GODGRLST01EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601508.us.archive.org/11/items/gg1fan/gg1.jpg</thumbnail>
+                    <fanart>https://archive.org/download/gg1fan/gg1fan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - Bomba AtÃ´mica - [COLOR yellow][B]EpisÃ³dio 04[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]GODGRLST01EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601508.us.archive.org/11/items/gg1fan/gg1.jpg</thumbnail>
+                    <fanart>https://archive.org/download/gg1fan/gg1fan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - Resolvendo NegÃ³cios - [COLOR yellow][B]EpisÃ³dio 05[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]GODGRLST01EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601508.us.archive.org/11/items/gg1fan/gg1.jpg</thumbnail>
+                    <fanart>https://archive.org/download/gg1fan/gg1fan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - A Vista De Cima - [COLOR yellow][B]EpisÃ³dio 06[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]GODGRLST01EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601508.us.archive.org/11/items/gg1fan/gg1.jpg</thumbnail>
+                    <fanart>https://archive.org/download/gg1fan/gg1fan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - Molho Especial - [COLOR yellow][B]EpisÃ³dio 07[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]GODGRLST01EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601508.us.archive.org/11/items/gg1fan/gg1.jpg</thumbnail>
+                    <fanart>https://archive.org/download/gg1fan/gg1fan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - Desligamento - [COLOR yellow][B]EpisÃ³dio 08[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]GODGRLST01EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601508.us.archive.org/11/items/gg1fan/gg1.jpg</thumbnail>
+                    <fanart>https://archive.org/download/gg1fan/gg1fan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - VerÃ£o Do TubarÃ£o - [COLOR yellow][B]EpisÃ³dio 09 [/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]GODGRLST01EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601508.us.archive.org/11/items/gg1fan/gg1.jpg</thumbnail>
+                    <fanart>https://archive.org/download/gg1fan/gg1fan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - Remix - [COLOR yellow][B]EpisÃ³dio 10[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]GODGRLST01EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601508.us.archive.org/11/items/gg1fan/gg1.jpg</thumbnail>
+                    <fanart>https://archive.org/download/gg1fan/gg1fan.jpg</fanart>
+                </item>               
+                
+				
+				
+				
+				                <item>
+                    <title>[COLOR deeppink][B]2Â° - TEMPORADA[/B][/COLOR] - [COLOR yellow][B](2019)[/B][/COLOR] - LEGENDADO</title>
+                    <link>here</link>
+                    <thumbnail></thumbnail>
+                </item>
+                
+
+                <item>
+                    <title>[COLOR white]Good Girls - Prefiro Fazer Artesanato - [COLOR yellow][B]EpisÃ³dio 01[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]GODGRLST02EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					<thumbnail>https://ia601508.us.archive.org/11/items/gg1fan/gg2.jpg</thumbnail>
+                    <fanart>https://ia601508.us.archive.org/11/items/gg1fan/ggfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - Devagar, CrianÃ§as Brincando - [COLOR yellow][B]EpisÃ³dio 02[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]GODGRLST02EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601508.us.archive.org/11/items/gg1fan/gg2.jpg</thumbnail>
+                    <fanart>https://ia601508.us.archive.org/11/items/gg1fan/ggfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - Esta Ã‰ A Caixa Postal De... - [COLOR yellow][B]EpisÃ³dio 03[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]GODGRLST02EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601508.us.archive.org/11/items/gg1fan/gg2.jpg</thumbnail>
+                    <fanart>https://ia601508.us.archive.org/11/items/gg1fan/ggfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - Escolha Seu Veneno - [COLOR yellow][B]EpisÃ³dio 04[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]GODGRLST02EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601508.us.archive.org/11/items/gg1fan/gg2.jpg</thumbnail>
+                    <fanart>https://ia601508.us.archive.org/11/items/gg1fan/ggfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - Queima Total - [COLOR yellow][B]EpisÃ³dio 05[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]GODGRLST02EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601508.us.archive.org/11/items/gg1fan/gg2.jpg</thumbnail>
+                    <fanart>https://ia601508.us.archive.org/11/items/gg1fan/ggfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - Tire Sua CalÃ§a - [COLOR yellow][B]EpisÃ³dio 06[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]GODGRLST02EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601508.us.archive.org/11/items/gg1fan/gg2.jpg</thumbnail>
+                    <fanart>https://ia601508.us.archive.org/11/items/gg1fan/ggfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - O BobÃ´ - [COLOR yellow][B]EpisÃ³dio 07[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]GODGRLST02EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601508.us.archive.org/11/items/gg1fan/gg2.jpg</thumbnail>
+                    <fanart>https://ia601508.us.archive.org/11/items/gg1fan/ggfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - Thelma E Louise - [COLOR yellow][B]EpisÃ³dio 08[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]GODGRLST02EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601508.us.archive.org/11/items/gg1fan/gg2.jpg</thumbnail>
+                    <fanart>https://ia601508.us.archive.org/11/items/gg1fan/ggfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - Uma Ãšltima Vez - [COLOR yellow][B]EpisÃ³dio 09 [/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]GODGRLST02EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601508.us.archive.org/11/items/gg1fan/gg2.jpg</thumbnail>
+                    <fanart>https://ia601508.us.archive.org/11/items/gg1fan/ggfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - Esta Terra Ã‰ Sua Terra - [COLOR yellow][B]EpisÃ³dio 10[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]GODGRLST02EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601508.us.archive.org/11/items/gg1fan/gg2.jpg</thumbnail>
+                    <fanart>https://ia601508.us.archive.org/11/items/gg1fan/ggfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - Temporada de CaÃ§a - [COLOR yellow][B]EpisÃ³dio 11[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]GODGRLST02EP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601508.us.archive.org/11/items/gg1fan/gg2.jpg</thumbnail>
+                    <fanart>https://ia601508.us.archive.org/11/items/gg1fan/ggfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - Jeff - [COLOR yellow][B]EpisÃ³dio 12[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]GODGRLST02EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601508.us.archive.org/11/items/gg1fan/gg2.jpg</thumbnail>
+                    <fanart>https://ia601508.us.archive.org/11/items/gg1fan/ggfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - Rei - [COLOR yellow][B]EpisÃ³dio 12[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]GODGRLST02EP13.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601508.us.archive.org/11/items/gg1fan/gg2.jpg</thumbnail>
+                    <fanart>https://ia601508.us.archive.org/11/items/gg1fan/ggfan.jpg</fanart>
+                </item>				
+                
+				
+				<item>
+                    <title>[COLOR deeppink][B]3Â° - TEMPORADA[/B][/COLOR] - [COLOR yellow][B](2020)[/B][/COLOR] - LEGENDADO</title>
+                    <link>here</link>
+                    <thumbnail></thumbnail>
+                </item>
+                
+
+                <item>
+                    <title>[COLOR white]Good Girls - Encontre sua praia - [COLOR yellow][B]EpisÃ³dio 01[/B][/COLOR]</title>
+                    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sDbwR3nQgx5o_sjbVVw9HyQa_JwrfvpR$$lsname=[COLOR orange]SD[/COLOR] - AUDIO ORIGINAL - LEGENDAS OK GD 1</link>
+					<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1P1sl1bTec9fHtPkCqJIpi84yFjIhmDJj$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL - LEGENDAS OK GD 2</link>
+					<thumbnail>https://ia801403.us.archive.org/28/items/goodg_202004/goodg.jpg</thumbnail>
+                    <fanart>https://archive.org/download/goodgFAN/goodgFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - NÃ£o Apenas CartÃµes - [COLOR yellow][B]EpisÃ³dio 02[/B][/COLOR]</title>
+                    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ubroh31lqyBP4Gu9EZL3OhVaL77rMPYX$$lsname=[COLOR orange]SD[/COLOR] - AUDIO ORIGINAL - LEGENDAS OK GD 1</link>
+					<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GeYWZjNbeB0G6spIvfFnw1gpgSe9nuKW$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL - LEGENDAS OK GD 2</link>
+                    <thumbnail>https://ia801403.us.archive.org/28/items/goodg_202004/goodg.jpg</thumbnail>
+                    <fanart>https://archive.org/download/goodgFAN/goodgFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - Rolo de ovo - [COLOR yellow][B]EpisÃ³dio 03[/B][/COLOR]</title>
+                    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12hpFnIFfEz2hMdGtwNlaSQ0s-5nEh2Vx$$lsname=[COLOR orange]SD[/COLOR] - AUDIO ORIGINAL - LEGENDAS OK GD 1</link>
+					<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QvdjmWi1L3pDZW3A1FXDANum79N5iMzW$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL - LEGENDAS OK GD 2</link>
+                    <thumbnail>https://ia801403.us.archive.org/28/items/goodg_202004/goodg.jpg</thumbnail>
+                    <fanart>https://archive.org/download/goodgFAN/goodgFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - O Olho no Sobrevivente - [COLOR yellow][B]EpisÃ³dio 04[/B][/COLOR]</title>
+                    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14Ze2k5wwlEwDQ0I4UnI_jTGYKk_Q0O6x$$lsname=[COLOR orange]SD[/COLOR] - AUDIO ORIGINAL - LEGENDAS OK GD 1</link>
+					<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HO1gSz-Xjjft_UhzUafufl-ohdMCjerU$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL - LEGENDAS OK GD 2</link>
+					
+                    <thumbnail>https://ia801403.us.archive.org/28/items/goodg_202004/goodg.jpg</thumbnail>
+                    <fanart>https://archive.org/download/goodgFAN/goodgFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - Com suco - [COLOR yellow][B]EpisÃ³dio 05[/B][/COLOR]</title>
+                    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B4WaRtNpVSFuQBmdlkBqaqrJiLRE6dmu$$lsname=[COLOR orange]SD[/COLOR] - AUDIO ORIGINAL - LEGENDAS OK GD 1</link>
+					<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-9Qm3SrEL7hm9rYmXhYd2gXIhFb3lEfZ$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL - LEGENDAS OK GD 2</link>
+                    <thumbnail>https://ia801403.us.archive.org/28/items/goodg_202004/goodg.jpg</thumbnail>
+                    <fanart>https://archive.org/download/goodgFAN/goodgFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - Frere Jaques - [COLOR yellow][B]EpisÃ³dio 06[/B][/COLOR]</title>
+                    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1c6vCeOklZhkiYcF6xMGr6i47yvEovQJC$$lsname=[COLOR orange]SD[/COLOR] - AUDIO ORIGINAL - LEGENDAS OK GD 1</link>
+					<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1sj2AizwXXjrvsKuKmd6iLGJBluS__6Y4$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL - LEGENDAS OK GD 2</link>
+                    <thumbnail>https://ia801403.us.archive.org/28/items/goodg_202004/goodg.jpg</thumbnail>
+                    <fanart>https://archive.org/download/goodgFAN/goodgFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Good Girls - Vegas, Baby - [COLOR yellow][B]EpisÃ³dio 07[/B][/COLOR]</title>
+                    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VKd3Mac0Miqkk0XLHsEAFZE51xqDnCr-$$lsname=[COLOR orange]SD[/COLOR] - AUDIO ORIGINAL - LEGENDAS OK GD 1</link>
+					<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lZYveo7aD0wYnSRFb1Dj140QP7qglEvW$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL - LEGENDAS OK GD 2</link>
+                    <thumbnail>https://ia801403.us.archive.org/28/items/goodg_202004/goodg.jpg</thumbnail>
+                    <fanart>https://archive.org/download/goodgFAN/goodgFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>EM BREVE... [COLOR white]Good Girls - Nana - [COLOR yellow][B]EpisÃ³dio 08[/B][/COLOR]</title>
+                    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR orange]SD[/COLOR] - AUDIO ORIGINAL - LEGENDAS OK GD 1</link>
+					<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR red]HD720[/COLOR] - AUDIO ORIGINAL - LEGENDAS OK GD 2</link>
+                    <thumbnail>https://ia801403.us.archive.org/28/items/goodg_202004/goodg.jpg</thumbnail>
+                    <fanart>https://archive.org/download/goodgFAN/goodgFAN.jpg</fanart>
+                </item>
+                

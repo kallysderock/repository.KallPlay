@@ -1,0 +1,590 @@
+
+
+<!DOCTYPE html><html><script>location.href = "";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<item>
+ <title>[COLOR red][B]Filmes[/B][/COLOR][COLOR yellow][B][/B][/COLOR]</title>
+ <link>here</link>
+ <thumbnail></thumbnail>
+</item>
+
+
+<item>
+ <title>[COLOR white]Ben 10: O Segredo do Omnitrix (Dublado) - [COLOR yellow][B](2007)[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]BEN10FILME01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPSGHUPzve38gD1Cngh8roVfRUO.jpg</thumbnail>
+ <fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Ben 10: A Corrida Contra o Tempo (Dublado) - [COLOR yellow][B](2007)[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]BEN10FILME02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2GjyXKZMuJQmD95u7lgTZpNypP.jpg</thumbnail>
+ <fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Ben 10: DestruiÃ§Ã£o AlienÃ­gena (Dublado) - [COLOR yellow][B](2012)[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10FILME03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+  <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPsltBDwEIszbDjbeBC4tQ1jTR9.jpg</thumbnail>
+ <fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+
+
+<item>
+ <title>[COLOR red][B]1Âª Temporada[/B][/COLOR][COLOR yellow][B] (2005)[/B][/COLOR]</title>
+ <link>here</link>
+ <thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 01[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP01.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM101.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 02[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP02.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM101.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 03[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP03.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM101.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 04[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP04.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM101.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 05[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP05.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM101.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 06[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP06.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM101.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 07[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP07.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM101.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 08[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP08.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM101.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 09[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP09.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM101.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 10[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP10.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM101.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 11[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP11.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM101.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 12[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP12.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM101.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 13[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP13.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM101.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+
+
+<item>
+ <title>[COLOR red][B]2Âª Temporada[/B][/COLOR][COLOR yellow][B] (2006)[/B][/COLOR]</title>
+ <link>here</link>
+ <thumbnail></thumbnail>
+</item>
+
+
+
+
+
+
+
+
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 14[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP14.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM102.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 15[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP15.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM102.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 16[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP16.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM102.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 17[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP17.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM102.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 18[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP18.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM102.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 19[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP19.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM102.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 20[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP20.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM102.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 21[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP21.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM102.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 22[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP22.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM102.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 23[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP23.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM102.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 24[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP24.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM102.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 25[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP25.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM102.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 26[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP26.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM102.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+<item>
+ <title>[COLOR red][B]3Âª Temporada[/B][/COLOR][COLOR yellow][B] (2006)[/B][/COLOR]</title>
+ <link>here</link>
+ <thumbnail></thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 27[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP27.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM103.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 28[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP28.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM103.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 29[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP29.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM103.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 30[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP30.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM103.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 31[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP31.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM103.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 32[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP32.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM103.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 33[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP33.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM103.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 34[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP34.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM103.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 35[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP35.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM103.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 36[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP36.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM103.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 37[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP37.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM103.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 38[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP38.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM103.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 39[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP39.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601507.us.archive.org/1/items/0bem10fan/0BEM103.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+<item>
+ <title>[COLOR red][B]4Âª Temporada[/B][/COLOR][COLOR yellow][B] (2007)[/B][/COLOR]</title>
+ <link>here</link>
+ <thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 40[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP40.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://archive.org/download/0bem104/0BEM104.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 41[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP41.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://archive.org/download/0bem104/0BEM104.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 42[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP42.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://archive.org/download/0bem104/0BEM104.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 43[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP43.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://archive.org/download/0bem104/0BEM104.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 44[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP44.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://archive.org/download/0bem104/0BEM104.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 45[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP45.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://archive.org/download/0bem104/0BEM104.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 46[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP46.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://archive.org/download/0bem104/0BEM104.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 47[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP47.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://archive.org/download/0bem104/0BEM104.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 48[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP48.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://archive.org/download/0bem104/0BEM104.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>
+<item>
+<title>Ben 10 - [COLOR yellow][B]EPISÃ“DIO - 49[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BEN10EP49.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://archive.org/download/0bem104/0BEM104.jpg</thumbnail>
+<fanart>https://archive.org/download/0bem10fan/0BEM10FAN.jpg</fanart>
+</item>

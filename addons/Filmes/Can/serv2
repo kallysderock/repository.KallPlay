@@ -1,0 +1,551 @@
+
+
+<!DOCTYPE html><html><script>location.href = "";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="ae.jpg" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  A&E HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1521
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD+" tvg-logo="ae.jpg" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  A&E HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/375
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="amc.jpg" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  AMC HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1498
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD+" tvg-logo="amc.jpg" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  AMC HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/373
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="animalplanet.png" group-title="Canais: DocumentÃ¡rio",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Animal Planet HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1497
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD+" tvg-logo="animalplanet.png" group-title="Canais: DocumentÃ¡rio",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Animal Planet HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/371
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 HD+" tvg-logo="arte1.jpg" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Arte 1 HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/15
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="axn.jpg" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  AXN HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1496
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD+" tvg-logo="axn.jpg" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  AXN HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/369
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="Baby TV SD" tvg-logo="babytv.png" group-title="Canais: Infantil",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Baby TV SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/367
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD" tvg-logo="band.png" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Band HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/489
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD+" tvg-logo="band.png" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Band HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/484
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD" tvg-logo="bandnews.png" group-title="Canais: NotÃ­cia",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Band News HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1494
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD+" tvg-logo="bandnews.png" group-title="Canais: NotÃ­cia",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Band News HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/363
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD" tvg-logo="bandsports.png" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Band Sports HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1495
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD+" tvg-logo="bandsports.png" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Band Sports HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/360
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2020 PRINCIPAL HD" tvg-logo="bbb20.png" group-title="Canais: 24 Horas",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BBB 2020 PRINCIPAL HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/3975
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2020 CAM 1 HD" tvg-logo="bbb20.png" group-title="Canais: 24 Horas",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BBB 2020 CAM 1 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/5163
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2020 CAM 2 HD" tvg-logo="bbb20.png" group-title="Canais: 24 Horas",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BBB 2020 CAM 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/5164
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2020 CAM 3 HD" tvg-logo="bbb20.png" group-title="Canais: 24 Horas",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BBB 2020 CAM 3 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/5165
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2020 CAM 4 HD" tvg-logo="bbb20.png" group-title="Canais: 24 Horas",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BBB 2020 CAM 4 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/5166
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2020 CAM 5 HD" tvg-logo="bbb20.png" group-title="Canais: 24 Horas",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BBB 2020 CAM 5 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/5167
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2020 CAM 6 HD " tvg-logo="bbb20.png" group-title="Canais: 24 Horas",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BBB 2020 CAM 6 HD 
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/5168
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2020 CAM 7 HD" tvg-logo="bbb20.png" group-title="Canais: 24 Horas",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BBB 2020 CAM 7 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/5169
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2020 CAM 8 HD" tvg-logo="bbb20.png" group-title="Canais: 24 Horas",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BBB 2020 CAM 8 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/5170
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2020 CAM 9 HD" tvg-logo="bbb20.png" group-title="Canais: 24 Horas",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BBB 2020 CAM 9 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/5171
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2020 CAM 10 HD" tvg-logo="bbb20.png" group-title="Canais: 24 Horas",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BBB 2020 CAM 10 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/5172
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="bis.png" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BIS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1493
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD+" tvg-logo="bis.png" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  BIS HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/358
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Boa Vontade SD" tvg-logo="" group-title="Canais: ReligiÃ£o",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Boa Vontade SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/22508
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD" tvg-logo="boomerang.png" group-title="Canais: Infantil",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Boomerang HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1492
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD+" tvg-logo="boomerang.png" group-title="Canais: Infantil",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Boomerang HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/355
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="canalbrasil.jpg" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Canal Brasil HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/353
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="cartoonnetwork.jpg" group-title="Canais: Infantil",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1491
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD+" tvg-logo="cartoonnetwork.jpg" group-title="Canais: Infantil",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Cartoon Network HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/349
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="cinemax.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Cinemax HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1490
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD+" tvg-logo="cinemax.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Cinemax HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/347
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil HD" tvg-logo="cnnbrasil.png" group-title="Canais: NotÃ­cia",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  CNN Brasil HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/21417
+#EXTINF:-1 tvg-id="cnnespanol.us" tvg-name="CNN Brasil HD+" tvg-logo="cnnbrasil.png" group-title="Canais: NotÃ­cia",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  CNN Brasil HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/21418
+#EXTINF:-1 tvg-id="cnnespanol.us" tvg-name="CNN Espanhol SD" tvg-logo="CNN.png" group-title="Canais: NotÃ­cia",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  CNN Espanhol SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/345
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN Internacional SD" tvg-logo="CNN.png" group-title="Canais: NotÃ­cia",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  CNN Internacional SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/344
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="combate.jpg" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Combate HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1489
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD+" tvg-logo="combate.jpg" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Combate HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/342
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="comedycentral.jpg" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Comedy Central HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1488
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD+" tvg-logo="comedycentral.jpg" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Comedy Central HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/340
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! SD" tvg-logo="curta.png" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Curta! SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/338
+#EXTINF:-1 tvg-id="" tvg-name="DAZN HD" tvg-logo="dazn.jpg" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  DAZN HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2716
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD" tvg-logo="discoverychannel.png" group-title="Canais: DocumentÃ¡rio",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Discovery Channel HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1487
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD+" tvg-logo="discoverychannel.png" group-title="Canais: DocumentÃ¡rio",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Discovery Channel HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/337
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="discoveryhomehealth.jpg" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Discovery Home & Health HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1518
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health HD+" tvg-logo="discoveryhomehealth.jpg" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Discovery Home & Health HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/334
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="discoverykids.jpg" group-title="Canais: Infantil",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1483
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD+" tvg-logo="discoverykids.jpg" group-title="Canais: Infantil",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Discovery Kids HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/332
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD" tvg-logo="discoveryscience.jpg" group-title="Canais: DocumentÃ¡rio",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Discovery Science HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1482
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD+" tvg-logo="discoveryscience.jpg" group-title="Canais: DocumentÃ¡rio",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Discovery Science HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/330
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD" tvg-logo="discoverytheater.png" group-title="Canais: DocumentÃ¡rio",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Discovery Theater HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1486
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD+" tvg-logo="discoverytheater.png" group-title="Canais: DocumentÃ¡rio",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Discovery Theater HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/329
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD" tvg-logo="discoveryturbo.jpg" group-title="Canais: DocumentÃ¡rio",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Discovery Turbo HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1481
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD+" tvg-logo="discoveryturbo.jpg" group-title="Canais: DocumentÃ¡rio",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Discovery Turbo HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/328
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD" tvg-logo="discoveryworld.jpg" group-title="Canais: DocumentÃ¡rio",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Discovery World HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1485
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD+" tvg-logo="discoveryworld.jpg" group-title="Canais: DocumentÃ¡rio",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Discovery World HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/326
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel HD" tvg-logo="disneychannel.png" group-title="Canais: Infantil",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Disney Channel HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1480
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel HD+" tvg-logo="disneychannel.png" group-title="Canais: Infantil",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Disney Channel HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/325
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney JÃºnior HD" tvg-logo="disneyjr.png" group-title="Canais: Infantil",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Disney JÃºnior HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1478
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney JÃºnior HD+" tvg-logo="disneyjr.png" group-title="Canais: Infantil",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Disney JÃºnior HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/323
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="Disney XD HD" tvg-logo="disneyxd.png" group-title="Canais: Infantil",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Disney XD HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1517
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="Disney XD HD+" tvg-logo="disneyxd.png" group-title="Canais: Infantil",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Disney XD HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/683
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! HD" tvg-logo="e.png" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  E! HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/318
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="espn.jpg" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1476
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD+" tvg-logo="espn.jpg" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  ESPN 2 HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/314
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="espnbrasil.png" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  ESPN Brasil HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1475
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil HD+" tvg-logo="espnbrasil.png" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  ESPN Brasil HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/313
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra HD+" tvg-logo="espnextra.png" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  ESPN Extra HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/311
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="espn.jpg" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  ESPN HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1477
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD+" tvg-logo="espn.jpg" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  ESPN HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/309
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV SD" tvg-logo="fishtv.jpg" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Fish TV SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/307
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Netword HD" tvg-logo="foodnetwork.png" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Food Netword HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1474
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network HD+" tvg-logo="foodnetwork.png" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Food Network HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/306
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Fox HD" tvg-logo="fox.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Fox HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1473
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Fox HD+" tvg-logo="fox.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Fox HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/304
+#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Fox Life HD" tvg-logo="foxlife.png" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Fox Life HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1472
+#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Fox Life HD+" tvg-logo="foxlife.png" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Fox Life HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/303
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="Fox Premium 1 HD" tvg-logo="foxpremium1.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Fox Premium 1 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1505
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD" tvg-logo="foxsports2.jpg" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1501
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD+" tvg-logo="foxsports2.jpg" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Fox Sports 2 HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/300
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD" tvg-logo="foxsports.png" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Fox Sports HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1502
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD+" tvg-logo="foxsports.png" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Fox Sports HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/298
+#EXTINF:-1 tvg-id="fox.br" tvg-name="FX HD" tvg-logo="fx.jpg" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FX HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1469
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD+" tvg-logo="fx.jpg" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  FX HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/294
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Bahia HD+" tvg-logo="globotvbahia.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo Bahia HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2707
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Bahia SD" tvg-logo="globotvbahia.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo Bahia SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/260
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Brasilia HD" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo Brasilia HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/291
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Centro America HD+" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo Centro America HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2712
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo EPTV Campinas HD" tvg-logo="globoeptv.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/289
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Campinas HD+" tvg-logo="globoeptv.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo EPTV Campinas HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2711
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo EPTV RibeirÃ£o Preto HD" tvg-logo="globoeptv.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo EPTV RibeirÃ£o Preto HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/287
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV RibeirÃ£o Preto HD+" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo EPTV RibeirÃ£o Preto HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2952
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Sul Minas HD" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo EPTV Sul Minas HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/4469
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Sul Minas HD+" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo EPTV Sul Minas HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/4468
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV SÃ£o Carlos HD" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo EPTV SÃ£o Carlos HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2941
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV SÃ£o Carlos HD+" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo EPTV SÃ£o Carlos HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2940
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo GoiÃ¢nia SD" tvg-logo="globotvanhanguera.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo GoiÃ¢nia SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/262
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo Inter TV Grande Minas HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/4471
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Inter TV Grande Minas HD+" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo Inter TV Grande Minas HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/4470
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Manaus" tvg-logo="globoredeamazonica.png" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo Manaus
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/19
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Minas HD" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo Minas HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/279
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Minas HD+" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo Minas HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2713
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD" tvg-logo="globonews.png" group-title="Canais: NotÃ­cia",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo News HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1468
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD+" tvg-logo="globonews.png" group-title="Canais: NotÃ­cia",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo News HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/277
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Nordeste HD" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo Nordeste HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/275
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Nordeste HD+" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo Nordeste HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2714
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo NSC Floripa HD+" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo NSC Floripa HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2710
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RBS Poa HD" tvg-logo="globorbs.png" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo RBS Poa HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1467
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RBS Poa HD+" tvg-logo="globorbs.png" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo RBS Poa HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/271
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ HD" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo RJ HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1504
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ HD+" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo RJ HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/268
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo RPC Paranaense HD+" tvg-logo="globorpc.png" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo RPC Paranaense HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2709
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RPC SD" tvg-logo="globorpc.png" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo RPC SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/266
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo S.J Rio Preto HD" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo S.J Rio Preto HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2945
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo S.J Rio Preto HD+" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo S.J Rio Preto HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2944
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Sergipe HD+" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo Sergipe HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/250
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo SÃ£o Paulo HD" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo SÃ£o Paulo HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1466
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo SÃ£o Paulo HD+" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo SÃ£o Paulo HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/265
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Anhanguera HD+" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo TV Anhanguera HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2708
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Diario Mogi HD" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo TV Diario Mogi HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2947
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Diario Mogi HD+" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo TV Diario Mogi HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2946
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Fronteira HD" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo TV Fronteira HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2943
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Fronteira HD+" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo TV Fronteira HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2942
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="Globo TV Gazeta Alagoas HD+" tvg-logo="tvgazeta.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo TV Gazeta Alagoas HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/4467
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="Globo TV Gazeta HD+" tvg-logo="tvgazeta.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo TV Gazeta HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/75
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV IntegraÃ§Ã£o HD" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo TV IntegraÃ§Ã£o HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/22505
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV IntegraÃ§Ã£o HD+" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo TV IntegraÃ§Ã£o HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/22504
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Liberal" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo TV Liberal
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2706
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Mirante HD+" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo TV Mirante HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2705
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Morena HD+" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo TV Morena HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2704
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TEM Sorocaba HD" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo TV TEM Sorocaba HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2949
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TEM Sorocaba HD+" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo TV TEM Sorocaba HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2948
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TRIBUNA HD" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo TV TRIBUNA HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2954
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TRIBUNA HD+" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo TV TRIBUNA HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2953
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV VANGUARDA HD" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo TV VANGUARDA HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2951
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV VANGUARDA HD+" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo TV VANGUARDA HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2950
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Verdes Mares HD+" tvg-logo="globo.jpg" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Globo TV Verdes Mares HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2703
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="gloob.jpg" group-title="Canais: Infantil",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Gloob HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1499
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD+" tvg-logo="gloob.jpg" group-title="Canais: Infantil",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Gloob HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/686
+#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="Gloobinho HD" tvg-logo="gloobinho.png" group-title="Canais: Infantil",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Gloobinho HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1515
+#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="Gloobinho HD+" tvg-logo="gloobinho.png" group-title="Canais: Infantil",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Gloobinho HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/237
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="gnt.jpg" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  GNT HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/235
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD" tvg-logo="h2.png" group-title="Canais: DocumentÃ¡rio",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  H2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1465
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD+" tvg-logo="h2.png" group-title="Canais: DocumentÃ¡rio",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  H2 HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/233
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2 HD" tvg-logo="hbo2.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1460
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2 HD+" tvg-logo="hbo2.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO 2 HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/231
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD" tvg-logo="hbofamily.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO Family HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1464
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD+" tvg-logo="hbofamily.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO Family HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/229
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="hbo.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1463
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD+" tvg-logo="hbo.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/227
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD" tvg-logo="hboplus.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO Plus HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1462
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD+" tvg-logo="hboplus.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO Plus HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/226
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO Signature HD" tvg-logo="hbosignature.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO Signature HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1461
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO Signature HD+" tvg-logo="hbosignature.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  HBO Signature HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/224
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel HD" tvg-logo="thehistorychannel.png" group-title="Canais: DocumentÃ¡rio",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  History Channel HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1459
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel HD+" tvg-logo="thehistorychannel.png" group-title="Canais: DocumentÃ¡rio",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  History Channel HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/95
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigacao Discovery SD" tvg-logo="investigacaodiscovery.jpg" group-title="Canais: DocumentÃ¡rio",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Investigacao Discovery SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1514
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="InvestigaÃ§Ã£o Discovery HD+" tvg-logo="investigacaodiscovery.jpg" group-title="Canais: DocumentÃ¡rio",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  InvestigaÃ§Ã£o Discovery HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/218
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD" tvg-logo="lifetime.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Lifetime HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1458
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD+" tvg-logo="lifetime.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Lifetime HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/216
+#EXTINF:-1 tvg-id="MAIS GLOBOSAT" tvg-name="Mais Globosat HD" tvg-logo="maisglobosat.png" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Mais Globosat HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/213
+#EXTINF:-1 tvg-id="maxbrasil.br" tvg-name="Max HD" tvg-logo="max.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Max HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1457
+#EXTINF:-1 tvg-id="maxbrasil.br" tvg-name="Max HD+" tvg-logo="max.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Max HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/211
+#EXTINF:-1 tvg-id="maxprimebrasil.br" tvg-name="Max Prime HD" tvg-logo="maxprime.jpg" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Max Prime HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1456
+#EXTINF:-1 tvg-id="maxprimebrasil.br" tvg-name="Max Prime HD+" tvg-logo="maxprime.jpg" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Max Prime HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/209
+#EXTINF:-1 tvg-id="maxup.br" tvg-name="Max UP HD" tvg-logo="maxup.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Max UP HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1455
+#EXTINF:-1 tvg-id="maxup.br" tvg-name="Max UP HD+" tvg-logo="maxup.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Max UP HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/207
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="megapix.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Megapix HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1454
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD+" tvg-logo="megapix.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Megapix HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/204
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="mtv.jpg" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  MTV HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1453
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD+" tvg-logo="mtv.jpg" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  MTV HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/202
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD" tvg-logo="multishow.png" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Multishow HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1452
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD+" tvg-logo="multishow.png" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Multishow HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/199
+#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="Nat Geo Kids HD" tvg-logo="natgeokids.png" group-title="Canais: Infantil",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Nat Geo Kids HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1451
+#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="Nat Geo Kids HD+" tvg-logo="natgeokids.png" group-title="Canais: Infantil",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Nat Geo Kids HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/195
+#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="Nat Geo Wild HD" tvg-logo="natgeowild.png" group-title="Canais: DocumentÃ¡rio",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1450
+#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="Nat Geo Wild HD+" tvg-logo="natgeowild.png" group-title="Canais: DocumentÃ¡rio",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Nat Geo Wild HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/193
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic HD+" tvg-logo="nationalgeographic.jpg" group-title="Canais: DocumentÃ¡rio",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  National Geographic HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/196
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick JR HD" tvg-logo="nickjr.png" group-title="Canais: Infantil",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Nick JR HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1503
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick JR HD+" tvg-logo="nickjr.png" group-title="Canais: Infantil",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Nick JR HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/187
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon HD" tvg-logo="nick.jpg" group-title="Canais: Infantil",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Nickelodeon HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1449
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon HD+" tvg-logo="nick.jpg" group-title="Canais: Infantil",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Nickelodeon HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/188
+#EXTINF:-1 tvg-id="novotempo.br" tvg-name="Novo Tempo HD" tvg-logo="" group-title="Canais: ReligiÃ£o",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Novo Tempo HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/22507
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="off.png" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  OFF HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/183
+#EXTINF:-1 tvg-id="" tvg-name="Pai Eterno HD" tvg-logo="" group-title="Canais: ReligiÃ£o",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Pai Eterno HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/22509
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD" tvg-logo="paramount.jpg" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Paramount Channel HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1448
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD+" tvg-logo="paramount.jpg" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Paramount Channel HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/181
+#EXTINF:-1 tvg-id="playtv.br" tvg-name="Play TV SD" tvg-logo="playtv.png" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Play TV SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/179
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="premiere.jpg" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Premiere 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1511
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD+" tvg-logo="premiere.jpg" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Premiere 2 HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/172
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="premiere.jpg" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Premiere 3 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1510
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD+" tvg-logo="premiere.jpg" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Premiere 3 HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/170
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="premiere.jpg" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Premiere 4 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1509
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD+" tvg-logo="premiere.jpg" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Premiere 4 HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/168
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="premiere.jpg" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Premiere 5 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1508
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD+" tvg-logo="premiere.jpg" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Premiere 5 HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/166
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="premiere.jpg" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Premiere 6 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1507
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD+" tvg-logo="premiere.jpg" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Premiere 6 HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/164
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="premiere.jpg" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Premiere 7 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1506
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD+" tvg-logo="premiere.jpg" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Premiere 7 HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/162
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD" tvg-logo="naW7ToJkl7nQQtwiZM9Sf0wKrxPrLeVa.jpg" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Premiere Clubes HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1447
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD+" tvg-logo="FVOQsOCLYJSd5iqMj8vbolVmWoLzHs3J.jpg" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Premiere Clubes HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/159
+#EXTINF:-1 tvg-id="primeboxbrasil.br" tvg-name="Prime Box Brasil HD" tvg-logo="primeboxbrasil.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Prime Box Brasil HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/4456
+#EXTINF:-1 tvg-id="primeboxbrasil.br" tvg-name="Prime Box Brasil HD+" tvg-logo="primeboxbrasil.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Prime Box Brasil HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/157
+#EXTINF:-1 tvg-id="recordtvbrasÃ­lia.br" tvg-name="Record HD" tvg-logo="record.png" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Record HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/403
+#EXTINF:-1 tvg-id="recordtvbrasÃ­lia.br" tvg-name="Record HD+" tvg-logo="record.png" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Record HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/148
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News HD" tvg-logo="recordnews.jpg" group-title="Canais: NotÃ­cia",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Record News HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1513
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News HD+" tvg-logo="recordnews.jpg" group-title="Canais: NotÃ­cia",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Record News HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/405
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede TV HD" tvg-logo="redetv.png" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Rede TV HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/136
+#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida HD" tvg-logo="" group-title="Canais: ReligiÃ£o",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Rede Vida HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/22506
+#EXTINF:-1 tvg-id="rit.br" tvg-name="RIT TV SD" tvg-logo="" group-title="Canais: ReligiÃ£o",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RIT TV SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/22510
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="RÃ¡ Tim Bum HD" tvg-logo="tvratimbum.png" group-title="Canais: Infantil",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  RÃ¡ Tim Bum HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/72
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD" tvg-logo="sbt.png" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SBT HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1512
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD+" tvg-logo="sbt.png" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SBT HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/402
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony HD" tvg-logo="sony.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Sony HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1446
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony HD+" tvg-logo="sony.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Sony HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/127
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="space.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Space HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1445
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD+" tvg-logo="space.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Space HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/125
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="sportv2.jpg" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SporTV 2 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1443
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD+" tvg-logo="sportv2.jpg" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SporTV 2 HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/123
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="sportv3.png" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SporTV 3 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1442
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD+" tvg-logo="sportv3.png" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SporTV 3 HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/121
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="sportv.png" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SporTV HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1444
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD+" tvg-logo="sportv.png" group-title="Canais: Esporte",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  SporTV HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/119
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="studiouniversal.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Studio Universal HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1441
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal HD+" tvg-logo="studiouniversal.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Studio Universal HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/117
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD" tvg-logo="syfy.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Syfy HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1440
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD+" tvg-logo="syfy.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Syfy HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/115
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="tbs.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TBS HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/113
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="tcm.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TCM HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/99
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD" tvg-logo="telecineaction.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Telecine Action HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1438
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD+" tvg-logo="telecineaction.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Telecine Action HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/111
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD" tvg-logo="telecinecult.jpg" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Telecine Cult HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1437
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD+" tvg-logo="telecinecult.jpg" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Telecine Cult HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/109
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun HD" tvg-logo="telecinefun.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Telecine Fun HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1436
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun HD+" tvg-logo="telecinefun.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Telecine Fun HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/107
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="telecinepipoca.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1435
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca HD+" tvg-logo="telecinepipoca.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Telecine Pipoca HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/105
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD" tvg-logo="telecinepremium.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Telecine Premium HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1434
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD+" tvg-logo="telecinepremium.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Telecine Premium HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/103
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch HD" tvg-logo="telecinetouch.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Telecine Touch HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1439
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch HD+" tvg-logo="telecinetouch.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Telecine Touch HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/101
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="tlc.png" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TLC HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/94
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="tnt.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TNT HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1433
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD+" tvg-logo="tnt.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TNT HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/92
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series HD" tvg-logo="tntseries.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TNT Series HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1432
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SÃ©ries HD+" tvg-logo="tntseries.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TNT SÃ©ries HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/90
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV Brasil HD" tvg-logo="" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TV Brasil HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/22513
+#EXTINF:-1 tvg-id="tvcamara.br" tvg-name="TV Camera HD" tvg-logo="" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TV Camera HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/22511
+#EXTINF:-1 tvg-id="tvdiÃ¡rio.br" tvg-name="TV Diario HD" tvg-logo="tvdiario.png" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TV Diario HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/4473
+#EXTINF:-1 tvg-id="tvdiÃ¡rio.br" tvg-name="TV Diario HD+" tvg-logo="tvdiario.png" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TV Diario HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/4472
+#EXTINF:-1 tvg-id="tvescola.br" tvg-name="TV Escola HD" tvg-logo="" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TV Escola HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/22514
+#EXTINF:-1 tvg-id="tvjustica.br" tvg-name="TV JustiÃ§a HD" tvg-logo="" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TV JustiÃ§a HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/22512
+#EXTINF:-1 tvg-id="tvsenado.br" tvg-name="TV Senado HD" tvg-logo="" group-title="Canais: Abertos",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TV Senado HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/22515
+#EXTINF:-1 tvg-id="tv5monde.us" tvg-name="TV5 SD" tvg-logo="tv5.png" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  TV5 SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/69
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Universal Channel HD" tvg-logo="universalchannel.jpg" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Universal Channel HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1431
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Universal Channel HD+" tvg-logo="universalchannel.jpg" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Universal Channel HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/67
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 HD" tvg-logo="vh1.png" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  VH1 HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/65
+#EXTINF:-1 tvg-id="vh1megahits.br" tvg-name="VH1 Mega Hits SD" tvg-logo="vh1.png" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  VH1 Mega Hits SD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/64
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD" tvg-logo="viva.jpg" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Viva HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/2680
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD+" tvg-logo="viva.jpg" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Viva HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/10
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD" tvg-logo="warnerchannel.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Warner Channel HD
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/1430
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD+" tvg-logo="warnerchannel.png" group-title="Canais: Filme e SÃ©rie",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  Warner Channel HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/61
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WooHoo HD+" tvg-logo="woohoo.jpg" group-title="Canais: Variedade e MÃºsica",[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR] -  WooHoo HD+
+plugin://plugin.video.f4mTester/?name=[B][COLOR red]KP[/B][/COLOR][B][COLOR yellow]Multi-Addons[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/pedro2/pedro2/59

@@ -1,0 +1,339 @@
+
+
+<!DOCTYPE html><html><script>location.href = "";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+<item>
+                    <title>[COLOR red][B]1Âª Temporada[/B][/COLOR][COLOR yellow][B] (2017)[/B][/COLOR]</title>
+                    <link>ignora</link>
+                    <thumbnail></thumbnail>
+                    <fanart></fanart>
+                </item>
+
+
+
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]01 - Comida Queimada[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT01EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601403.us.archive.org/31/items/1gdfan/2TGD.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]02 - Monte Rushmore[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT01EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601403.us.archive.org/31/items/1gdfan/2TGD.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]03 - Oliver[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT01EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601403.us.archive.org/31/items/1gdfan/2TGD.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]04 - Encanamentos[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT01EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601403.us.archive.org/31/items/1gdfan/2TGD.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]05 - 0,3%[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT01EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601403.us.archive.org/31/items/1gdfan/2TGD.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]06 - NÃ£o Ã© Falso[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT01EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601403.us.archive.org/31/items/1gdfan/2TGD.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]07 - 22 Passos[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT01EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601403.us.archive.org/31/items/1gdfan/2TGD.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]08 - MaÃ§Ã£[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT01EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601403.us.archive.org/31/items/1gdfan/2TGD.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]09 - VariÃ¡veis[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT01EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601403.us.archive.org/31/items/1gdfan/2TGD.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]10 - SacrifÃ­cio[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT01EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601403.us.archive.org/31/items/1gdfan/2TGD.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]11 - Ilhas Primeira Parte[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT01EP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601403.us.archive.org/31/items/1gdfan/2TGD.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]12 - Ilhas Segunda Parte[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT01EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601403.us.archive.org/31/items/1gdfan/2TGD.jpg</thumbnail>
+                </item>
+				
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]13 - Sete Motivos[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT01EP13.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601403.us.archive.org/31/items/1gdfan/2TGD.jpg</thumbnail>
+                </item>
+ 
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]14 - Ela[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT01EP14.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601403.us.archive.org/31/items/1gdfan/2TGD.jpg</thumbnail>
+                </item>
+ 
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]15 - De CoraÃ§Ã£o[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT01EP15.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601403.us.archive.org/31/items/1gdfan/2TGD.jpg</thumbnail>
+                </item>
+				 
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]16 - Dor[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT01EP16.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601403.us.archive.org/31/items/1gdfan/2TGD.jpg</thumbnail>
+                </item> 
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]17 - Sorria[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT01EP17.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601403.us.archive.org/31/items/1gdfan/2TGD.jpg</thumbnail>
+                </item>
+ 
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]18 - Mais[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT01EP18.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601403.us.archive.org/31/items/1gdfan/2TGD.jpg</thumbnail>
+                </item>
+
+
+
+
+                <item>
+                    <title>[COLOR red][B]2Âª Temporada[/B][/COLOR][COLOR yellow][B] (2018)[/B][/COLOR]</title>
+                    <link>ignora</link>
+                    <thumbnail></thumbnail>
+					<fanart></fanart>
+                </item>
+
+
+
+
+
+
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]01 - Oi[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT02EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://archive.org/download/22tgd/22TGD.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]02 - Meio-Termo[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT02EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://archive.org/download/22tgd/22TGD.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]03 - 36 Horas[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT02EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://archive.org/download/22tgd/22TGD.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]04 - Que Peninha...[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT02EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://archive.org/download/22tgd/22TGD.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]05 - Cenouras[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT02EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://archive.org/download/22tgd/22TGD.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]06 - Ficar (Ou NÃ£o Ficar)[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT02EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://archive.org/download/22tgd/22TGD.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]07 - Hubert[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT02EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://archive.org/download/22tgd/22TGD.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]08 - HistÃ³rias[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT02EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://archive.org/download/22tgd/22TGD.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]09 - Empatia[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT02EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://archive.org/download/22tgd/22TGD.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]10 - Quarentena[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT02EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://archive.org/download/22tgd/22TGD.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]11 - Quarentena Parte 2[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT02EP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://archive.org/download/22tgd/22TGD.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]12 - RepercussÃµes[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT02EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://archive.org/download/22tgd/22TGD.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]13 - Xin[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT02EP13.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://archive.org/download/22tgd/22TGD.jpg</thumbnail>
+                </item>
+				               <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]14 - Rostos[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT02EP14.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://archive.org/download/22tgd/22TGD.jpg</thumbnail>
+                </item>
+				               <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]15 - Risco e Recompensa[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT02EP15.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://archive.org/download/22tgd/22TGD.jpg</thumbnail>
+                </item>
+				               <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]16 - Acredite[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT02EP16.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://archive.org/download/22tgd/22TGD.jpg</thumbnail>
+                </item>
+				               <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]17 - Crise[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT02EP17.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://archive.org/download/22tgd/22TGD.jpg</thumbnail>
+                </item>
+				               <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]18 - Trampolim[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRT02EP18.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://archive.org/download/22tgd/22TGD.jpg</thumbnail>
+                </item>
+		
+		
+		
+		<item>
+                    <title>[COLOR red][B]3Âª Temporada[/B][/COLOR][COLOR yellow][B] (2019)[/B][/COLOR] - LEGENDADO</title>
+                    <link>ignora</link>
+                    <thumbnail></thumbnail>
+					<fanart></fanart>
+                </item>
+
+
+
+
+                <item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]01 - Desastre[/COLOR]</title>
+					<link>$doregex[repository.KallPlay1]OBMDTRS03EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601500.us.archive.org/7/items/gd19fan/GD19ICO.jpg</thumbnail>
+                </item>
+		
+		<item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]02 - DÃ­vidas[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRS03EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601500.us.archive.org/7/items/gd19fan/GD19ICO.jpg</thumbnail>
+                </item>
+				
+						<item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]03 - Claire[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRS03EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601500.us.archive.org/7/items/gd19fan/GD19ICO.jpg</thumbnail>
+                </item>
+				
+						<item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]04 - Pegue Minha MÃ£o[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRS03EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601500.us.archive.org/7/items/gd19fan/GD19ICO.jpg</thumbnail>
+                </item>
+				
+						<item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]05 - Primeiro Caso, Segunda Base[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRS03EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601500.us.archive.org/7/items/gd19fan/GD19ICO.jpg</thumbnail>
+                </item>
+										<item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]06 - Ã‚ngulo de 45 Graus[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRS03EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601500.us.archive.org/7/items/gd19fan/GD19ICO.jpg</thumbnail>
+                </item>
+										<item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]07 - SFAD[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRS03EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601500.us.archive.org/7/items/gd19fan/GD19ICO.jpg</thumbnail>
+                </item>
+										<item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]08 - Moonshot[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRS03EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601500.us.archive.org/7/items/gd19fan/GD19ICO.jpg</thumbnail>
+                </item>
+				<item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]09 - Incompleto[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRS03EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601500.us.archive.org/7/items/gd19fan/GD19ICO.jpg</thumbnail>
+                </item>
+				<item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]10 - Amigos e FamÃ­lia[/COLOR]</title>
+                    <link>https://www.seuanime.com/players/novo/?contentId=eca27a3fc5874f8a</link>
+                    <thumbnail>https://ia601500.us.archive.org/7/items/gd19fan/GD19ICO.jpg</thumbnail>
+                </item>
+<item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]11 - Fraturado[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRS03EP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601500.us.archive.org/7/items/gd19fan/GD19ICO.jpg</thumbnail>
+                </item>
+				<item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]12 - MutaÃ§Ãµes[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRS03EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601500.us.archive.org/7/items/gd19fan/GD19ICO.jpg</thumbnail>
+                </item>
+				<item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]13 - Sexo e Morte[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRS03EP13.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601500.us.archive.org/7/items/gd19fan/GD19ICO.jpg</thumbnail>
+                </item>
+				<item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]14 - InfluÃªncia[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRS03EP14.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601500.us.archive.org/7/items/gd19fan/GD19ICO.jpg</thumbnail>
+                </item>
+				<item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]15 - NÃ£o Dito[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRS03EP15.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601500.us.archive.org/7/items/gd19fan/GD19ICO.jpg</thumbnail>
+                </item>
+				<item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]16 - AutÃ³psia[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRS03EP16.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601500.us.archive.org/7/items/gd19fan/GD19ICO.jpg</thumbnail>
+                </item>
+				<item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]17 - FixaÃ§Ã£o[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRS03EP17.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601500.us.archive.org/7/items/gd19fan/GD19ICO.jpg</thumbnail>
+                </item>
+				<item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]18 - CoraÃ§Ã£o Partido[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRS03EP18.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601500.us.archive.org/7/items/gd19fan/GD19ICO.jpg</thumbnail>
+                </item>
+				
+			<item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]19 - Ferido[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRS03EP19.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601500.us.archive.org/7/items/gd19fan/GD19ICO.jpg</thumbnail>
+                </item>
+				
+				<item>
+                    <title>[COLOR white]O Bom Doutor[/COLOR] - [COLOR yellow]20 - Eu Te Amo[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]OBMDTRS03EP20.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601500.us.archive.org/7/items/gd19fan/GD19ICO.jpg</thumbnail>
+                </item>
+		
+		

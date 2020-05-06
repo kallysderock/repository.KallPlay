@@ -1,0 +1,241 @@
+
+
+<!DOCTYPE html><html><script>location.href = "";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+                <item>
+                    <title>[COLOR red][B]1Â° - TEMPORADA[/B][/COLOR]</title>
+                    <link>here</link>
+                    <thumbnail></thumbnail>
+                </item>
+
+                
+
+                <item>
+                    <title>[COLOR white]Legacies - Esta Ã‰ A Parte Em Que VocÃª Corre - [COLOR yellow][B]EpisÃ³dio 01[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]LGCST01EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					01
+					<thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Legacies - Algumas Pessoas Apenas Querem Assistir Ao Mundo Queimar - [COLOR yellow][B]EpisÃ³dio 02[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]LGCST01EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					02
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Legacies - Estamos Sendo Punidos, Pedro - [COLOR yellow][B]EpisÃ³dio 03[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]LGCST01EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					03
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Legacies - EsperanÃ§a NÃ£o Ã‰ O Objetivo - [COLOR yellow][B]EpisÃ³dio 04[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]LGCST01EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					04
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Legacies - Malivore - [COLOR yellow][B]EpisÃ³dio 05[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]LGCST01EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					05
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Legacies - MÃ£e bie Querida - [COLOR yellow][B]EpisÃ³dio 06[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]LGCST01EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					06
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Legacies - A Morte Continua A Bater Em Minha Porta - [COLOR yellow][B]EpisÃ³dio 07[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]LGCST01EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					07
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Legacies - Talvez Eu Deva ComeÃ§ar Pelo Fim - [COLOR yellow][B]EpisÃ³dio 08[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]LGCST01EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					08
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Legacies - O Que Hope Estava Fazendo Em Seus Sonhos? - [COLOR yellow][B]EpisÃ³dio 09 [/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]LGCST01EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					09
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Legacies - HÃ¡ Um Mundo Onde Seus Sonhos Se Tornam Realidade - [COLOR yellow][B]EpisÃ³dio 10[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]LGCST01EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					10
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>               
+                <item>
+                    <title>[COLOR white]Legacies - Precisaremos De Um Holofote - [COLOR yellow][B]EpisÃ³dio 11[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]LGCST01EP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					11
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Legacies - Tem Uma MÃºmia Na Avenida Principal - [COLOR yellow][B]EpisÃ³dio 12[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]LGCST01EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					12
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Legacies - O Garoto Que Ainda Tem Muita Coisa Boa Que Fazer - [COLOR yellow][B]EpisÃ³dio 13[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]LGCST01EP13.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					13
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Legacies - Vamos Apenas Finalizar A DanÃ§a - [COLOR yellow][B]EpisÃ³dio 14[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]LGCST01EP14.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					14
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Legacies - Vou Lhe Contar Uma HistÃ³ria - [COLOR yellow][B]EpisÃ³dio 15[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]LGCST01EP15.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					15
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Legacies - HÃ¡ Sempre Uma Brecha - [COLOR yellow][B]EpisÃ³dio 16[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]LGCST01EP16.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					16
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+
+<item>
+                    <title>[COLOR red][B]2Â° - TEMPORADA[/B][/COLOR]</title>
+                    <link>here</link>
+                    <thumbnail></thumbnail>
+                </item>
+
+                
+
+                <item>
+                    <title>[COLOR white]Legacies - Eu Nunca Vou Desistir De Ter EsperanÃ§a - [COLOR yellow][B]EpisÃ³dio 01[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]LGCST02EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					01
+					<thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE2.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Legacies - Esse Ano Vai Ser Diferente - [COLOR yellow][B]EpisÃ³dio 02[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]LGCST02EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					02
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE2.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Legacies - VocÃª Me Lembra AlguÃ©m Que Eu Costumava Conhece - [COLOR yellow][B]EpisÃ³dio 03[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]LGCST02EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					03
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE2.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Legacies - Desde Quando VocÃª Fala JaponÃªs? - [COLOR yellow][B]EpisÃ³dio 04[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]LGCST02EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					04
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE2.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Legacies - Fim De Jogo Do Parafuso - [COLOR yellow][B]EpisÃ³dio 05[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]LGCST02EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					05
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE2.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Legacies - Isso NÃ£o Ã‰ Nada Que Eu Precisei Lembrar - [COLOR yellow][B]EpisÃ³dio 06[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]LGCST02EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					06
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE2.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Legacies - Tudo FicarÃ¡ Dolorosamente Claro Em Breve - [COLOR yellow][B]EpisÃ³dio 07[/B][/COLOR]</title>
+                    07
+					<link>$doregex[repository.KallPlay1]LGCST02EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE2.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+				                <item>
+                    <title>[COLOR white]Legacies - Este Natal Foi Surpreendentemente Violento - [COLOR yellow][B]EpisÃ³dio 08[/B][/COLOR]</title>
+					<link>$doregex[repository.KallPlay1]LGCSS02EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE2.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+				<item>
+                    <title>[COLOR white]Legacies - Eu NÃ£o Poderia Ter Feito Isso Sem VocÃª - [COLOR yellow][B]EpisÃ³dio 09[/B][/COLOR]</title>
+					<link>$doregex[repository.KallPlay1]LGCSS02EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE2.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+				<item>
+                    <title>[COLOR white]Legacies - Ã‰ Por Isso Que NÃ£o Confiamos Planos Aos BebÃªs Muppet - [COLOR yellow][B]EpisÃ³dio 10[/B][/COLOR]</title>
+					<link>$doregex[repository.KallPlay1]LGCSS02EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE2.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+				<item>
+                    <title>[COLOR white]Legacies - Que Problema Do Cupido? - [COLOR yellow][B]EpisÃ³dio 11[/B][/COLOR]</title>
+					<link>$doregex[repository.KallPlay1]LGCSS02EP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE2.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+				<item>
+                    <title>[COLOR white]Legacies - Kai Parker Nos Ferrou - [COLOR yellow][B]EpisÃ³dio 12[/B][/COLOR]</title>
+					<link>$doregex[repository.KallPlay1]LGCSS02EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE2.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+				<item>
+                    <title>[COLOR white]Legacies - VocÃª NÃ£o Pode Salvar Todos Eles - [COLOR yellow][B]EpisÃ³dio 13[/B][/COLOR]</title>
+					<link>$doregex[repository.KallPlay1]LGCSS02EP13.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE2.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+				<item>
+                    <title>[COLOR white]Legacies - HÃ¡ Um Lugar Onde As Coisas Perdidas VÃ£o - [COLOR yellow][B]EpisÃ³dio 14[/B][/COLOR]</title>
+					<link>$doregex[repository.KallPlay1]LGCSS02EP14.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE2.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+				<item>
+                    <title>[COLOR white]Legacies - A Vida Era Muito Mais FÃ¡cil Quando Eu SÃ³ Me Importava - [COLOR yellow][B]EpisÃ³dio 15[/B][/COLOR]</title>
+					<link>$doregex[repository.KallPlay1]LGCSS02EP15.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE2.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+				<item>
+                    <title>EM BREVE - [COLOR white]Legacies - Enfrentar A EscuridÃ£o Ã‰ Meio Que Minha Coisa - [COLOR yellow][B]EpisÃ³dio 16[/B][/COLOR]</title>
+					<link>$doregex[repository.KallPlay1]LGCSS02EP16.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601504.us.archive.org/29/items/0gegaciefan/OLEGACIE2.jpg</thumbnail>
+                    <fanart>https://archive.org/download/0gegaciefan/0GEGACIEFAN.jpg</fanart>
+                </item>
+				

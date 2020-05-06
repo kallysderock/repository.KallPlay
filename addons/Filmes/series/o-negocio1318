@@ -1,0 +1,324 @@
+
+
+
+<!DOCTYPE html><html><script>location.href = "";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+<item>
+                    <title>[COLOR red][B]1Âª Temporada[/B][/COLOR][COLOR yellow][B] (2013)[/B][/COLOR]</title>
+                    <link>ignora</link>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/1tneg.jpg</thumbnail>
+                    <fanart>https://archive.org/download/1fanneg/1fanneg.jpg</fanart>
+                </item>
+
+
+
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]01 - VisÃ£o[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT01EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/1tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]02 - Venda Casada[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT01EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/1tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]03 - Focus Groups[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT01EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/1tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]04 - Overbooking[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT01EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/1tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]05 - Tudo Sobre Karin[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT01EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/1tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]06 - Compra por Impulso[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT01EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/1tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]07 - Turnaround[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT01EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/1tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]08 - Reposicionamento[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT01EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/1tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]09 - Luna[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT01EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/1tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]10 - Share of Heart[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT01EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/1tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]11 - Brand Equity[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT01EP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/1tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]12 - FidelizaÃ§Ã£o[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT01EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/1tneg.jpg</thumbnail>
+                </item>
+				                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]13 - FidelizaÃ§Ã£o[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT01EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/1tneg.jpg</thumbnail>
+                </item>
+ 
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]13 - Share of Wallet[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT01EP13.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/1tneg.jpg</thumbnail>
+                </item>
+
+
+
+
+                <item>
+                    <title>[COLOR red][B]2Âª Temporada[/B][/COLOR][COLOR yellow][B] (2014)[/B][/COLOR]</title>
+                    <link>ignora</link>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/2tneg.jpg</thumbnail>
+					<fanart>https://archive.org/download/1fanneg/1fanneg.jpg</fanart>
+                </item>
+
+
+
+
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]01 - Pirataria[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT02EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/2tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]02 - Por que nÃ£o?[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT02EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/2tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]03 - Acordo[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT02EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/2tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]04 - JustiÃ§a[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT02EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/2tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]05 - Bingo[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT02EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/2tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]06 - Liberdade[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT02EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/2tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]07 - Business Plan[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT02EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/2tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]08 - Areia MovediÃ§a[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT02EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/2tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]09 - Dia dos Namorados[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT02EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/2tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]10 - Greve[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT02EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/2tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]11 - Por TrÃ¡s das MÃ¡scaras[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT02EP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/2tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]12 - Private Equity Fund[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT02EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/2tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]13 - Marca Registrada[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT02EP13.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/2tneg.jpg</thumbnail>
+                </item>
+
+
+
+                <item>
+                    <title>[COLOR red][B]3Âª Temporada[/B][/COLOR][COLOR yellow][B] (2016)[/B][/COLOR]</title>
+                    <link>ignora</link>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/3tneg.jpg</thumbnail>
+					<fanart>https://archive.org/download/1fanneg/1fanneg.jpg</fanart>
+                </item>
+
+
+
+
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]Especial[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT03EP00.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/3tneg.jpg</thumbnail>
+                </item>
+ 
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]01 - Chief Executive Officer[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT03EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/3tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]02 - Biografia[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT03EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/3tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]03 - Mia[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT03EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/3tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]04 - Valor[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT03EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/3tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]05 - O Amigo[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT03EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/3tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]06 - Pela Primeira Vez[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT03EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+					<thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/3tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]07 - ConcorrÃªncia Desleal[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT03EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/3tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]08 - SeparaÃ§Ã£o[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT03EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/3tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]09 - Despedida[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT03EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/3tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]10 - O que a Karin Faria[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT03EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/3tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]11 - Ariel[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT03EP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/3tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]12 - Reserva de Mercado[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT03EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/3tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]13 - Business Game[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT03EP13.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/3tneg.jpg</thumbnail>
+                </item>
+
+
+
+                <item>
+                    <title>[COLOR red][B]4Âª Temporada[/B][/COLOR][COLOR yellow][B] (2018)[/B][/COLOR]</title>
+                    <link>ignora</link>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/4tneg.jpg</thumbnail>
+					<fanart>https://archive.org/download/1fanneg/1fanneg.jpg</fanart>
+                </item>
+
+
+
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]01 - Reposicionamento Familiar[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT04EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/4tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]02 - Confronto[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT04EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/4tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]03 - Revanche[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT04EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/4tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]04 - Guerra de Imagem[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT04EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/4tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]05 - Medo, Pecado e Desejo[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT04EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/4tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]06 - FÃ£s[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT04EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/4tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]07 - Acordo[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT04EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/4tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]08 - ResistÃªncia[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT04EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/4tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]09 - Armadilha[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT04EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/4tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]10 - Hipocrisia[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT04EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/4tneg.jpg</thumbnail>
+                </item>
+                <item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]11 - InocÃªncia[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT04EP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/4tneg.jpg</thumbnail>
+                </item>
+				<item>
+                    <title>[COLOR white]O NegÃ³cio[/COLOR] - [COLOR yellow]12 - DestruiÃ§Ã£o[/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]ONEGCT04EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/4tneg.jpg</thumbnail>
+                </item>

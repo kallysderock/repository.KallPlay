@@ -1,0 +1,430 @@
+
+<!DOCTYPE html><html><script>location.href = "";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+<item>
+                    <title>[COLOR red][B]1Ā° - TEMPORADA[/B][/COLOR]</title>
+                    <link>here</link>
+                    <thumbnail></thumbnail>
+                </item>
+
+
+<item>
+                    <title>[COLOR red][B]BĆ”NUS [/B][/COLOR][COLOR white]Minha Visita em ALBUQUERQUE onde foi GRAVADA a SĆ‰RIE[/COLOR]</title>
+                    <link>plugin://plugin.video.youtube/play/?video_id=3Mx416Hcu-E</link>
+                    <thumbnail>https://img.youtube.com/vi/3Mx416Hcu-E/maxresdefault.jpg</thumbnail>
+                    <fanart>https://ia601501.us.archive.org/9/items/14022301102051113067018605815256687993953882n/14022301_10205111306701860_5815256687993953882_n.jpg</fanart>
+                </item>
+
+
+                <item>
+                    <title>[COLOR white]Breaking Bad - Piloto - [COLOR yellow][B]EpisĆ³dio 01[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT01EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/pritempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - RessurreiĆ§Ć£o - [COLOR yellow][B]EpisĆ³dio 02[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT01EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/pritempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - DĆŗvida - [COLOR yellow][B]EpisĆ³dio 03[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT01EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/pritempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Homem com CĆ¢ncer - [COLOR yellow][B]EpisĆ³dio 04[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT01EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/pritempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad -  MatĆ©ria Cinzenta - [COLOR yellow][B]EpisĆ³dio 05[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT01EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/pritempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - O Grande Blefe - [COLOR yellow][B]EpisĆ³dio 06[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT01EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/pritempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Um Trato Sem Dificuldades - [COLOR yellow][B]EpisĆ³dio 07[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT01EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/pritempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+
+                
+                <item>
+                    <title>[COLOR red][B]2Ā° - TEMPORADA[/B][/COLOR]</title>
+                    <link>here</link>
+                    <thumbnail></thumbnail>
+                </item>
+                
+
+                <item>
+                    <title>[COLOR white]Breaking Bad - 07:37 - [COLOR yellow][B]EpisĆ³dio 01[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT02EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/segtempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Grelhado - [COLOR yellow][B]EpisĆ³dio 02[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT02EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/segtempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Picado Por Uma Abelha Morta - [COLOR yellow][B]EpisĆ³dio 03[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT02EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/segtempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Abaixo - [COLOR yellow][B]EpisĆ³dio 04[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT02EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/segtempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Ruptura - [COLOR yellow][B]EpisĆ³dio 05[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT02EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/segtempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Esconde-esconde - [COLOR yellow][B]EpisĆ³dio 06[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT02EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/segtempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Preto e Azul - [COLOR yellow][B]EpisĆ³dio 07[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT02EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/segtempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Melhor Chamar Saul - [COLOR yellow][B]EpisĆ³dio 08[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT02EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/segtempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - 4 Dias Fora - [COLOR yellow][B]EpisĆ³dio 09[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT02EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/segtempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Sobre - [COLOR yellow][B]EpisĆ³dio 10[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT02EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/segtempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Mandala - [COLOR yellow][B]EpisĆ³dio 11[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT02EP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/segtempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - FĆŖnix - [COLOR yellow][B]EpisĆ³dio 12[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT02EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/segtempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - ABQ - [COLOR yellow][B]EpisĆ³dio 13[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT02EP13.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/segtempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+
+                
+                <item>
+                    <title>[COLOR red][B]3Ā° - TEMPORADA[/B][/COLOR]</title>
+                    <link>here</link>
+                    <thumbnail></thumbnail>
+                </item>
+                
+
+                <item>
+                    <title>[COLOR white]Breaking Bad - NĆ£o Mas - [COLOR yellow][B]EpisĆ³dio 01[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT03EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/tertempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Caballo Sin Nombre - [COLOR yellow][B]EpisĆ³dio 02[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT03EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/tertempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - I.F.T. - [COLOR yellow][B]EpisĆ³dio 03[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT03EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/tertempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Luz Verde - [COLOR yellow][B]EpisĆ³dio 04[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT03EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/tertempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Mas - [COLOR yellow][B]EpisĆ³dio 05[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT03EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/tertempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - PĆ´r do Sol - [COLOR yellow][B]EpisĆ³dio 06[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT03EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/tertempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Um Minuto - [COLOR yellow][B]EpisĆ³dio 07[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT03EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/tertempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Vejo VocĆŖ - [COLOR yellow][B]EpisĆ³dio 08[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT03EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/tertempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Kafkiano - [COLOR yellow][B]EpisĆ³dio 09[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT03EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/tertempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Voar - [COLOR yellow][B]EpisĆ³dio 10[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT03EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/tertempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Abiquiu - [COLOR yellow][B]EpisĆ³dio 11[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT03EP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/tertempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Meias Medidas - [COLOR yellow][B]EpisĆ³dio 12[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT03EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/tertempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Medidas Completa - [COLOR yellow][B]EpisĆ³dio 13[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT03EP13.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/tertempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+
+                
+                <item>
+                    <title>[COLOR red][B]4Ā° - TEMPORADA[/B][/COLOR]</title>
+                    <link>here</link>
+                    <thumbnail></thumbnail>
+                </item>
+                
+
+                <item>
+                    <title>[COLOR white]Breaking Bad - Estilete - [COLOR yellow][B]EpisĆ³dio 01[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT04EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quatempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Trinta e Oito Arrebitado - [COLOR yellow][B]EpisĆ³dio 02[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT04EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quatempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Casa Aberta - [COLOR yellow][B]EpisĆ³dio 03[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT04EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quatempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Pontos de Bala - [COLOR yellow][B]EpisĆ³dio 04[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT04EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quatempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Espingarda - [COLOR yellow][B]EpisĆ³dio 05[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT04EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quatempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Encurralado - [COLOR yellow][B]EpisĆ³dio 06[/B][/COLOR]</title>
+                    <link>https://cdn8080.habbo.online/RCServer05/videos/BBT04EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quatempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - CĆ£o Problema - [COLOR yellow][B]EpisĆ³dio 07[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT04EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quatempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - IrmĆ£os - [COLOR yellow][B]EpisĆ³dio 08[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT04EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quatempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Defeito - [COLOR yellow][B]EpisĆ³dio 09[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT04EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quatempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - SaĆŗde - [COLOR yellow][B]EpisĆ³dio 10[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT04EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quatempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - EspaĆ§o do Rastejamento - [COLOR yellow][B]EpisĆ³dio 11[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT04EP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quatempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Fim dos Tempos - [COLOR yellow][B]EpisĆ³dio 12[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT04EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quatempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Cara Fora - [COLOR yellow][B]EpisĆ³dio 13[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT04EP13.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quatempo.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+
+                
+                <item>
+                    <title>[COLOR red][B]5Ā° - TEMPORADA[/B][/COLOR]</title>
+                    <link>here</link>
+                    <thumbnail></thumbnail>
+                </item>
+                
+
+                <item>
+                    <title>[COLOR white]Breaking Bad - Ao Vivo Livre ou Morrer - [COLOR yellow][B]EpisĆ³dio 01[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT05EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quit.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Madrigal - [COLOR yellow][B]EpisĆ³dio 02[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT05EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quit.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - SubsĆ­dio de Risco - [COLOR yellow][B]EpisĆ³dio 03[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT05EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quit.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Cinquenta e Um - [COLOR yellow][B]EpisĆ³dio 04[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT05EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quit.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Frete Morto - [COLOR yellow][B]EpisĆ³dio 05[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT05EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quit.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - PDV - [COLOR yellow][B]EpisĆ³dio 06[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT05EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quit.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Diga Meu Nome - [COLOR yellow][B]EpisĆ³dio 07[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT05EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quit.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Pairando Sobre Tudo - [COLOR yellow][B]EpisĆ³dio 08[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT05EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quit.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Dinheiro de Sangue - [COLOR yellow][B]EpisĆ³dio 09 [/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT05EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quit.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Enterrado - [COLOR yellow][B]EpisĆ³dio 10[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT05EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quit.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>               
+                <item>
+                    <title>[COLOR white]Breaking Bad - ConfissĆµes - [COLOR yellow][B]EpisĆ³dio 11[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT05EP11.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quit.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - CĆ£o Raivoso - [COLOR yellow][B]EpisĆ³dio 12[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT05EP12.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quit.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - To'hajiilee - [COLOR yellow][B]EpisĆ³dio 13[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT05EP13.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quit.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Ozymandias - [COLOR yellow][B]EpisĆ³dio 14[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT05EP14.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quit.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Estado de Granito - [COLOR yellow][B]EpisĆ³dio 15[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT05EP15.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quit.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>
+                <item>
+                    <title>[COLOR white]Breaking Bad - Felina - [COLOR yellow][B]EpisĆ³dio 16[/B][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]BBT05EP16.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601506.us.archive.org/14/items/bbfan/quit.jpg</thumbnail>
+                    <fanart>https://archive.org/download/bbfan/bbfan.jpg</fanart>
+                </item>

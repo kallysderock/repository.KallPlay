@@ -1,0 +1,74 @@
+
+
+<!DOCTYPE html><html><script>location.href = "";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<item>
+ <title>[COLOR red][B]1Âª Temporada[/B][/COLOR][COLOR yellow][B] (2019)[/B][/COLOR]</title>
+ <link>here</link>
+ <thumbnail></thumbnail>
+</item>
+
+
+<item>
+ <title>[COLOR white]Hebe - [COLOR yellow][B]EPISÃ“DIO 01[/B][/COLOR]</title>
+ <link><link>$doregex[repository.KallPlay1]HBET01EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia601403.us.archive.org/5/items/0hebefan/ohebe.jpg</thumbnail>
+ <fanart>https://archive.org/download/0hebefan/0hebefan.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Hebe - [COLOR yellow][B]EPISÃ“DIO 02[/B][/COLOR]</title>
+ <link><link>$doregex[repository.KallPlay1]HBET01EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia601403.us.archive.org/5/items/0hebefan/ohebe.jpg</thumbnail>
+ <fanart>https://archive.org/download/0hebefan/0hebefan.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Hebe - [COLOR yellow][B]EPISÃ“DIO 03[/B][/COLOR]</title>
+ <link><link>$doregex[repository.KallPlay1]HBET01EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia601403.us.archive.org/5/items/0hebefan/ohebe.jpg</thumbnail>
+ <fanart>https://archive.org/download/0hebefan/0hebefan.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Hebe - [COLOR yellow][B]EPISÃ“DIO 04[/B][/COLOR]</title>
+ <link><link>$doregex[repository.KallPlay1]HBET01EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia601403.us.archive.org/5/items/0hebefan/ohebe.jpg</thumbnail>
+ <fanart>https://archive.org/download/0hebefan/0hebefan.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Hebe - [COLOR yellow][B]EPISÃ“DIO 05[/B][/COLOR]</title>
+ <link><link>$doregex[repository.KallPlay1]HBET01EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia601403.us.archive.org/5/items/0hebefan/ohebe.jpg</thumbnail>
+ <fanart>https://archive.org/download/0hebefan/0hebefan.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Hebe - [COLOR yellow][B]EPISÃ“DIO 06[/B][/COLOR]</title>
+ <link><link>$doregex[repository.KallPlay1]HBET01EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia601403.us.archive.org/5/items/0hebefan/ohebe.jpg</thumbnail>
+ <fanart>https://archive.org/download/0hebefan/0hebefan.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Hebe - [COLOR yellow][B]EPISÃ“DIO 07[/B][/COLOR]</title>
+ <link><link>$doregex[repository.KallPlay1]HBET01EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia601403.us.archive.org/5/items/0hebefan/ohebe.jpg</thumbnail>
+ <fanart>https://archive.org/download/0hebefan/0hebefan.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Hebe - [COLOR yellow][B]EPISÃ“DIO 08[/B][/COLOR]</title>
+ <link><link>$doregex[repository.KallPlay1]HBET01EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia601403.us.archive.org/5/items/0hebefan/ohebe.jpg</thumbnail>
+ <fanart>https://archive.org/download/0hebefan/0hebefan.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Hebe - [COLOR yellow][B]EPISÃ“DIO 09[/B][/COLOR]</title>
+ <link><link>$doregex[repository.KallPlay1]HBET01EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia601403.us.archive.org/5/items/0hebefan/ohebe.jpg</thumbnail>
+ <fanart>https://archive.org/download/0hebefan/0hebefan.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white]Hebe - [COLOR yellow][B]EPISÃ“DIO 10[/B][/COLOR]</title>
+ <link><link>$doregex[repository.KallPlay1]HBET01EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia601403.us.archive.org/5/items/0hebefan/ohebe.jpg</thumbnail>
+ <fanart>https://archive.org/download/0hebefan/0hebefan.jpg</fanart>
+</item>

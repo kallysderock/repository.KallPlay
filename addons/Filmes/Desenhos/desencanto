@@ -1,0 +1,184 @@
+
+
+<!DOCTYPE html><html><script>location.href = "";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<item>
+ <title>[COLOR red][B]1Âª Temporada[/B][/COLOR][COLOR yellow][B] (2018)[/B][/COLOR]</title>
+ <link>here</link>
+ <thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white](Des)encanto - [COLOR yellow][B]EPISÃ“DIO 01[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DESCNTOT01EP01.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601506.us.archive.org/2/items/0desefan/0dese.jpg</thumbnail>
+<fanart>https://archive.org/download/0desefan/0desefan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white](Des)encanto - [COLOR yellow][B]EPISÃ“DIO 02[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DESCNTOT01EP02.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601506.us.archive.org/2/items/0desefan/0dese.jpg</thumbnail>
+<fanart>https://archive.org/download/0desefan/0desefan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white](Des)encanto - [COLOR yellow][B]EPISÃ“DIO 03[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DESCNTOT01EP03.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601506.us.archive.org/2/items/0desefan/0dese.jpg</thumbnail>
+<fanart>https://archive.org/download/0desefan/0desefan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white](Des)encanto - [COLOR yellow][B]EPISÃ“DIO 04[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DESCNTOT01EP04.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601506.us.archive.org/2/items/0desefan/0dese.jpg</thumbnail>
+<fanart>https://archive.org/download/0desefan/0desefan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white](Des)encanto - [COLOR yellow][B]EPISÃ“DIO 05[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DESCNTOT01EP05.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601506.us.archive.org/2/items/0desefan/0dese.jpg</thumbnail>
+<fanart>https://archive.org/download/0desefan/0desefan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white](Des)encanto - [COLOR yellow][B]EPISÃ“DIO 06[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DESCNTOT01EP06.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601506.us.archive.org/2/items/0desefan/0dese.jpg</thumbnail>
+<fanart>https://archive.org/download/0desefan/0desefan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white](Des)encanto - [COLOR yellow][B]EPISÃ“DIO 07[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DESCNTOT01EP07.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601506.us.archive.org/2/items/0desefan/0dese.jpg</thumbnail>
+<fanart>https://archive.org/download/0desefan/0desefan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white](Des)encanto - [COLOR yellow][B]EPISÃ“DIO 08[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DESCNTOT01EP08.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601506.us.archive.org/2/items/0desefan/0dese.jpg</thumbnail>
+<fanart>https://archive.org/download/0desefan/0desefan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white](Des)encanto - [COLOR yellow][B]EPISÃ“DIO 09[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DESCNTOT01EP09.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601506.us.archive.org/2/items/0desefan/0dese.jpg</thumbnail>
+<fanart>https://archive.org/download/0desefan/0desefan.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white](Des)encanto - [COLOR yellow][B]EPISÃ“DIO 010[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DESCNTOT01EP10.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601506.us.archive.org/2/items/0desefan/0dese.jpg</thumbnail>
+<fanart>https://archive.org/download/0desefan/0desefan.jpg</fanart>
+</item>
+
+
+
+
+<item>
+ <title>[COLOR red][B]2Âª Temporada[/B][/COLOR][COLOR yellow][B] (2019)[/B][/COLOR]</title>
+ <link>here</link>
+ <thumbnail></thumbnail>
+</item>
+
+
+<item>
+ <title>[COLOR white](Des)encanto - [COLOR yellow][B]EPISÃ“DIO 01[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]DESCNTOT02EP01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia601506.us.archive.org/2/items/0desefan/0dese.jpg</thumbnail>
+ <fanart>https://archive.org/download/0desefan/0desefan.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white](Des)encanto - [COLOR yellow][B]EPISÃ“DIO 02[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]DESCNTOT02EP02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia601506.us.archive.org/2/items/0desefan/0dese.jpg</thumbnail>
+ <fanart>https://archive.org/download/0desefan/0desefan.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white](Des)encanto - [COLOR yellow][B]EPISÃ“DIO 03[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]DESCNTOT02EP03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia601506.us.archive.org/2/items/0desefan/0dese.jpg</thumbnail>
+ <fanart>https://archive.org/download/0desefan/0desefan.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white](Des)encanto - [COLOR yellow][B]EPISÃ“DIO 04[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]DESCNTOT02EP04.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia601506.us.archive.org/2/items/0desefan/0dese.jpg</thumbnail>
+ <fanart>https://archive.org/download/0desefan/0desefan.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white](Des)encanto - [COLOR yellow][B]EPISÃ“DIO 05[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]DESCNTOT02EP05.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia601506.us.archive.org/2/items/0desefan/0dese.jpg</thumbnail>
+ <fanart>https://archive.org/download/0desefan/0desefan.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white](Des)encanto - [COLOR yellow][B]EPISÃ“DIO 06[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]DESCNTOT02EP06.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia601506.us.archive.org/2/items/0desefan/0dese.jpg</thumbnail>
+ <fanart>https://archive.org/download/0desefan/0desefan.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white](Des)encanto - [COLOR yellow][B]EPISÃ“DIO 07[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]DESCNTOT02EP07.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia601506.us.archive.org/2/items/0desefan/0dese.jpg</thumbnail>
+ <fanart>https://archive.org/download/0desefan/0desefan.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white](Des)encanto - [COLOR yellow][B]EPISÃ“DIO 08[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]DESCNTOT02EP08.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia601506.us.archive.org/2/items/0desefan/0dese.jpg</thumbnail>
+ <fanart>https://archive.org/download/0desefan/0desefan.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white](Des)encanto - [COLOR yellow][B]EPISÃ“DIO 09[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]DESCNTOT02EP09.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia601506.us.archive.org/2/items/0desefan/0dese.jpg</thumbnail>
+ <fanart>https://archive.org/download/0desefan/0desefan.jpg</fanart>
+</item>
+<item>
+ <title>[COLOR white](Des)encanto - [COLOR yellow][B]EPISÃ“DIO 10[/B][/COLOR]</title>
+ <link>$doregex[repository.KallPlay1]DESCNTOT02EP10.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+ <thumbnail>https://ia601506.us.archive.org/2/items/0desefan/0dese.jpg</thumbnail>
+ <fanart>https://archive.org/download/0desefan/0desefan.jpg</fanart>
+</item>
