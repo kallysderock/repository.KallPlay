@@ -1,0 +1,580 @@
+
+
+
+<!DOCTYPE html><html><script>location.href = "";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+<item>
+<title>[COLOR red]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white] FILMES DA MARVEL [/COLOR]-[COLOR red][B] ON [/B][/COLOR][COLOR red][B] OFF [/B][/COLOR]</title>
+<thumbnail>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/icon.png</thumbnail>
+<link>https://</link>
+<info>
+
+<item>
+<title>[B][COLOR red][/COLOR][/B][B]CapitÃ£ Marvel - [COLOR yellow](2019)[/COLOR] - [COLOR red](4K)[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]CPTMRVL.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red](4K)[/COLOR] - DUBLADO RC</link>
+<link>http://v.webtvcde.com/Torrent/Capita.Marvel.2019.1080p.mkv$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO DIRECT LINK</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19LHM23_xUUvcP7uCj5Mqd9AwpBS3yQ44/view$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO</link>
+<thumbnail>https://archive.org/download/vinga2/VINGA2.jpg</thumbnail>
+<fanart>https://archive.org/download/vinga2/VINGA2.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]A histÃ³ria segue Carol Danvers e como ela se torna um dos herÃ³is mais poderosos do universo quando a Terra Ã© pega no meio de uma guerra galÃ¡ctica entre duas raÃ§as alienÃ­genas. Situado na dÃ©cada de 1990, CapitÃ£ Marvel Ã© uma nova aventura de um perÃ­odo inÃ©dito na histÃ³ria do universo cinematogrÃ¡fico da Marvel..</info>
+</item>
+<item>
+
+<item>
+<title>[B][COLOR red][/COLOR][/B][B]Vingadores: Ultimato - [COLOR yellow](2019)[/COLOR] - [COLOR red](4K)[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]VNGDRSULTMTO4K.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red](4K)[/COLOR] - DUBLADO RC</link>
+<link>$doregex[repository.KallPlay1]VNGDRSULTMTO.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO DIRECT LINK</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1c_dRrmIg8gW3nugfIppmqLO7kobkZzQh/view$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO</link>
+<thumbnail>https://ia601400.us.archive.org/21/items/vinga2/VINGA.jpg</thumbnail>
+<fanart>https://ia601400.us.archive.org/21/items/vinga2/VINGA.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]ApÃ³s os eventos devastadores de Vingadores: Guerra Infinita, o universo estÃ¡ em ruÃ­nas devido aos esforÃ§os do TitÃ£ Louco, Thanos. Com a ajuda de aliados remanescentes, os Vingadores devem se reunir mais uma vez a fim de desfazer as aÃ§Ãµes de Thanos e restaurar a ordem no universo de uma vez por todas, nÃ£o importando as consequÃªncias..</info>
+</item>
+<item>
+
+<item>
+<title>[B][COLOR red][/COLOR][/B][B]X-Men: FÃªnix Negra - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR][/B]</title>
+<link>$doregex[repository.KallPlay1]XMENFNXNGRA.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO RC</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1km9liLCma7-hoz8fsdqEzS145OBwqKEJ/view$$lsname=HDCAM DUBLADO</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1U4HKO00OS5Ekw_hxAP4smpEvkQquMkQK/view$$lsname=HDCAM LEGENDADO</link>
+<thumbnail>https://ia601404.us.archive.org/29/items/fenix_201910/fenix.jpg</thumbnail>
+<fanart>https://ia601404.us.archive.org/29/items/fenix_201910/fenix.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Ambientado em 1992, Charles Xavier (James McAvoy) estÃ¡ lidando com o fato dos mutantes serem considerados herÃ³is nacionais. Com o orgulho a flor da pele, ele envia sua equipe para perigosas missÃµes, mas a primeira tarefa dos X-Men no espaÃ§o gera uma explosÃ£o solar, que acende uma forÃ§a malÃ©vola e faminta por poder dentro de Jean Grey (Sophie Turner).</info>
+</item>
+
+<item>
+<title>[COLOR white][B]CapitÃ£o AmÃ©rica: O Primeiro Vingador - DUBLADO - [COLOR yellow](2011)[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]CAPTAMRC1.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+<thumbnail>https://ia601507.us.archive.org/6/items/ggalaxia1/CAPITA1.jpg</thumbnail>
+<fanart>https://ia601507.us.archive.org/6/items/ggalaxia1/CAPITA1.jpg</fanart>
+<info>Nascido durante a Grande DepressÃ£o/Steve Rogers teve uma frÃ¡gil juventude em uma famÃ­lia pobre. Terrorizado com as imagens dos noticiÃ¡rios sobre os nazistas na Europa</info>
+</item>
+
+<item>
+<title>[COLOR white][B]Homem de Ferro - DUBLADO - [COLOR yellow](2008)[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]HMNDEFRO01.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+<thumbnail>https://ia801507.us.archive.org/6/items/ggalaxia1/HOMEMFE1.jpg</thumbnail>
+<fanart>https://ia801507.us.archive.org/6/items/ggalaxia1/HOMEMFE1.jpg</fanart>
+<info>Tony Stark (Robert Downey Jr.) Ã© um industrial bilionÃ¡rio/que tambÃ©m Ã© um brilhante inventor. Ao ser sequestrado ele Ã© obrigado por terroristas a construir uma arma devastadora mas/ao invÃ©s disto/constrÃ³i uma armadura de alta tecnologia que permite que fuja de seu cativeiro.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]Homem de Ferro 2 - DUBLADO - [COLOR yellow](2010)[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]HMNDEFRO02.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+<thumbnail>https://ia801507.us.archive.org/6/items/ggalaxia1/HOMEMFE2.jpg</thumbnail>
+<fanart>https://ia801507.us.archive.org/6/items/ggalaxia1/HOMEMFE2.jpg</fanart>
+<info> ApÃ³s confessar ao mundo ser o Homem de Ferro/Tony Stark (Robert Downey Jr.) passa a ser alvo do governo dos Estados Unidos/que deseja que ele entregue seu poderoso traje.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]Homem de Ferro 3 - DUBLADO - [COLOR yellow](2013)[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]HMNDEFRO03.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+<thumbnail>https://ia801507.us.archive.org/6/items/ggalaxia1/HOMEMFE3.jpg</thumbnail>
+<fanart>https://ia801507.us.archive.org/6/items/ggalaxia1/HOMEMFE3.jpg</fanart>
+<info>Desde o ataque dos chitauri aova York/Tony Stark (Robert Downey Jr.) vem enfrentando dificuldades para dormir e/quando consegue/tem terrÃ­veis pesadelos.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]O IncrÃ­vel Hulk - DUBLADO - [COLOR yellow](2008)[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]OINCVLHLK.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+<thumbnail>https://ia801507.us.archive.org/6/items/ggalaxia1/HULK1.jpg</thumbnail>
+<fanart>https://ia801507.us.archive.org/6/items/ggalaxia1/HULK1.jpg</fanart>
+<info>Vivendo escondido e longe de Betty Ross (Liv Tyler), a mulher que ama, o cientista Bruce Banner (Edward Norton) busca um meio de retirar a radiaÃ§Ã£o gama que estÃ¡ em seu sangue. Ao mesmo tempo ele precisa fugir da perseguiÃ§Ã£o do general Ross (William Hurt), seu grande inimigo, e da mÃ¡quina militar que tenta capturÃ¡-lo, na intenÃ§Ã£o de explorar o poder que faz com que Banner se transforme no Hulk.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]Thor - DUBLADO - [COLOR yellow](2011)[/B][/COLOR]</title>
+<link>http://webtvcde.com/Filmes/Dublados/Thor.2011.mp4</link>
+<thumbnail>https://ia801507.us.archive.org/6/items/ggalaxia1/THOR.jpg</thumbnail>
+<fanart>https://ia801507.us.archive.org/6/items/ggalaxia1/THOR.jpg</fanart>
+<info>Quando Ã© banido do reino de Asgard e exilado na Terra, o arrogante guerreiro Thor (Chris Hemsworth) Ã© obrigado a lutar para reaver seus poderes perdidos. Perseguido pela forÃ§a invasora enviada para destruÃ­-lo, o desventurado Deus do TrovÃ£o tem que enfrentar a batalha e descobrir o que Ã© preciso para se tornar um verdadeiro herÃ³i.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]The Avengers: Os Vingadores - DUBLADO - [COLOR yellow](2012)[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]OSVGDRS.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+<thumbnail>https://ia601507.us.archive.org/6/items/ggalaxia1/AVENGER1.jpg</thumbnail>
+<fanart>https://ia601507.us.archive.org/6/items/ggalaxia1/AVENGER1.jpg</fanart>
+<info>Loki (Tom Hiddleston) retorna Ã  Terra enviado pelos chitauri, uma raÃ§a alienÃ­gena que pretende dominar os humanos. Com a promessa de que serÃ¡ o soberano do planeta, ele rouba o cubo cÃ³smico dentro de instalaÃ§Ãµes da S.H.I.E.L.D. e, com isso, adquire grandes poderes.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]Thor: O Mundo Sombrio - DUBLADO - [COLOR yellow](2013)[/B][/COLOR]</title>
+<link>http://webtvcde.com/Filmes/Dublados/Thor.O.Mundo.Sombrio.2013.mp4</link>
+<thumbnail>https://ia801507.us.archive.org/6/items/ggalaxia1/THOR2.jpg</thumbnail>
+<fanart>https://ia801507.us.archive.org/6/items/ggalaxia1/THOR2.jpg</fanart>
+<info>Mundos colidem quando um poderoso inimigo antigo ameaÃ§a mergulhar o cosmos na escuridÃ£o eterna.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]CapitÃ£o AmÃ©rica 2: O Soldado Invernal - DUBLADO - [COLOR yellow](2014)[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]CAPTAMRC2.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+<thumbnail>https://ia601507.us.archive.org/6/items/ggalaxia1/CAPITA2.jpg</thumbnail>
+<fanart>https://ia601507.us.archive.org/6/items/ggalaxia1/CAPITA2.jpg</fanart>
+<info>ApÃ³s os cataclÃ­smicos eventos em Nova York/Steve Rogers/tambÃ©m conhecido como CapitÃ£o AmÃ©rica/vive tranquilamente em Washington/DC e tentando se ajustar ao mundo moderno.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]GuardiÃµes da GalÃ¡xia - DUBLADO - [COLOR yellow](2014)[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]GRDOESDGLXIA.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+<thumbnail>https://archive.org/download/ggalaxia1/GGALAXIA1.jpg</thumbnail>
+<fanart>https://archive.org/download/ggalaxia1/GGALAXIA1.jpg</fanart>
+<info>Peter Quill (Chris Pratt) foi abduzido da Terra quando ainda era crianÃ§a. Adulto, fez carreira como saqueador e ganhou o nome de Senhor das Estrelas.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]GuardiÃµes da GalÃ¡xia Vol. 2 - DUBLADO - [COLOR yellow](2017)[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]GRDOESDGLXIAVL2.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+<thumbnail>https://ia801507.us.archive.org/6/items/ggalaxia1/GGALAXIA2.jpg</thumbnail>
+<fanart>https://ia801507.us.archive.org/6/items/ggalaxia1/GGALAXIA2.jpg</fanart>
+<info>Agora jÃ¡ conhecidos como os GuardiÃµes da GalÃ¡xia, os guerreiros viajam ao longo do cosmos e lutam para manter sua nova famÃ­lia unida. Enquanto isso tentam desvendar os mistÃ©rios da verdadeira paternidade de Peter Quill (Chris Pratt).</info>
+</item>
+
+<item>
+<title>[COLOR white][B]Vingadores: Era de Ultron  - DUBLADO - [COLOR yellow](2015)[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]VNGDRSEDURON.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+<thumbnail>https://ia801507.us.archive.org/6/items/ggalaxia1/VINGAULTRO.jpg</thumbnail>
+<fanart>https://ia801507.us.archive.org/6/items/ggalaxia1/VINGAULTRO.jpg</fanart>
+<info>Quando Tony Stark tenta reiniciar um programa de manutenÃ§Ã£o de paz, as coisas nÃ£o dÃ£o certo e os super-herÃ³is mais poderosos da Terra, incluindo Homem de Ferro, CapitÃ£o AmÃ©rica, Thor, Hulk, ViÃºva Negra e GaviÃ£o Arqueiro, terÃ£o que passar no teste definitivo para salvar o planeta.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]Homem-Formiga - DUBLADO - [COLOR yellow](2015)[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]HMNFRMGA.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+<thumbnail>https://ia801507.us.archive.org/6/items/ggalaxia1/HF1.jpg</thumbnail>
+<fanart>https://ia801507.us.archive.org/6/items/ggalaxia1/HF1.jpg</fanart>
+<info>Armado com a incrÃ­vel habilidade de se diminuir em escala, mas aumentar sua forÃ§a, o vigarista Scott Lang (Paul Rudd) deve aceitar seu herÃ³i interior e ajudar seu mentor, Dr. Hank Pym (Michael Douglas), a proteger o segredo por trÃ¡s do seu espetacular traje de Homem-Formiga de uma nova geraÃ§Ã£o de crescentes ameaÃ§as.
+</info>
+</item>
+
+<item>
+<title>[COLOR white][B]CapitÃ£o AmÃ©rica: Guerra Civil - DUBLADO - [COLOR yellow](2016)[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]CAPTAMRC3.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+<thumbnail>https://ia801507.us.archive.org/6/items/ggalaxia1/gueracivel.jpg</thumbnail>
+<fanart>https://ia801507.us.archive.org/6/items/ggalaxia1/gueracivel.jpg</fanart>
+<info>Steve Rogers (Chris Evans) Ã© o atual lÃ­der dos Vingadores, super-grupo de herÃ³is formado por ViÃºva Negra (Scarlett Johansson), Feiticeira Escarlate (Elizabeth Olsen), VisÃ£o (Paul Bettany), FalcÃ£o (Anthony Mackie) e MÃ¡quina de Combate (Don Cheadle). O ataque de Ultron fez com que os polÃ­ticos buscassem algum meio de controlar os super-herÃ³is, jÃ¡ que seus atos afetam toda a humanidade.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]Doutor Estranho - DUBLADO - [COLOR yellow](2016)[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DRESTNHO.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+<thumbnail>https://ia601507.us.archive.org/6/items/ggalaxia1/doutoes.jpg</thumbnail>
+<fanart>https://ia601507.us.archive.org/6/items/ggalaxia1/doutoes.jpg</fanart>
+<info>Stephen Strange (Benedict Cumberbatch) leva uma vida bem sucedida como neurocirurgiÃ£o. Sua vida muda completamente quando sofre um acidente de carro e fica com as mÃ£os debilitadas.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]Homem-Aranha: De Volta ao Lar - DUBLADO - [COLOR yellow](2017)[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]HOMARNHDVLTALR.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+<thumbnail>https://ia801507.us.archive.org/6/items/ggalaxia1/hadevolta.jpg</thumbnail>
+<fanart>https://ia801507.us.archive.org/6/items/ggalaxia1/hadevolta.jpg</fanart>
+<info>Depois de atuar ao lado dos Vingadores, chegou a hora do pequeno Peter Parker (Tom Holland) voltar para casa e para a sua vida, jÃ¡ nÃ£o mais tÃ£o normal. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missÃ£o de sua vida quando o terrÃ­vel vilÃ£o Abutre (Michael Keaton) surge amedrontando a cidade. O problema Ã© que a tarefa nÃ£o serÃ¡ tÃ£o fÃ¡cil como ele imaginava.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]Thor: Ragnarok - DUBLADO - [COLOR yellow](2017)[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]THORAGORK.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+<thumbnail>https://ia801507.us.archive.org/6/items/ggalaxia1/thorrag.jpg</thumbnail>
+<fanart>https://ia801507.us.archive.org/6/items/ggalaxia1/thorrag.jpg</fanart>
+<info>Thor (Chris Hemsworth) estÃ¡ preso do outro lado do universo. Ele precisa correr contra o tempo para voltar a Asgard e parar Ragnarok, a destruiÃ§Ã£o de seu mundo, que estÃ¡ nas mÃ£os da poderosa e implacÃ¡vel vilÃ£ Hela (Cate Blanchett).</info>
+</item>
+
+<item>
+<title>[COLOR white][B]Pantera Negra - DUBLADO - [COLOR yellow](2018)[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]PNTRNGR.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+<thumbnail>https://ia801507.us.archive.org/6/items/ggalaxia1/pn1.jpg</thumbnail>
+<fanart>https://ia801507.us.archive.org/6/items/ggalaxia1/pn1.jpg</fanart>
+<info>ApÃ³s a morte do rei Tâ€™Chaka (John Kani), o prÃ­ncipe Tâ€™Challa (Chadwick Boseman) retorna a Wakanda para a cerimÃ´nia de coroaÃ§Ã£o. Nela sÃ£o reunidas as cinco tribos que compÃµem o reino, sendo que uma delas, os Jabari, nÃ£o apoia o atual governo.
+</info>
+</item>
+
+<item>
+<title>[COLOR white][B]Homem Formiga e a Vespa - DUBLADO - [COLOR yellow](2018)[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]HMNFRMGEVSPA.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+<thumbnail>https://ia801507.us.archive.org/6/items/ggalaxia1/HF2.jpg</thumbnail>
+<fanart>https://ia801507.us.archive.org/6/items/ggalaxia1/HF2.jpg</fanart>
+<info>ApÃ³s ter ajudado o CapitÃ£o AmÃ©rica na batalha contra o Homem de Ferro na Alemanha, Scott Lang (Paul Rudd) Ã© condenado a dois anos de prisÃ£o domiciliar, por ter quebrado o Tratado de Sokovia. Diante desta situaÃ§Ã£o, ele foi obrigado a se aposentar temporariamente do posto de super-herÃ³i. Restando apenas trÃªs dias para o tÃ©rmino deste prazo, ele tem um estranho sonho com Janet Van Dyne (Michelle Pfeiffer), que desapareceu 30 anos atrÃ¡s ao entrar no mundo quÃ¢ntico em um ato de heroÃ­smo. Ao procurar o dr. Hank Pym (Michael Douglas) e sua filha Hope (Evangeline Lilly) em busca de explicaÃ§Ãµes, Scott Ã© rapidamente cooptado pela dupla para que possa ajudÃ¡-los em sua nova missÃ£o: construir um tÃºnel quÃ¢ntico, com o objetivo de resgatar Janet de seu limbo.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]Vingadores: Guerra Infinita - DUBLADO - [COLOR yellow](2018)[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]VNGDRSGRAINFNT.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+<thumbnail>https://ia601507.us.archive.org/6/items/ggalaxia1/vingaguerra.jpg</thumbnail>
+<fanart>https://ia601507.us.archive.org/6/items/ggalaxia1/vingaguerra.jpg</fanart>
+<info>Thanos (Josh Brolin) enfim chega Ã  Terra, disposto a reunir as Joias do Infinito. Para enfrentÃ¡-lo, os Vingadores precisam unir forÃ§as com os GuardiÃµes da GalÃ¡xia, ao mesmo tempo em que lidam com desavenÃ§as entre alguns de seus integrantes.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]Vingadores: Ultimato - DUBLADO - [COLOR yellow](2019)[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]VNGDRSULTMTO4K.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+<thumbnail>https://ia801507.us.archive.org/6/items/ggalaxia1/vingaulti.jpg</thumbnail>
+<fanart>https://ia801507.us.archive.org/6/items/ggalaxia1/vingaulti.jpg</fanart>
+<info>ApÃ³s Thanos eliminar metade das criaturas vivas, os Vingadores precisam lidar com a dor da perda de amigos e seus entes queridos. Com Tony Stark (Robert Downey Jr.) vagando perdido no espaÃ§o sem Ã¡gua nem comida, Steve Rogers (Chris Evans) e Natasha Romanov (Scarlett Johansson) precisam liderar a resistÃªncia contra o titÃ£ louco.</info>
+<genre>AÃ§Ã£o, Fantasia, Aventura</genre>
+</item>
+
+<item>
+<title>[COLOR white][B]Vingadores: Ultimato - LEGENDADO - [COLOR yellow](2008)[/B][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]VNGDRSULTMTOLEG.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+<thumbnail>https://ia801507.us.archive.org/6/items/ggalaxia1/vingaulti.jpg</thumbnail>
+<fanart>https://ia801507.us.archive.org/6/items/ggalaxia1/vingaulti.jpg</fanart>
+<info>ApÃ³s Thanos eliminar metade das criaturas vivas, os Vingadores precisam lidar com a dor da perda de amigos e seus entes queridos. Com Tony Stark (Robert Downey Jr.) vagando perdido no espaÃ§o sem Ã¡gua nem comida, Steve Rogers (Chris Evans) e Natasha Romanov (Scarlett Johansson) precisam liderar a resistÃªncia contra o titÃ£ louco.</info>
+</item>
+
+<item>
+<title>[B]X-Men: Primeira Classe (2011) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1K3aUmoTNP0IuAyhe84nRYg_jKlIkU8kG/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/Tl5AGBI.jpg</thumbnail>
+<fanart>https://i.imgur.com/Tl5AGBI.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Anos 60. Charles Xavier (James McAvoy) Ã© formado em teologia e filosofia e realiza um trabalho de pÃ³s-graduaÃ§Ã£o junto Ã s NaÃ§Ãµes Unidas. Na univesidade de Oxford ele conhece Erik Lehnsherr (Michael Fassbender), filho de judeus que foram assassinados pelos nazistas durante a Segunda Guerra Mundial. Erik apenas escapou graÃ§as ao seu poder mutante de controlar metais, que permitiu que fugisse para a FranÃ§a. Ao tÃ©rmino da guerra, Erik passou a trabalhar como intÃ©rprete para a inteligÃªncia britÃ¢nica, ajudando judeus a irem para um paÃ­s recÃ©m fundado, hoje chamado Israel. Charles e Erik logo se tornam bons amigos, mantendo um respeito mÃºtuo pela inteligÃªncia e ideais do outro. Em 1965, Charles decide usar seus poderes psÃ­quicos para ensinar jovens alunos mutantes a usarem seus dons para fins pacÃ­ficos. Nasce a Escola para Jovens Superdotados, gerenciada pelos dois amigos..</info>
+</item>
+<item>
+
+<item>
+<title>[B]X-Men: O Filme (2000) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13Sff-t-0Dj3cpPkdMkFxZdHBHs9qYzXh/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/cdVW4ZQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/cdVW4ZQ.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Mutantes dotados de poderes especiais vivem em meio Ã  sociedade humana, mas sofrem preconceitos, pois os humanos nÃ£o entendem seus dons e temem que eles dominem a sua raÃ§a. Entretanto, existe um grupo de mutantes, os X-Men, liderado pelo Professor Xavier (Patrick Stewart), que luta para vencer estes preconceitos atravÃ©s de modos pacÃ­ficos. Mas um outro grupo, conhecido como a Irmandade dos Mutantes, declara guerra ao seres humanos. Agora os X-men terÃ£o que ajudar os humanos a combater esses mutantes e ao mesmo tempo tentar quebrar o preconceito de que humanos e mutantes nÃ£o podem viver pacificamente..</info>
+</item>
+<item>
+
+<item>
+<title>[B]X-Men: O Confronto Final (2006) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t3UVam3YAKrCrF6GFfr-WqEUb4n2aUUr/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/WYHvWvn.jpg</thumbnail>
+<fanart>https://i.imgur.com/WYHvWvn.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Ã‰ descoberta uma cura para os mutantes, que agora podem optar por manter seus poderes ou se tornarem seres humanos normais. A descoberta pÃµe em campos opostos Magneto (Ian McKellen), que acredita que esta cura se tornarÃ¡ uma arma contra os mutantes, e os X-Men, liderados pelo professor Charles Xavier (Patrick Stewart)..</info>
+</item>
+<item>
+
+<item>
+<title>[B]X-Men 2 (2003) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WrUGeWrAFuMP6pWGyRPYXHCi0tnyzdFa/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/2loiNK0.jpg</thumbnail>
+<fanart>https://i.imgur.com/2loiNK0.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Ainda vivendo em um mundo que os odeia, os mutantes passam a sofrer uma discriminaÃ§Ã£o ainda maior quando um novo mutante provoca um ataque ao Presidente dos Estados Unidos, quase matando-o. A notÃ­cia faz com que a sociedade se manifeste ainda mais contra os mutantes, fazendo com que ganhe forÃ§a o projeto do registro de mutantes. William Stryker (Brian Cox), um militar que tem experiÃªncia em lidar com mutantes e uma ligaÃ§Ã£o com o passado de Wolverine (Hugh Jackman), torna-se um dos porta-vozes deste pedido, alÃ©m de se tornar o responsÃ¡vel por um plano que tem por meta erradicar de uma vez por todas os mutantes. Com a autorizaÃ§Ã£o do Presidente, Stryker inicia uma grande ofensiva contra os mutantes, invadindo a mansÃ£o do Professor Charles Xavier (Patrick Stewart) e forÃ§ando que Magneto (Ian McKellen), que fugiu da prisÃ£o, se una aos X-Men para combater Stryker..</info>
+</item>
+<item>
+
+<item>
+<title>[B]X-Men Origens: Wolverine (2009) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yMS2cueSWuAjKPXsbw57b-CIruOrhJpI/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/YsIlgU0.jpg</thumbnail>
+<fanart>https://i.imgur.com/YsIlgU0.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]A Equipe X Ã© formada apenas por mutantes, tendo fins militares. Entre seus integrantes estÃ£o Logan (Hugh Jackman), o selvagem Victor Creed (Liev Schreiber), o especialista em esgrima Wade Wilson (Ryan Reynolds), o teleportador John Wraith (Will i Am), o atirador David North (Daniel Henney), o extremamente forte Fred J. Dunes (Kevin Durand) e ainda Bradley (Dominic Monaghan), que manipula eletricidade. No comando estÃ¡ William Stryker (Danny Huston), que envolve alguns componentes do grupo no projeto Arma X, um experimento ultra-secreto. Entre eles estÃ¡ Logan, que precisa ainda lidar com o desfecho de seu romance com Raposa Prateada (Lynn Collins)..</info>
+</item>
+<item>
+
+<item>
+<title>[B]X-Men: Dias de um Futuro Esquecido (2014) [/B]</title>
+<link>http://webtvcde.com/Servidor/ac/xmdufe.mp4</link>
+<thumbnail>https://i.imgur.com/jp559gM.jpg</thumbnail>
+<fanart>https://i.imgur.com/jp559gM.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]No futuro, os mutantes sÃ£o caÃ§ados impiedosamente pelos Sentinelas, gigantescos robÃ´s criados por BolÃ­var Trask (Peter Dinklage). Os poucos sobreviventes precisam viver escondidos, caso contrÃ¡rio serÃ£o tambÃ©m mortos. Entre eles estÃ£o o professor Charles Xavier (Patrick Stewart), Magneto (Ian McKellen), Tempestade (Halle Berry), Kitty Pryde (Ellen Page) e Wolverine (Hugh Jackman), que buscam um meio de evitar que os mutantes sejam aniquilados. O meio encontrado Ã© enviar a consciÃªncia de Wolverine em uma viagem no tempo, rumo aos anos 1970. LÃ¡ ela ocupa o corpo do Wolverine da Ã©poca, que procura os ainda jovens Xavier (James McAvoy) e Magneto (Michael Fassbender) para que, juntos, impeÃ§am que este futuro trÃ¡gico para os mutantes se torne realidade.</info>
+</item>
+<item>
+
+<item>
+<title>[B]X-Men: Apocalipse (2016) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1p7U3EbjTA0rEZk5eoL9-PHGgwj7RiL1t/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/m0Ww4UP.jpg</thumbnail>
+<fanart>https://i.imgur.com/m0Ww4UP.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Desde o inÃ­cio da civilizaÃ§Ã£o, ele era adorado como um deus. Apocalipse, o primeiro e mais poderoso mutante do universo X-Men da Marvel, acumulou os poderes de muitos outros mutantes, tornando-se imortal e invencÃ­vel. Ao acordar depois de milhares de anos, fica desiludido com o mundo em que se encontra e recruta um grupo de mutantes poderosos, incluindo um Magneto desanimado, para purificar a humanidade e criar uma nova ordem mundial, sobre a qual ele reinarÃ¡. Com o destino da Terra em causa, Raven com a ajuda do Professor X irÃ¡ liderar uma equipa de jovens X-Men para combater o seu maior inimigo e salvar a humanidade da destruiÃ§Ã£o total..</info>
+</item>
+<item>
+
+<item>
+<title>[B]Wolverine: Imortal (2013) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1k1eKsHVHXoE8dPPF-CURx0Ri_Kf4NhSa/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/Cp2z8kc.jpg</thumbnail>
+<fanart>https://i.imgur.com/Cp2z8kc.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]ApÃ³s matar Jean Grey (Famke Janssen) para salvar a humanidade por ela nÃ£o conseguir controlar os poderes da FÃªnix, Logan (Hugh Jackman) decidiu abandonar de vez a vida de herÃ³i e passou a viver na selva, como um ermitÃ£o. Deprimido, ele Ã© encontrado em um bar pela jovem Yukio (Rila Fukushima). Ela foi enviada a mando de seu pai adotivo, Yashida (Hal Yamanouchi), que foi salvo por Logan em Nagasaki, no JapÃ£o, na Ã©poca em que a bomba atÃ´mica foi detonada. Yashima deseja reencontrar Logan para fazer-lhe uma proposta: transferir seu fator de cura para ele, de forma que Logan possa, enfim, se tornar mortal e levar uma vida como uma pessoa qualquer. Ele recusa o convite, mas acaba infectado por VÃ­bora (Svetlana Khodchenkova), uma mutante especializada em biologia que Ã© tambÃ©m imune a venenos de todo tipo. Fragilizado, Logan precisa encontrar meios para proteger Mariko (Tao Okamoto), a neta de Yashida, que Ã© alvo tanto de seu pai, Shingen (Hiroyuki Sanada) quanto da Yakuza, a mÃ¡fia japonesa..</info>
+</item>
+<item>
+
+<item>
+<title>[B]Vingadores: Ultimato (2019) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iDBLL69MOApXHqVBwD5JMMC0lMFa8Kb8/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/Fhz007F.jpg</thumbnail>
+<fanart>https://i.imgur.com/Fhz007F.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]ApÃ³s os eventos devastadores de Vingadores: Guerra Infinita, o universo estÃ¡ em ruÃ­nas devido aos esforÃ§os do TitÃ£ Louco, Thanos. Com a ajuda de aliados remanescentes, os Vingadores devem se reunir mais uma vez a fim de desfazer as aÃ§Ãµes de Thanos e restaurar a ordem no universo de uma vez por todas, nÃ£o importando as consequÃªncias..</info>
+</item>
+<item>
+
+<item>
+<title>[B]Pantera Negra (2018) - [COLOR red](FULLHD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qE5F-1FuPNKRFbNL2p1cvgMs-ArdRmqh/view$$lsname=HD DUBLADO</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t8dtKfgLfp5oe_pYodlnEFRvkDspkfs4/view$$lsname=HD LEGENDADO</link>
+<thumbnail>https://i.imgur.com/jGbTBiL.jpg</thumbnail>
+<fanart>https://i.imgur.com/jGbTBiL.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]ApÃ³s a morte do Rei T'Chaka (John Kani), o prÃ­ncipe T'Challa (Chadwick Boseman) retorna a Wakanda para a cerimÃ´nia de coroaÃ§Ã£o. Nela sÃ£o reunidas as cinco tribos que compÃµem o reino, sendo que uma delas, os Jabari, nÃ£o apoia o atual governo. T'Challa logo recebe o apoio de Okoye (Danai Gurira), a chefe da guarda de Wakanda, da irmÃ£ Shuri (Letitia Wright), que coordena a Ã¡rea tecnolÃ³gica do reino, e tambÃ©m de Nakia (Lupita Nyong'o), a grande paixÃ£o do atual Pantera Negra, que nÃ£o quer se tornar rainha. Juntos, eles estÃ£o Ã  procura de Ulysses Klaue (Andy Serkis), que roubou de Wakanda um punhado de vibranium, alguns anos atrÃ¡s.</info>
+</item>
+<item>
+
+<item>
+<title>[B]Vingadores: Guerra Infinita (2018) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AwJcUnAwfgtlDB-rS7UQrRc2_Vxq0N2l/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/ValpyEu.jpg</thumbnail>
+<fanart>https://i.imgur.com/ValpyEu.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Enquanto os Vingadores e seus aliados continuaram a proteger o mundo de ameaÃ§as grandes demais para qualquer herÃ³i, uma nova ameaÃ§a emergiu das sombras cÃ³smicas: Thanos. Um dÃ©spota de infÃ¢mia intergalÃ¡tica, tem o objetivo de coletar todas as seis Joias do Infinito, artefatos de poder inimaginÃ¡vel, e usÃ¡-las para infligir sua vontade distorcida em toda a realidade. Tudo pelo que os Vingadores lutaram levou atÃ© este momento - o destino da Terra e da prÃ³pria existÃªncia nunca foi tÃ£o incerto.</info>
+</item>
+<item>
+
+<item>
+<title>[B]Vingadores: Era de Ultron (2015) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Agt9kCTqZ4RCNBimMEEULyGwYBY_CjrP/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/RooVYP8.jpg</thumbnail>
+<fanart>https://i.imgur.com/RooVYP8.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Quando Tony Stark tenta reiniciar um programa de manutenÃ§Ã£o de paz, as coisas nÃ£o dÃ£o certo e os super-herÃ³is mais poderosos da Terra, incluindo Homem de Ferro, CapitÃ£o AmÃ©rica, Thor, Hulk, ViÃºva Negra e GaviÃ£o Arqueiro, terÃ£o que passar no teste definitivo para salvar o planeta. Com o aparecimento do vilÃ£o Ultron, a equipe dos Vingadores tem a missÃ£o de neutralizar seus terrÃ­veis planos. AlianÃ§as complicadas e aÃ§Ã£o inesperada pavimentam o caminho para uma aventura Ã©pica global.</info>
+</item>
+<item>
+
+<item>
+<title>[B]The Avengers - Os Vingadores (2012)[/B]</title>
+<link>$doregex[repository.KallPlay1]OSVGDRS.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex></link>
+<thumbnail>https://i.imgur.com/xAWai4z.jpg</thumbnail>
+<fanart>https://i.imgur.com/xAWai4z.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Loki retorna Ã  Terra enviado pelos chitauri, uma raÃ§a alienÃ­gena que pretende dominar os humanos. Com a promessa de que serÃ¡ o soberano do planeta, ele rouba o cubo cÃ³smico dentro de instalaÃ§Ãµes da S.H.I.E.L.D. e, com isso, adquire grandes poderes. Loki os usa para controlar o dr. Erik Selvig e Clint Barton/GaviÃ£o Arqueiro, que passam a trabalhar para ele. No intuito de contÃª-los, Nick Fury convoca um grupo de pessoas com grandes habilidades, mas que jamais haviam trabalhado juntas: Homem de Ferro, CapitÃ£o AmÃ©rica, Thor, Hulk e ViÃºva Negra. SÃ³ que, apesar do grande perigo que a Terra corre, nÃ£o Ã© tÃ£o simples assim conter o ego e os interesses de cada um deles para que possam agir em grupo.</info>
+</item>
+<item>
+
+<item>
+<title>[B]Hulk (2003)[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tDDLTITQupHrABWAyijUQz3xBeCCVaEi/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/Ux36rSo.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ux36rSo.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Bruce Banner (Eric Bana) Ã© um cientista que trabalha com Betty Ross (Jennifer Connelly), sua grande paixÃ£o. Ambos trabalham em um projeto que envolve a reconstituiÃ§Ã£o de tecidos atravÃ©s da radiaÃ§Ã£o gama, um projeto o qual o ExÃ©rcito estÃ¡ bastante interessado. Ao consertar o gammasphere, aparelho usado para aplicar a radiaÃ§Ã£o gama em animais, um dos cientistas do projeto o aciona acidentalmente. Em uma tentativa desesperada de salvar o amigo, Banner se atira defronte o gammasphere e absorve a radiaÃ§Ã£o gama lanÃ§ada. Inexplicavelmente o acidente nÃ£o o mata, fazendo com que permaneÃ§a durante algum tempo no hospital sob observaÃ§Ã£o. Ã‰ quando a reapariÃ§Ã£o de seu pai biolÃ³gico, o qual considerava morto, revela segredos sobre o passado de Bruce Banner o qual nem ele mesmo conhecia, ao mesmo tempo em que precisa lidar com estranhas modificaÃ§Ãµes em seu corpo a cada vez que fica com raiva.</info>
+</item>
+<item>
+
+<item>
+<title>[B]O IncrÃ­vel Hulk (2008)[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qDHFz0cEybOs4yiTdBO14Tldh-WF4AOc/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/murvjrk.jpg</thumbnail>
+<fanart>https://i.imgur.com/murvjrk.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Vivendo escondido e longe de Betty Ross (Liv Tyler), a mulher que ama, o cientista Bruce Banner (Edward Norton) busca um meio de retirar a radiaÃ§Ã£o gama que estÃ¡ em seu sangue. Ao mesmo tempo ele precisa fugir da perseguiÃ§Ã£o do general Ross (William Hurt), seu grande inimigo, e da mÃ¡quina militar que tenta capturÃ¡-lo, na intenÃ§Ã£o de explorar o poder que faz com que Banner se transforme no Hulk.</info>
+</item>
+<item>
+
+<item>
+<title>[B]Doutor Estranho (2016)[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uQVF5AwvrT3t3ySfXSv4ws4FvcGXXhjF/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/MDBHdv0.jpg</thumbnail>
+<fanart>https://i.imgur.com/MDBHdv0.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Da Marvel Studios vem â€œDoctor Strangeâ€, a histÃ³ria do mundialmente famoso neurocirurgiÃ£o Dr. Stephen Strange, cuja vida muda para sempre depois de um terrÃ­vel acidente de carro, que o rouba do uso de suas mÃ£os. Quando a medicina tradicional o falha, ele Ã© forÃ§ado a procurar por cura e esperanÃ§a, em um lugar improvÃ¡vel - um enclave misterioso conhecido como Kamar-Taj. Ele rapidamente descobre que isso nÃ£o Ã© apenas um centro de cura, mas tambÃ©m a linha de frente de uma batalha contra as forÃ§as ocultas invisÃ­veis empenhadas em destruir nossa realidade. Em pouco tempo, Strange - armado com poderes mÃ¡gicos recÃ©m-adquiridos - Ã© forÃ§ado a escolher se quer retornar Ã  sua vida de fortuna e status ou deixar tudo para trÃ¡s para defender o mundo como o mais poderoso feiticeiro existente.</info>
+</item>
+<item>
+
+<item>
+<title>[B]Venom (2018) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cD1E-mFHFDkds3DeuAX-BQwsTWWFJ31B/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/cNsMRyy.jpg</thumbnail>
+<fanart>https://i.imgur.com/cNsMRyy.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Eddie Brock (Tom Hardy) Ã© um jornalista investigativo, que tem um quadro prÃ³prio em uma emissora local. Um dia, ele Ã© escalado para entrevistar Carlton Drake (Riz Ahmed), o criador da FundaÃ§Ã£o Vida, que tem investido bastante em missÃµes espaciais de forma a encontrar possÃ­veis usos medicinais para a humanidade. ApÃ³s acessar um documento sigiloso enviado Ã  sua namorada, a advogada Anne Weying (Michelle Williams), Brock descobre que Drake tem feito experimentos cientÃ­ficos em humanos. Ele resolve denunciar esta situaÃ§Ã£o durante a entrevista, o que faz com que seja demitido. Seis meses depois, o ainda desempregado Brock Ã© procurado pela dra. Dora Skirth (Jenny Slate) com uma denÃºncia: Drake estaria usando simbiontes alienÃ­genas em testes com humanos, muitos deles mortos como cobaias..</info>
+</item>
+<item>
+
+<item>
+<title>[B]Thor (2011) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1E341Ai-pgThP94D93QzRuOGjKiAq0Y39/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/I06zM0q.jpg</thumbnail>
+<fanart>https://i.imgur.com/I06zM0q.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Thor (Chris Hemsworth) estava prestes a receber o comando de Asgard das mÃ£os de seu pai Odin (Anthony Hopkins) quando forÃ§as inimigas quebraram um acordo de paz. Disposto a se vingar do ocorrido, o jovem guerreiro desobedece as ordens do rei e quase dÃ¡ inÃ­cio a uma nova guerra entre os reinos. Enfurecido com a atitude do filho e herdeiro, Odin retira seus poderes e o expulsa para a Terra. LÃ¡, Thor acaba conhecendo a cientista Jane Foster (Natalie Portman) e precisa recuperar seu martelo, enquanto seu irmÃ£o Loki (Tom Hiddleston) elabora um plano para assumir o poder. Mas os guerreiros do Deus do TrovÃ£o fazem a mesma viagem para buscar o amigo e impedir que isso aconteÃ§a. SÃ³ que eles nÃ£o vieram sozinhos e o inimigo estÃ¡ presente para uma batalha que estÃ¡ apenas comeÃ§ando..</info>
+</item>
+<item>
+
+<item>
+<title>[B]Thor: O Mundo Sombrio (2013) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TUyCgDFiu2hqm9wAKcfQMSwdS7XeWuSH/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/P59j0Nx.jpg</thumbnail>
+<fanart>https://i.imgur.com/P59j0Nx.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Enquanto Thor (Chris Hemsworth) liderava as Ãºltimas batalhas para conquistar a paz entre os Nove Reinos, o maldito elfo negro Malekith (Christopher Eccleston) acordava de um longo sono, sedento de vinganÃ§a e louco para levar todos para a escuridÃ£o eterna. Alertado do perigo por Odin (Anthony Hopkins), o herÃ³i precisa contar com a ajuda dos companheiros Volstagg (Ray Stevenson), Sif (Jaimie Alexander), entre outros, e atÃ© de seu irmÃ£o, o traiÃ§oeiro Loki (Tom Hiddleston), em um plano audacioso para salvar o universo do grande mal. Mas os caminhos de Thor e da amada Jane Foster (Natalie Portman) se cruzam novamente e, dessa vez, a vida dela estÃ¡ realmente em perigo..</info>
+</item>
+<item>
+
+<item>
+<title>[B]Thor: Ragnarok (2017) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XyLF352KowYvPYGiZnnS6BOdTYiF0bxU/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/X40R5Jq.jpg</thumbnail>
+<fanart>https://i.imgur.com/X40R5Jq.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Thor estÃ¡ aprisionado do outro lado do universo, sem seu martelo, e se vÃª em uma corrida para voltar atÃ© Asgard e impedir o Ragnarok, a destruiÃ§Ã£o de seu lar e o fim da civilizaÃ§Ã£o asgardiana que estÃ¡ nas mÃ£os de uma nova e poderosa ameaÃ§a, a terrÃ­vel Hela. Mas primeiro ele precisa sobreviver a uma batalha de gladiadores que o coloca contra seu ex-aliado e vingador, o IncrÃ­vel Hulk..</info>
+</item>
+<item>
+
+
+<item>
+<title>[B]O Espetacular Homem-Aranha (2012) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Fs0TOrGYMkYEkMiCV_z1IaBCyv8PyXA4/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/RHoxOB2.jpg</thumbnail>
+<fanart>https://i.imgur.com/RHoxOB2.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Peter Parker (Andrew Garfield) Ã© um rapaz tÃ­mido e estudioso, que iniciou hÃ¡ pouco tempo um namoro com a bela Gwen Stacy (Emma Stone), sua colega de colÃ©gio. Ele vive com os tios, May (Sally Field) e Ben (Martin Sheen), desde que foi deixado pelos pais, Richard (Campbell Scott) e Mary (Embeth Davidtz). Certo dia, o jovem encontra uma misteriosa maleta que pertenceu a seu pai. O artefato faz com que visite o laboratÃ³rio do dr. Curt Connors (Rhys Ifans) na Oscorp. Parker estÃ¡ em busca de respostas sobre o que aconteceu com os pais, sÃ³ que acaba entrando em rota de colisÃ£o com o perigoso alter-ego de Connors, o vilÃ£o Lagarto..</info>
+</item>
+<item>
+
+<item>
+<title>[B]O Espetacular Homem-Aranha 2: A AmeaÃ§a de Electro (2014) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KDV4jr-syhl4JH2cD7-KpQTC8-VL8_V9/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/GNtqPqX.jpg</thumbnail>
+<fanart>https://i.imgur.com/GNtqPqX.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Peter Parker (Andrew Garfield) adora ser o Homem-Aranha, por mais que ser o herÃ³i aracnÃ­deo o coloque em situaÃ§Ãµes bem complicadas, especialmente com sua namorada Gwen Stacy (Emma Stone) e sua tia May (Sally Field). Apesar disto, ele equilibra suas vÃ¡rias facetas da forma que pode. No momento, Peter estÃ¡ mais preocupado Ã© com o fantasma da promessa feita ao pai de Gwen, de que se afastaria dela para protegÃª-la. Ao mesmo tempo ele precisa lidar com o retorno de um velho amigo, Harry Osborn (Dane DeHaan), e o surgimento de um vilÃ£o poderoso: Electro (Jamie Foxx)..</info>
+</item>
+<item>
+
+<item>
+<title>[B]Logan (2017) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zXkDb0Nkhe6wVRVNVa8SR79UTLG6jklP/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/PkYaj04.jpg</thumbnail>
+<fanart>https://i.imgur.com/PkYaj04.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Em 2029, Logan (Hugh Jackman) ganha a vida como chofer de limousine para cuidar do nonagenÃ¡rio Charles Xavier (Patrick Stewart). Debilitado fisicamente e esgotado emocionalmente, ele Ã© procurado por Gabriela (Elizabeth Rodriguez), uma mexicana que precisa da ajuda do ex-X-Men para defender a pequena Laura Kinney / X-23 (Dafne Keen). Ao mesmo tempo em que se recusa a voltar Ã  ativa, Logan Ã© perseguido pelo mercenÃ¡rio Donald Pierce (Boyd Holbrook), interessado na menina..</info>
+</item>
+<item>
+
+<item>
+<title>[B]Homem-Formiga (2015)[/B]</title>
+<link>http://wbm01.azureedge.net/movies/homemformiga-dub-1080p.mp4</link>
+<thumbnail>https://i.imgur.com/yHssqjX.jpg</thumbnail>
+<fanart>https://i.imgur.com/yHssqjX.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Dr. Hank Pym (Michael Douglas), o inventor da fÃ³rmula/ traje que permite o encolhimento, anos depois da descoberta, precisa impedir que seu ex-pupilo Darren Cross (Corey Stoll), consiga replicar o feito e vender a tecnologia para uma organizaÃ§Ã£o do mal. Depois de sair da cadeia, o trambiqueiro Scott Lang (Paul Rudd) estÃ¡ disposto a reconquistar o respeito da ex-mulher, Maggie (Judy Greer) e, principalmente, da filha. Com dificuldades de arrumar um emprego honesto, ele aceita praticar um Ãºltimo golpe. O que ele nÃ£o sabia era que tudo nÃ£o passava de um plano do Dr. Pym que, depois de anos observando o hÃ¡bil ladrÃ£o, o escolhe para vestir o traje do Homem-Formiga.</info>
+</item>
+<item>
+
+<item>
+<title>[B]Homem-Formiga e a Vespa (2018) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19ItHeXvRE7yey2EaaISplaTMGZyDyrCD/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/MvLRPEC.jpg</thumbnail>
+<fanart>https://i.imgur.com/MvLRPEC.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]ApÃ³s ter ajudado o CapitÃ£o AmÃ©rica na batalha contra o Homem de Ferro na Alemanha, Scott Lang (Paul Rudd) Ã© condenado a dois anos de prisÃ£o domiciliar, por ter quebrado o Tratado de Sokovia. Diante desta situaÃ§Ã£o, ele foi obrigado a se aposentar temporariamente do posto de super-herÃ³i. Restando apenas trÃªs dias para o tÃ©rmino deste prazo, ele tem um estranho sonho com Janet Van Dyne (Michelle Pfeiffer), que desapareceu 30 anos atrÃ¡s ao entrar no mundo quÃ¢ntico em um ato de heroÃ­smo. Ao procurar o dr. Hank Pym (Michael Douglas) e sua filha Hope (Evangeline Lilly) em busca de explicaÃ§Ãµes, Scott Ã© rapidamente cooptado pela dupla para que possa ajudÃ¡-los em sua nova missÃ£o: construir um tÃºnel quÃ¢ntico, com o objetivo de resgatar Janet de seu limbo..</info>
+</item>
+<item>
+
+<item>
+<title>[B]Homem de Ferro (2008) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bF69dJ_Ebtz25vGD5J7qjmnbAzFJ1Rp0/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/16Mssff.jpg</thumbnail>
+<fanart>https://i.imgur.com/16Mssff.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Tony Stark (Robert Downey Jr.) Ã© um industrial bilionÃ¡rio, que tambÃ©m Ã© um brilhante inventor. Ao ser sequestrado ele Ã© obrigado por terroristas a construir uma arma devastadora mas, ao invÃ©s disto, constrÃ³i uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de entÃ£o ele passa a usÃ¡-la para combater o crime, sob o alter-ego do Homem de Ferro..</info>
+</item>
+<item>
+
+<item>
+<title>[B]Homem de Ferro 2 (2010) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sp3ThgIMJzzW1K425ITCJ1phbG7iCcl7/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/OnAyjQK.jpg</thumbnail>
+<fanart>https://i.imgur.com/OnAyjQK.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]ApÃ³s confessar ao mundo ser o Homem de Ferro, Tony Stark (Robert Downey Jr.) passa a ser alvo do governo dos Estados Unidos, que deseja que ele entregue seu poderoso traje. Com a negativa, o governo passa a desenvolver um novo traje com o maior rival de Stark, Justin Hammer (Sam Rockwell). Jim Rhodes (Don Cheadle), o braÃ§o direito de Tony, Ã© colocado no centro deste conflito, o que faz com que assuma a identidade de MÃ¡quina de Combate. Paralelamente, Ivan Vanko (Mickey Rourke) cria o alter-ego de Whiplash para se vingar dos atos da famÃ­lia Stark no passado. Para combater Whiplash e a perseguiÃ§Ã£o do governo, Stark conta com o apoio de sua nova assistente, Natasha Romanoff (Scarlett Johansson), e de Nick Fury (Samuel L. Jackson), o diretor da S.H.I.E.L.D..</info>
+</item>
+<item>
+
+<item>
+<title>[B]Homem de Ferro 3 (2013) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CCrM-WRteMqpC6FhxhgBlTgwicWHutwV/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/X2rUNBx.jpg</thumbnail>
+<fanart>https://i.imgur.com/X2rUNBx.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Desde o ataque dos chitauri a Nova York, Tony Stark (Robert Downey Jr.) vem enfrentando dificuldades para dormir e, quando consegue, tem terrÃ­veis pesadelos. Ele teme nÃ£o conseguir proteger sua namorada Pepper Potts (Gwyneth Paltrow) dos vÃ¡rios inimigos que passou a ter apÃ³s vestir a armadura do Homem de Ferro. Um deles, o Mandarim (Ben Kingsley), decide atacÃ¡-lo com forÃ§a total, destruindo sua mansÃ£o e colocando a vida de Pepper em risco. Para enfrentÃ¡-lo Stark precisarÃ¡ ressurgir do fundo do mar, para onde foi levado junto com os destroÃ§os da mansÃ£o, e superar seu maior medo: o de fracassar..</info>
+</item>
+<item>
+
+<item>
+<title>[B]Homem-Aranha: De Volta ao Lar (2017) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aoxUcaJD3n6CASYm9kSOzpM1P-H6KJl2/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/jsh76u4.jpg</thumbnail>
+<fanart>https://i.imgur.com/jsh76u4.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Depois de atuar ao lado dos Vingadores, chegou a hora do pequeno Peter Parker (Tom Holland) voltar para casa e para a sua vida, jÃ¡ nÃ£o mais tÃ£o normal. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missÃ£o de sua vida quando o terrÃ­vel vilÃ£o Abutre (Michael Keaton) surge amedrontando a cidade. O problema Ã© que a tarefa nÃ£o serÃ¡ tÃ£o fÃ¡cil como ele imaginava..</info>
+</item>
+<item>
+
+<item>
+<title>[B]Homem-Aranha (2002) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ECF0dRNLD00rcEcLzmThyw61zVl1An2E/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/8rAhBnS.jpg</thumbnail>
+<fanart>https://i.imgur.com/8rAhBnS.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Peter Parker Ã© um jovem estudioso que vive com seus tios, Ben e May, desde que seus pais faleceram. Peter tem dificuldade em se relacionar com seus colegas, por ser tÃ­mido e por eles o considerarem um nerd. AtÃ© que, em uma demonstraÃ§Ã£o cientÃ­fica, um acidente inesperado faz com que aranha modificada geneticamente pique Peter. A partir de entÃ£o seu corpo Ã© quimicamente alterado pela picada da aranha. Inicialmente Peter pensa em usar seus novos poderes para ganhar dinheiro, adotando o nome de Homem-Aranha e se apresentando em lutas de exibiÃ§Ã£o. PorÃ©m, ao permitir que um ladrÃ£o fuja por nÃ£o considerar sua funÃ§Ã£o capturÃ¡-lo, o fugitivo acaba assassinando seu tio Ben. A partir de entÃ£o, Peter decide usar seus poderes para enfrentar o mal, tendo como seu primeiro grande desafio enfrentar o Duende Verde..</info>
+</item>
+<item>
+
+<item>
+<title>[B]Homem-Aranha 2.1 â€“ VersÃ£o Estendida (2007) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iyATFmy4IgBANAZ31YfHvE34sMkKT6qw/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/z0GT3sF.jpg</thumbnail>
+<fanart>https://i.imgur.com/z0GT3sF.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Logo depois de dois anos, apÃ³s os eventos que aconteceram em Homem-Aranha, o filme consenta-se em torno de Peter Parker, um jovem que luta para gerenciar tanto a sua vida pessoal e seus deveres como o super herÃ³i, Homem-Aranha. Dr. Otto Gunther Octavius â€‹(Alfred Molina), que toma um rumo diabÃ³lico depois de uma experiÃªncia fracassada e a morte de sua esposa. Usando seus tentÃ¡culos robÃ³ticos, OtÃ¡vio que Ã© o apelidado de â€œDoutor Octopusâ€, ameaÃ§a colocar em risco a vida dos moradores da cidade de Nova York. Homem-Aranha deve impedi-lo de aniquilar a cidade..</info>
+</item>
+<item>
+
+
+
+<item>
+<title>[B]Homem-Aranha 3 (2007) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Hc92OcJ_EUuF7qO2e4BU37ulqFwZY1x3/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/4AnKiLh.jpg</thumbnail>
+<fanart>https://i.imgur.com/4AnKiLh.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Peter Parker (Tobey Maguire) conseguiu encontrar um meio-termo entre seus deveres como o Homem-Aranha e seu relacionamento com Mary Jane (Kirsten Dunst). PorÃ©m o sucesso como herÃ³i e a bajulaÃ§Ã£o dos fÃ£s, entre eles Gwen Stacy (Bryce Dallas Howard), faz com que Peter se torne auto-confiante demais e passe a negligenciar as pessoas que se importam com ele. PorÃ©m a situaÃ§Ã£o muda quando ele precisa enfrentar Flint Marko (Thomas Haden Church), mais conhecido como o Homem-Areia, que possui ligaÃ§Ãµes com a morte do seu tio Ben. Tendo que lidar com o sentimento de vinganÃ§a, Peter passa a usar um estranho uniforme negro, que se adapta ao seu corpo..</info>
+</item>
+<item>
+
+<item>
+<title>[B]Guardiões da Galáxia (2014) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10kkh8-WQHtgbWco2lAZ5KveT44O9g6TP/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/H84Nz1g.jpg</thumbnail>
+<fanart>https://i.imgur.com/H84Nz1g.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]O aventureiro do espaÃ§o Peter Quill torna-se presa de caÃ§adores de recompensas depois que rouba a esfera de um vilÃ£o traiÃ§oeiro, Ronan. Para escapar do perigo, ele faz uma alianÃ§a com um grupo de quatro extraterrestres. Quando Quill descobre que a esfera roubada possui um poder capaz de mudar os rumos do universo, ele e seu grupo deverÃ£o proteger o objeto para salvar o futuro da galÃ¡xia..</info>
+</item>
+<item>
+
+<item>
+<title>[B]Guardiões da Galáxia Vol. 2 (2017) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DbBV2F78K0RBZV2gUJgYOgvbz8aWeumm/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/OewtzkY.jpg</thumbnail>
+<fanart>https://i.imgur.com/OewtzkY.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Peter Quill (Chris Pratt), Gamora (Zoe Saldana), Rocket Racoon (voz de Bradley Cooper), Baby Groot (voz de Vin Diesel) e Drax (Dave Bautista) provaram que, apesar das desavenÃ§as, formam uma equipe e tanto. Agora, Peter descobre segredos sobre a identidade de seu pai e na busca por ele, inimigos acabam se tornando aliados..</info>
+</item>
+<item>
+
+<item>
+<title>[B]Deadpool (2016) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ELLLgwZMMVGo7dMOLwPYiEY4x76tHyHh/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/PnBqLzS.jpg</thumbnail>
+<fanart>https://i.imgur.com/PnBqLzS.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Baseado no anti-herÃ³i nÃ£o convencional da Marvel Comics, Deadpool conta a histÃ³ria da origem do ex-agente das ForÃ§as Especiais que se tornou o mercenÃ¡rio Wade Wilson. Depois de ser submetido a um desonesto experimento que o deixa com poderes de cura acelerada, Wade adota o alter ego de Deadpool. Armado com suas novas habilidades e um senso de humor negro e distorcido, Deadpool persegue o homem que quase destruiu sua vida..</info>
+</item>
+<item>
+
+<item>
+<title>[B]Deadpool 2 (2018) [/B]</title>
+<link>http://198.255.50.74/Filmes/Dublados/Deadpool2.mkv</link>
+<thumbnail>https://i.imgur.com/YgbE3bA.jpg</thumbnail>
+<fanart>https://i.imgur.com/YgbE3bA.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Quando o super soldado Cable chega em uma missÃ£o para assassinar o jovem mutante Russel, o mercenÃ¡rio Deadpool precisa aprender o que Ã© ser herÃ³i de verdade para salvÃ¡-lo. Para isso, ele recruta seu velho amigo Colossus e forma o novo grupo X-Force, sempre com o apoio do fiel escudeiro Dopinder.</info>
+</item>
+<item>
+
+<item>
+<title>[B]Capitao América: O Primeiro Vingador (2011) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18TJGmcJj0FSdfMKs783NK5_KQZY1tQsB/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/Bta4TWd.jpg</thumbnail>
+<fanart>https://i.imgur.com/Bta4TWd.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Durante a Segunda Guerra Mundial, Steve Rogers Ã© um homem doente, do Brooklyn, que se transforma no supersoldado CapitÃ£o AmÃ©rica para ajudar nos esforÃ§os de guerra. Rogers deve parar o Caveira Vermelha - o implacÃ¡vel chefe de armas de Adolf Hitler e lÃ­der de uma organizaÃ§Ã£o que pretende usar um misterioso mecanismo de incalculÃ¡veis poderes para dominar o mundo..</info>
+</item>
+<item>
+
+<item>
+<title>[B]Capitao América 2: O Soldado Invernal (2014) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17ZRlfLjXkEpUJHOt5O8sx0CM8rcIYIkg/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/Bagb0z1.jpg</thumbnail>
+<fanart>https://i.imgur.com/Bagb0z1.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Depois dos eventos cataclÃ­smicos em Nova York com Os Vingadores, Steve Rogers, tambÃ©m conhecido como CapitÃ£o AmÃ©rica, vive em Washington, DC, tentando se adaptar ao mundo moderno. Mas quando um colega da S.H.I.E.L.D. Ã© atacado, Steve se envolve em uma rede de intrigas que ameaÃ§a colocar o mundo em risco. Juntando forÃ§as com a ViÃºva Negra, o CapitÃ£o AmÃ©rica luta para expor a conspiraÃ§Ã£o cada vez maior, enquanto luta contra os assassinos profissionais enviados para silenciÃ¡-lo em cada turno. Quando o escopo completo da trama vilÃ£ Ã© revelada, o CapitÃ£o AmÃ©rica e a ViÃºva Negra pedem a ajuda de um novo aliado, o FalcÃ£o. No entanto, eles logo se deparam com um inimigo inesperado e formidÃ¡vel - o Soldado Invernal..</info>
+</item>
+<item>
+
+<item>
+<title>[B]Capitao América: Guerra Civil (2016) [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VB_ksxrsOBjxuFhKuG0iQ2ERXktURZ2T/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/DAeu8sy.jpg</thumbnail>
+<fanart>https://i.imgur.com/DAeu8sy.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Steve Rogers (Chris Evans) Ã© o atual lÃ­der dos Vingadores, super-grupo de herÃ³is formado por ViÃºva Negra (Scarlett Johansson), Feiticeira Escarlate (Elizabeth Olsen), VisÃ£o (Paul Bettany), FalcÃ£o (Anthony Mackie) e MÃ¡quina de Combate (Don Cheadle). O ataque de Ultron fez com que os polÃ­ticos buscassem algum meio de controlar os super-herÃ³is, jÃ¡ que seus atos afetam toda a humanidade. Tal decisÃ£o coloca o CapitÃ£o AmÃ©rica em rota de colisÃ£o com Tony Stark (Robert Downey Jr.), o Homem de Ferro.</info>
+</item>
+<item>

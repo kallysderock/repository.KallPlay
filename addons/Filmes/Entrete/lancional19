@@ -1,0 +1,532 @@
+
+
+
+<!DOCTYPE html><html><script>location.href = "";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+<item>
+<title>[COLOR red]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]LANÃ‡AMENTOS NACIONAIS 2019 [/COLOR]-[COLOR red][B] ON [/B][/COLOR][COLOR red][B] OFF [/B][/COLOR]</title>
+<thumbnail>hhttps://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/icon.png</thumbnail>
+<link>https://</link>
+<info>
+
+by repository.KallPlay
+[COLOR yellow]l[/COLOR]- FILMES NOVOS TODOS OS DIAS -[COLOR yellow]l[/COLOR]</info>
+</item>
+
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Hebe: A Estrela do Brasil (Nacional) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]HBEAESTRLDBR.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601501.us.archive.org/19/items/cho_20191226/0hebe.jpg</thumbnail>
+<info>Hebe Camargo (AndrÃ©a BeltrÃ£o) se consagrou como uma das apresentadoras mais emblemÃ¡ticas da televisÃ£o brasileira. Sua carreira passou por diversas mudanÃ§as ao longo dos anos, mas foi durante a dÃ©cada de 80, no perÃ­odo de transiÃ§Ã£o da ditadura para a democracia, que Hebe, ao 60 anos, tomou uma decisÃ£o importante. A apresentadora passou a controlar a prÃ³pria carreira e, independentemente das crÃ­ticas machistas, do marido ciumento e dos chefes poderosos, se revelou para o pÃºblico como uma mulher extraordinÃ¡ria, capaz de superar qualquer crise pessoal ou profissional.</info>
+<genre>Biografia</genre>
+</item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Ela Disse, Ele Disse (Nacional) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]ELADSELDS.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601501.us.archive.org/19/items/cho_20191226/0ela.jpg</thumbnail>
+<info>Rosa (Duda Matte) e LÃ©o (Marcus Bessa) sÃ£o adolescentes de 14 anos que acabaram de entrar em uma nova escola, onde precisam lidar com a difÃ­cil tarefa de fazer novos amigos. Enquanto LÃ©o logo demonstra interesse em futebol, Rosa enfrenta problemas com JÃºlia (MaÃ­sa), a garota mais popular do colÃ©gio.</info>
+<genre>Romance</genre>
+</item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Especial de Natal Porta dos Fundos: A Primeira TentaÃ§Ã£o de Cristo (Nacional) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]EPSCLDNTLPRTDSFNDS.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601501.us.archive.org/19/items/cho_20191226/0porta.jpg</thumbnail>
+<info>Jesus Cristo estÃ¡ completando seus 30 anos de idade quando decide levar para casa um convidado especial para conhecer sua famÃ­lia, surpreendendo a todos.</info>
+<genre>ComÃ©dia</genre>
+</item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Legalidade (Nacional) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]LGLDAD.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601501.us.archive.org/19/items/cho_20191226/0lega.jpg</thumbnail>
+<info>Brasil, 1961. Quando JÃ¢nio Quadros renuncia Ã  presidÃªncia do Brasil, o vice-presidente JoÃ£o Goulart torna-se o sucessor natural ao cargo. No entanto setores da sociedade, liderados pelos militares, clamavam pelo impedimento da posse de Jango, temerosos de suas posiÃ§Ãµes de esquerda. Liderado por Leonel Brizola (Leonardo Machado), o movimento Legalidade Ã© criado para garantir a posse do vice-presidente, colocando grande parte do Rio Grande do Sul contra o nÃºcleo do exÃ©rcito. Em meio Ã  turbulÃªncia polÃ­tica e social, um triÃ¢ngulo amoroso Ã© formado entre CecÃ­lia (Cleo Pires), Luis Carlos (Fernando Alves Pinto) e Tonho (JosÃ© Henrique Ligabue).</info>
+<genre>HistÃ³rico</genre>
+</item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Paulo de Tarso e a HistÃ³ria do Cristianismo Primitivo (Nacional) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]PALDTRSOEAHSTRDCRSTNMSPRMTVO.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601501.us.archive.org/19/items/cho_20191226/0paulo.jpg</thumbnail>
+<info>Paulo de Tarso e a HistÃ³ria do Cristianismo Primitivo Ã© um filme que apresenta a vida e obra do ApÃ³stolo dos Gentios atravÃ©s da interpretaÃ§Ã£o espÃ­rita dos fatos e contextos histÃ³ricos que envolveram esse grande personagem. Trata-se da primeira obra cinematogrÃ¡fica, produzida com o entendimento que a doutrina dos espÃ­ritos pode emprestar sobre ex-doutor da lei judaica, que fundou comunidades cristÃ£s em grande parte da Ãsia Menor e da Europa durante o primeiro sÃ©culo da era CristÃ£.</info>
+<genre>Religioso</genre>
+</item>
+
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Turma da MÃ´nica: LaÃ§os - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - NACIONAL[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JGbGWOKlNOvtRiwg_XqTtyu9c4Uxenky/view?usp=drivesdk</link>
+<thumbnail>https://ia601500.us.archive.org/25/items/monica_201908/MONICA.jpg</thumbnail>
+<fanart>https://ia601500.us.archive.org/25/items/monica_201908/MONICA.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Floquinho, o cachorro do Cebolinha, desapareceu. O menino desenvolve entÃ£o um plano infalÃ­vel para resgatar o cÃ£ozinho, mas para isso vai precisar da ajuda de seus fiÃ©is amigos MÃ´nica, Magali e CascÃ£o. Juntos, eles irÃ£o enfrentar grandes desafios e viver grandes aventuras para levar o cÃ£o de volta para casa. AdaptaÃ§Ã£o em live action da graphic novel da Turma da MÃ´nica lanÃ§ada pelo selo MSP Graphic.</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  SÃ³crates (Nacional) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]SCRTES.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601501.us.archive.org/19/items/cho_20191226/0socra.jpg</thumbnail>
+<info>Depois da morte de sua mÃ£e, o jovem SÃ³crates (Christian Malheiros), que foi criado apenas por ela durante os Ãºltimos tempos, precisa fazer tudo o que for possÃ­vel para que consiga sobreviver na realidade da misÃ©ria, somado com o preconceito por ser homossexual. Seus valores e ideais sÃ£o colocados na balanÃ§a com o medo de nÃ£o conseguir se virar sozinho.</info>
+<genre>AÃ§Ã£o</genre>
+</item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  O Amor DÃ¡ Trabalho (Nacional) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]OAMRDTRBLHO.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601501.us.archive.org/19/items/cho_20191226/0amor.jpg</thumbnail>
+<info>Malandro e aproveitador, Ancelmo (Leandro Hassum) morre e acaba ficando preso no limbo. Para garantir seu lugar no cÃ©u, ele precisa praticar uma boa aÃ§Ã£o e bancar o cupido, pois recebe a missÃ£o de unir um homem (Bruno Garcia) e uma mulher (FlÃ¡via Alessandra) com personalidades muito divergentes.</info>
+<genre>ComÃ©dia</genre>
+</item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Nada a Perder 2: NÃ£o Se Pode Esconder a Verdade (Nacional) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]NDAPRDR2.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601501.us.archive.org/19/items/cho_20191226/0nada.jpg</thumbnail>
+<info>ApÃ³s deixar a prisÃ£o, em 1992, Edir Macedo (PetrÃ´nio Gontijo) atravessa uma sÃ©rie de provaÃ§Ãµes: a conduta inapropriada de outros bispos da Igreja, o ataque de polÃ­ticos e catÃ³licos, a doenÃ§a de sua mÃ£e, a tragÃ©dia do desabamento do teto de uma Igreja em SÃ£o Paulo. Enquanto isso, fiÃ©is comeÃ§am a ser perseguidos nas ruas e as Igrejas correm o risco de fechar. Pressionado, ele decide subir o monte Sinai e visitar JerusalÃ©m, onde tem uma ideia: construir o Templo de SalomÃ£o, rÃ©plica do local homÃ´nimo citado na BÃ­blia, localizado em SÃ£o Paulo.</info>
+<genre>Biografia</genre>
+</item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Luccas Neto em O Fim do Natal (Nacional) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]LCSNTOEMFMDNTL.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://ia601501.us.archive.org/19/items/cho_20191226/0lucanata.jpg</thumbnail>
+<info>Luccas Neto e Gi viverÃ£o uma inesquecÃ­vel aventura no Polo Norte. Ã€s vÃ©speras do Natal, os presentes comeÃ§am a sumir misteriosamente e o Papai Noel precisa de ajuda. Luccas e Gi vÃ£o correr contra o tempo para descobrir o que aconteceu e salvar o Natal!</info>
+<genre>Nacional</genre>
+</item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Luccas Neto em: Acampamento de FÃ©rias - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - NACIONAL - [COLOR red][/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1K7O4_16D6AiCUS0VRrhgGY4IMAeiT-tq/view?usp=drivesdk</link>
+<thumbnail>https://ia801402.us.archive.org/9/items/lucafan/lucaico.jpg</thumbnail>
+<fanart>https://archive.org/download/lucafan/lucafan.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Luccas e Gi vÃ£o passar as fÃ©rias no acampamento onde acontece a Gincana mais famosa do mundo. O Ãºnico problema Ã© que os 'implicantes' tambÃ©m foram para lÃ¡... Um musical para todas as idades que vai dar fÃ©rias ao mau humor.</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Luccas Neto em Dia das CrianÃ§as (Nacional) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]LCSNTOEMDIDSCRNCS.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://archive.org/download/crianca/crianca.jpg</thumbnail>
+<info>Luccas Neto quer fazer uma grande festa do Dia das CrianÃ§as, mas alguÃ©m estÃ¡ planejando tomar o controle da escola e cancelar a festa! E agora? O que serÃ¡ que vai acontecer?</info>
+<genre>Nacional</genre>
+</item>
+
+
+
+<item>
+                    <title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Mussum: Um Filme do Cacildis (Nacional) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]MSUMFLMDCACLDS.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601501.us.archive.org/19/items/cho_20191226/0musu.jpg</thumbnail>
+                    <fanart></fanart>
+                    <info>A trajetÃ³ria do humorista e sambista AntÃ´nio Carlos Bernado Gomes, o "Mussum", Ã© contada de diferentes Ã¢ngulos. SÃ£o reveladas facetas mais sÃ©rias da figura que foi eternizada no imaginÃ¡rio popular brasileiro por sua participaÃ§Ã£o no
+                        programa "Os TrapalhÃµes". Por trÃ¡s de sua persona humorÃ­stica e debochada, AntÃ´nio Carlos mantinha uma rotina de responsabilidades com sua famÃ­lia, projetos e compromissos.</info>
+                    <genre>nacional</genre>
+                </item>
+				
+
+<item>
+                    <title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Vende-se Imovel (Nacional) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+                    <link>$doregex[repository.KallPlay1]VNDSEIMVL.mp4$doregex[repository.KallPlay2]</link><regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex><regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex><regex><name>repository.KallPlay1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+                    <thumbnail>https://ia601501.us.archive.org/19/items/cho_20191226/0vende.jpg</thumbnail>
+                    <info>Anderson (Giggio Mariani) estÃ¡ procurando por uma casa de campo, junto com sua irmÃ£ e sua noiva. Eles encontram uma mansÃ£o e a proprietÃ¡ria os convida para passar a noite lÃ¡. PorÃ©m, a noite dos sonhos acaba se tornando o pior pesadelo
+                        deste trio</info>
+                </item>
+
+
+
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  [COLOR lightgray]NÃ£o Se Aceitam DevoluÃ§Ãµes[/COLOR]</title>
+<thumbnail>https://i0.wp.com/i.imgur.com/E54RANs.jpg</thumbnail>
+<fanart></fanart>
+<link>http://v.webtvcde.com/Torrent/Nao.se.Aceitam.Devolucoes.2019.mp4</link>
+<info>by repository.KallPlay - FILMES NOVOS TODOS OS DIAS</info>
+</item>Comedia" />
+
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  GetÃºlio - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>https:\\lh3.googleusercontent.com\jwBDLklOWqsMDIUzYuMaTOLg46k8lzHOa54pzAfEcAyQRwwAexeoeHKLhbbxJTEyTcE=m18</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyiP05lY79npFINlK2nZPj2nGIE.jpg</thumbnail>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR] A intimidade de GetÃºlio Vargas (Tony Ramos), entÃ£o presidente do Brasil, em seus 16 Ãºltimos dias de vida. Pressionado por uma crise polÃ­tica sem precedentes, em decorrÃªncia das acusaÃ§Ãµes de que teria ordenado o atentado contra o jornalista Carlos Lacerda (Alexandre Borges), ele avalia os riscos existentes atÃ© tomar a decisÃ£o de se suicidar.  </info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  IrmÃ£ Dulce - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>https:\\lh3.googleusercontent.com\rt0ThyMX4Qc478DB8o6k8d2bgP4wEBkZL9_NzYne0vJDzBV57kXjQxcS8Dh7_5jJiXM=m18</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8X9RmlNBcnaxBR73YoOT8C27j8o.jpg</thumbnail>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR] Cinebiografia de IrmÃ£ Dulce (Bianca Comparato/Regina Braga), que, em vida, foi chamada de â€œAnjo Bom da Bahiaâ€, tambÃ©m indicada ao Nobel da Paz e beatificada pela Igreja. Contemplando da dÃ©cada de 1940 aos anos 1980, o filme mostra como a religiosa catÃ³lica enfrentou uma doenÃ§a respiratÃ³ria incurÃ¡vel, o machismo, a indiferenÃ§a de polÃ­ticos e atÃ© mesmo os dogmas da Igreja para dedicar sua vida ao cuidado dos miserÃ¡veis â€“ personificados na figura do fictÃ­cio JoÃ£o (Amaurih Oliveira) â€“, deixando um legado que perdura atÃ© hoje.  </info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  [COLOR white]A GlÃ³ria e a GraÃ§a[/COLOR]</title>
+<thumbnail>http://webtvcde.com/Servidor/capas/ageag7.jpg</thumbnail>
+<fanart></fanart>
+<link>http://webtvcde.com/Servidor/ageag7.mp4</link>
+<info>by repository.KallPlay</info>
+</item>by repository.KallPlay" />
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  [COLOR white]Detetives do PrÃ©dio Azul - O Filme[/COLOR]</title>
+<thumbnail>http://webtvcde.com/Servidor/capas/ddp087.jpg</thumbnail>
+<fanart></fanart>
+<link>http://webtvcde.com/Servidor/108/ddp087.mp4</link>
+<info>by repository.KallPlay</info>
+</item>by repository.KallPlay" />
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  [COLOR white]Loucas Pra Casar[/COLOR]</title>
+<thumbnail>http://webtvcde.com/Filmes/Nacionais/Loucas%20Pra%20Casar.jpg</thumbnail>
+<fanart></fanart>
+<link>http://webtvcde.com/Filmes/Nacionais/Loucas%20Pra%20Casar.mp4</link>
+<info>by repository.KallPlay</info>
+</item>by repository.KallPlay" />
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  [COLOR white]Mais Forte Que o Mundo- HistÃ³ria de JosÃ© Aldo[/COLOR]</title>
+<thumbnail>http://webtvcde.com/Filmes/Nacionais/Mais.Forte.Que.o.Mundo.a.Historia.de.Jose.Aldo.jpg</thumbnail>
+<fanart></fanart>
+<link>http://webtvcde.com/Filmes/Nacionais/Mais.Forte.Que.o.Mundo.a.Historia.de.Jose.Aldo.mp4</link>
+<info>by repository.KallPlay</info>
+</item>by repository.KallPlay" />
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  [COLOR white]Marco Luque TAMO JUNTO[/COLOR]</title>
+<thumbnail>http://webtvcde.com/Servidor/capas/mltje7.jpg</thumbnail>
+<fanart></fanart>
+<link>http://webtvcde.com/Servidor/lan/mltje7.mp4</link>
+<info>by repository.KallPlay</info>
+</item>by repository.KallPlay" />
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  [COLOR white]Mato Sem Cachorro[/COLOR]</title>
+<thumbnail>http://webtvcde.com/Filmes/Nacionais/Mato.Sem.Cachorro.jpg</thumbnail>
+<fanart></fanart>
+<link>http://webtvcde.com/Filmes/Nacionais/Mato.Sem.Cachorro.mkv</link>
+<info>by repository.KallPlay</info>
+</item>by repository.KallPlay" />
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  [COLOR white]Minha MÃ£e Ã© Uma PeÃ§a 2[/COLOR]</title>
+<thumbnail>http://webtvcde.com/Servidor/capas/mmeup7.jpg</thumbnail>
+<fanart></fanart>
+<link>http://webtvcde.com/Servidor/mmeup7.mp4</link>
+<info>by repository.KallPlay</info>
+</item>by repository.KallPlay" />
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  [COLOR white]Mundo CÃ£o[/COLOR]</title>
+<thumbnail>http://webtvcde.com/Filmes/Nacionais/Mundo.Cao.jpg</thumbnail>
+<fanart></fanart>
+<link>http://webtvcde.com/Filmes/Nacionais/Mundo.Cao.avi</link>
+<info>by repository.KallPlay</info>
+</item>by repository.KallPlay" />
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  [COLOR white]Murilo Couto em Eu, Eu Murilo[/COLOR]</title>
+<thumbnail>http://webtvcde.com/Servidor/capas/mceem7.jpg</thumbnail>
+<fanart></fanart>
+<link>http://webtvcde.com/Servidor/lan/mceem7.mp4</link>
+<info>by repository.KallPlay</info>
+</item>by repository.KallPlay" />
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  [COLOR white]Os Penetras 2 - Quem da Mais[/COLOR]</title>
+<thumbnail>http://webtvcde.com/Servidor/capas/op2qd7.jpg</thumbnail>
+<fanart></fanart>
+<link>http://webtvcde.com/Servidor/op2qd7.mp4</link>
+<info>by repository.KallPlay</info>
+</item>by repository.KallPlay" />
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  [COLOR white]Prova de Coragem[/COLOR]</title>
+<thumbnail>http://webtvcde.com/Filmes/Nacionais/Prova.de.Coragem.jpg</thumbnail>
+<fanart></fanart>
+<link>http://webtvcde.com/Filmes/Nacionais/Prova.de.Coragem.avi</link>
+<info>by repository.KallPlay</info>
+</item>by repository.KallPlay" />
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  [COLOR white]Real o Plano por TrÃ¡z da HistÃ³ria[/COLOR]</title>
+<thumbnail>http://webtvcde.com/Servidor/capas/roppt7.jpg</thumbnail>
+<fanart></fanart>
+<link>http://webtvcde.com/Servidor/lan/roppt7.mp4</link>
+<info>by repository.KallPlay</info>
+</item>by repository.KallPlay" />
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  [COLOR white]Um Suburbano Sortudo[/COLOR]</title>
+<thumbnail>http://webtvcde.com/Servidor/capas/usso087.jpg</thumbnail>
+<fanart></fanart>
+<link>http://webtvcde.com/Servidor/108/usso087.mp4</link>
+<info>by repository.KallPlay</info>
+</item>by repository.KallPlay" />
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  [COLOR white]Uma Loucura de Mulher[/COLOR]</title>
+<thumbnail>http://webtvcde.com/Servidor/capas/uldmc7.jpg</thumbnail>
+<fanart></fanart>
+<link>http://webtvcde.com/Servidor/uldmc7.mp4</link>
+<info>by repository.KallPlay</info>
+</item>by repository.KallPlay" />
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  [COLOR white]Uma Noite em Sampa[/COLOR]</title>
+<thumbnail>http://webtvcde.com/Servidor/capas/unesn7.jpg</thumbnail>
+<fanart></fanart>
+<link>http://webtvcde.com/Servidor/lan/unesn7.mp4</link>
+<info>by repository.KallPlay</info>
+</item>by repository.KallPlay" />
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  [COLOR white]Whindersson Nunes em ProparoxÃ­tona[/COLOR]</title>
+<thumbnail>http://webtvcde.com/Filmes/Nacionais/Whindersson.Nunes.em.Proparoxitona.2017.jpg</thumbnail>
+<fanart></fanart>
+<link>http://webtvcde.com/Filmes/Nacionais/Whindersson.Nunes.em.Proparoxitona.2017.mkv</link>
+<info>by repository.KallPlay</info>
+</item>by repository.KallPlay" />
+
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Cine HolliÃºdy 2: A Chibata Sideral - [COLOR yellow](2019)[/COLOR] - [COLOR red](HD720)[/COLOR] - NACIONAL[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1x9qjB1nF53fies_FCTQk3N93o8_-OZgT/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/lXbuYgL.jpg</thumbnail>
+<fanart>https://i.imgur.com/lXbuYgL.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Com a chegada do videocassete Ã  casa das pessoas, Francisgleydisson se vÃª obrigado a fechar o seu querido Cine Holliudy. Isso compromete o pagamento da faculdade do seu filho, agora com 18 anos. Para salvar sua situaÃ§Ã£o, ele decide produzir um filme de alienÃ­genas usando as pessoas mais feias da populaÃ§Ã£o local.</info>
+</item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Dias Vazios - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - NACIONAL [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jCQwJvCiucVzLDn2pi55C6A3eOzrqsvM/view?usp=drivesdk</link>
+<thumbnail>https://ia801501.us.archive.org/19/items/cho_20191226/dia.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/19/items/cho_20191226/dia.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Dias vazios conta a histÃ³ria de um dia na vida de Jean e Fabiana, um casal de jovens namorados que tentam reinventar suas vidas em uma pequena cidade do interior brasileiro. Eles cursam o Ãºltimo ano do ensino mÃ©dio e vivem o velho dilema: ou vamos embora desta cidade ou ficamos aqui e continuamos a histÃ³ria de nossos pais. No final desse dia Jean se suicida e Fabiana desaparece. Dois anos depois, Daniel e Alanis, outro casal de jovens namorados, tentam entender como tudo aconteceu.</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Democracia em Vertigem - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZyxqKE9kdpNiRay5EEr6dxfFIpXZuNBR/view?usp=drivesdk</link>
+<thumbnail>https://ia801501.us.archive.org/19/items/cho_20191226/demo.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/19/items/cho_20191226/demo.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]A ascensÃ£o e queda do PT, e a polarizaÃ§Ã£o que se criou no Brasil a partir do processo de impeachment.</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  De Pernas Pro Ar 3 - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17qRzPWto5nG8RMtpIyVZ23iqFsMzMfJ6/view?usp=drivesdk</link>
+<thumbnail>https://ia801501.us.archive.org/19/items/cho_20191226/perna.jpg</thumbnail>
+<fanart>https://ia801501.us.archive.org/19/items/cho_20191226/perna.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]O sucesso da franquia Sex DelÃ­cia leva Alice em uma viagem ao redor do mundo, visitando vÃ¡rios paÃ­ses em trabalho ininterrupto. Sem tempo de sobra para sua casa e famÃ­lia, seu marido JoÃ£o assume o papel de caseiro, cuidando de seus filhos Paulinho e Clarinha. Cansado de toda a confusÃ£o, Alice decide se aposentar e dar o comando de seus negÃ³cios para sua mÃ£e. No entanto, a chegada de Leona, uma jovem concorrente, forÃ§a-a a uma mudanÃ§a de planos.</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Chorar de Rir - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fevgqdBirhjwknu6mICD5nwxmQyLLGSp/view?usp=drivesdk</link>
+<thumbnail>https://ia601501.us.archive.org/19/items/cho_20191226/cho.jpg</thumbnail>
+<fanart>https://ia601501.us.archive.org/19/items/cho_20191226/cho.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]â€œEstrela do programa de TV Chorar de Rirâ€ , Nilo PerequÃª (Leandro Hassum) Ã© um grande nome da comÃ©dia no paÃ­s. Quando ganha o prÃªmio de melhor comediante do ano, o humorista decide mudar radicalmente sua carreira e se dedicar totalmente ao drama, deixando sua famÃ­lia e seu empresÃ¡rio desesperados.</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Bia (2.0) - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10Z60vJ7BukgYy2pPX-OvjFkJQRHnB-PM/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/CCm24X3.jpg</thumbnail>
+<fanart>https://i.imgur.com/CCm24X3.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Bia (Maju Souza) Ã© uma jovem de 18 anos que estÃ¡ tentando retomar sua vida depois de flagrar o namorado com outra garota. Com a ajuda de seus amigos, que trabalham com ela na floricultura de sua mÃ£e, ela toma coragem para entrar para uma trupe de palhaÃ§os voluntÃ¡rios e acaba se apaixonando por Dan (Ghilherme Lobo), que interpreta o palhaÃ§o mudo AbraÃ§o. PorÃ©m, tudo se complica quando ela tem que escolher entre viajar para a Europa para seguir seu sonho de estudar canto ou investir em seu novo amor.</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Tinta Bruta - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1C1MQNdtRlF4O1J0Sl73BsZCxO4kQABjV/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/D6u68rn.jpg</thumbnail>
+<fanart>https://i.imgur.com/D6u68rn.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Pedro Ã© um jovem que tenta sobreviver em meio a um processo criminal, Ã  partida da irmÃ£ e aos olhares que recebe sempre que sai na rua. Sob o codinome GarotoNeon, Pedro se apresenta no escuro do seu quarto para milhares de anÃ´nimos ao redor do mundo, pela internet. Com o corpo coberto de tinta, ele realiza performances erÃ³ticas na frente da webcam. Ao descobrir que outro rapaz de sua cidade estÃ¡ copiando sua tÃ©cnica, Pedro decide ir atrÃ¡s do mesmo.</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  O Clube dos Canibais - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17WWkFwvRgsD8-pZt7xTbUFJKB9gb4CUl/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/IEziP23.jpg</thumbnail>
+<fanart>https://i.imgur.com/IEziP23.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Otavio e Gilda sÃ£o da elite brasileira e membros do The Cannibal Club. Os dois tÃªm como hÃ¡bito, comer seus funcionÃ¡rios. Quando Gilda acidentalmente descobre um segredo de Borges, um poderoso congressista e lÃ­der do clube, ela acaba colocando sua vida e a de seu marido em perigo.</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  10 Segundos Para Vencer - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t_U0pJI0liheetD83JWBunOd1YuIRdXn/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/QYoOsl6.jpg</thumbnail>
+<fanart>https://i.imgur.com/QYoOsl6.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Cinebiografia do brasileiro bicampeÃ£o mundial de boxe Eder Jofre, interpretado por Daniel de Oliveira. O recorte cronolÃ³gico acompanha o chamado Galinho de Ouro, da infÃ¢ncia Ã s conquistas dos histÃ³ricos tÃ­tulos, em 1960 (peso galo) e 1973 (peso pena).</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  1964: O Brasil Entre Armas e Livros - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1U0TmSDRNVwndta_02ZGwIRsnDOpIYK1o/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/RUGYEuN.jpg</thumbnail>
+<fanart>https://i.imgur.com/RUGYEuN.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Produzido pelo Brasil Paralelo, este Ã© o maior documentÃ¡rio jÃ¡ produzido no paÃ­s sobre o perÃ­odo do Regime Militar brasileiro. A equipe viajou atÃ© o Leste Europeu para buscar nos documentos, atÃ© entÃ£o, secretos, do serviÃ§o de inteligÃªncia da extinta TchecoslovÃ¡quia os fatos que nos esconderam. Pela primeira vez eles irÃ£o ao pÃºblico em forma de documentÃ¡rio.</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  AnavitÃ³ria: AraguaÃ­na - Las Vegas - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15SZwSGeq8RtP3pPX0i_78jQmDwZ2EGny/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/jESqaYh.jpg</thumbnail>
+<fanart>https://i.imgur.com/jESqaYh.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Acompanhe a carismÃ¡tica dupla brasileira AnavitÃ³ria, que saiu de uma cidade simples para o tapete vermelho do Grammy Latino de 2017 em Las Vegas.</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Eu Sou Mais Eu - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16ltEBHOTxntZLdDCa_gRxfG6fIVBrC9O/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/DjOkmNK.jpg</thumbnail>
+<fanart>https://i.imgur.com/DjOkmNK.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Camila Mendes (KÃ©fera Buchmann) Ã© uma popstar arrogante, que busca o sucesso a todo custo. Prestes a lanÃ§ar uma nova mÃºsica, ela Ã© surpreendida em casa pela visita de sua fÃ£ nÃºmero 1 (Estrela Straus), que insiste em tirar uma selfie com ela. O que Camila nÃ£o esperava era que tal situaÃ§Ã£o a levasse de volta Ã  adolescÃªncia, quando sofria bullying de praticamente todos no colÃ©gio. Seu Ãºnico amigo Ã© CabeÃ§a (JoÃ£o CÃ´rtes), que tenta ajudÃ¡-la a encontrar seu verdadeiro eu, jÃ¡ que sÃ³ assim conseguirÃ¡ voltar Ã  sua realidade.</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Minha Fama de Mau - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1doT0Xpfp4GEUjL8AOps1bRPXgZjCndS0/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/aJnKRdq.jpg</thumbnail>
+<fanart>https://i.imgur.com/aJnKRdq.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Na Tijuca dos anos sessenta o jovem Erasmo Carlos alimenta uma paixÃ£o: o rock and roll. FÃ£ de Elvis, Bill Haley e Chuck Berry, ele aprende a tocar violÃ£o enquanto vive de sonhos, bicos e pequenas delinquÃªncias. Sua fama de roqueiro atrai Roberto Carlos , e logo se tornam parceiros e amigos. Um mega sucesso chega com a Jovem Guarda, programa de televisÃ£o onde Roberto, Erasmo e Wanderlea sÃ£o a atraÃ§Ã£o principal. "Minha Fama de Mau" Ã© um mergulho emocionante na mÃºsica e na vida de Erasmo Carlos que, com cabeÃ§a de homem e coraÃ§Ã£o de menino, se tornou o TremendÃ£o, sÃ­mbolo vivo do rock nacional.</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Minha Vida em Marte - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zJzc13_Yi32d_cXamraCe7ixNFD8-UwO/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/zOsMdIk.jpg</thumbnail>
+<fanart>https://i.imgur.com/zOsMdIk.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Fernanda estÃ¡ casada com Tom, com quem tem uma filha de cinco anos, Joana. O casal estÃ¡ em meio ao desgaste causado pelo convÃ­vio por muitos anos, o que gera atritos constantes. Quem a ajuda a superar a crise Ã© seu sÃ³cio AnÃ­bal, parceiro inseparÃ¡vel durante a Ã¡rdua jornada entre salvar o casamento ou pÃ´r fim a ele.</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Mulheres Alteradas - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13VmbL6xHamK9YYsG2_H2jbbS0oyJW-Fa/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/BdHp4Cp.jpg</thumbnail>
+<fanart>https://i.imgur.com/BdHp4Cp.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Retrata a vida de quatro mulheres que enfrentam as dÃºvidas e dificuldades que a idade traz.</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  O Homem Perfeito - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wJsdL9hcMoHAaJQDM3ALFy7fDNsPV-fC/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/LleaurK.jpg</thumbnail>
+<fanart>https://i.imgur.com/LleaurK.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Diana (Luana Piovani), aos 42 anos, Ã© uma mulher bem-sucedida, com uma carreira estruturada, culta e que mantÃ©m um casamento feliz com seu marido (Marco Luque). Ao menos, Ã© o que ela achava - atÃ© descobrir que o seu marido estÃ¡ lhe traindo com uma jovem aspirante a bailarina, de 23 anos. Por causa disso, ela cria um â€œhomem perfeitoâ€ virtual para seduzir a garota e estragar o romance.</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  O Paciente - O Caso Tancredo Neves - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Nc-knCAR8PyckUJ-ajYZBpNHIxqtXVEz/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/ga5TcG1.jpg</thumbnail>
+<fanart>https://i.imgur.com/ga5TcG1.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Os Ãºltimos dias da vida de Tancredo Neves, o primeiro presidente civil, eleito pelo colÃ©gio eleitoral no Congresso Nacional, depois da ditadura militar. Toda a expectativa da populaÃ§Ã£o brasileira e a doenÃ§a de Tancredo, que depois de 39 dias de internaÃ§Ã£o, morreu no dia 21 de abril de 1985, nunca sendo empossado.</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Os CaubÃ³is Do Apocalipse - [COLOR yellow](2018)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title></title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17h-ufVKIBdLBWPeiw-RK0PtkO1ZIcNPt/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/MLBxNoW.jpg</thumbnail>
+<fanart>https://i.imgur.com/MLBxNoW.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Tom Ã© um adolescente apaixonado por mÃºsica, por um breve perÃ­odo na infÃ¢ncia, ele montou a banda â€œCaubÃ³is do Apocalipseâ€, com Nanda e DedÃ£o, seus dois melhores amigos da Ã©poca que agora encontram-se afastados. Depois de anos sem tocar, o menino decide reunir os antigos integrantes do grupo para a filmagem de um clipe. O que prometia ser um final de semana divertido e produtivo no campo, acaba virando um grande desastre quando antigos desentendimentos ressurgem entre os trÃªs.</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Tito e os PÃ¡ssaros - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rGx8hFlIC89c7QkB_MFL2UO0D6owGIGF/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/VvusnbN.jpg</thumbnail>
+<fanart>https://i.imgur.com/VvusnbN.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Tito Ã© um menino tÃ­mido de 10 anos que vive com sua mÃ£e. De repente, uma estranha epidemia comeÃ§a a se espalhar, fazendo com que pessoas fiquem doentes quando se assustam. Tito rapidamente descobre que a cura estÃ¡ relacionada Ã  pesquisa feita por seu pai ausente sobre o canto dos pÃ¡ssaros. Ele embarca numa jornada com seus amigos para salvar o mundo da epidemia. A busca de Tito pelo antÃ­doto se torna uma jornada para encontrar seu pai ausente e sua prÃ³pria identidade.</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Tudo Acaba Em Festa - [COLOR yellow](2018)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title></title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NN4ZVuwdp4oOhxKi-CCPM3x4KzjzYy6S/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/oDzRn4t.jpg</thumbnail>
+<fanart>https://i.imgur.com/oDzRn4t.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Vlad Ã© um dos funcionÃ¡rios do setor de Recursos Humanos de sua empresa. Com o fim do ano se aproximando, ele se torna o responsÃ¡vel por organizar a "festa da firma", uma festa de fim de ano para levantar o moral do quadro de funcionÃ¡rios, abalado profundamente por causa de uma sequÃªncia de demissÃµes. Determinado a provar seu valor para sua ex-namorada, ele aceita o desafio. Tudo comeÃ§a bem, mas as coisas acabam saindo do controle de Vlad, que terÃ¡ que fazer o possÃ­vel e o impossÃ­vel para resolver todos os problemas e fazer a festa dar certo.</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Chacrinha: O Velho Guerreiro - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Gx2HYGsiZTQZeOQ95tQnMLJUt11ZHRxw/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/ftp3CFB.jpg</thumbnail>
+<fanart>https://i.imgur.com/ftp3CFB.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]A trajetÃ³ria de JosÃ© Abelardo Barbosa, o Chacrinha, desde o momento em que larga a faculdade de medicina para se aventurar em seu primeiro "bico" como locutor de rÃ¡dio atÃ© se transformar no alter ego mais conhecido do Brasil.</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Cinderela Pop - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Og-AG4fqbpojYw7DM8B0BzSmObbXUbO4/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/CNcGpNh.jpg</thumbnail>
+<fanart>https://i.imgur.com/CNcGpNh.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Cintia Ã© uma princesa dos dias atuais: antenada, com opiniÃµes prÃ³prias, decidida e adora mÃºsica. Essa princesa pop morava com os pais em um castelo enorme de onde via toda a cidade. Todas as noites, ela olhava pela janela, de onde ficava admirando a vista e sonhando com um prÃ­ncipe que ainda nÃ£o conhecia. PorÃ©m, um dia, o castelo de Cintia desmoronou e com ele tudo Ã  sua volta. Com a separaÃ§Ã£o dos pais, ela vai morar com a tia, se afasta do pai e, principalmente, deixa de acreditar no amor. Ela sÃ³ nÃ£o contava com um detalhe... Havia mesmo um belo prÃ­ncipe encantando em sua histÃ³ria. E tudo o que ele mais queria era descongelar o coraÃ§Ã£o da nossa gata (nada) borralheira!</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Sai de Baixo - O Filme - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bEOW5xyuJ8fnXOp6kU1p3KzpT0OrvCfo/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/lQx6lDs.jpg</thumbnail>
+<fanart>https://i.imgur.com/f7ca6zl.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Depois de uma longa temporada na prisÃ£o, Caco Antibes (Miguel Falabella) volta ao Largo do Arouche, para descobrir que o resto da famÃ­lia - a esposa Magda (Marisa Orth), a sogra Cassandra (Aracy Balabanian), o filho Caquinho (Rafael Canedo) e VavÃ¡ (Luis Gustavo) - estÃ¡ falida e morando de favor com o porteiro Ribamar (Tom Cavalcante) e sua nova parceira Cibalena (Cacau ProtÃ¡sio). Logo, Caco e Magda separadamente se envolvem em um trambique que envolve mandar joias contrabandeadas para o exterior, para o qual decidem reviver a agÃªncia de turismo Vavatur e organizar uma excursÃ£o para Foz do IguaÃ§u, na esperanÃ§a de nÃ£o serem pegos pela polÃ­cia no percurso.</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  Rasga CoraÃ§Ã£o - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10nYVf9i2edEN39WQRS7n60xIrUp3tIoa/view?usp=drivesdk</link>
+<thumbnail>https://i.imgur.com/WT5CvYk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HeFJ29RmiHEwQIbu9Qlnw0gWxb.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]Manguari PistolÃ£o (Marco Ricca) Ã© ao mesmo tempo um herÃ³i e um homem comum. Atuante na militÃ¢ncia em boa parte da vida, agora ele terÃ¡ que enfrentar o mesmo que seu pai enfrentou: o seu filho Luca (Chay Suede) pretende deixar a faculdade de Medicina e ingressar de vez no movimento hippie. Em um crescente conflito com as escolhas do filho, ele verÃ¡ seu passado sendo reiventado na figura dele.</info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  AlemÃ£o - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>https:\\lh3.googleusercontent.com\DPsioO4xg0DZTtJe7Uu2aT6EOKhbgkzv4DxuVBSDeTEPZcbiPMiw8nsiXw_2CQSX5wk=m18</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucQ5xCeB5DZVyzWJf2cSUN8AZFg.jpg</thumbnail>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR] Novembro de 2010. Cinco policiais trabalham infiltrados no Complexo do AlemÃ£o, uma Ã¡rea que reÃºne diversas favelas e Ã© considerada um dos locais mais perigosos do Rio de Janeiro. Desmascarados pelos traficantes, eles agora estÃ£o presos e aguardam que ou sejam executados ou resgatados pelas forÃ§as policiais, o que significaria na divulgaÃ§Ã£o de uma missÃ£o clandestina realizada pela polÃ­cia militar.  </info>
+</item>
+<item>
+
+<item>
+<title>[COLOR red]|[/COLOR][COLOR yellow]|[/COLOR][COLOR red][COLOR white]  O Lobo AtrÃ¡s da Porta - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO [/B]</title>
+<link>https:\\lh3.googleusercontent.com\13KHPhjpo_BfFBynx37TgjwIdW80brlxEWij2-NrfL_8exVzU99QixlDUlkbdr7vtus=m18</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5crZhhb2QXEvBbGmV8X0FWFoLc7.jpg</thumbnail>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR red][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR] O desaparecimento de uma crianÃ§a faz com que seus pais, Bernardo (Milhem Cortaz) e Sylvia (Fabiula Nascimento), vÃ£o atÃ© uma delegacia. O caso fica a cargo do delegado (Juliano CazarrÃ©), que resolve interrogÃ¡-los separadamente. Logo descobre que Bernardo mantinha uma amante, Rosa (Leandra Leal), que Ã© levada Ã  delegacia para averiguaÃ§Ãµes. A partir de depoimentos do trio, o delegado descobre uma rede de mentiras, amor, vinganÃ§a e ciÃºmes envolvendo o trio.  </info>
+</item>
+<item>
+
+
+
+
+

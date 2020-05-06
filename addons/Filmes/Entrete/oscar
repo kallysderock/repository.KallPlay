@@ -1,0 +1,157 @@
+
+
+
+<!DOCTYPE html><html><script>location.href = "";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+
+
+
+
+<item>
+<title>Coringa (Dublado) -  [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1extxy0ov7moMFxvHR4Sa_6aNAGefagJQ$$lsname=[COLOR red]HD720[/COLOR] - DUBLADO GD</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oKIn1gCRi-jJ0bvRh4PqgzlEvqUSyhUy$$lsname=[COLOR red]FULLHD[/COLOR] - DUBLADO GD</link>
+<link>http://www.brztv.com/Movies/Lan%C3%A7amentos/Coringa/Coringa.mkv$$lsname=[COLOR red]FULLHD[/COLOR] - DIRECT LINK</link>
+<link>$doregex[repository.KallPlay1]CRNGA.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red]FULLHD[/COLOR] - DUBLADO </link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJnXQL6Aa4s26eaORTvy0zRskfh.jpg</thumbnail>
+<fanart>https://ia601500.us.archive.org/16/items/oscar2020/Oscar-2020.jpg</fanart>
+<info>Coringa Ã© uma histÃ³ria original do vilÃ£o nunca antes vista no cinema. Arthur Fleck (Joaquin Phoenix) trabalha como palhaÃ§o para uma agÃªncia de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. ApÃ³s ser demitido, Fleck reage mal Ã  gozaÃ§Ã£o de trÃªs homens em pleno metrÃ´ e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne (Brett Cullen) Ã© seu maior representante. A versÃ£o de Phillips sobre Arthur Fleck, um homem desprezado pela sociedade, nÃ£o Ã© sÃ³ uma visÃ£o realista do personagem, mas tambÃ©m uma liÃ§Ã£o de vida.</info>
+</item>
+
+<item>
+<title>Democracia em Vertigem (Dublado) -  [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18DjXtoWIJMidqVXnqhB9ddPIejot6iC9$$lsname=[COLOR red]FULLHD[/COLOR] - DUBLADO GD 1</link>
+<link>$doregex[repository.KallPlay1]DMCRCEMVRTGM.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red]FULLHD[/COLOR] - DUBLADO </link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrpL7VJW6jHW7cDilpRINLIPzg9.jpg</thumbnail>
+<fanart>https://ia601500.us.archive.org/16/items/oscar2020/Oscar-2020.jpg</fanart>
+<info>A ascensÃ£o e queda do PT, e a polarizaÃ§Ã£o que se criou no Brasil a partir do processo de impeachment.</info>
+</item>
+
+<item>
+<title>Era uma Vez em... Hollywood (Dublado) -  [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR]</title>
+<link>http://www.brztv.com/Movies/Lan%c3%a7amentos/Once%20Upon%20A%20Time%20In%20Hollywood/Once%20Upon%20A%20Time%20In%20Hollywood.mp4$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tvuOMxGsPewroygD_Du0lQpmhvYO49Ur$$lsname=[COLOR red]FULLHD[/COLOR] - DUBLADO LINK 2</link>
+<link>$doregex[repository.KallPlay1]ERAUMVZEMHLWD.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red]FULLHD[/COLOR] - DUBLADO </link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/foEOVg4HQl2VzKzTh27CAHmXyg.jpg</thumbnail>
+<fanart>https://ia601500.us.archive.org/16/items/oscar2020/Oscar-2020.jpg</fanart>
+<info>Um ator de televisÃ£o e seu dublÃª embarcam em uma odissÃ©ia para fazerem seus nomes na indÃºstria cinematogrÃ¡fica durante os assassinatos de Charles Manson em 1969, Los Angeles.</info>
+</item>
+
+<item>
+<title>HistÃ³ria de um Casamento (Dublado) -  [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tiwJ4owCF9zSbYHuoO_vObhgwZJXERON$$lsname=[COLOR red]FULLHD[/COLOR] - DUBLADO GD 1</link>
+<link>$doregex[repository.KallPlay1]HSTRDUMCSMNTO.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red]FULLHD[/COLOR] - DUBLADO </link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/LaZ5rwaMvVH20J8O2Nu9uuXGI5.jpg</thumbnail>
+<fanart>https://ia601500.us.archive.org/16/items/oscar2020/Oscar-2020.jpg</fanart>
+<info>Nicole (Scarlett Johansson) e seu marido Charlie (Adam Driver) estÃ£o passando por muitos problemas e decidem se divorciar. Temendo que a pequena filha sofra as consequÃªncias da separaÃ§Ã£o, o casal decide continuar vivendo sob o mesmo teto, tentando fazer com que este seja um divÃ³rcio amigÃ¡vel. PorÃ©m, a convivÃªncia forÃ§ada entre os dois acaba criando feridas que talvez nem o tempo seja capaz de curar.</info>
+</item>
+
+<item>
+<title>Dois Papas (Dublado) -  [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Y6qdRYveFwDI8KA9bg2-RX4zJbGq-oUu$$lsname=[COLOR red]HD720[/COLOR] - DUBLADO GD 1</link>
+<link>$doregex[repository.KallPlay1]DOSPAPS.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red]FULLHD[/COLOR] - DUBLADO </link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOjACi3zgscAFmgzJhNe3aZVhaW.jpg</thumbnail>
+<fanart>https://ia601500.us.archive.org/16/items/oscar2020/Oscar-2020.jpg</fanart>
+<info>A relaÃ§Ã£o e as diferentes visÃµes dos dois lÃ­deres mais importantes e poderosos da Igreja CatÃ³lica na Ã©poca, o Papa Bento XVI (Anthony Hopkins) e o Cardeal Jorge Mario Bergoglio (Jonathan Pryce), que depois veio a ser o Papa Francisco.</info>
+</item>
+
+<item>
+<title>Ford vs Ferrari - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR] - DUBLADO</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bpoEeHFmFIDYTtPSSCCXQMoGRYIWqnhY$$lsname=[COLOR red]FULLHD[/COLOR] - DUBLADO </link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UHtEEhDEkhH6kHmZS5_zfCFw9RMbFn8i$$lsname=[COLOR red]FULLHD[/COLOR] - DUBLADO GD 1</link>
+<link>http://www.brztv.com/Movies/Lan%C3%A7amentos/Ford%20vs%20Ferrari/Ford%20vs%20Ferrari.mp4$$lsname=[COLOR red]FULLHD[/COLOR] - DIRECT LINK</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u04We9OhkoYVbwqIE9Uya9MaK3G.jpg</thumbnail>
+<fanart>https://ia601500.us.archive.org/16/items/oscar2020/Oscar-2020.jpg</fanart>
+<info>Durante a dÃ©cada de 1960, a Ford resolve entrar no ramo das corridas automobilÃ­sticas de forma que a empresa ganhe o prestÃ­gio e o glamour da concorrente Ferrari, campeonÃ­ssima em vÃ¡rias corridas. Para tanto, contrata o ex-piloto Carroll Shelby (Matt Damon) para chefiar a empreitada.</info>
+</item>
+
+<item>
+<title>Star Wars: The Rise of Skywalker - [COLOR yellow](2019)[/COLOR] - [COLOR red](HDCAM)[/COLOR] - DUBLADO</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zc_82SFTai7gSiyoc6yXMFGt1q3sMFby</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aG3TamIsEuiMa0yJ2nVgDWZ7JPu.jpg</thumbnail>
+<fanart>https://ia601500.us.archive.org/16/items/oscar2020/Oscar-2020.jpg</fanart>
+<info>Com o retorno do Imperador Palpatine, todos voltam a temer seu poder e, com isso, a ResistÃªncia toma a frente da batalha que ditarÃ¡ os rumos da galÃ¡xia. Treinando para ser uma completa Jedi, Rey (Daisy Ridley) ainda se encontra em conflito com seu passado e futuro, mas teme pelas respostas que pode conseguir a partir de sua complexa ligaÃ§Ã£o com Kylo Ren (Adam Driver), que tambÃ©m se encontra em conflito pela ForÃ§a.</info>
+</item>
+<item>
+
+<item>
+<title>O IrlandÃªs (Dublado) -  [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR]</title>
+<link>http://www.brztv.com/Movies/Lan%c3%a7amentos/O%20Irlandes/O.Irlandes.mkv$$lsname=[COLOR red]FULLHD[/COLOR] - DUBLADO DIRECT LINK</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1m9A6Nzw2XNn6o8--KIxefvanYWL_oo9M$$lsname=[COLOR red]FULLHD[/COLOR] - DUBLADO GD 1</link>
+<link>$doregex[repository.KallPlay1]OIRLNDS.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red]FULLHD[/COLOR] - DUBLADO </link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7T8lIu2e8Szbj8XTY4KM9gahC8h.jpg</thumbnail>
+<fanart>https://ia601500.us.archive.org/16/items/oscar2020/Oscar-2020.jpg</fanart>
+<info>Conhecido como "O IrlandÃªs", Frank Sheeran (Robert De Niro) Ã© um veterano de guerra cheio de condecoraÃ§Ãµes que concilia a vida de caminhoneiro com a de assassino de aluguel nÃºmero um da mÃ¡fia. Promovido a lÃ­der sindical, ele torna-se o principal suspeito quando o mais famoso ex-presidente da associaÃ§Ã£o desaparece misteriosamente.</info>
+</item>
+
+<item>
+<title>AdorÃ¡veis mulheres - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1s__CN1cO5qdCji_n488aTnqtrv2_9uSq</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDmuBImEP5blvrfzPBmIJwYZpoS.jpg</thumbnail>
+<fanart>https://ia601500.us.archive.org/16/items/oscar2020/Oscar-2020.jpg</fanart>
+<info>As irmÃ£s Jo (Saoirse Ronan), Beth (Eliza Scanlen), Meg (Emma Watson) e Amy (Florence Pugh) amadurecem na virada da adolescÃªncia para a vida adulta enquanto os Estados Unidos atravessam a Guerra Civil. Com personalidades completamente diferentes, elas enfrentam os desafios de crescer unidas pelo amor que nutrem umas pelas outras.</info>
+</item>
+
+<item>
+<title>Jojo Rabbit - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ntAQS8dSgk0puM4BnQxcNJKep5SVAUh7</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GsM4mtM0worCtIVeiQt28HieeN.jpg</thumbnail>
+<fanart>https://ia601500.us.archive.org/16/items/oscar2020/Oscar-2020.jpg</fanart>
+<info>Alemanha, durante a Segunda Guerra Mundial. Jojo (Roman Griffin Davis) Ã© um jovem nazista de 10 anos, que trata Adolf Hitler (Taika Waititi) como um amigo prÃ³ximo, em sua imaginaÃ§Ã£o. Seu maior sonho Ã© participar da Juventude Hitlerista, um grupo prÃ³-nazista composto por outras pessoas que concordam com os seus ideais. Um dia, Jojo descobre que sua mÃ£e (Scarlett Johansson) estÃ¡ escondendo uma judia (Thomasin McKenzie) no sÃ³tÃ£o de casa. Depois de vÃ¡rias tentativas frustradas para expulsÃ¡-la, o jovem rebelde comeÃ§a a desenvolver empatia pela nova hÃ³spede.</info>
+</item>
+
+<item>
+<title>Parasita - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14DuwHg8HN4cPABtPwkiGE33QT7k9umG-$$lsname=[COLOR red]FULLHD[/COLOR] - DUBLADO GD 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vjLpVZtiybC6dQ18BbcQt3RuLLKTTtNk$$lsname=[COLOR red]FULLHD[/COLOR] - DUBLADO GD 2</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UMk-W9TjZgibeYuscnw4TDel6YwEFhsg$$lsname=[COLOR red]FULLHD[/COLOR] - DUBLADO LEGENDADO</link>
+<link>$doregex[repository.KallPlay1]PRSTALEG.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>$$lsname=[COLOR red]FULLHD[/COLOR] - DUBLADO</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4nMc8sRRaN4RylAdk4gMzd9Q14N.jpg</thumbnail>
+<fanart>https://ia601500.us.archive.org/16/items/oscar2020/Oscar-2020.jpg</fanart>
+<info>Toda a famÃ­lia de Ki-taek estÃ¡ desempregada, vivendo num porÃ£o sujo e apertado. Uma obra do acaso faz com que o filho adolescente da famÃ­lia comece a dar aulas de inglÃªs Ã  garota de uma famÃ­lia rica. Fascinados com a vida luxuosa destas pessoas, pai, mÃ£e, filho e filha bolam um plano para se infiltrarem tambÃ©m na famÃ­lia burguesa, um a um. No entanto, os segredos e mentiras necessÃ¡rios Ã  ascensÃ£o social custarÃ£o caro a todos.</info>
+</item>
+
+<item>
+<title>Frozen II - [COLOR yellow](2019)[/COLOR] - [COLOR red](FULLHD)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VFYYeMV1u7zEhTL1gCXSSQiLToj3JQ6X$$lsname=[COLOR red]FULLHD[/COLOR] - DUBLADO GD</link>
+<link>http://cdndp.topcine.tv/ondemand/filmes/frozen.2.2019.mp4$$lsname=[COLOR red](FULLHD)[/COLOR] - LEGENDADO</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mqsc7c5NQXBEB9PMteilYokljDyLWDQf$$lsname=[COLOR red](FULLHD)[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19W40miodldLuoWXh94jtMcZW0oQChiVx$$lsname=[COLOR orange](HD)[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1vfEurAjWg2vhwC7QUq6j_eNNpi-AZVcX$$lsname=[COLOR red](HDCAM)[/COLOR] - LEGENDADO</link>
+<thumbnail>https://ia601404.us.archive.org/10/items/0irlan/0fro.jpg</thumbnail>
+<fanart>https://ia601404.us.archive.org/10/items/0irlan/0fro.jpg</fanart>
+<info>[COLOR red][B]by [/B][/COLOR][COLOR mediumblue][B]KP[/B][/COLOR][COLOR yellow][B]Multi-Addons[/B][/COLOR] - [COLOR red][B]Sinopse:[/B][/COLOR]De volta Ã  infÃ¢ncia de Elsa e Anna, as duas garotas descobrem uma histÃ³ria do pai, quando ainda era prÃ­ncipe de Arendelle. Ele conta Ã s meninas a histÃ³ria de uma visita Ã  floresta dos elementos, onde um acontecimento inesperado teria provocado a sepaaÃ§Ã£o dos habitantes da cidade com os quatro elementos fundamentais: ar, fogo, terra e Ã¡gua. Esta revelaÃ§Ã£o ajudarÃ¡ Elsa a compreender a origem de seus poderes.</info>
+</item>
+<item>

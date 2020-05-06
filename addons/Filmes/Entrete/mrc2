@@ -1,0 +1,1195 @@
+
+
+<!DOCTYPE html><html><script>location.href = "";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+<item>
+<title>[COLOR red]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR yellow]AVISO [/COLOR][COLOR red][B][/B][/COLOR][COLOR red][B][/B][/COLOR][COLOR mediumblue]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR red]|||[/COLOR]</title>                                            
+<link>http://ignorame</link>
+<thumbnail>https://pt.seaicons.com/wp-content/uploads/2015/06/sign-warning-icon.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
+<externallink>http://</externallink>
+<info>[COLOR yellow]|[/COLOR]- FILMES NOVOS TODOS OS DIAS -[COLOR yellow]|[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR red][/COLOR][COLOR yellow][/COLOR][COLOR mediumblue][/COLOR] [COLOR yellow]OPERADORAS ESTÃƒO BLOQUEANDO ADD-ONS DO KODI [/COLOR][COLOR red][B][/B][/COLOR][COLOR red][B][/B][/COLOR][COLOR mediumblue][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR]</title>                                            
+<link>http://ignorame</link>
+<thumbnail>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/book.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
+<externallink>http://</externallink>
+<info>[COLOR yellow]|[/COLOR]- FILMES NOVOS TODOS OS DIAS -[COLOR yellow]|[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR red][/COLOR][COLOR yellow][/COLOR][COLOR mediumblue][/COLOR] [COLOR yellow]SE OS FILMES ESTIVEREM OFF - USE UMA VPN DE SUA PREFERÃŠNCIA, ESPERO QUE ENTENDAM [/COLOR][COLOR red][B][/B][/COLOR][COLOR red][B][/B][/COLOR][COLOR mediumblue][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR]</title>                                            
+<link>http://ignorame</link>
+<thumbnail>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/book.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
+<externallink>http://</externallink>
+<info>[COLOR yellow]|[/COLOR]- FILMES NOVOS TODOS OS DIAS -[COLOR yellow]|[/COLOR]</info>
+</item>
+
+<item>
+<title>[COLOR red][/COLOR][COLOR yellow][/COLOR][COLOR mediumblue][/COLOR] [COLOR yellow]NO MEU CANAL TEM VÃDEO ENSINANDO [/COLOR][COLOR red][B][/B][/COLOR][COLOR red][B][/B][/COLOR][COLOR mediumblue][/COLOR][COLOR yellow][/COLOR][COLOR red][/COLOR]</title>                                            
+<link>http://ignorame</link>
+<thumbnail>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/book.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
+<externallink>http://</externallink>
+<info>[COLOR yellow]|[/COLOR]- FILMES NOVOS TODOS OS DIAS -[COLOR yellow]|[/COLOR]</info>
+</item>
+
+
+
+<item>
+<title>[COLOR white]Ni no Kuni (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]NINOKNI.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/Ni%20no%20Kuni.jpg</thumbnail>
+<info>O filme contarÃ¡ com uma histÃ³ria original em que, atravÃ©s de um certo incidente, trÃªs amigos poderÃ£o viajar entre a realidade e o â€œoutro mundoâ€ (Ni no Kuni). Quando a vida do Kotona em ambos os mundos Ã© simultaneamente colocada em perigo, os trÃªs amigos devem fazer â€œa escolha finalâ€.</info>
+<genre>Fantasia</genre>
+</item>
+
+<item>
+<title>[COLOR white]MissÃ£o de Honra (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]MSAODHNRA.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/Miss%C3%A3o%20de%20Honra.jpg</thumbnail>
+<info>Drama sobre pilotos de caÃ§a poloneses durante a Batalha da GrÃ£-Bretanha, na Segunda Guerra Mundial. Os aviÃµes de combate britÃ¢nico Hawker Hurricane, do esquadrÃ£o 303 da Royal Air Force foram pilotados por pilotos poloneses durante a Batalha da GrÃ£-Bretanha. Esses polacos deixaram a PolÃ´nia ocupada pelos nazistas no inÃ­cio da guerra.</info>
+<genre>Guerra</genre>
+</item>
+
+<item>
+<title>[COLOR white]Modo AviÃ£o (Nacional) - [COLOR yellow](2020)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]MDOAVIAO.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/Modo%20Avi%C3%A3o.jpg</thumbnail>
+<info>Como a grande maioria das estudantes de moda, Ana (Larissa Manoela) tinha o sonho de se tornar uma estilista de muito sucesso. PorÃ©m, ao receber uma proposta de ser influenciadora digital de uma marca renomada, ela larga a faculdade para investir todo o seu tempo na pÃ¡gina digital criando publicaÃ§Ãµes. O trabalho que a princÃ­pio seria incrÃ­vel, foi ficando cada vez mais nocivo para ela mesma: certo dia, de tanto ter os olhos somente na tela do celular, a jovem sofre um sÃ©rio acidente de carro, o que a leva a deixar sua funÃ§Ã£o de influenciadora de lado e passar um tempo na casa de seu avÃ´ Germano (Erasmo Carlos), no interior da cidade. Nessa volta Ã s origens, Ana entra em um profundo processo de autoconhecimento e estabelece mais proximidade e afeto pela sua famÃ­lia e por ela prÃ³pria.</info>
+<genre>Drama</genre>
+</item>
+
+<item>
+<title>[COLOR white]Entre o Amor e a Fama (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]ENTROAMREFMA.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/Entre%20o%20Amor%20e%20a%20Fama.jpg</thumbnail>
+<info>Uma estrela de reality show deixa Hollywood e se encontra no paÃ­s Amish, onde ela deve decidir entre ficar em sua nova realidade ou retornar ao antigo.</info>
+<genre>Romance</genre>
+</item>
+
+<item>
+<title>[COLOR white]Ela DanÃ§a, Eu DanÃ§o 6 (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]ELDNCEUDNC6.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/Ela%20Dan%C3%A7a,%20Eu%20Dan%C3%A7o%206.jpg</thumbnail>
+<info>Jovens de diferentes classes sociais em Pequim se juntam para formar o melhor grupo de danÃ§a da China e aprender o verdadeiro significado de famÃ­lia.</info>
+<genre>Musical</genre>
+</item>
+
+<item>
+<title>[COLOR white]Brincando com Fogo (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BRNCDCMFGO.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/Brincando%20com%20Fogo.jpg</thumbnail>
+<info>Jake Carson (John Cena) Ã© um bombeiro extremamente dedicado e rigoroso, que nÃ£o aceita que algo ocorra fora das regras impostas pela corporaÃ§Ã£o. Ao resgatarem as crianÃ§as Bryan (Brianna Hildebrand), Zoey (Finley Rose Slater) e Will (Christian Convery), Jake e seus companheiros de trabalho enfrentam um enorme desafio: como nÃ£o conseguem localizar os pais do trio, precisam eles mesmos cuidar das crianÃ§as, mesmo sem ter o menor cacoete para a funÃ§Ã£o.</info>
+<genre>ComÃ©dia</genre>
+</item>
+
+<item>
+<title>[COLOR white]Black 47 (Dublado) - [COLOR yellow](2020)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BLCK47.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/Black%2047.jpg</thumbnail>
+<info>Na Irlanda do sÃ©culo XIX, no perÃ­odo da Grande Fome, um guarda irlandÃªs, que tem lutado pelo exÃ©rcito britÃ¢nico no exterior, decide abandonar seu posto para se reunir com a famÃ­lia. Mesmo tendo experimentado os horrores da guerra, ele fica chocado com a destruiÃ§Ã£o que a fome causou no seu paÃ­s, gerando certa brutalizaÃ§Ã£o das pessoas e atÃ© da prÃ³pria famÃ­lia.</info>
+<genre>HistÃ³rico</genre>
+</item>
+
+<item>
+<title>[COLOR white]As Discipulas de Charles Manson (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]ASDSCPLSDCRLSMNSN.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/As%20Discipulas%20de%20Charles%20Manson.jpg</thumbnail>
+<info>TrÃªs jovens mulheres sÃ£o sentenciadas Ã  morte no famoso caso da FamÃ­lia Manson, mas quando a pena de morte Ã© revogada, elas ganham prisÃ£o perpÃ©tua. Uma jovem graduanda Ã© enviada para ensinÃ¡-las - e atravÃ©s dela, nÃ³s testemunhamos as transformaÃ§Ãµes do trio enquanto elas encaram as consequÃªncias de seus crimes.</info>
+<genre>Policial</genre>
+</item>
+
+<item>
+<title>[COLOR white]A Grande Mentira (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]AGRNDMNTRA.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/A%20Grande%20Mentira.jpg</thumbnail>
+<info>Em um jogo de gato e rato, o golpista Roy Courtnay (Ian McKellen) nao resiste aplicar seu golpe mais uma vez quando conhece a recem-viuva Betty McLeish (Helen Mirren) online. Porem, A  medida em que a mulher abre sua casa e sua vida para o vigarista, ele se surpreende quando começa a se importar com ela.</info>
+<genre>Suspense</genre>
+</item>
+
+<item>
+<title>[COLOR white]Um Amor de Mae (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]UMAMRDMAE.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/Um%20Amor%20de%20M%C3%A3e.jpg</thumbnail>
+<info>Tudo ia bem na vida de Fanny atÃ© que ela descobre que seu filho amado, Arthur, de 9 anos, Ã© o bode expiatÃ³rio de trÃªs garotos de sua escola. Fanny nÃ£o deixarÃ¡ seu filho sozinho enfrentando seus pequenos carrascos. Ela vai aprontar com esse garotos truques sujos e armadilhas, claro, no playground, agora isso vai ser "olho por olho e dente por dente".</info>
+<genre>Comedia</genre>
+</item>
+
+
+<item>
+<title>[COLOR white]O Ãšltimo Sharknado: JÃ¡ Estava na Hora (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]OULTMSRKNDJESTVNHRA.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/O%20%C3%9Altimo%20Sharknado%20-%20J%C3%A1%20Estava%20na%20Hora.jpg</thumbnail>
+<info>Depois de sobreviver ao mais recente, e terrÃ­vel, Sharknado, Fin (Ian Ziering) parece ser a Ãºltima pessoa viva na terra. Ele agora se prepara para uma inÃ©dita batalha, exigindo que ele viaje de volte para o passado, atÃ© o momento do ataque inicial, responsÃ¡vel por todos os outros que surgiram em sequÃªncia. Nessa final e mortal tentativa, Fin e seus parceiros precisam salvar a humanidade de uma vez por todas, custe o que custar.</info>
+<genre>FicÃ§Ã£o CientÃ­fica</genre>
+</item>
+
+<item>
+<title>[COLOR white]London Fields: Romance Fatal (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]LNDFLDSRMCFTL.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/London%20Fields%20-%20Romance%20Fatal.jpg</thumbnail>
+<info>AdaptaÃ§Ã£o do romance homÃ´nimo de Martin Amis. Situada em uma sombria Londres de 1999, a histÃ³ria gira em torno de uma mulher promÃ­scua com poder para prever o futuro que encontra seu destino em um pub decadente.
+O livro Ã© assim descrito: Â«HÃ¡ um assassinato, hÃ¡ um assassino e hÃ¡ uma pista. As pessoas estÃ£o sempre fora, Ã  procura de alguÃ©m e de alguma coisa, normalmente um amante, normalmente o amor. Mas a vitima â€“ Nicola Six â€“ procura alguma coisa e alguÃ©m: o seu assassino. Ela conhece o tempo, conhece o local, conhece o motivo, conhece os meios. Ela apenas nÃ£o conhece o homem. London Fields Ã© um brilhante e divertido romance. Ã‰ um livro no qual o narrador Samsom Young, entra no Black Cross, um pub absolutamente pouco recomendÃ¡vel, e encontra reunidas as principais personagens deste drama, que esperam pelo seu inÃ­cio. Ã‰ uma histÃ³ria da vida real... tudo o que Samsom tem a fazer Ã© escrevÃª-la, ao mesmo tempo que ela acontece.</info>
+<genre>Suspense</genre>
+</item>
+
+<item>
+<title>[COLOR white]InvasÃ£o ao ServiÃ§o Secreto (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]INVSAOSRVSCRTO.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/Invas%C3%A3o%20ao%20Servi%C3%A7o%20Secreto.jpg</thumbnail>
+<info>Dedicado e sempre focado em seu trabalho, o agente do ServiÃ§o Secreto, Mike Banning (Gerard Butler) vÃª sua vida mudar completamente da noite para o dia ao ser acusado de conspirar para o assassinato do presidente dos Estados Unidos. Quando percebe que todos estÃ£o atrÃ¡s dele, Mike corre contra o tempo para descobrir o que realmente aconteceu enquanto foge de outros agentes.</info>
+<genre>AÃ§Ã£o</genre>
+</item>
+
+<item>
+<title>[COLOR white]Downton Abbey: O Filme (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DWNTNABYOFLME.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/Downton%20Abbey%20-%20O%20Filme.jpg</thumbnail>
+<info>AdaptaÃ§Ã£o da sÃ©rie de televisÃ£o Downton Abbey, que conta a histÃ³ria da trajetÃ³ria da famÃ­lia Crawley, proprietÃ¡ria de um vasto territÃ³rio na Inglaterra rural no inÃ­cio do sÃ©culo XX.</info>
+<genre>HistÃ³rico</genre>
+</item>
+
+<item>
+<title>[COLOR white]Doutor Sono (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DTRSNO.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/Doutor%20Sono.jpg</thumbnail>
+<info>Na infÃ¢ncia, Danny Torrance conseguiu sobreviver a uma tentativa de homicÃ­dio por parte do pai, um escritor perturbado por espÃ­ritos malignos do Hotel Overlook. Danny cresceu e agora Ã© um adulto traumatizado e alcoÃ³latra. Sem residÃªncia fixa, ele se estabelece em uma pequena cidade, onde consegue um emprego no hospital local. Mas a paz de Danny estÃ¡ com os dias contados a partir de quando cria um vÃ­nculo telepÃ¡tico com Abra, uma menina com poderes tÃ£o fortes quanto aqueles que bloqueia dentro de si.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[COLOR white]Doutor Sono (Legendado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DTRSNOLEG.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/Doutor%20Sono.jpg</thumbnail>
+<info>Na infÃ¢ncia, Danny Torrance conseguiu sobreviver a uma tentativa de homicÃ­dio por parte do pai, um escritor perturbado por espÃ­ritos malignos do Hotel Overlook. Danny cresceu e agora Ã© um adulto traumatizado e alcoÃ³latra. Sem residÃªncia fixa, ele se estabelece em uma pequena cidade, onde consegue um emprego no hospital local. Mas a paz de Danny estÃ¡ com os dias contados a partir de quando cria um vÃ­nculo telepÃ¡tico com Abra, uma menina com poderes tÃ£o fortes quanto aqueles que bloqueia dentro de si.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[COLOR white]Artico (Dublado) - [COLOR yellow](2020)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]ARTCO.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/%C3%81rtico.jpg</thumbnail>
+<info>Um homem fica perdido no Artico e estÃ¡ prestes a ser socorrido. Contudo, um acidente tragico faz com que ele perca sua aguardada oportunidade de resgate. mas que ele precisa decidir entre ficar relativamente seguro em seu acampamento ou seguir numa jornada incerta para escapar.</info>
+<genre>Drama</genre>
+</item>
+
+
+<item>
+<title>[COLOR white]O Exterminador do Futuro: Destino Sombrio (Legendado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]OEXTRMDRDFUTDSTNSMBLEG.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/O%20Exterminador%20do%20Futuro%20-%20Destino%20Sombrio.jpg</thumbnail>
+<info>Mais de duas dÃ©cadas apÃ³s os eventos de "O Julgamento Final", Sarah Connor (Linda Hamilton) precisa proteger uma jovem chamada Dani Ramos (Natalia Reyes) e seus amigos de um Exterminador (Gabriel Luna) enviado do futuro para aniquilÃ¡-las.</info>
+<genre>FicÃ§Ã£o CientÃ­fica</genre>
+</item>
+
+<item>
+<title>[COLOR white]Tropa Zero (Dublado) - [COLOR yellow](2020)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]TRPAZRO.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Tropa%20Zero.jpg</thumbnail>
+<info>Na GeÃ³rgia rural de 1977, uma menina fora dos padrÃµes sonha com a vida no espaÃ§o. Quando uma competiÃ§Ã£o nacional oferece a ela a chance de realizar seu sonho e gravar sua voz no Golden Record da NASA, ela recruta uma tropa improvisada de Escoteiras Birdie, construindo amizades para a vida inteira.</info>
+<genre>Drama</genre>
+</item>
+
+
+<item>
+<title>[COLOR white]Salyut-7: MissÃ£o Espacial (Dublado) - [COLOR yellow](2020)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]\SLYT7MSAOESPCL.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Salyut%207%20-%20Miss%C3%A3o%20Espacial.jpg</thumbnail>
+<info>URSS, junho de 1985. Com base em eventos reais. Depois que o contato com a estaÃ§Ã£o espacial Salyut 7 Ã© perdido, os cosmonautas Vladimir Dzhanibekov e Viktor Savinykh aportam com a nave vazia e congelada e voltam Ã  vida.</info>
+<genre>Drama</genre>
+</item>
+
+
+<item>
+<title>[COLOR white]Quem com Ferro Fere (Dublado) - [COLOR yellow](2020)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]QMCMFERFRE.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Quem%20com%20Ferro%20Fere.jpg</thumbnail>
+<info>ApÃ³s a morte de seu irmÃ£o Sergio, o enfermeiro de asilo Mario (Luis Tosar) se prepara para um novo capÃ­tulo da sua vida com a chegada de seu primeiro filho. Mas, quando um chefe de cartel Ã© enviado ao asilo para os cuidados de Mario, ele comeÃ§a a questionar se seu dever Ã© mais importante que as vidas que este homem destruiu.</info>
+<genre>Suspense</genre>
+</item>
+
+
+<item>
+<title>[COLOR white]O Limite da TraiÃ§Ã£o (Dublado) - [COLOR yellow](2020)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]OLMTDTRCAO.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/O%20Limite%20da%20Trai%C3%A7%C3%A3o.jpg</thumbnail>
+<info>Uma cidadÃ£ exemplar Ã© acusada de assassinar o marido, e sua advogada logo desconfia de uma conspiraÃ§Ã£o.</info>
+<genre>Suspense</genre>
+</item>
+
+<item>
+<title>[COLOR white]O GalÃ£ (Nacional) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]OGLA.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/O%20Gal%C3%A3.jpg</thumbnail>
+<info>JÃºlio (Thiago Fragoso) aspira se tornar um grande ator, mas a grande maioria de suas empreitadas nas telas costumam dar errado. Quando o dinheiro aperta, ele resolve recorrer ao seu meio irmÃ£o Beto (Luiz Henrique Nogueira), um obcecado roteirista de novelas que vive em reclusÃ£o, com quem ele nÃ£o tem muito contato. O ator acredita que sua grande chance serÃ¡ concedida pelo irmÃ£o, mas a relaÃ§Ã£o entre os dois se torna a cada dia mais insustentÃ¡vel.</info>
+<genre>ComÃ©dia</genre>
+</item>
+
+<item>
+<title>[COLOR white]O Filho do Homem (Nacional) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]OFLHDHMEM.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/O%20Filho%20do%20Homem.jpg</thumbnail>
+<info>Maria (JÃºlia Cotta) recebe a visita do Anjo Gabriel, que traz a mensagem de sua gravidez do EspÃ­rito Santo. Mesmo relutante, JosÃ© casa-se com ela e assume a crianÃ§a para criar como sua. Em um humilde estÃ¡bulo de BelÃ©m, nasce Jesus (Allan Ralph), que passa os prÃ³ximos 33 anos pregando, atÃ© ser perseguido pelas autoridades do ImpÃ©rio Romano que dominam a JudÃ©ia e ser condenado Ã  cruz.</info>
+<genre>Religioso</genre>
+</item>
+
+<item>
+<title>[COLOR white]MormaÃ§o (Nacional) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]MRMCO.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Morma%C3%A7o.jpg</thumbnail>
+<info>Ana (Mariana Provenzzano) Ã© uma defensora pÃºblica que trabalha contra a remoÃ§Ã£o da Vila AutÃ³dromo, comunidade da zona oeste do Rio de Janeiro que a prefeitura deseja riscar do mapa em virtude das instalaÃ§Ãµes esportivas das OlimpÃ­adas de 2016. Ela mesma correndo risco de perder sua casa por conta da especulaÃ§Ã£o imobiliÃ¡ria que assola a cidade, Ana, cada vez mais cansada por conta do clima e da Ã¡rdua luta, de repente percebe o surgimento de marcas misteriosas em seu corpo.</info>
+<genre>Drama</genre>
+</item>
+
+<item>
+<title>[COLOR white]MudanÃ§a na Firma (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]MNDCNFRMA.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Mudan%C3%A7a%20Na%20Firma.jpg</thumbnail>
+<info>Uma empresa de publicidade, localizada no centro de Paris, foi declarada falsamente na Zona Franca em La Courneuve hÃ¡ anos, uma domiciliaÃ§Ã£o que lhe permite obter ajuda e isenÃ§Ã£o de encargos. Durante um cheque, a administraÃ§Ã£o fiscal realiza o engano e informa o chefe. O acordo Ã© o seguinte, a empresa paga milhÃµes de euros em multas para reembolsar o auxÃ­lio que recebeu indevidamente, ou deve se instalar na La Courneuve e esquece a dÃ­vida. Fred, o CEO, nÃ£o tem escolha e, portanto, se muda para os subÃºrbios com seus funcionÃ¡rios, paralisado por essa chegada em territÃ³rio desconhecido. Eles sÃ£o orientados nesta instalaÃ§Ã£o por um jovem que faz a seguranÃ§a da zona livre em que se estabelecem.</info>
+<genre>ComÃ©dia</genre>
+</item>
+
+<item>
+<title>[COLOR white]Meu BebÃª (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]MEUBB.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Meu%20Beb%C3%AA.jpg</thumbnail>
+<info>Quando Jade (ThaÃ¯s Alessandrin), a filha mais nova de HÃ©loÃ¯se (Sandrine Kiberlain), estÃ¡ prestes a completar 18 anos e anuncia que vai para o CanadÃ¡ completar seus estudos, a decisÃ£o causa um inesperado impacto na mÃ£e. A relaÃ§Ã£o entra em um clima de saudosismo antecipado, e as duas passam a refletir sobre o passado e o futuro.</info>
+<genre>Drama</genre>
+</item>
+
+<item>
+<title>[COLOR white]Amor, Romance e Chocolate (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]AMRMCECHLTE.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Amor,%20Romance%20e%20Chocolate.jpg</thumbnail>
+<info>Dispensada pelo namorado, Emma (Lacey Chabert) decide fazer uma viagem para a BÃ©lgica, onde conhece o charmoso chocolateiro Luc Simon (Will Kemp). Emma entÃ£o descobre uma paixÃ£o pela gastronomia e vive um intenso romance.</info>
+<genre>Romance</genre>
+</item>
+
+<item>
+<title>[COLOR white]A Irmandade (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]AIRMNDE.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/A%20Irmandade.jpg</thumbnail>
+<info>Ashley teve um ano difÃ­cil apÃ³s a morte de sua mÃ£e, a desintegraÃ§Ã£o de seu casamento e ter sido preterida para uma promoÃ§Ã£o no trabalho. EntÃ£o, quando sua irmÃ£ Jasmine a leva para um grupo de mulheres, The Sisterhood, ela fica intrigada e espera se sentir fortalecida o suficiente para mudar sua vida. Liderada pela enigmÃ¡tica e carismÃ¡tica Desiree, The Sisterhood entrega a Ashley tudo o que promete. Ela recebe um aumento em seu trabalho, seu divÃ³rcio Ã© resolvido a seu favor e ela finalmente se sente realizada e feliz. Mas ela logo descobre que os benefÃ­cios da Irmandade chegam a um preÃ§o Ã­ngreme e Ã s vezes ilegal.</info>
+<genre>Suspense</genre>
+</item>
+
+<item>
+<title>[COLOR white]Abigail e a Cidade Proibida (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]ABGLEACDEPRBDA.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Abigail%20e%20a%20Cidade%20Proibida.jpg</thumbnail>
+<info>Uma cidade teve suas fronteiras fechadas apÃ³s uma epidemia tomar conta de grande parte do local. LÃ¡, vive uma jovem chamada Abigail (Tinatin Dalakishvili), que, ainda crianÃ§a, teve seu pai levado da cidade onde moravam por ter sido afetado por essa doenÃ§a misteriosa. Mais velha, Abigail decide quebrar as regras e passar por cima das autoridades da regiÃ£o para ir Ã  procura de seu pai. Nessa jornada, ela descobre que ela e a cidade tÃªm poderes mÃ¡gicos.</info>
+<genre>Fantasia</genre>
+</item>
+
+<item>
+<title>[COLOR white]A Arte da Autodefesa (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]AARTDAUTDFSA.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/A%20Arte%20da%20Autodefesa.jpg</thumbnail>
+<info>Um homem Ã© atacado na rua e se inscreve em um DojÃ´ - liderado por um sensei carismÃ¡tico e misterioso - num esforÃ§o para aprender a se defender. O que ele descobre Ã© um mundo sinistro de fraternidade, violÃªncia, hipermasculinidade e uma mulher lutando por seu lugar nele.</info>
+<genre>Policial</genre>
+</item>
+
+
+<item>
+<title>[COLOR white]O Outro Lado do CÃ©u 2: Fogo da FÃ© (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]OOUTRLDODCEU2FGDFE.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/O%20Outro%20Lado%20do%20C%C3%A9u%202%20-%20Fogo%20da%20F%C3%A9.jpg</thumbnail>
+<info>O missionÃ¡rio John H. Groberg (Christopher Gorham) retorna em 1960 ao Reino de Tonga com seus filhos e sua esposa. Quando seu sexto filho nasce com uma grave doenÃ§a, sua famÃ­lia enfrenta um teste final de fÃ© e encontram apoio na oraÃ§Ã£o das pessoas da regiÃ£o. As barreiras religiosas sÃ£o destruÃ­das quando todos se unem pela Ãºnica esperanÃ§a de um milagre que salve o bebÃª.</info>
+<genre>Drama</genre>
+</item>
+
+<item>
+<title>[COLOR white]O MistÃ©rio das Palavras Cruzadas: Um Enigma para Morrer (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]OMSTRDSPLCRSCRZDSUEPM.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/O%20Mist%C3%A9rio%20das%20Palavras%20Cruzadas%20-%20Um%20Enigma%20para%20Morrer.jpg</thumbnail>
+<info>Tess Harper (Lacey Chabert) comanda a editora de palavras cruzadas em um grande jornal. Quando alguns de seus enigmas sÃ£o relacionados a crimes, sua vida vira de cabeÃ§a para baixo enquanto tenta ajudar a polÃ­cia.</info>
+<genre>Suspense</genre>
+</item>
+
+<item>
+<title>[COLOR white]Minha IrmÃ£ de Paris (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]MNHIRMDPRS.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Minha%20Irm%C3%A3%20de%20Paris.jpg</thumbnail>
+<info>Viva, mas substituÃ­da. Uma atriz de comÃ©dia decide contratar uma "dublÃª" para tomar seu lugar no set de filmagens, depois que uma cirurgia plÃ¡stica dÃ¡ errado. E a impostora nÃ£o poderia ser mais prefeita: Ã© a sua prÃ³pria irmÃ£ gÃªmea - que ela nem sabia da existÃªncia.</info>
+<genre>ComÃ©dia</genre>
+</item>
+
+<item>
+<title>[COLOR white]Brooklyn: Sem Pai Nem MÃ£e (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BKRLNSMPANMAE.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Brooklyn%20-%20Sem%20Pai%20Nem%20M%C3%A3e.jpg</thumbnail>
+<info>Nova York, anos 1950. Lionel Essrog (Edward Norton) Ã© um solitÃ¡rio detetive particular com sÃ­ndrome de Tourette, o que faz com que volta e meia nÃ£o tenha controle sobre o que diz. No momento ele estÃ¡ investigando o assassinato de seu amigo e mentor, Frank Minna (Bruce Willis), mas tem poucas pistas sobre o que aconteceu. Obsessivo, Lionel passa a percorrer vÃ¡rios trechos da cidade em busca de respostas, atÃ© encontrar um caminho atravÃ©s da especulaÃ§Ã£o imobiliÃ¡ria em vizinhanÃ§as resididas em sua maioria por pobres e negros.</info>
+<genre>Policial</genre>
+</item>
+
+<item>
+<title>[COLOR white]O Coiote (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]OCOIOTE.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/O%20Coiote.jpg</thumbnail>
+<info>Um pescador dos Bahamas, viciado em jogos, recebe a proposta de ser coiote, organizando a migraÃ§Ã£o de cidadÃ£os haitianos para a FlÃ³rida, EUA. O homem aceita o trabalho ilegal com o intuito de poder sustentar financeiramente a sua famÃ­lia.</info>
+<genre>Suspense</genre>
+</item>
+
+
+<item>
+<title>[COLOR white]MalÃ©vola: Dona do Mal (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]MALVLADNADML.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Mal%C3%A9vola%20-%20Dona%20do%20Mal.jpg</thumbnail>
+<info>Cinco anos apÃ³s Aurora (Elle Fanning) despertar do sono profundo, a agora rainha dos Moors Ã© pedida em casamento pelo prÃ­ncipe Phillip (Harris Dickinson). Ela aceita o pedido e, com isso, parte rumo ao reino de Ulstead ao lado de MalÃ©vola (Angelina Jolie), no intuito de conhecer seus futuros sogros, John (Robert Lindsay) e Ingrith (Michelle Pfeiffer). O jantar entre eles deveria ser de celebraÃ§Ã£o entre os reinos, mas os interesses de Ingrith vÃªm Ã  tona quando Ã© criado um atrito com MalÃ©vola e os demais seres mÃ¡gicos.</info>
+<genre>Fantasia</genre>
+</item>
+
+<item>
+<title>[COLOR white]AbominÃ¡vel (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]ABMNVL.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Abomin%C3%A1vel.jpg</thumbnail>
+<info>Shanghai, China. Yi (Chloe Bennet) Ã© uma adolescente que, certo dia, descobre que um yeti estÃ¡ no telhado do prÃ©dio em que ela mora. A partir disso, ela e seus colegas passam a chamar a criatura mÃ­stica de "Everest" e, ao criarem laÃ§os com o animal, decidem levÃ¡-lo atÃ© sua famÃ­lia, que estÃ¡ no topo do planeta. PorÃ©m, os trÃªs amigos terÃ£o que conseguir despistar o ganancioso Burnish (Eddie Izzard) e a zoÃ³loga Dra. Zara (Sarah Paulson), que querem pegar o yeti a qualquer custo.</info>
+<genre>ComÃ©dia</genre>
+</item>
+
+<item>
+<title>[COLOR white]ZumbilÃ¢ndia: Atire Duas Vezes (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]ZMBLNDATRDSVZ.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Zumbil%C3%A2ndia%20-%20Atire%20Duas%20Vezes.jpg</thumbnail>
+<info>Anos depois de se unirem para atravessar o inÃ­cio da epidemia zumbi nos Estados Unidos, Columbus (Jesse Eisenberg), Tallahassee (Woody Harrelson), Wichita (Emma Stone) e Little Rock (Abigail Breslin) seguem buscando novos lugares para habitaÃ§Ã£o e sobrevivÃªncia. Quando decidem ir atÃ© a Casa Branca, acabam encontrando outros sobreviventes e percebem que novos rumos podem ser explorados.</info>
+<genre>Terror</genre>
+</item>
+
+<item>
+<title>[COLOR white]TÃ¡xi 5 (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]TAX5.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/T%C3%A1xi%205.jpg</thumbnail>
+<info>Sylvain Marot, um super policial parisiense transferido para a polÃ­cia de Marselha, Ã© designado para derrubar um grupo de assaltantes italianos que dirigem uma poderosa Ferrari, junto com Eddy Maklouf, um terrÃ­vel motorista, mas o Ãºnico a recuperar o lendÃ¡rio taxi branco.</info>
+<genre>ComÃ©dia</genre>
+</item>
+
+<item>
+<title>[COLOR white]Os Assassinatos de Amityville (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]OSASASNTSDAMYTVLE.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Os%20Assassinatos%20de%20Amityville.jpg</thumbnail>
+<info>Na noite de 13 de Novembro de 1974, Ronald DeFeo Jr assassinou sua famÃ­lia com uma espingarda enquanto eles dormiam. No seu julgamento, DeFeo disse ter ouvido vozes na casa, mandando ele matÃ¡-los. Treze meses depois, a famÃ­lia Lutz comprou a casa e apÃ³s 28 dias, fugiram apavorados. A experiÃªncia deles chocou o mundo em Terror em Amityville. Os Lutzes podem ter escapados de Amityville com suas vidas... mas os DeFeo nÃ£o. E essa Ã© a histÃ³ria deles.</info>
+<genre>Terror</genre>
+</item>
+
+<item>
+<title>[COLOR white]O Herdeiro das Drogas (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]OHRDRDSDRGS.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/O%20Herdeiro%20das%20Drogas.jpg</thumbnail>
+<info>Os irmÃ£os Kip (Josh Hartnett), Josie (Margarita Levieva) e Boots tentam escapar de uma espiral de violÃªncia que os mantÃ©m cativos desde a morte do pai, morando em uma regiÃ£o prejudicada pela economia, onde a venda de drogas tornou-se o seu meio de sobrevivÃªncia.</info>
+<genre>Suspense</genre>
+</item>
+
+<item>
+<title>[COLOR white]Pais Muito Loucos (Dublado) - [COLOR yellow](2020)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]PAISMTLCS.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Pais%20Muito%20Loucos.jpg</thumbnail>
+<info>Na histÃ³ria, o casal acaba de se despedir da filha que foi para a universidade, e sai para beber e comemorar a liberdade apÃ³s 18 anos. O resultado Ã© uma sequÃªncia de decisÃµes ruins, incluindo um sequestro e um caso de identidade trocada.</info>
+<genre>ComÃ©dia</genre>
+</item>
+
+<item>
+<title>[COLOR white]Viver Duas Vezes (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]VIVRDSVZS.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Viver%20Duas%20Vezes.jpg</thumbnail>
+<info>Quando Emilio Ã© diagnosticado com Alzheimer, ele e sua famÃ­lia resolvem partir em busca do seu amor de infÃ¢ncia.</info>
+<genre>Drama</genre>
+</item>
+
+<item>
+<title>[COLOR white]Ano Novo, Morte Nova (Dublado) - [COLOR yellow](2020)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]ANNVOMRTNVA.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Ano%20Novo,%20Morte%20Nova.jpg</thumbnail>
+<info>Durante a vÃ©spera de ano novo, sete amigos e um mochileiro se unem para sobreviver Ã  crueldade de trÃªs assassinos mascarados que invadem o alojamento onde eles esperariam pela chegada da meia-noite. Um por um, eles sÃ£o perseguidos e assassinados das formas mais chocantes e violentas. ConseguirÃ¡ alguÃ©m sobreviver Ã  fÃºria dos trÃªs matadores e comeÃ§ar o novo ano vivo? NÃ£o serÃ¡ fÃ¡cil, pois eles chegaram para matar, e nÃ£o vÃ£o parar atÃ© que o banho de sangue termine.</info>
+<genre>Terror</genre>
+</item>
+
+<item>
+<title>[COLOR white]Todas as Sardas do Mundo (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]TDSASRDSDMNDO.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Todas%20as%20Sardas%20do%20Mundo.jpg</thumbnail>
+<info>A histÃ³ria se passa em 1994, exatamente na Ã©poca da Copa do Mundo de Futebol. JosÃ© Miguel Mota, de 13 anos, que Ã© novo em sua escola - e rotulado como um garoto estranho -, de acordo com regras nÃ£o escritas, deveria se juntar Ã queles que sÃ£o como ele, mas se apaixona Ã  primeira vista por Cristina Palazuelos, a garota mais popular da escola e que, inclusive, jÃ¡ tem namorado.</info>
+<genre>ComÃ©dia</genre>
+</item>
+
+<item>
+<title>[COLOR white]Quatro HistÃ³rias de Fantasmas (Dublado) - [COLOR yellow](2020)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]QTROHSTRDFNTSMS.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Quatro%20Hist%C3%B3rias%20de%20Fantasmas.jpg</thumbnail>
+<info>Quatro histÃ³rias de terror dirigidas por Karan Johar, Dibakar Banerjee, Zoya Akhtar e Anurag Kashyap. Os mesmos diretores de Quatro HistÃ³rias de Desejo, indicado ao Emmy.</info>
+<genre>Terror</genre>
+</item>
+
+<item>
+<title>[COLOR white]Finalmente Livres (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]FNLMTELVRS.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Finalmente%20Livres.jpg</thumbnail>
+<info>Yvonne (AdÃ¨le Haenel), uma jovem inspetora de polÃ­cia, descobre que seu marido, CapitÃ£o Santi (Vincent Elbaz), nÃ£o era o policial corajoso e honesto que ela acreditava, mas uma verdadeira fraude. Determinada a reparar os erros cometidos por ele, ela cruza o caminho de Antoine (Pio MarmaÃ¯), preso injustamente por Santi e condenado a oito anos. Esse encontro inesperado e louco vai mudar a vida de ambos para sempre.</info>
+<genre>ComÃ©dia</genre>
+</item>
+
+<item>
+<title>[COLOR white]Abandonado no Altar (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]ABNDNDONALTR.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Abandonado%20no%20Altar.jpg</thumbnail>
+<info>Diego estÃ¡ prestes a ter o melhor dia de sua vida, quando do nada Ã© deixado plantado no altar com o coraÃ§Ã£o partido. No entanto, seus primos Julian e Miguel o arrastam para sua cidade natal para que Diego possa se divertir e esquecer seu infortÃºnio. Durante sua estadia, ele se encontra com seu primeiro amor e enfrenta seus medos com a coragem que nunca teve no passado.</info>
+<genre>Romance</genre>
+</item>
+
+
+<item>
+<title>[COLOR white]Apollo 11 (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]APLO11.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Apollo%2011.jpg</thumbnail>
+<info>Com o plano de desembarcar dois astronautas na superfÃ­cie lunar e regressar para a Terra em seguranÃ§a, a missÃ£o Apollo 11 Ã© atÃ© hoje uma grande referÃªncia quando se trata de momentos importantes na humanidade. Durante dÃ©cadas, trechos dos bastidores permaneceram guardados e apenas recentemente foram liberados para visualizaÃ§Ã£o do pÃºblico no geral.</info>
+<genre>DocumentÃ¡rio</genre>
+</item>
+
+<item>
+<title>[COLOR white]MalÃ©vola: Dona do Mal (Legendado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]MALVLADNADMLLEG.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Mal%C3%A9vola%20-%20Dona%20do%20Mal.jpg</thumbnail>
+<info>Cinco anos apÃ³s Aurora (Elle Fanning) despertar do sono profundo, a agora rainha dos Moors Ã© pedida em casamento pelo prÃ­ncipe Phillip (Harris Dickinson). Ela aceita o pedido e, com isso, parte rumo ao reino de Ulstead ao lado de MalÃ©vola (Angelina Jolie), no intuito de conhecer seus futuros sogros, John (Robert Lindsay) e Ingrith (Michelle Pfeiffer). O jantar entre eles deveria ser de celebraÃ§Ã£o entre os reinos, mas os interesses de Ingrith vÃªm Ã  tona quando Ã© criado um atrito com MalÃ©vola e os demais seres mÃ¡gicos.</info>
+<genre>Fantasia</genre>
+</item>
+
+<item>
+<title>[COLOR white]Um Amante FrancÃªs (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]UMAMTFRNCS.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Um%20Amante%20Franc%C3%AAs.jpg</thumbnail>
+<info>ApÃ³s 25 anos morando com Denise, Alex Ã© demitido de surpresa e fica sem lugar para morar. Obrigado a se mudar para a casa da irmÃ£ e do sobrinho, ele decide trabalhar com algo que o dÃª muito dinheiro e felicidade: ser um gigolÃ´ a procura de uma rica herdeira.</info>
+<genre>ComÃ©dia</genre>
+</item>
+
+<item>
+<title>[COLOR white]Receita para o Amor (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]RCTPROAMR.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Receita%20para%20o%20Amor.jpg</thumbnail>
+<info>Gabby (Roselyn Sanchez) abre o prÃ³prio restaurante em sua cidade natal. Ela, entÃ£o, conhece Caleb (Eric Winter), chef do restaurante concorrente. Mesmo com um festival gastronÃ´mico prÃ³ximo, da rivalidade surge uma intensa paixÃ£o.</info>
+<genre>Romance</genre>
+</item>
+
+<item>
+<title>[COLOR white]A Noite Amarela (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]ANTEAMRLA.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/A%20Noite%20Amarela.jpg</thumbnail>
+<info>Em um breve feriado, um grupo de jovens decide ir atÃ© uma ilha. No entanto, lÃ¡ se mostra um lugar extremamente escuro tanto durante o dia quanto Ã  noite e acontecimentos sinistros acontecem enquanto os amigos estÃ£o por lÃ¡. Ou seriam meras alucinaÃ§Ãµes?</info>
+<genre>Terror</genre>
+</item>
+
+<item>
+<title>[COLOR white]Sol Alegria (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]SOLEALGRA.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Sol%20Alegria.jpg</thumbnail>
+<info>Pastores ocupam os principais cargos polÃ­ticos do paÃ­s, o apocalipse estÃ¡ prÃ³ximo e uma excÃªntrica famÃ­lia comete um atentado e se refugia na sede da falange Sol Alegria, comandada por freiras nada convencionais. Um mapa secreto pode levar Ã  salvaÃ§Ã£o da humanidade, mas a jornada atÃ© o portal Ã© repleta de imprevistos.</info>
+<genre>ComÃ©dia</genre>
+</item>
+
+<item>
+<title>[COLOR white]B.O. (Nacional) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BO.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/B.O..jpg</thumbnail>
+<info>Pedro (Daniel Belmonte) e Fabricio (AndrÃ© Pellegrino) sÃ£o dois jovens cineastas que tentam de tudo para ter seus roteiros de comÃ©dia realizados, mas sempre acabam rejeitados. Frustrados, eles passam a acreditar que nÃ£o sÃ£o tÃ£o engraÃ§ados assim. Quando, em uma Ãºltima tentativa de conseguir uma carreira, eles decidem fazer um drama de baixo orÃ§amento para passar em festivais, seu futuro no cinema engata e tudo em que eles acreditavam entra em questionamento.</info>
+<genre>ComÃ©dia</genre>
+</item>
+
+<item>
+<title>[COLOR white]O Aplicativo (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]OAPLCTVO.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/O%20Aplicativo.jpg</thumbnail>
+<info>Em Roma para fazer seu primeiro filme, o ator e herdeiro industrial Nick fica obcecado por um aplicativo de encontros que o faz adotar um comportamento autodestrutivo.</info>
+<genre>FicÃ§Ã£o CientÃ­fica</genre>
+</item>
+
+<item>
+<title>[COLOR white]MamÃ£e Saiu de FÃ©rias (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]MAMESUDFRS.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Mam%C3%A3e%20Saiu%20de%20F%C3%A9rias.jpg</thumbnail>
+<info>Victor (Diego Peretti) e Vera (Carla Peterson) tÃªm quatro filhos e sÃ£o casados hÃ¡ 20 anos. Ele vive sua vida, jÃ¡ ela, sobrecarregada com as tarefas domÃ©sticas, decide tirar fÃ©rias de tudo e viaja por 10 dias. Com isso, Vicor Ã© forÃ§ado a se dedicar a sua casa e aos filhos.</info>
+<genre>ComÃ©dia</genre>
+</item>
+
+<item>
+<title>[COLOR white]Depois Do Casamento (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DPSDCSMNTO.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Depois%20Do%20Casamento.jpg</thumbnail>
+<info>A gerente de um orfanato em CalcutÃ¡, na Ãndia, luta para manter o estabelecimento funcionando. Desesperada por dinheiro, ela acredita ter encontrado a benfeitora perfeita (Julianne Moore), dona de empresa multimilionÃ¡ria. PorÃ©m, para receber o dinheiro, ela precisa viajar atÃ© Nova York e conhecer a mulher por trÃ¡s da riqueza, em meio a uma pomposa celebraÃ§Ã£o matrimonial. Chegando ao local, a gerente nÃ£o consegue disfarÃ§ar os segredos que a unem ao marido da empresÃ¡ria.</info>
+<genre>Drama</genre>
+</item>
+
+<item>
+<title>[COLOR white]CoraÃ§Ãµes Batendo Alto (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]CRCOSBTNDOALTO.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Cora%C3%A7%C3%B5es%20Batendo%20Alto.jpg</thumbnail>
+<info>Frank (Nick Offerman) Ã© um pai solteiro que nÃ£o estÃ¡ preparado para se despedir de sua filha, que em breve se mudarÃ¡ para seguir seu sonho de estudar medicina. Ele Ã© dono de uma gravadora que estÃ¡ falindo, mas espera manter contato com a filha atravÃ©s da paixÃ£o que dividem: a mÃºsica. Um pouco antes da mudanÃ§a, Frank sugere que os dois iniciem uma banda, a "We're Not A Band". Uma das mÃºsicas compostas pela dupla viraliza instantaneamente na internet. Agora, Sam precisa decidir entre cursar a faculdade de medicina, um dos maiores objetivos de sua vida, ou se continua ao lado do pai, se dedicando a banda e a carreira de cantora.</info>
+<genre>Musical</genre>
+</item>
+
+<item>
+<title>[COLOR white]Projeto Gemini (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]PRJTGMNI.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Projeto%20Gemini.jpg</thumbnail>
+<info>Henry Brogan (Will Smith) Ã© o melhor assassino profissional do mundo, com uma taxa de sucesso maior do que de qualquer outro, mas, quando decide se aposentar, acaba se tornando um alvo da AgÃªncia de InteligÃªncia de Defesa dos Estados Unidos, para quem trabalhava anteriormente. Enquanto luta para se manter vivo, ele se depara com um clone de si mesmo e descobre que as aÃ§Ãµes do governo americano sÃ£o para esconder um grande segredo, que sÃ³ Brogan, com toda sua experiÃªncia, Ã© capaz de desmascarar.</info>
+<genre>FicÃ§Ã£o CientÃ­fica</genre>
+</item>
+
+<item>
+<title>[COLOR white]ZumbilÃ¢ndia: Atire Duas Vezes (Legendado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]ZMBLNDATRDSVZLEG.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Zumbil%C3%A2ndia%20-%20Atire%20Duas%20Vezes.jpg</thumbnail>
+<info>Anos depois de se unirem para atravessar o inÃ­cio da epidemia zumbi nos Estados Unidos, Columbus (Jesse Eisenberg), Tallahassee (Woody Harrelson), Wichita (Emma Stone) e Little Rock (Abigail Breslin) seguem buscando novos lugares para habitaÃ§Ã£o e sobrevivÃªncia. Quando decidem ir atÃ© a Casa Branca, acabam encontrando outros sobreviventes e percebem que novos rumos podem ser explorados.</info>
+<genre>Terror ComÃ©dia</genre>
+</item>
+
+<item>
+<title>[COLOR white]Casamento Sangrento (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]CSMNTSNGNTO.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Casamento%20Sangrento.jpg</thumbnail>
+<info>Grace (Samara Weaving) acaba de se casar com o herdeiro milionÃ¡rio de uma famÃ­lia especializada em jogos de tabuleiro. Antes de realmente integrar a famÃ­lia, no entanto, ela Ã© obrigada a participar de uma tradiÃ§Ã£o familiar: um jogo de esconde-esconde pela mansÃ£o dos Le Domas. Aos poucos, Grace percebe que a brincadeira inocente Ã© na verdade uma caÃ§ada sangrenta contra a recÃ©m-casada, em que todas as armas e golpes sÃ£o permitidos para assassinÃ¡-la. A jovem terÃ¡ a difÃ­cil missÃ£o de sobreviver aos ataques atÃ© o amanhecer.</info>
+<genre>Terror</genre>
+</item>
+
+<item>
+<title>[COLOR white]As Loucuras de Rose (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]ASLCRSDROSE.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/As%20Loucuras%20de%20Rose.jpg</thumbnail>
+<info>Rose-Lynn Harlan (Jessie Buckley) Ã© uma cantora de Glasgow, na EscÃ³cia, que sonha em se tornar uma estrela da mÃºsica country em Nashville, no Tennessee. Acabando de sair da prisÃ£o e mÃ£e solteira de dois filhos, ela Ã© forÃ§ada a encarar responsabilidades mais urgentes e arruma um emprego de diarista, mas acaba encontrando em seu caminho quem dÃª apoio para o seu sonho aparentemente louco.</info>
+<genre>Musical</genre>
+</item>
+
+<item>
+<title>[COLOR white]O Grande Tiro (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]OGRNDTRO.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/O%20Grande%20Tiro.jpg</thumbnail>
+<info>Um fixador de carro pula da escada apÃ³s demoliÃ§Ã£o ilegal. Policial tenta encontrar o crime e pegar o chefe do mal.</info>
+<genre>AÃ§Ã£o</genre>
+</item>
+
+<item>
+<title>[COLOR white]Descobrindo a Vida (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DSCBRNDAVDA.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Descobrindo%20a%20Vida.jpg</thumbnail>
+<info>A namorada de Nick termina a relaÃ§Ã£o, e ele tem uma crise nervosa colossal na frente de toda a universidade. Para salvÃ¡-lo, o melhor amigo tem uma soluÃ§Ã£o perfeita: trÃªs dias em um Ã©pico festival de mÃºsica.</info>
+<genre>ComÃ©dia</genre>
+</item>
+
+<item>
+<title>[COLOR white]Cinzas de VinganÃ§a (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]CNZSDVNGCA.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/Cinzas%20de%20Vingan%C3%A7a.jpg</thumbnail>
+<info>Com um emprego honesto e uma esposa amorosa, Nick Brenner acreditava que ele havia escapado com seguranÃ§a de sua histÃ³ria criminosa e violenta. Mas sua antiga equipe nÃ£o se esqueceu dele ou do dinheiro que roubou, e quando eles pegam o que Nick agora mais valoriza - sua esposa - ele nÃ£o tem mais nada a perder. Confrontado pelo xerife da cidade, que tambÃ©m Ã© seu sogro, Nick deve decidir se ele permanecerÃ¡ em seu novo caminho ou se entregarÃ¡ Ã  sua necessidade de vinganÃ§a e forÃ§arÃ¡ seus inimigos a pagar pelo que fizeram.</info>
+<genre>Drama</genre>
+</item>
+
+<item>
+<title>[COLOR white] A Maratona de Brittany (Dublado)- [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]AMRTNDBRTNY.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/A%20Maratona%20de%20Brittany.jpg</thumbnail>
+<info>Vivendo por anos em Nova York, Brittany (Jillian Bell) sente-se constantemente cansada e chateada por conta de sua rotina, que se resume a ir a diversas festas e agradar pessoas tÃ³xicas. Quando seu mÃ©dico a assusta com um diagnÃ³stico preocupante, Brittany decide comeÃ§ar a fazer exercÃ­cios, mas mal poderia imaginar que uma simples corrida no quarteirÃ£o teria o poder de mudar sua vida.</info>
+<genre>ComÃ©dia</genre>
+</item>
+
+<item>
+<title>[COLOR white]A Mulher do Meu Marido (Nacional) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]AMLHRDMEUMRDO.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/A%20Mulher%20do%20Meu%20Marido.jpg</thumbnail>
+<info>Depois de alguns anos de casamento com Pedro (Paulo Tiefenthaler), Joana (Luana Piovani) descobre que estÃ¡ sendo traÃ­da. Mesmo triste, ela percebe que o caso extraconjugal faz bem ao marido, que se mostra mais atencioso com a famÃ­lia, entÃ£o finge nÃ£o saber do relacionamento. Um dia, Joana conhece o argentino Martin (Francisco Andrade) e comeÃ§a a ter um caso tÃ³rrido com ele. Mas a ciranda se complica quando ela percebe que a esposa de Martin Ã© Pilar (Aylin Prandi), a amante de seu marido.</info>
+<genre>ComÃ©dia Nacional</genre>
+</item>
+
+<item>
+<title>[COLOR white]Hebe: A Estrela do Brasil (Nacional) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]HBEAESTRLDBR.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.pictures/imgs-videos/Filmes/Hebe%20-%20A%20Estrela%20do%20Brasil.jpg</thumbnail>
+<info>Hebe Camargo (AndrÃ©a BeltrÃ£o) se consagrou como uma das apresentadoras mais emblemÃ¡ticas da televisÃ£o brasileira. Sua carreira passou por diversas mudanÃ§as ao longo dos anos, mas foi durante a dÃ©cada de 80, no perÃ­odo de transiÃ§Ã£o da ditadura para a democracia, que Hebe, ao 60 anos, tomou uma decisÃ£o importante. A apresentadora passou a controlar a prÃ³pria carreira e, independentemente das crÃ­ticas machistas, do marido ciumento e dos chefes poderosos, se revelou para o pÃºblico como uma mulher extraordinÃ¡ria, capaz de superar qualquer crise pessoal ou profissional.</info>
+<genre>Biografia</genre>
+</item>
+
+<item>
+<title>[COLOR white]Coringa (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]CRNGA.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.pictures/imgs-videos/Filmes/Coringa.jpg</thumbnail>
+<info>Arthur Fleck (Joaquin Phoenix) trabalha como palhaÃ§o para uma agÃªncia de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. ApÃ³s ser demitido, Fleck reage mal Ã  gozaÃ§Ã£o de trÃªs homens em pleno metrÃ´ e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne (Brett Cullen) Ã© seu maior representante.</info>
+<genre>Drama</genre>
+</item>
+
+<item>
+<title>[COLOR white]VinganÃ§a Ã  Sangue Frio (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]VNGCASNGFRIO.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.pictures/imgs-videos/Filmes/Vingan%C3%A7a%20%C3%A0%20Sangue%20Frio.jpg</thumbnail>
+<info>Protagonizado por Jean Reno (O Profissional), VinganÃ§a Ã  Sangue Frio Ã© um suspense eletrizante que vai surpreendÃª-lo atÃ© o Ãºltimo instante. Henry Ã© um famoso assassino de aluguel aproveitando o isolamento de sua cabana Ã  beira do lago no meio da regiÃ£o selvagem das montanhas Rochosas. Quando a paz de sua merecida aposentadoria Ã© interrompida pela chegada de Melody (Sarah Lind), a sobrevivente de um terrÃ­vel acidente, Henry deve decidir se arriscarÃ¡ sua prÃ³pria vida para salvar a dela. Mas serÃ¡ que Melody Ã© mesmo quem ela diz ser? E serÃ¡ que sua chegada foi mesmo apenas uma coincidÃªncia?</info>
+<genre>Suspense</genre>
+</item>
+
+<item>
+<title>[COLOR white]Os Aeronautas (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]OSAERNTS.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.pictures/imgs-videos/Filmes/Os%20Aeronautas.jpg</thumbnail>
+<info>Londres, 1862. O cientista James Glaisher (Eddie Redmayne) estÃ¡ prestes a realizar o grande sonho de sua vida, ao iniciar uma viagem de balÃ£o de forma a pesquisar formas de se prever a meteorologia. Sua companheira de viagem Ã© Amelia Rennes (Felicity Jones), veterana do balonismo que topou o desafio apÃ³s um grande trauma em sua viagem anterior, quando seu marido faleceu. Juntos, eles enfrentam uma aventura rumo ao cÃ©us na tentativa de chegar a uma altitude inÃ©dita atÃ© entÃ£o a qualquer ser humano.</info>
+<genre>Romance</genre>
+</item>
+
+<item>
+<title>[COLOR white]Midsommar: O Mal NÃ£o Espera a Noite (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]MDSMROMALNESPRANTE.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.pictures/imgs-videos/Filmes/Midsommar%20-%20O%20Mal%20N%C3%A3o%20Espera%20a%20Noite.jpg</thumbnail>
+<info>ApÃ³s vivenciar uma tragÃ©dia pessoal, Dani (Florence Pugh) vai com o namorado Christian (Jack Reynor) e um grupo de amigos atÃ© a SuÃ©cia para participar de um festival local de verÃ£o. Mas, ao invÃ©s das fÃ©rias tranquilas com a qual todos sonhavam, o grupo vai se deparar com rituais bizarros de uma adoraÃ§Ã£o pagÃ£.</info>
+<genre>Terror</genre>
+</item>
+
+<item>
+<title>[COLOR white]JustiÃ§a em Chamas (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]JSTCEMCHMS.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.pictures/imgs-videos/Filmes/Justi%C3%A7a%20em%20Chamas.jpg</thumbnail>
+<info>A histÃ³ria trÃ¡gica e controversa de Cameron Todd Willingham, que foi executado no Texas por ter matado seus trÃªs filhos depois que evidÃªncias cientÃ­ficas e testemunhos de especialistas reforÃ§aram que as suas reivindicaÃ§Ãµes de inocÃªncia ficaram suprimidas.</info>
+<genre>Biografia</genre>
+</item>
+
+<item>
+<title>[COLOR white]Dois Papas (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DOSPAPS.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.pictures/imgs-videos/Filmes/Dois%20Papas.jpg</thumbnail>
+<info>Buenos Aires, 2012. O cardeal argentino Jorge Bergoglio (Jonathan Pryce) estÃ¡ decidido a pedir sua aposentadoria, devido a divergÃªncias sobre a forma como o papa Bento XVI (Anthony Hopkins) tem conduzido a Igreja. Com a passagem jÃ¡ comprada para Roma, ele Ã© surpreendido com o convite do prÃ³prio papa para visitÃ¡-lo. Ao chegar, eles iniciam uma longa conversa onde debatem nÃ£o sÃ³ os rumos do catolicismo, mas tambÃ©m afeiÃ§Ãµes e peculiaridades da personalidade de cada um.</info>
+<genre>Drama</genre>
+</item>
+
+<item>
+<title>[COLOR white]Brexit: A Guerra Uncivil (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]BRXTAGRAUNCVL.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.pictures/imgs-videos/Filmes/Brexit%20-%20A%20Guerra%20Uncivil.jpg</thumbnail>
+<info>Em uma Ã©poca fortemente influenciada por notÃ­cias falsas e controle de dados pessoais atravÃ©s de manipulaÃ§Ã£o midiÃ¡tica, o polÃ­tico Dominic Cummings (Benedict Cumberbatch) lidera uma forte campanha que possui como foco principal convencer o maior nÃºmero possÃ­vel de britÃ¢nicos a votarem a favor da saÃ­da do Reino Unido da UniÃ£o Europeia.</info>
+<genre>Drama</genre>
+</item>
+
+<item>
+<title>[COLOR white]Ela Disse, Ele Disse (Nacional) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]ELADSELDS.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.pictures/imgs-videos/Filmes/Vai%20que%20Cola%202%20-%20O%20Come%C3%A7o.jpg</thumbnail>
+<info>Rosa (Duda Matte) e LÃ©o (Marcus Bessa) sÃ£o adolescentes de 14 anos que acabaram de entrar em uma nova escola, onde precisam lidar com a difÃ­cil tarefa de fazer novos amigos. Enquanto LÃ©o logo demonstra interesse em futebol, Rosa enfrenta problemas com JÃºlia (MaÃ­sa), a garota mais popular do colÃ©gio.</info>
+<genre>Romance</genre>
+</item>
+
+<item>
+<title>[COLOR white]Sobrevivendo Ã s Festas com os Parentes (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]SBRVNDASFRSCMOSPRNTS.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.pictures/imgs-videos/Filmes/Sobrevivendo%20%C3%A0s%20Festas%20com%20os%20Parentes.jpg</thumbnail>
+<info>Duas irmÃ£s se reÃºnem para passar o Natal com suas famÃ­lias na casa de campo de seus pais recentemente falecidos, com consequÃªncias hilÃ¡rias e caÃ³ticas, enquanto antigas rivalidades entre irmÃ£os aumentam novamente para sabotar a temporada natalina.</info>
+<genre>ComÃ©dia</genre>
+</item>
+
+<item>
+<title>[COLOR white]O Juramento (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]OJRMNTO.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.pictures/imgs-videos/Filmes/O%20Juramento.jpg</thumbnail>
+<info>TrÃªs amigos tentam fazer parte de uma fraternidade que Ã© mortalmente sÃ©ria sobre seus ritos secretos e acabam entrando numa corrida por sobrevivÃªncia.</info>
+<genre>Terror</genre>
+</item>
+
+<item>
+<title>[COLOR white]Isolados (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]ISLDS.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.pictures/imgs-videos/Filmes/Isolados.jpg</thumbnail>
+<info>A jovem Linda encontra-se em um jogo de vida ou morte em uma ilha isolada por uma tempestade. Ela precisa fazer uma autÃ³psia para encontrar pistas escondidas em um cadÃ¡ver e ajudar o legista Paul Herzfeld (Moritz Bleibtreu) a encontrar sua filha desaparecida.</info>
+<genre>Terror</genre>
+</item>
+
+<item>
+<title>[COLOR white]Inferno na Fronteira (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]INFNNFNTRA.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.pictures/imgs-videos/Filmes/Inferno%20na%20Fronteira.jpg</thumbnail>
+<info>Baseado na vida real de Bass Reeves, lendÃ¡rio cowboy afro-americano. Ele foi o primeiro vice-marechal negro dos EUA a oeste do rio Mississippi. Ele trabalhou principalmente no Arkansas e no TerritÃ³rio de Oklahoma. Durante sua longa carreira, Bass foi creditado com a prisÃ£o de mais de 3.000 criminosos.</info>
+<genre>Faroeste</genre>
+</item>
+
+<item>
+<title>[COLOR white]Ela Disse, Ele Disse (Nacional) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]ELADSELDS.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.pictures/imgs-videos/Filmes/Ela%20Disse,%20Ele%20Disse.jpg</thumbnail>
+<info>Rosa (Duda Matte) e LÃ©o (Marcus Bessa) sÃ£o adolescentes de 14 anos que acabaram de entrar em uma nova escola, onde precisam lidar com a difÃ­cil tarefa de fazer novos amigos. Enquanto LÃ©o logo demonstra interesse em futebol, Rosa enfrenta problemas com JÃºlia (MaÃ­sa), a garota mais popular do colÃ©gio.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[COLOR white]Coringa (Legendado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]CRNGALEG.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.pictures/imgs-videos/Filmes/Coringa.jpg</thumbnail>
+<info>Arthur Fleck (Joaquin Phoenix) trabalha como palhaÃ§o para uma agÃªncia de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. ApÃ³s ser demitido, Fleck reage mal Ã  gozaÃ§Ã£o de trÃªs homens em pleno metrÃ´ e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne (Brett Cullen) Ã© seu maior representante.</info>
+<genre>Drama</genre>
+</item>
+
+<item>
+<title>[COLOR white]Sobreviva Ã€ Noite (Dublado)  - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]SBRVANTE.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.pictures/imgs-videos/Filmes/Sobreviva%20%C3%80%20Noite.jpg</thumbnail>
+<info>Goro, um gÃªnio criminoso, conspirou para roubar um enorme depÃ³sito de ouro da famÃ­lia Rossini. Sem o conhecimento de Goro e seus soldados da fortuna, um dos hÃ³spedes de Rossini Ã© um agente estrangeiro altamente treinado que luta nÃ£o sÃ³ para salvar os refÃ©ns e o ouro, mas sua famÃ­lia em perigo.</info>
+<genre>Suspense</genre>
+</item>
+
+<item>
+<title>[COLOR white]Patrick: Aprendendo a Amar (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]PTRCKAPNDOAMR.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.pictures/imgs-videos/Filmes/Patrick%20-%20Aprendendo%20a%20Amar.jpg</thumbnail>
+<info>Uma jovem cuja vida estÃ¡ uma bagunÃ§a fica muito pior quando ela herda um Pug de sua avÃ³, o Patrick. O intruso de quatro patas comeÃ§a a causar o caos, mas tambÃ©m comeÃ§a a transformar sua vida.</info>
+<genre>ComÃ©dia</genre>
+</item>
+
+<item>
+<title>[COLOR white]Paulo de Tarso e a HistÃ³ria do Cristianismo Primitivo (Nacional) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]PALDTRSOEAHSTRDCRSTNMSPRMTVO.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.pictures/imgs-videos/Filmes/Paulo%20de%20Tarso%20e%20a%20Hist%C3%B3ria%20do%20Cristianismo%20Primitivo.jpg</thumbnail>
+<info>Paulo de Tarso e a HistÃ³ria do Cristianismo Primitivo Ã© um filme que apresenta a vida e obra do ApÃ³stolo dos Gentios atravÃ©s da interpretaÃ§Ã£o espÃ­rita dos fatos e contextos histÃ³ricos que envolveram esse grande personagem. Trata-se da primeira obra cinematogrÃ¡fica, produzida com o entendimento que a doutrina dos espÃ­ritos pode emprestar sobre ex-doutor da lei judaica, que fundou comunidades cristÃ£s em grande parte da Ãsia Menor e da Europa durante o primeiro sÃ©culo da era CristÃ£.</info>
+<genre>Religioso</genre>
+</item>
+
+<item>
+<title>[COLOR white]MamÃ£e Ã© Uma EspiÃ£ (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]MAMEMESP.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.pictures/imgs-videos/Filmes/Mam%C3%A3e%20%C3%A9%20Uma%20Espi%C3%A3.jpg</thumbnail>
+<info>Sob o disfarce de uma entediante burocrata e mÃ£e de famÃ­lia, Giovanna Ã© uma agente secreta do governo italiano. Quando apÃ³s muitos anos se encontra com colegas da escola e se dÃ¡ conta das pequenas opressÃµes presentes no dia a dia da vida adulta, ela decide fazer alguma justiÃ§a. Para isso, usarÃ¡ todos os sofisticados recursos que somente alguÃ©m em sua posiÃ§Ã£o possui.</info>
+<genre>ComÃ©dia</genre>
+</item>
+
+<item>
+<title>[COLOR white]Linha Reta (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]LNHRTA.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.pictures/imgs-videos/Filmes/Linha%20Reta.jpg</thumbnail>
+<info>Os primos nova-iorquinos Vincent (Jesse Eisenberg) e Anton (Alexander Skarsgard) sÃ£o jogadores dentro do mundo do comÃ©rcio de alta frequÃªncia, no qual ganhar Ã© medido em milissegundos. Seu sonho? Construir um cabo de fibra Ã³tica entre Kansas e Nova Jersey, e fazÃª-los aos milhÃµes. Mas nada acontece de noite para o dia â€“ e nada Ã© simples para essa dupla. Anton Ã© o cÃ©rebro, Vincent Ã© o negociador, e juntos eles levam a si mesmos e aos outros ao limite nessa aventura quixotesca. Constantemente em conflito com sua intoxicante, poderosa e manipuladora chefe Eva Torrer (Salma Hayek), eles devem ter inÃºmeras cartas na manga para finalmente vencer, nÃ£o importa o custo.</info>
+<genre>Suspense</genre>
+</item>
+
+<item>
+<title>[COLOR white]Legalidade (Nacional) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]LGLDAD.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.pictures/imgs-videos/Filmes/Legalidade.jpg</thumbnail>
+<info>Brasil, 1961. Quando JÃ¢nio Quadros renuncia Ã  presidÃªncia do Brasil, o vice-presidente JoÃ£o Goulart torna-se o sucessor natural ao cargo. No entanto setores da sociedade, liderados pelos militares, clamavam pelo impedimento da posse de Jango, temerosos de suas posiÃ§Ãµes de esquerda. Liderado por Leonel Brizola (Leonardo Machado), o movimento Legalidade Ã© criado para garantir a posse do vice-presidente, colocando grande parte do Rio Grande do Sul contra o nÃºcleo do exÃ©rcito. Em meio Ã  turbulÃªncia polÃ­tica e social, um triÃ¢ngulo amoroso Ã© formado entre CecÃ­lia (Cleo Pires), Luis Carlos (Fernando Alves Pinto) e Tonho (JosÃ© Henrique Ligabue).</info>
+<genre>HistÃ³rico</genre>
+</item>
+
+<item>
+<title>[COLOR white]Jeremiah Terminator LeRoy (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]JTLRY.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.pictures/imgs-videos/Filmes/Jeremiah%20Terminator%20LeRoy.jpg</thumbnail>
+<info>A jovem Savannah Knoop (Kristen Stewart) passou seis anos de sua vida fingindo ser o escritor genderfluid JT LeRoy, um personagem criado pela sua cunhada, Laura Albert (Laura Dern), uma escritora independente de SÃ£o Francisco. As duas conseguiram enganar nÃ£o sÃ³ comunidade literÃ¡ria, mas tambÃ©m toda a elite de Hollywood, alÃ©m de serem constantemente convidadas para desfiles de grifes famosas. Baseado no livro Girl Boy Girl: How I Became JT Leroy, de Savannah Knoop. A sinopse oficial ainda nÃ£o foi divulgada.</info>
+<genre>Drama</genre>
+</item>
+
+<item>
+<title>[COLOR white]Depois da EscuridÃ£o (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]DPSDESCRDAO.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.pictures/imgs-videos/Filmes/Depois%20da%20Escurid%C3%A3o.jpg</thumbnail>
+<info>O sol estÃ¡ cada vez mais quente, assim uma famÃ­lia americana se reÃºne para enfrentar o fim do mundo, as suas esperanÃ§as de resgate sÃ£o cada vez mais pequenas. Mas, apesar de tudo, eles tambÃ©m tem de enfrentar os conflitos presentes entre si.</info>
+<genre>FicÃ§Ã£o CientÃ­fica</genre>
+</item>
+
+<item>
+<title>[COLOR white]Code 8: Renegados (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link>$doregex[repository.KallPlay1]CD8RNGDS.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.pictures/imgs-videos/Filmes/Code%208%20-%20Renegados.jpg</thumbnail>
+<info>4% da populaÃ§Ã£o tem um poder, o que segundo o governo, Ã© ilegal. Encurralados, usam seus poderes para cometer pequenos furtos, e sobreviver. Mas quando um ambicioso criminal comeÃ§a a contratar pessoas com poderes os militares terÃ£o que intervir.</info>
+<genre>FicÃ§Ã£o CientÃ­fica</genre>
+</item>
+
+<item>
+<title>[COLOR white]PÃ¢nico nas Alturas (Dublado) - [COLOR yellow](2019)[/COLOR] - [COLOR red]FULLHD[/COLOR][/COLOR]</title>
+<link><link>$doregex[repository.KallPlay1]PNCNSALTRS.mp4$doregex[repository.KallPlay2]</link>
+<regex><name>repository.KallPlay4</name><expres>$pyFunction:base64.b32decode("$doregex[repository.KallPlay3]")</expres><page></page></regex>
+<regex><name>repository.KallPlay3</name><expres>(.*?).rcs</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay2</name><expres>(.*?).rcd</expres><page>https://bit.ly/3bexWBO</page></regex>
+<regex><name>repository.KallPlay1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[repository.KallPlay4]</page></regex>
+<thumbnail>https://redecanais.observer/imgs-videos/Filmes/P%C3%A2nico%20nas%20Alturas.jpg</thumbnail>
+<info>Cinco jovens que querem celebrar a vÃ©spera de ano novo no topo de uma montanha, ficam presos em um telefÃ©rico. O que comeÃ§ou como uma festa de aventura, logo se torna uma luta pela sobrevivÃªncia.</info>
+<genre>Suspense</genre>
+</item>
+
+<item>
+<title>[B][COLOR red]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]PROXIMA [/COLOR][/B] [COLOR red][B]PA[/B][/COLOR][COLORyellow][B]GINA[/B][/COLOR] [COLOR yellow] [/COLOR] [COLOR white][/COLOR] [COLOR yellow]>>[/COLOR][COLOR red][B][/B][/COLOR]</title>
+<thumbnail>http://icons.iconarchive.com/icons/hopstarter/soft-scraps/256/Button-Next-icon.png</thumbnail>
+<externallink>http://tony.twtutoriais.site/tony/2addon/2addon/mov/mrc3</externallink>
+<link>ignoreme</link>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- FILMES NOVOS TODOS DIAS -[COLOR yellow]|[/COLOR]</info>
+</item>
+
