@@ -1,0 +1,99 @@
+<layouttype>thumbnail</layouttype>
+ 
+<channels>
+
+<channel>
+<name>[COLOR white][B]Lançamentos[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/TRr7sjg.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mx1984/Filmes/master/Lancamentos</externallink>
+<fanart></fanart>
+<info>FILMES</info>
+</channel>
+
+<channel>
+<name>[COLOR white][B]Ação[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/CiDu6rc.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mx1984/Filmes/master/Acao</externallink>
+<fanart></fanart>
+<info>FILMES</info>
+</channel>
+
+<channel>
+<name>[COLOR white][B]Animação[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/MY4GDxY.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mx1984/Filmes/master/Animacao</externallink>
+<fanart></fanart>
+<info>FILMES</info>
+</channel>
+
+<channel>
+<name>[COLOR white][B]Aventura[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/dpyfavF.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mx1984/Filmes/master/Aventura</externallink>
+<fanart></fanart>
+<info>FILMES</info>
+</channel>
+
+<channel>
+<name>[COLOR white][B]Comédia[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/1VSLmmA.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mx1984/Filmes/master/Comedia</externallink>
+<fanart></fanart>
+<info>FILMES</info>
+</channel>
+
+<channel>
+<name>[COLOR white][B]Drama[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/TIh9WHV.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mx1984/Filmes/master/Drama</externallink>
+<fanart></fanart>
+<info>FILMES</info>
+</channel>
+
+<channel>
+<name>[COLOR white][B]Fantasia[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/AbKbsRj.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mx1984/Filmes/master/Fantasia</externallink>
+<fanart></fanart>
+<info>FILMES</info>
+</channel>
+
+<channel>
+<name>[COLOR white][B]Faroeste[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/x9wrC16.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mx1984/Filmes/master/Faroeste</externallink>
+<fanart></fanart>
+<info>FILMES</info>
+</channel>
+
+<channel>
+<name>[COLOR white][B]Ficção[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/NusI3yN.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mx1984/Filmes/master/Ficcao</externallink>
+<fanart></fanart>
+<info>FILMES</info>
+</channel>
+
+<channel>
+<name>[COLOR white][B]Romance[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/mKgnmjP.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mx1984/Filmes/master/Romance</externallink>
+<fanart></fanart>
+<info>FILMES</info>
+</channel>
+
+<channel>
+<name>[COLOR white][B]Suspense[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/MNhe1Cq.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mx1984/Filmes/master/Suspense</externallink>
+<fanart></fanart>
+<info>FILMES</info>
+</channel>
+
+<channel>
+<name>[COLOR white][B]Terror[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/rZOv1tz.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/mx1984/Filmes/master/Terror</externallink>
+<fanart></fanart>
+<info>FILMES</info>
+</channel>
