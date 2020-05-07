@@ -1,138 +1,222 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hS2ZGEH.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]GAZETA SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/58980
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hS2ZGEH.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]GAZETA SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/54269
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SD" tvg-logo="https://observatoriodatv.bol.uol.com.br/wp-content/uploads/2015/01/Logo-Band-1024x8351.jpg" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] BAND SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758322
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/b375b221bb575f67d82b6741551b8e87.jpg" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] BAND FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758324
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/b375b221bb575f67d82b6741551b8e87.jpg" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] BAND HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758323
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wRSDg45.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]SBT HD1         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/3587
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wRSDg45.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]SBT SD1         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1128
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wRSDg45.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]SBT SD         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/7942
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wRSDg45.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]SBT SP INTERIOR         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/7940
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wRSDg45.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]SBT SP INTERIOR         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/53410
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]GLOBO RJ FHD         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/13425
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]GLOBO RJ FHD H265         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/53429
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]GLOBO RJ HD         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8038
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]GLOBO RJ HD1         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1201
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]GLOBO RJ SD         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8039
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]GLOBO RJ SD1         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1003
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]GLOBO SP FHD         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/13424
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]GLOBO SP FHD H265         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/45420
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]GLOBO SP HD         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8034
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]GLOBO SP HD1         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1199
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]GLOBO SP SD         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8035
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P1mYnQb.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]GLOBO SP SD1         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1987
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mQo0UoK.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]REDE RECORD FHD         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/13413
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mQo0UoK.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]REDE RECORD FHD H265         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/49145
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mQo0UoK.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]REDE RECORD HD         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/49145
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2DTdcJM.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]REDE RECORD SP HD         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/5784
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2DTdcJM.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]REDE RECORD SP HD1         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/49141
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2DTdcJM.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]REDE RECORD SP SD         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/7948
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2DTdcJM.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]REDE RECORD SP SD1         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/7086
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2DTdcJM.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]REDE RECORD SP SD2         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/49142
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ezq3flF.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BAND FHD H265         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/60630
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ezq3flF.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BAND FHD H265         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/60631
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ezq3flF.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BAND SP HD         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/60637
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ezq3flF.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BAND HD         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/60632
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ezq3flF.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BAND SD         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/60633
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uMUV0Bw.png " group-title="movies", [COLOR red][B]º[/B][/COLOR]SBT FHD H265         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/60663
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uMUV0Bw.png " group-title="movies", [COLOR red][B]º[/B][/COLOR]SBT FHD          
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/60664
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uMUV0Bw.png " group-title="movies", [COLOR red][B]º[/B][/COLOR]SBT HD         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/7941
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uMUV0Bw.png " group-title="movies", [COLOR red][B]º[/B][/COLOR]SBT HD         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/60662
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uMUV0Bw.png " group-title="movies", [COLOR red][B]º[/B][/COLOR]SBT SP HD         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/60676
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uMUV0Bw.png " group-title="movies", [COLOR red][B]º[/B][/COLOR]SBT SD        
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/60671
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5qBlnvz.png " group-title="movies", [COLOR red][B]º[/B][/COLOR]TV CULTURA FHD        
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/14991
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5qBlnvz.png " group-title="movies", [COLOR red][B]º[/B][/COLOR]TV CULTURA SD        
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/14990
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B3Mrsml.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]REDE TV FHD H265        
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/49792
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B3Mrsml.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]REDE TV HD        
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/7944
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B3Mrsml.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]REDE TV HD1        
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1131
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B3Mrsml.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]REDE TV SD        
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/7945
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B3Mrsml.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]REDE TV SD1        
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1016
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8OHLzCF.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]FUTURA HD        
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8058
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8OHLzCF.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]FUTURA SD        
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8059
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/b9c1ba80500fbcc75aa7a72ada9e7bbb.jpg" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] CANAL BRASIL FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758327
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/b9c1ba80500fbcc75aa7a72ada9e7bbb.jpg" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758326
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/b9c1ba80500fbcc75aa7a72ada9e7bbb.jpg" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] CANAL BRASIL SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758325
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/4a2e317a9cc91dfd90ebe7f55cad2d39.png" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] CANAL DO BOI SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758328
+#EXTINF:-1 tvg-id="" tvg-name="CANÇAO NOVA SD" tvg-logo="" group-title="RELIGIÃƒO",[COLOR lime]KP[/COLOR] CANÃ‡ÃƒO NOVA SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/74024
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dxqXS0O.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]TV APARECIDA SD         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/7900
+#EXTINF:-1 tvg-id="" tvg-name="Gazeta Sp HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo.png" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] Gazeta Sp HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/761327
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7JvzKkG.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]TV CAMARA SD         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/7898
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BRASILIA HD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO BRASILIA HD#
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757934
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BRASILIA SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO BRASILIA SD#
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757933
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO CENTRO AMERICA FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO CENTRO AMERICA FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757937
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO CENTRO AMERICA HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO CENTRO AMERICA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757936
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV CAMPINAS FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO EPTV CAMPINAS FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757940
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757939
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO EPTV CAMPINAS SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757938
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO EPTV CAMPINAS SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO EPTV CAMPINAS SD#
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757941
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV RIBEIRÃƒO PRETO SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO EPTV RIBEIRÃƒO PRETO SD#
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757942
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV SUL DE MINAS FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO EPTV SUL DE MINAS FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757944
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO EPTV SUL DE MINAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757943
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO INTER TV CABUGI SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO INTER TV CABUGI SD#
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757945
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO INTER TV GRANDE MINAS FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO INTER TV GRANDE MINAS FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757947
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO INTER TV GRANDE MINAS HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO INTER TV GRANDE MINAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757946
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MINAS FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO MINAS FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757950
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MINAS HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO MINAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757949
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MINAS SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO MINAS SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757948
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FULLHD" tvg-logo="https://s2.glbimg.com/vaKVjp1G5oEnuoq0g7fsw-H3U6s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/44/92/e3e879c57a76b70c1400f7d6cd9e.png" group-title="NOTICIAS",[COLOR lime]KP[/COLOR] GLOBO NEWS FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758072
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://s2.glbimg.com/vaKVjp1G5oEnuoq0g7fsw-H3U6s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/44/92/e3e879c57a76b70c1400f7d6cd9e.png" group-title="NOTICIAS",[COLOR lime]KP[/COLOR] GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758071
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://s2.glbimg.com/vaKVjp1G5oEnuoq0g7fsw-H3U6s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/44/92/e3e879c57a76b70c1400f7d6cd9e.png" group-title="NOTICIAS",[COLOR lime]KP[/COLOR] GLOBO NEWS SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758070
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NORDESTE FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO NORDESTE FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757954
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO NORDESTE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757951
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NORDESTE HD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO NORDESTE HD#
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757953
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NORDESTE SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO NORDESTE SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757955
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NORDESTE SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO NORDESTE SD#
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757952
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NSC FLORIANOPOLIS FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO NSC FLORIANOPOLIS FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757958
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NSC FLORIANOPOLIS HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO NSC FLORIANOPOLIS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757957
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NSC FLORIANOPOLIS SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO NSC FLORIANOPOLIS SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757956
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RBS PORTO ALEGRE SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO RBS PORTO ALEGRE SD#
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757960
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RBS TV POA FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO RBS TV POA FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757963
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RBS TV POA HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO RBS TV POA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757962
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RBS TV POA SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO RBS TV POA SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757961
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO REDE AMAZÃ”NICA MANAUS SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO REDE AMAZÃ”NICA MANAUS SD#
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757964
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RIO HD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO RIO HD#
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757965
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO RJ FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757966
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RPC PARANAENSE FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO RPC PARANAENSE FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757969
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RPC PARANAENSE HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO RPC PARANAENSE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757968
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RPC PARANAENSE SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO RPC PARANAENSE SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757967
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RPC TV CURITIBA SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO RPC TV CURITIBA SD#
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757970
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO SP FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757976
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD" tvg-logo="" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757971
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO SP HD#
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757975
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO SP SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO SP SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757972
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO SP SD#2" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO SP SD#2
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757973
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD#3" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO SP SD#3
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757974
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV ANHANGUERA  SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO TV ANHANGUERA  SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757977
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV ANHANGUERA GOIÃ‚NIA SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO TV ANHANGUERA GOIÃ‚NIA SD#
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757978
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV BAHIA FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO TV BAHIA FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757981
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV BAHIA HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO TV BAHIA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757980
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV BAHIA SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO TV BAHIA SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757979
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV BAHIA SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO TV BAHIA SD#
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757982
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO TV BELEM FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO TV BELEM FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757985
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV BELEM HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO TV BELEM HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757984
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV BELEM SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO TV BELEM SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757983
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV BRASILIA FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO TV BRASILIA FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757935
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV LIBERAL BELEM SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO TV LIBERAL BELEM SD#
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757986
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV MIRANTE FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO TV MIRANTE FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757989
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV MIRANTE HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO TV MIRANTE HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757988
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV MIRANTE SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO TV MIRANTE SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757987
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO TV MORENA FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO TV MORENA FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757992
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV MORENA HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO TV MORENA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757991
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV MORENA SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO TV MORENA SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757990
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM BAURU SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO TV TEM BAURU SD#
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757993
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO TV TEM SOROCABA SD#
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757994
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO TV TRIBUNA SANTOS SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO TV TRIBUNA SANTOS SD#
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757995
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO TV VANGUARDA SÃƒO JOSÃ‰ DOS CAMPOS SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO TV VANGUARDA SÃƒO JOSÃ‰ DOS CAMPOS SD#
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757996
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV VERDES MARES FORTALEZA SD#" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO TV VERDES MARES FORTALEZA SD#
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757997
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV VERDES MARES FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO TV VERDES MARES FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758000
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV VERDES MARES HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO TV VERDES MARES HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757999
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV VERDES MARES SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO TV VERDES MARES SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757998
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBOTV ANHANGUERA FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBOTV ANHANGUERA FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758003
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBOTV ANHANGUERA HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBOTV ANHANGUERA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758001
 
-#EXTINF:-1 tvg-logo="http://clicktv.live/wp-content/uploads/2017/12/tv-justi%C3%A7a.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]TV JUSTICA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/7901
+#EXTINF:-1 tvg-id="" tvg-name="REDE SUPER FULLHD" tvg-logo="" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] REDE SUPER FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758342
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/4da959f750cb8ae4dd6269681f550c27.png" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] REDE TV FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758345
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/4da959f750cb8ae4dd6269681f550c27.png" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] REDE TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758344
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/4da959f750cb8ae4dd6269681f550c27.png" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] REDE TV SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758343
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-senado-logo.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]TV SENADO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/7902
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD  FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] RECORD  FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758331
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD  HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] RECORD  HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758329
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BAHIA HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] RECORD BAHIA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758332
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BELEM" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] RECORD BELEM
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758333
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BRASILIA HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] RECORD BRASILIA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758334
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD GOIAS" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] RECORD GOIAS
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758335
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] RECORD HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758330
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD MINAS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] RECORD MINAS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758337
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD MINAS" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] RECORD MINAS
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758336
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RJ HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] RECORD RJ HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758338
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] RECORD RS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758339
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RS" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] RECORD RS
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758340
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/1bd1face3ad0442a61a80ef08a641d69.jpg" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] RECORD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758341
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iAyQhYi.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]REDE BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/7946
+#EXTINF:-1 tvg-id="" tvg-name="SBT FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] SBT FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758348
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] SBT HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758347
+#EXTINF:-1 tvg-id="" tvg-name="SBT SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/d3e31ea3ed8fa10abfad0c0f93f144be.png" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] SBT SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758346
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mkFJRUl.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]TERRA VIVA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/7910
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA SD" tvg-logo="" group-title="RELIGIÃƒO",[COLOR lime]KP[/COLOR] TV APARECIDA SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/26794
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO" tvg-logo="" group-title="RELIGIÃƒO",[COLOR lime]KP[/COLOR] TV NOVO TEMPO
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/748896
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M1UMMkL.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]TV GIDEÕES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/13884
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6JZleHB.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]REDE SUPER SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/14928
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JGI1SOH.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]TV EVANGELIZAR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/14927
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E7S6RRd.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]GOSPEL MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/49469
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tN4WdEA.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]RIT TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/49468
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6Tu3Zco.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]RCI SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/55690
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zW83GGD.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]TV TERCEIRO ANJO SD         
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/7004
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tfcEFdk.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]TV BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/60419
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/9e9826e6f40a1379cd05c51812479704.JPG" group-title="CANAIS ENTRETENIMENTO",[COLOR lime]KP[/COLOR] VIVA FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758393
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/9e9826e6f40a1379cd05c51812479704.JPG" group-title="CANAIS ENTRETENIMENTO",[COLOR lime]KP[/COLOR] VIVA HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758392
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/9e9826e6f40a1379cd05c51812479704.JPG" group-title="CANAIS ENTRETENIMENTO",[COLOR lime]KP[/COLOR] VIVA SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758391
