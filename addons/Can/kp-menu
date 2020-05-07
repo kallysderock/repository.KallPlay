@@ -63,7 +63,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR blue][B]SÉRIES[/B][/COLOR]</name>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR white][B]SÉRIES[/B][/COLOR]</name>
 <thumbnail>https://github.com/kallysderock/repository.KallPlay/raw/master/addons/Can/ntcs.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/LISTA2/Menu-Series</externallink>
 <fanart>https://github.com/kallysderock/repository.KallPlay/raw/master/addons/Can/ntcs.jpg</fanart>
@@ -94,7 +94,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR white][B]DESENHOS[/B][/COLOR]</name>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR blue][B]DESENHOS[/B][/COLOR]</name>
 <thumbnail>https://github.com/kallysderock/repository.KallPlay/raw/master/addons/Can/docum.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/LISTA2/Menu-Desenhos</externallink>
 <fanart>https://github.com/kallysderock/repository.KallPlay/raw/master/addons/Can/docum.jpg</fanart>
