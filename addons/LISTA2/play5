@@ -1,0 +1,301 @@
+#EXTM3U
+#EXTINF:-1 ,A&E
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/898
+#EXTINF:-1 ,A&E HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/4203
+#EXTINF:-1 ,A&E [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/4167
+#EXTINF:-1 ,AMC
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5077
+#EXTINF:-1 ,AMC HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5076
+#EXTINF:-1 ,AMC [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/4644
+#EXTINF:-1 ,AXN
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/893
+#EXTINF:-1 ,AXN HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/892
+#EXTINF:-1 ,AXN HD [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/4165
+#EXTINF:-1 ,Animal Planet
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/897
+#EXTINF:-1 ,Animal Planet HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/896
+#EXTINF:-1 ,Animal Planet Full HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5436
+#EXTINF:-1 ,Animal Planet [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/4166
+#EXTINF:-1 ,Arte 1
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/894
+#EXTINF:-1 ,Arte 1 HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5329
+#EXTINF:-1 ,Baby TV
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5078
+#EXTINF:-1 ,BIS
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/886
+#EXTINF:-1 ,BIS HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/885
+#EXTINF:-1 ,BIS Full HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5447
+#EXTINF:-1 ,BIS HD [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/4162
+#EXTINF:-1 ,Band
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/887
+#EXTINF:-1 ,Band HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/891
+#EXTINF:-1 ,Band Full HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5475
+#EXTINF:-1 ,Band HD [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/4164
+#EXTINF:-1 ,Band News
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/890
+#EXTINF:-1 ,Band News HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5162
+#EXTINF:-1 ,Band News Full HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5435
+#EXTINF:-1 ,Band News [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/4163
+#EXTINF:-1 ,Band Sports
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/889
+#EXTINF:-1 ,Band Sports HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/888
+#EXTINF:-1 ,Band Sports [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/1831
+#EXTINF:-1 ,Canal Brasil
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/883
+#EXTINF:-1 ,Rede Boa Vontade
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5328
+#EXTINF:-1 ,Boomerang
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/884
+#EXTINF:-1 ,Boomerang HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5327
+#EXTINF:-1 ,Boomerang Full HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5434
+#EXTINF:-1 ,Canção Nova
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/879
+#EXTINF:-1 ,Cartoon Network
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/878
+#EXTINF:-1 ,Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/877
+#EXTINF:-1 ,Cartoon Network [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/4159
+#EXTINF:-1 ,Cinemax
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/876
+#EXTINF:-1 ,Cinemax HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/1495
+#EXTINF:-1 ,Cinemax HD [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5124
+#EXTINF:-1 ,Comedy Central
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/873
+#EXTINF:-1 ,Comedy Central HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5326
+#EXTINF:-1 ,Comedy Central HD [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/1833
+#EXTINF:-1 ,Combate
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/875
+#EXTINF:-1 ,Combate HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/874
+#EXTINF:-1 ,Combate Full HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5474
+#EXTINF:-1 ,Combate HD [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/1832
+#EXTINF:-1 ,DAZN HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/11443
+#EXTINF:-1 ,Curta!
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/872
+#EXTINF:-1 ,Curta! HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5325
+#EXTINF:-1 ,Discovery Home & Health
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/868
+#EXTINF:-1 ,Discovery Home & Health HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/867
+#EXTINF:-1 ,Discovery Home & Health Full HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5433
+#EXTINF:-1 ,Discovery Home & Health [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/4156
+#EXTINF:-1 ,Discovery Civilization
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/869
+#EXTINF:-1 ,Discovery Civilization HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5324
+#EXTINF:-1 ,Discovery Civilization [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/4157
+#EXTINF:-1 ,Discovery Channel
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/871
+#EXTINF:-1 ,Discovery Channel HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/870
+#EXTINF:-1 ,Discovery Channel Full HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5448
+#EXTINF:-1 ,Discovery Channel HD [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/1834
+#EXTINF:-1 ,Discovery Kids
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/866
+#EXTINF:-1 ,Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/1494
+#EXTINF:-1 ,Discovery kids Full HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5432
+#EXTINF:-1 ,Discovery Kids HD [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/1835
+#EXTINF:-1 ,Discovery Science
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/865
+#EXTINF:-1 ,Discovery Science HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5075
+#EXTINF:-1 ,Discovery Science [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/4154
+#EXTINF:-1 ,Discovery Theater
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5323
+#EXTINF:-1 ,Discovery Theater HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/864
+#EXTINF:-1 ,Discovery Theater HD [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/4153
+#EXTINF:-1 ,Discovery World
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5322
+#EXTINF:-1 ,Discovery World HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/861
+#EXTINF:-1 ,Discovery World Full HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5430
+#EXTINF:-1 ,Discovery World [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/4151
+#EXTINF:-1 ,Disney Channel
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/860
+#EXTINF:-1 ,Disney Channel HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/1493
+#EXTINF:-1 ,Disney Channel Full HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5446
+#EXTINF:-1 ,Disney Channel HD [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/4150
+#EXTINF:-1 ,Disney Junior
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/859
+#EXTINF:-1 ,Disney Junior HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5562
+#EXTINF:-1 ,Disney XD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/858
+#EXTINF:-1 ,Disney XD [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/4149
+#EXTINF:-1 ,Discovery Turbo
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/863
+#EXTINF:-1 ,Discovery Turbo HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/862
+#EXTINF:-1 ,Discovery Turbo Full HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5431
+#EXTINF:-1 ,Discovery Turbo HD [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/4152
+#EXTINF:-1 ,E!
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/857
+#EXTINF:-1 ,E! HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/4204
+#EXTINF:-1 ,EI PLUS SD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/11483
+#EXTINF:-1 ,ESPN
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/4643
+#EXTINF:-1 ,ESPN HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/848
+#EXTINF:-1 ,ESPN Full HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5458
+#EXTINF:-1 ,ESPN HD [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/1839
+#EXTINF:-1 ,ESPN +  HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/851
+#EXTINF:-1 ,ESPN EXTRA HD [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/1837
+#EXTINF:-1 ,ESPN Brasil
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/850
+#EXTINF:-1 ,ESPN Brasil HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/849
+#EXTINF:-1 ,ESPN Brasil Full HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5459
+#EXTINF:-1 ,ESPN Brasil HD [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/1838
+#EXTINF:-1 ,Espn Extra
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5321
+#EXTINF:-1 ,Espn Extra HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5320
+#EXTINF:-1 ,ESPN Extra Full HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5457
+#EXTINF:-1 ,Fish TV
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/846
+#EXTINF:-1 ,Fish TV HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5319
+#EXTINF:-1 ,Food Network
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/845
+#EXTINF:-1 ,Food Network HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/1491
+#EXTINF:-1 ,Food Network [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/4145
+#EXTINF:-1 ,FOX
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/844
+#EXTINF:-1 ,FOX HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/841
+#EXTINF:-1 ,Fox Full HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5473
+#EXTINF:-1 ,FOX [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/1842
+#EXTINF:-1 ,Fox Premium
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5318
+#EXTINF:-1 ,FOX Premium HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/843
+#EXTINF:-1 ,FOX Premium HD [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/4144
+#EXTINF:-1 ,Fox Premium 2
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5317
+#EXTINF:-1 ,FOX Premium 2 HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/842
+#EXTINF:-1 ,Fox Premium 2 Full HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5429
+#EXTINF:-1 ,FOX Premium 2 HD [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/4143
+#EXTINF:-1 ,Fox Life
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/840
+#EXTINF:-1 ,FOX Life HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/839
+#EXTINF:-1 ,Fox Sports
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/837
+#EXTINF:-1 ,Fox Sports HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/838
+#EXTINF:-1 ,Fox Sports Full HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5418
+#EXTINF:-1 ,Fox Sports HD [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/1844
+#EXTINF:-1 ,Fox Sports 2
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/836
+#EXTINF:-1 ,FOX Sports 2 HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/835
+#EXTINF:-1 ,Fox Sports 2 Full HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5456
+#EXTINF:-1 ,FOX Sports 2 HD [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/1843
+#EXTINF:-1 ,Futura
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/834
+#EXTINF:-1 ,Futura HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5316
+#EXTINF:-1 ,FX
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/833
+#EXTINF:-1 ,FX HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/832
+#EXTINF:-1 ,FX HD [PLUS]
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/1845
+#EXTINF:-1 ,Globo Brasília
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/831
+#EXTINF:-1 ,Globo Brasilia HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5315
+#EXTINF:-1 ,Globo TV Centro America
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5127
+#EXTINF:-1 ,Globo EPTV Campinas
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5130
+#EXTINF:-1 ,Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5314
+#EXTINF:-1 ,Globo Ribeirão Preto
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5312
+#EXTINF:-1 ,Globo Ribeirão Preto HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5313
+#EXTINF:-1 ,Globo - TV Bahia
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5071
+#EXTINF:-1 ,Globo - TV Bahia HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5309
+#EXTINF:-1 ,Globo Minas
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/830
+#EXTINF:-1 ,Globo Minas HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5093
+#EXTINF:-1 ,Globo Minas Full HD
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/5472
+#EXTINF:-1 ,Globo News
+plugin://plugin.video.f4mTester/?name=KallPlay&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/139179/139179/826
