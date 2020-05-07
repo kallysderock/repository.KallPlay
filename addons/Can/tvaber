@@ -15,7 +15,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLO
 plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758325
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI SD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/4a2e317a9cc91dfd90ebe7f55cad2d39.png" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] CANAL DO BOI SD
 plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758328
-#EXTINF:-1 tvg-id="" tvg-name="CANÇAO NOVA SD" tvg-logo="" group-title="RELIGIÃƒO",[COLOR lime]KP[/COLOR] CANÃ‡ÃƒO NOVA SD
+#EXTINF:-1 tvg-id="" tvg-name="CANÇAO NOVA SD" tvg-logo="" group-title="RELIGIAO",[COLOR lime]KP[/COLOR] CANÇAO NOVA SD
 plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/74024
 
 #EXTINF:-1 tvg-id="" tvg-name="Gazeta Sp HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo.png" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] Gazeta Sp HD
