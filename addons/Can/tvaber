@@ -55,12 +55,6 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLO
 plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757949
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO MINAS SD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO MINAS SD
 plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757948
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FULLHD" tvg-logo="https://s2.glbimg.com/vaKVjp1G5oEnuoq0g7fsw-H3U6s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/44/92/e3e879c57a76b70c1400f7d6cd9e.png" group-title="NOTICIAS",[COLOR lime]KP[/COLOR] GLOBO NEWS FULLHD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758072
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://s2.glbimg.com/vaKVjp1G5oEnuoq0g7fsw-H3U6s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/44/92/e3e879c57a76b70c1400f7d6cd9e.png" group-title="NOTICIAS",[COLOR lime]KP[/COLOR] GLOBO NEWS HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758071
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://s2.glbimg.com/vaKVjp1G5oEnuoq0g7fsw-H3U6s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/44/92/e3e879c57a76b70c1400f7d6cd9e.png" group-title="NOTICIAS",[COLOR lime]KP[/COLOR] GLOBO NEWS SD
-plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758070
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NORDESTE FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO NORDESTE FULLHD
 plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/757954
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBO NORDESTE HD
@@ -165,7 +159,8 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLO
 plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758003
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBOTV ANHANGUERA HD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] GLOBOTV ANHANGUERA HD
 plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758001
-
+EXTINF:-1 tvg-id="Globosp.br" tvg-name="INTER TV DOS VALES FULLHD" tvg-logo="https://seeklogo.com/images/T/TV_Globo-logo-42785714CF-seeklogo.com.jpg" group-title="CANAIS GLOBOS",[COLOR lime]KP[/COLOR] INTER TV DOS VALES FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758002
 #EXTINF:-1 tvg-id="" tvg-name="REDE SUPER FULLHD" tvg-logo="" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] REDE SUPER FULLHD
 plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758342
 #EXTINF:-1 tvg-id="" tvg-name="REDE TV FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/4da959f750cb8ae4dd6269681f550c27.png" group-title="CANAIS ABERTOS",[COLOR lime]KP[/COLOR] REDE TV FULLHD
