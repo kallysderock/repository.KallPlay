@@ -14,11 +14,11 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLO
 #EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="CANAIS INFANTIL",[COLOR lime]KP[/COLOR] BOOMERANG SD
 plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758013
 
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FULLHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo-1.png" group-title="CANAIS INFANTIL",[COLOR lime]KP[/COLOR] CARTOON NEKPORK FULLHD
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FULLHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo-1.png" group-title="CANAIS INFANTIL",[COLOR lime]KP[/COLOR] CARTOON NETWORK FULLHD
 plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758039
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo-1.png" group-title="CANAIS INFANTIL",[COLOR lime]KP[/COLOR] CARTOON NEKPORK HD
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo-1.png" group-title="CANAIS INFANTIL",[COLOR lime]KP[/COLOR] CARTOON NETWORK HD
 plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758038
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo-1.png" group-title="CANAIS INFANTIL",[COLOR lime]KP[/COLOR] CARTOON NEKPORK SD
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo-1.png" group-title="CANAIS INFANTIL",[COLOR lime]KP[/COLOR] CARTOON NETWORK SD
 plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758037
 
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="CANAIS INFANTIL",[COLOR lime]KP[/COLOR] DISCOVERY KIDS FULLHD
