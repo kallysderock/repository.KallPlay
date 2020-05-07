@@ -13,10 +13,10 @@ plugin://plugin.video.f4mTester/?name=BAND&streamtype=HLSRETRY&amp;url=https://l
 plugin://plugin.video.f4mTester/?name=BAND&streamtype=HLSRETRY&amp;url=https://live-orig-oiplay.online.go.oi.com.br/live-cdn/bandeirantes.smil/chunklist_b664685_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DISCOVERY KIDS", DISCOVERY KIDS
-plugin://plugin.video.f4mTester/?name=DISCOVERYKIDS&streamtype=HLSRETRY&amp;url=https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b1101581_sleng.m3u8
+plugin://plugin.video.f4mTester/?name=DISCOVERY KIDS&streamtype=HLSRETRY&amp;url=https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b1101581_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DISCOVERY KIDS", DISCOVERY KIDS
-plugin://plugin.video.f4mTester/?name=DISCOVERYKIDS&streamtype=HLSRETRY&amp;url=https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b664685_sleng.m3u8
+plugin://plugin.video.f4mTester/?name=DISCOVERY KIDS&streamtype=HLSRETRY&amp;url=https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b664685_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Nickelodeon", Nickelodeon
 plugin://plugin.video.f4mTester/?name=Nickelodeon&streamtype=HLSRETRY&amp;url=https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/chunklist_b1101581_sleng.m3u8
@@ -37,16 +37,16 @@ plugin://plugin.video.f4mTester/?name=FOX&streamtype=HLSRETRY&amp;url=https://li
 plugin://plugin.video.f4mTester/?name=FOX&streamtype=HLSRETRY&amp;url=https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/chunklist_b664685_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FOX Premium 1", FOX Premium 1
-plugin://plugin.video.f4mTester/?name=FOXPremium1&streamtype=HLSRETRY&amp;url=https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxpremium1hd.smil/chunklist_b1101581_sleng.m3u8
+plugin://plugin.video.f4mTester/?name=FOX Premium 1&streamtype=HLSRETRY&amp;url=https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxpremium1hd.smil/chunklist_b1101581_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FOX Premium 1", FOX Premium 1
-plugin://plugin.video.f4mTester/?name=FOXPremium1&streamtype=HLSRETRY&amp;url=https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxpremium1hd.smil/chunklist_b664685_sleng.m3u8
+plugin://plugin.video.f4mTester/?name=FOX Premium 1&streamtype=HLSRETRY&amp;url=https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxpremium1hd.smil/chunklist_b664685_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DISCOVERY CHANNEL", DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?name=DISCOVERYCHANNEL&streamtype=HLSRETRY&amp;url=https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b1101581_sleng.m3u8
+plugin://plugin.video.f4mTester/?name=DISCOVERY CHANNEL&streamtype=HLSRETRY&amp;url=https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b1101581_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DISCOVERY CHANNEL", DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?name=DISCOVERYCHANNEL&streamtype=HLSRETRY&amp;url=https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b664685_sleng.m3u8
+plugin://plugin.video.f4mTester/?name=DISCOVERY CHANNEL&streamtype=HLSRETRY&amp;url=https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b664685_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MTV", MTV
 plugin://plugin.video.f4mTester/?name=MTV&streamtype=HLSRETRY&amp;url=https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/chunklist_b1101581_sleng.m3u8
@@ -55,10 +55,10 @@ plugin://plugin.video.f4mTester/?name=MTV&streamtype=HLSRETRY&amp;url=https://li
 plugin://plugin.video.f4mTester/?name=MTV&streamtype=HLSRETRY&amp;url=https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/chunklist_b664685_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FOX SPORTS", FOX SPORTS
-plugin://plugin.video.f4mTester/?name=FOXSPORTS&streamtype=HLSRETRY&amp;url=https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/foxsports.smil/chunklist_b664685_sleng.m3u8
+plugin://plugin.video.f4mTester/?name=FOX SPORTS&streamtype=HLSRETRY&amp;url=https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/foxsports.smil/chunklist_b664685_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FOX SPORTS", FOX SPORTS
-plugin://plugin.video.f4mTester/?name=FOXSPORTS&streamtype=HLSRETRY&amp;url=https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b1101581_sleng.m3u8
+plugin://plugin.video.f4mTester/?name=FOX SPORTS&streamtype=HLSRETRY&amp;url=https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b1101581_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ESPN BRASIL", ESPN BRASIL
 plugin://plugin.video.f4mTester/?name=ESPN BRASIL&streamtype=HLSRETRY&amp;url=https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&amp;rebase=on
@@ -76,5 +76,5 @@ plugin://plugin.video.f4mTester/?name=ESPN&streamtype=HLSRETRY&amp;url=https://l
 plugin://plugin.video.f4mTester/?name=ESPN&streamtype=HLSRETRY&amp;url=https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ESPN EXTRA", ESPN EXTRA
-plugin://plugin.video.f4mTester/?name=ESPNEXTRA&streamtype=HLSRETRY&amp;url=https://playplusespn-lh.akamaihd.net:443/i/pp_espnext@374460/index_720_av-p.m3u8?sd=10&amp;rebase=on
+plugin://plugin.video.f4mTester/?name=ESPN EXTRA&streamtype=HLSRETRY&amp;url=https://playplusespn-lh.akamaihd.net:443/i/pp_espnext@374460/index_720_av-p.m3u8?sd=10&amp;rebase=on
 <div style='clear: both;'></div>
