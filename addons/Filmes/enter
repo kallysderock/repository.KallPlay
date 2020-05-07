@@ -13,6 +13,21 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels>
+<channel>
+<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR red][B]CANAIS[/B][/COLOR] </name>
+<thumbnail>https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Filmes/Entrete/movies</externallink>
+<fanart>https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png</fanart>
+<info>
+
+
+[COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 
 
 <channels>
