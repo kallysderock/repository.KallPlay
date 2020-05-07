@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FULLHD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/7bb163f52dc47674d1c023c2c66f3700.jpg" group-title="CANAIS ENTRETENIMENTO",[COLOR lime]KP[/COLOR] A&E FULLHD
 plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758351
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/images/7bb163f52dc47674d1c023c2c66f3700.jpg" group-title="CANAIS ENTRETENIMENTO",[COLOR lime]KP[/COLOR] A&E HD
