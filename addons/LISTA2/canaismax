@@ -60,10 +60,21 @@
 <thumbnail>https://raw.githubusercontent.com/firetvhd/Logos/master/record.png</thumbnail> 
 </item> 
 <item> 
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]DOCUMENT¡RIOS[/COLOR][/B]</title> 
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]DOCUMENT√ÅRIOS[/COLOR][/B]</title> 
 <link>here</link> 
 <thumbnail>https://i.imgur.com/DlOb8As.png</thumbnail> 
 </item> 
+
+<item> 
+<title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR gold]HD[/COLOR][/B]</title> 
+<link>$doregex[BP1]animalplanethd$doregex[BP2]</link> 
+<regex><name>BP1</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[BPL]")</expres><page></page></regex> 
+<regex><name>BPL</name><expres>"(.*?).brtv2</expres><page>https://tvfirehd.github.io/HD/canaismax</page></regex> 
+<regex><name>BP2</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[BPD]")</expres><page></page></regex> 
+<regex><name>BPD</name><expres>"(.*?).brdc2</expres><page>https://tvfirehd.github.io/HD/canaismax</page></regex> 
+<thumbnail>https://raw.githubusercontent.com/firetvhd/Logos/master/animal_planet.png</thumbnail> 
+</item>
+
 <item> 
 <title>[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR gold]HD[/COLOR][/B]</title> 
 <link>$doregex[BP1]animalplanethd$doregex[BP2]</link> 
@@ -295,7 +306,7 @@
 <thumbnail>https://raw.githubusercontent.com/firetvhd/Logos/master/sportv3.png</thumbnail> 
 </item> 
 <item> 
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]FILMES & S…RIES[/COLOR][/B]</title> 
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]FILMES & S√âRIES[/COLOR][/B]</title> 
 <link>here</link> 
 <thumbnail>https://i.imgur.com/ptkqUjK.png</thumbnail> 
 </item> 
@@ -539,7 +550,7 @@
 <thumbnail>https://raw.githubusercontent.com/firetvhd/Logos/master/tnt.png</thumbnail> 
 </item> 
 <item> 
-<title>[B][COLOR white]TNT S…RIES[/COLOR] [COLOR gold]HD[/COLOR][/B]</title> 
+<title>[B][COLOR white]TNT S√âRIES[/COLOR] [COLOR gold]HD[/COLOR][/B]</title> 
 <link>$doregex[BP1]tntseriessd$doregex[BP2]</link> 
 <regex><name>BP1</name><expres>$pyFunction:base64.urlsafe_b64decode("$doregex[BPL]")</expres><page></page></regex> 
 <regex><name>BPL</name><expres>"(.*?).brtv2</expres><page>https://tvfirehd.github.io/HD/canaismax</page></regex> 
@@ -652,7 +663,7 @@
 <thumbnail>https://raw.githubusercontent.com/firetvhd/Logos/master/tooncast.png</thumbnail> 
 </item> 
 <item> 
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]M⁄SICAS & VARIEDADES[/COLOR][/B]</title> 
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]M√öSICAS & VARIEDADES[/COLOR][/B]</title> 
 <link>here</link> 
 <thumbnail>https://i.imgur.com/5n6stSW.png</thumbnail> 
 </item> 
@@ -738,7 +749,7 @@
 <thumbnail>https://raw.githubusercontent.com/firetvhd/Logos/master/viva.png</thumbnail> 
 </item> 
 <item> 
-<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]NOTÕCIAS[/COLOR][/B]</title> 
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]NOT√çCIAS[/COLOR][/B]</title> 
 <link>here</link> 
 <thumbnail>https://i.imgur.com/KkJCGMU.png</thumbnail> 
 </item> 
