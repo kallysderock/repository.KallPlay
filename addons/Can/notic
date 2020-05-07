@@ -1,45 +1,44 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rxL0WKU.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]CNN BRASIL FHD   
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59728
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rxL0WKU.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]CNN BRASIL FHD H265   
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/60355
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rxL0WKU.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]CNN BRASIL HD   
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59729
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rxL0WKU.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]CNN BRASIL HD1   
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/60418
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rxL0WKU.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]CNN BRASIL SD   
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/59730
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS FULLHD" tvg-logo="https://portal.comunique-se.com.br/wp-content/uploads/2017/07/bandnews-tv-arte-1-jornal-da-band-990x556.jpg" group-title="NOTICIAS",[COLOR lime]KP[/COLOR] BAND NEWS FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758075
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD" tvg-logo="https://portal.comunique-se.com.br/wp-content/uploads/2017/07/bandnews-tv-arte-1-jornal-da-band-990x556.jpg" group-title="NOTICIAS",[COLOR lime]KP[/COLOR] BAND NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758074
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS SD" tvg-logo="https://portal.comunique-se.com.br/wp-content/uploads/2017/07/bandnews-tv-arte-1-jornal-da-band-990x556.jpg" group-title="NOTICIAS",[COLOR lime]KP[/COLOR] BAND NEWS SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758073
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uv7Ra9V.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]GLOBO NEWS FHD   
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/13426
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uv7Ra9V.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]GLOBO NEWS FHD H265   
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/24234
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uv7Ra9V.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]GLOBO NEWS HD   
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8046
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uv7Ra9V.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]GLOBO NEWS HD1   
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1204
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uv7Ra9V.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]GLOBO NEWS SD   
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8047
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uv7Ra9V.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]GLOBO NEWS SD1   
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/3045
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png" group-title="NOTICIAS",[COLOR lime]KP[/COLOR] CNN Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/772909
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANHOL FULLHD" tvg-logo="https://static.wixstatic.com/media/8de39f_d6a035f00d8642acaf7d3f955870e7d4.jpg" group-title="NOTICIAS",[COLOR lime]KP[/COLOR] CNN ESPANHOL FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758078
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANHOL HD" tvg-logo="https://static.wixstatic.com/media/8de39f_d6a035f00d8642acaf7d3f955870e7d4.jpg" group-title="NOTICIAS",[COLOR lime]KP[/COLOR] CNN ESPANHOL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758077
+#EXTINF:-1 tvg-id="" tvg-name="CNN ESPANHOL SD" tvg-logo="https://static.wixstatic.com/media/8de39f_d6a035f00d8642acaf7d3f955870e7d4.jpg" group-title="NOTICIAS",[COLOR lime]KP[/COLOR] CNN ESPANHOL SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758076
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL FULLHD" tvg-logo="https://renovamidia.com.br/wp-content/uploads/2019/04/cnn-international.jpg" group-title="NOTICIAS",[COLOR lime]KP[/COLOR] CNN INTERNACIONAL FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758081
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL HD" tvg-logo="https://renovamidia.com.br/wp-content/uploads/2019/04/cnn-international.jpg" group-title="NOTICIAS",[COLOR lime]KP[/COLOR] CNN INTERNACIONAL HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758080
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNACIONAL SD" tvg-logo="https://renovamidia.com.br/wp-content/uploads/2019/04/cnn-international.jpg" group-title="NOTICIAS",[COLOR lime]KP[/COLOR] CNN INTERNACIONAL SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758079
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HB6u7J0.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BAND NEWS FHD   
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/13491
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HB6u7J0.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BAND NEWS FHD H265   
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/49799
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HB6u7J0.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BAND NEWS HD   
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8136
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HB6u7J0.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BAND NEWS SD   
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/8137
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HB6u7J0.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]BAND NEWS SD1   
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1280
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS FULLHD" tvg-logo="https://pmcvariety.files.wordpress.com/2017/04/fox-news-logo.jpg" group-title="NOTICIAS",[COLOR lime]KP[/COLOR] FOX NEWS FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758082
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS HD" tvg-logo="https://pmcvariety.files.wordpress.com/2017/04/fox-news-logo.jpg" group-title="NOTICIAS",[COLOR lime]KP[/COLOR] FOX NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758083
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS SD" tvg-logo="https://pmcvariety.files.wordpress.com/2017/04/fox-news-logo.jpg" group-title="NOTICIAS",[COLOR lime]KP[/COLOR] FOX NEWS SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758084
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TDb4SXh.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]RECORD NEWS FHD    
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/13450
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TDb4SXh.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]RECORD NEWS HD   
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/7949
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TDb4SXh.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]RECORD NEWS SD   
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/7950
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TDb4SXh.png" group-title="movies", [COLOR red][B]º[/B][/COLOR]RECORD NEWS SD1   
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR white][B]KallPlay[/B][/COLOR]&amp;url=http://servelive.net:80/solides/solides123/1142 
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FULLHD" tvg-logo="https://s2.glbimg.com/vaKVjp1G5oEnuoq0g7fsw-H3U6s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/44/92/e3e879c57a76b70c1400f7d6cd9e.png" group-title="NOTICIAS",[COLOR lime]KP[/COLOR] GLOBO NEWS FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758072
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://s2.glbimg.com/vaKVjp1G5oEnuoq0g7fsw-H3U6s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/44/92/e3e879c57a76b70c1400f7d6cd9e.png" group-title="NOTICIAS",[COLOR lime]KP[/COLOR] GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758071
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://s2.glbimg.com/vaKVjp1G5oEnuoq0g7fsw-H3U6s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/44/92/e3e879c57a76b70c1400f7d6cd9e.png" group-title="NOTICIAS",[COLOR lime]KP[/COLOR] GLOBO NEWS SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758070
+
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS FULLHD" tvg-logo="https://media-manager.starsinsider.com/1920/na_5c9df95c17ee6.jpg" group-title="NOTICIAS",[COLOR lime]KP[/COLOR] RECORD NEWS FULLHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758087
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS HD" tvg-logo="https://media-manager.starsinsider.com/1920/na_5c9df95c17ee6.jpg" group-title="NOTICIAS",[COLOR lime]KP[/COLOR] RECORD NEWS HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758086
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS SD" tvg-logo="https://media-manager.starsinsider.com/1920/na_5c9df95c17ee6.jpg" group-title="NOTICIAS",[COLOR lime]KP[/COLOR] RECORD NEWS SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime]KP[/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/BIANCA/BIANCA/758085
