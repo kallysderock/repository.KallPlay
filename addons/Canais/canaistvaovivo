@@ -1,11 +1,10 @@
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR aquamarine][B]KALL[/B][/COLOR][COLOR white][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR blue][B]NOVOS CANAIS-1[/B][/COLOR]</name>
+<name>[COLOR gold]|[/COLOR] [COLOR aquamarine][B]KALL[/B][/COLOR][COLOR white][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR blue][B]TOP-TV VIP[/B][/COLOR]</name>
 <thumbnail>https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/LISTA2/MENU1</externallink>
+<externallink>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Can/kp-menu</externallink>
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 <info>
-
 
 [COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
@@ -13,6 +12,19 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels>
+<channel>
+<name>[COLOR gold]|[/COLOR] [COLOR aquamarine][B]KALL[/B][/COLOR][COLOR white][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR blue][B]NOVOS CANAIS-1[/B][/COLOR]</name>
+<thumbnail>https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/LISTA2/MENU1</externallink>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
+<info>
+
+[COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
 <channel>
@@ -22,29 +34,11 @@
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 <info>
 
-
 [COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-<channels>
-<channel>
-<name>[COLOR gold]|[/COLOR] [COLOR aquamarine][B]KALL[/B][/COLOR][COLOR white][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR blue][B]KALLPLAY TV[/B][/COLOR]</name>
-<thumbnail>https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Can/KALLON.xml</externallink>
-<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
-<info>
-
-
-[COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 
 <channels>
 <channel>
@@ -53,7 +47,6 @@
 <externallink>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Canais/BbbK</externallink>
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 <info>
-
 
 [COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
@@ -69,13 +62,11 @@
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 <info>
 
-
 [COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 
 <channels>
 <channel>
@@ -84,7 +75,6 @@
 <externallink>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Canais/TvOn</externallink>
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 <info>
-
 
 [COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
@@ -100,15 +90,11 @@
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 <info>
 
-
 [COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
 
 <channels>
 <channel>
@@ -118,14 +104,11 @@
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 <info>
 
-
 [COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 
 <channels>
 <channel>
@@ -135,14 +118,11 @@
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 <info>
 
-
 [COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 
 <channels>
 <channel>
@@ -152,11 +132,9 @@
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 <info>
 
-
 [COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
-
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
@@ -168,13 +146,11 @@
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 <info>
 
-
 [COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 
 <channels>
 <channel>
@@ -184,13 +160,11 @@
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 <info>
 
-
 [COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 
 <channels>
 <channel>
@@ -199,7 +173,6 @@
 <externallink>https://pastebin.com/raw/4b1U0Ykw</externallink>
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 <info>
-
 
 [COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
@@ -215,7 +188,6 @@
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 <info>
 
-
 [COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
@@ -229,7 +201,6 @@
 <externallink>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Canais/VID</externallink>
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 <info>
-
 
 [COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
@@ -245,13 +216,11 @@
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 <info>
 
-
 [COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 
 <channels>
 <channel>
@@ -260,7 +229,6 @@
 <externallink>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Canais/BRL</externallink>
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 <info>
-
 
 [COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
@@ -341,14 +309,11 @@
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
 <info>
 
-
 [COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 
 <channels>
 <channel>
@@ -358,13 +323,11 @@
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
 <info>
 
-
 [COLOR gold]|[/COLOR]- TV ABERTA, DOCUMENTÁRIOS, FILMES, ANIMES, DESENHOS, NOTÍCIAS E MUITO MAIS! -[COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 
 <channels>
 <channel>
@@ -374,14 +337,11 @@
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
 <info>
 
-
 [COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 
 <channels>
 <channel>
@@ -391,14 +351,11 @@
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 <info>
 
-
 [COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 
 <channels>
 <channel>
@@ -408,13 +365,11 @@
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 <info>
 
-
 [COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 
 <channels>
 <channel>
@@ -424,13 +379,11 @@
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 <info>
 
-
 [COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 
 <channels>
 <channel>
@@ -440,13 +393,11 @@
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 <info>
 
-
 [COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 
 <channels>
 <channel>
@@ -456,14 +407,11 @@
 <fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
 <info>
 
-
 [COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
 
 <channels>
 <channel>
@@ -472,7 +420,6 @@
 <externallink></externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
 <info>
-
 
 [COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
 </channel>
