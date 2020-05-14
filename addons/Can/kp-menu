@@ -1,6 +1,6 @@
 ﻿<channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR aquamarine][B]KALL[/B][/COLOR][COLOR white][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR aquamarine][B]TV AO VIVO[/B][/COLOR]</name>
+<name>[COLOR gold]|[/COLOR] [COLOR aquamarine][B]KALL[/B][/COLOR][COLOR white][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR red][B]TV AO VIVO 0[/B][/COLOR]</name>
 <thumbnail>https://github.com/kallysderock/repository.KallPlay/raw/master/addons/Can/tv.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/E8SYheJi</externallink>
 <fanart>https://github.com/kallysderock/repository.KallPlay/raw/master/addons/Can/tv.jpg</fanart>
@@ -13,9 +13,24 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+﻿<channels>
+<channel>
+<name>[COLOR gold]|[/COLOR] [COLOR aquamarine][B]KALL[/B][/COLOR][COLOR white][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR red][B]TV AO VIVO 1[/B][/COLOR]</name>
+<thumbnail>https://github.com/kallysderock/repository.KallPlay/raw/master/addons/Can/tv.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/w2tiXUM0</externallink>
+<fanart>https://github.com/kallysderock/repository.KallPlay/raw/master/addons/Can/tv.jpg</fanart>
+<info>
+
+
+[COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR aquamarine][B]KALL[/B][/COLOR][COLOR white][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR aquamarine][B]TV AO VIVO 1[/B][/COLOR]</name>
+<name>[COLOR gold]|[/COLOR] [COLOR aquamarine][B]KALL[/B][/COLOR][COLOR white][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR aquamarine][B]TV AO VIVO 3[/B][/COLOR]</name>
 <thumbnail>https://github.com/kallysderock/repository.KallPlay/raw/master/addons/Can/tv.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Can/KALLON.xml</externallink>
 <fanart>https://github.com/kallysderock/repository.KallPlay/raw/master/addons/Can/tv.jpg</fanart>
