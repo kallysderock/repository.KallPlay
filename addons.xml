@@ -246,26 +246,24 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
 
 <addon id="plugin.video.kallplay"
        name="[B][COLOR lightsteelblue]Kall[COLOR deepskyblue][B]P[/B][COLOR  lightsteelblue][B]ay[/COLOR][COLOR white]-[COLOR deepskyblue]Multi[COLOR white]-[COLOR dodgerblue]Addons[/COLOR][/B]"
-       version="4.8.0"
+       version="4.8.1"
        provider-name="[B][COLOR deepskyblue]Equipe:[/B] [B][COLOR lightsteelblue]Kall[COLOR deepskyblue][B]P[/B][COLOR  lightsteelblue][B]ay[/COLOR][COLOR white]-[COLOR deepskyblue]Multi[COLOR white]-[COLOR dodgerblue]Addons[/COLOR][/B]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.t0mm0.common" version="2.0.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" version="3.0.0"/>
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" /> 
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
-    <import addon="script.module.metahandler" version="2.5.1"/>
+    <import addon="xbmc.python" version="2.24.0"/>
+    <import addon="script.module.t0mm0.common"/>
+    <import addon="script.module.beautifulsoup"/>
+    <import addon="script.module.beautifulsoup4"/>
+    <import addon="script.module.simple.downloader"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.httplib2"/>
+    <import addon="script.module.urlresolver"/>
+    <import addon="script.module.simplejson"/>
+    <import addon="script.common.plugin.cache"/>
+    <import addon="script.module.metahandler"/>
 
    </requires>
-  <extension point="xbmc.python.pluginsource" library="youtube.py">
+  <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
@@ -281,6 +279,7 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
 	<platform>all</platform>
   </extension>
 </addon>
+
 
 
 <addon id="plugin.video.BrazucaPlay" name="[B][COLOR white]BRAZUCA PLAY[/COLOR][/B]" version="2.0.9" provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
