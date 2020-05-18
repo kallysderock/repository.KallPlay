@@ -1,0 +1,600 @@
+#EXTM3U
+
+#EXTINF:-1 ,A&E HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url= http://maxptv.net:8080/live/rafael01/rafael01/236.m3u8 
+#EXTINF:-1 ,A&E SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url= http://maxptv.net:8080/live/rafael01/rafael01/235.m3u8 
+#EXTINF:-1 ,Amc HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/512.m3u8 
+#EXTINF:-1 ,AMC SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/233.m3u8
+#EXTINF:-1 ,Animal Planet HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/232.m3u8
+#EXTINF:-1 ,Animal Planet SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/231.m3u8  
+#EXTINF:-1 ,AXN HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/535.m3u8 
+#EXTINF:-1 ,AXN SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/227.m3u8
+#EXTINF:-1 ,BabyTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/226.m3u8               	   
+#EXTINF:-1 ,BabyTV SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/225.m3u8
+#EXTINF:-1 ,Band Campinas HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/242.m3u8  
+#EXTINF:-1 ,Band Campinas SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/241.m3u8
+#EXTINF:-1 ,Band News HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/224.m3u8
+#EXTINF:-1 ,Band News SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/223.m3u8 
+#EXTINF:-1 , Band SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/130.m3u8
+#EXTINF:-1 , Band SP SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/129.m3u8
+#EXTINF:-1 ,Band Sports HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/221.m3u8 
+#EXTINF:-1 ,Band Sports SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/220.m3u8
+#EXTINF:-1 ,BIZ HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/219.m3u8
+#EXTINF:-1 ,BIZ SD
+lugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/218.m3u8
+#EXTINF:-1 ,Boomerang HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/217.m3u8
+#EXTINF:-1 ,Boomerang SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/216.m3u8
+#EXTINF:-1 ,Canal Cançao Nova HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/215.m3u8
+#EXTINF:-1 ,Canal Canal Cançao SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/214.m3u8
+#EXTINF:-1 ,Canal Futura HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/211.m3u8 
+#EXTINF:-1 ,Canal Futura SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/210.m3u8 
+#EXTINF:-1 ,Canal Curta! HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/213.m3u8 
+#EXTINF:-1 ,Canal Curta! SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/212.m3u8
+#EXTINF:-1 , Canal HGTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/193.m3u8
+#EXTINF:-1 , Canal HGTV SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/192.m3u8 
+#EXTINF:-1 ,Canal OFF HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/209.m3u8 
+#EXTINF:-1 ,Canal OFF SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/208.m3u8 
+#EXTINF:-1 ,Canal Woohoo HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/207.m3u8
+#EXTINF:-1 ,Canal Woohoo SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/206.m3u8
+#EXTINF:-1 ,Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/524.m3u8
+#EXTINF:-1 ,Cartoon Network SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/204.m3u8
+#EXTINF:-1 ,Comedy Central HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/199.m3u8
+#EXTINF:-1 ,Comedy Central SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/198.m3u8
+#EXTINF:-1 , Combate HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/201.m3u8
+#EXTINF:-1 , Combate SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/200.m3u8
+#EXTINF:-1 , Cinemax HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/203.m3u8
+#EXTINF:-1 , Cinemax SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/202.m3u8 
+#EXTINF:-1 ,Black Kamen Rider 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/537.m3u8 
+#EXTINF:-1 , Canal CSI 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/538.m3u8 
+EXTINF:-1 ,Cine Action 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/548.m3u8 
+#EXTINF:-1 ,Cine Aventura 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/549.m3u8
+#EXTINF:-1 ,Cine Drama 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/550.m3u8 
+#EXTINF:-1 ,Cine Family 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/551.m3u8
+#EXTINF:-1 ,Cine Faroeste 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/1478.m3u8 
+#EXTINF:-1 ,Cine Fiction 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/536.m3u8
+#EXTINF:-1 ,Cine Fun 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/552.m3u8
+#EXTINF:-1 ,Cine Guerra 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/1477.m3u8 
+#EXTINF:-1 ,Cine Horror 24H Ultra HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/553.m3u8 
+#EXTINF:-1 ,CINE KIDS 24H ULTRA HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/554.m3u8
+CINE Nacionais 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/555.m3u8
+#EXTINF:-1 ,Como eu Conheci a Sua Mae  24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/567.m3u8
+#EXTINF:-1 , Cultura HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/197.m3u8
+#EXTINF:-1 ,CULTURA HD FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/3040.m3u8 
+#EXTINF:-1 , Cultura SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/196.m3u8
+#EXTINF:-1 ,Cybercop 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/1479.m3u8
+#EXTINF:-1 ,Discovery Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/195.m3u8
+#EXTINF:-1 ,Discovery Channel SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/194.m3u8
+#EXTINF:-1 ,Discovery Home & Health HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/191.m3u8 
+#EXTINF:-1 ,Discovery Home & Health SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/190.m3u8
+#EXTINF:-1 ,Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/189.m3u8 
+#EXTINF:-1 ,Discovery Kids SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/188.m3u8
+#EXTINF:-1 ,Discovery Science HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/187.m3u8
+#EXTINF:-1 ,Discovery Science SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/186.m3u8
+#EXTINF:-1 ,Discovery Theater HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/185.m3u8
+#EXTINF:-1 ,Discovery Theater SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/184.m3u8
+#EXTINF:-1 ,Discovery Turbo HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/183.m3u8
+#EXTINF:-1 ,Discovery Turbo SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/182.m3u8
+#EXTINF:-1 ,Discovery World HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/181.m3u8
+#EXTINF:-1 ,Discovery World SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/180.m3u8
+#EXTINF:-1 ,Disney Channel  HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/179.m3u8 
+#EXTINF:-1 ,Disney Channel SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/178.m3u8
+#EXTINF:-1 ,Disney Junior HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/177.m3u8 
+#EXTINF:-1 ,Disney Junior SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/176.m3u8 
+#EXTINF:-1 ,Disney XD HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/175.m3u8 
+#EXTINF:-1 ,Disney XD SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/174.m3u8 
+#EXTINF:-1 ,DR. House 24HR
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/568.m3u8
+#EXTINF:-1 ,Dragoes  24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/1480.m3u8
+#EXTINF:-1 ,E! HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/516.m3u8
+#EXTINF:-1 ,E! SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/172.m3u8
+#EXTINF:-1 ,EPTV Campinas HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/238.m3u8
+#EXTINF:-1 ,EPTV Campinas HD 2
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/246.m3u8
+#EXTINF:-1 ,EPTV Campinas SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/237.m3u8
+#EXTINF:-1 ,Eptv FHD Ribeirao
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/3073.m3u8 
+#EXTINF:-1 , Espn  2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/171.m3u8 
+#EXTINF:-1 ,Espn  2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/170.m3u8 
+#EXTINF:-1 ,Espn Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/169.m3u8 
+#EXTINF:-1 ,Espn Brasil SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/168.m3u8 
+#EXTINF:-1 ,Espn Extra  SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/164.m3u8
+#EXTINF:-1 , Espn Extra HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/165.m3u8 
+#EXTINF:-1 ,Espn HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/167.m3u8 
+#EXTINF:-1 ,Espn SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/166.m3u8
+#EXTINF:-1 ,Eu a Patroa e as Crianças
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/321.m3u8
+#EXTINF:-1 ,Familia da Pesada 24H 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/1481.m3u8
+#EXTINF:-1 ,Familia Dinossauro  24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/569.m3u8
+#EXTINF:-1 ,Film&Arts HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/163.m3u8
+#EXTINF:-1 ,Film&Arts SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/162.m3u8 
+#EXTINF:-1 , FISH TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/525.m3u8 
+#EXTINF:-1 , Fish TV SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/161.m3u8
+#EXTINF:-1 ,Food Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/158.m3u8
+#EXTINF:-1 ,Food Network SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/159.m3u8
+#EXTINF:-1 ,FOX HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/157.m3u8 
+#EXTINF:-1 ,FOX Life HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/156.m3u8
+#EXTINF:-1 ,FOX Life SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/155.m3u8
+#EXTINF:-1 ,Fox Premium 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/526.m3u8 
+#EXTINF:-1 ,Fox Premium 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/527.m3u8 
+#EXTINF:-1 ,Fox Premium HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/528.m3u8 
+#EXTINF:-1 ,Fox Premium SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/151.m3u8 
+#EXTINF:-1 ,FOX SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/150.m3u8
+#EXTINF:-1 ,Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/529.m3u8 
+#EXTINF:-1 ,Fox Sports 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/148.m3u8 
+#EXTINF:-1 , Fox Sports HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/147.m3u8 
+#EXTINF:-1 , Fox Sports SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/146.m3u8
+#EXTINF:-1 ,FX HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/145.m3u8
+#EXTINF:-1 ,FX SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/144.m3u8
+#EXTINF:-1 ,Galinha Pintadinha 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/1476.m3u8 
+#EXTINF:-1 ,Globo Ribeirao HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/985.m3u8
+Globo Ribeirao SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/986.m3u8
+#EXTINF:-1 ,Globo SP HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/72.m3u8
+#EXTINF:-1 ,Globo SP SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/71.m3u8
+#EXTINF:-1 ,GloboNews HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/143.m3u8
+#EXTINF:-1 ,GloboNews SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/142.m3u8
+#EXTINF:-1 ,Gloob HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/530.m3u8 
+#EXTINF:-1 ,Gloob SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/140.m3u8 
+#EXTINF:-1 ,GNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/139.m3u8 
+#EXTINF:-1 ,GNT SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/138.m3u8 
+#EXTINF:-1 ,H2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/137.m3u8 
+#EXTINF:-1 ,H2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/523.m3u8 
+#EXTINF:-1 ,HBO 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/135.m3u8
+EXTINF:-1 ,HBO 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/134.m3u8 
+#EXTINF:-1 , HBO Family HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/133.m3u8 
+EXTINF:-1 , HBO Family SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/132.m3u8 
+#EXTINF:-1 ,HBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/131.m3u8 
+#EXTINF:-1 ,HBO Plus HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/128.m3u8 
+#EXTINF:-1 ,HBO Plus SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/127.m3u8 
+#EXTINF:-1 ,HBO SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/126.m3u8 
+#EXTINF:-1 ,HBO Signature HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/531.m3u8 
+#EXTINF:-1 ,HBO Signature SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/124.m3u8
+#EXTINF:-1 ,History Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/532.m3u8 
+#EXTINF:-1 ,History Channel SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/122.m3u8 
+#EXTINF:-1 ,Homem-Aranha 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/566.m3u8
+#EXTINF:-1 ,ID HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/121.m3u8
+#EXTINF:-1 ,ID SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/120.m3u8
+#EXTINF:-1 ,Jaspion 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/570.m3u8
+#EXTINF:-1 ,Jiraya  O Incrivel Ninja 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/1475.m3u8 
+#EXTINF:-1 ,Larva 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/1474.m3u8
+EXTINF:-1 ,Lifetime HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/522.m3u8 
+#EXTINF:-1 ,Lifetime SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/118.m3u8 
+#EXTINF:-1 ,Lion Man 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/1473.m3u8 
+#EXTINF:-1 ,Looney Tunnes 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/565.m3u8
+#EXTINF:-1 ,Mais Globosat HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/117.m3u8 
+#EXTINF:-1 ,Mais Globosat SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/116.m3u8
+#EXTINF:-1 ,MARVEL & DC 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/545.m3u8 
+#EXTINF:-1 ,HBO Mundi HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/521.m3u8
+#EXTINF:-1 , HBO Xtreme HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/520.m3u8
+#EXTINF:-1 , HBO Xtreme SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/113.m3u8
+#EXTINF:-1 ,HBO Mundi SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/112.m3u8
+#EXTINF:-1 , HBO Pop HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/111.m3u8
+#EXTINF:-1 , HBO Pop SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/110.m3u8 
+#EXTINF:-1 , Megapix HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/109.m3u8 
+#EXTINF:-1 , Megapix SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/108.m3u8 
+#EXTINF:-1 ,MR. Bean 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/546.m3u8
+#EXTINF:-1 ,MTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/519.m3u8 
+#EXTINF:-1 ,MTV SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/106.m3u8 
+#EXTINF:-1 ,MULTISHOW HD
+plugin://plugin.video.f4mTester/?name=[COLORdeepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/105.m3u8 
+#EXTINF:-1 ,MULTISHOW SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/104.m3u8 
+#EXTINF:-1 , Naruto 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/564.m3u8
+#EXTINF:-1 ,Nat Geo Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/518.m3u8 
+#EXTINF:-1 ,Nat Geo Kids SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/102.m3u8
+#EXTINF:-1 ,Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/101.m3u8 
+#EXTINF:-1 ,Nat Geo Wild SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/100.m3u8 
+#EXTINF:-1 ,National Geographic HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/99.m3u8 
+#EXTINF:-1 ,National Geographic SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/98.m3u8 
+#EXTINF:-1 ,NHK HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/97.m3u8
+#EXTINF:-1 ,NHK SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/96.m3u8 
+#EXTINF:-1 , Nick Jr HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/95.m3u8 
+#EXTINF:-1 , Nick Jr SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/94.m3u8
+#EXTINF:-1 ,Nickelodeon HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/93.m3u8 
+#EXTINF:-1 ,Nickelodeon SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/92.m3u8 
+#EXTINF:-1 ,Os Simpsons 24H 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/563.m3u8 
+#EXTINF:-1 ,Os Vingadores 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/1482.m3u8 
+#EXTINF:-1 ,Paramount Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/91.m3u8 
+#EXTINF:-1 ,Paramount Channel SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/90.m3u8
+#EXTINF:-1 , Peppa Pig 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/562.m3u8 
+#EXTINF:-1 , Playboy HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/88.m3u8
+#EXTINF:-1 , Playboy SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/87.m3u8 
+#EXTINF:-1 , POCOYO 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/561.m3u8 
+#EXTINF:-1 ,Pokemon 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/560.m3u8 
+#EXTINF:-1 , Premiere 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/86.m3u8 
+#EXTINF:-1 ,Premiere 1 HD Alternativo
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/1461.m3u8 
+#EXTINF:-1 ,Premiere 1 HD2
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/247.m3u8 
+#EXTINF:-1 , Premiere 1 SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/85.m3u8
+#EXTINF:-1 , Premiere 2 HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/84.m3u8 
+#EXTINF:-1 ,Premiere 2 HD Alternativo
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/1462.m3u8 
+#EXTINF:-1 , Premiere 2 SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/83.m3u8
+#EXTINF:-1 ,PREMIERE 3 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/3065.m3u8 
+#EXTINF:-1 , Premiere 3 HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/82.m3u8 
+#EXTINF:-1 ,Premiere 3 HD Alternativo
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/1463.m3u8 
+#EXTINF:-1 , Premiere 3 SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/81.m3u8 
+#EXTINF:-1 ,PREMIERE 4 FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/3066.m3u8 
+#EXTINF:-1 , Premiere 4 HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/80.m3u8 
+#EXTINF:-1 ,Premiere 4 HD Alternativo
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/1464.m3u8 
+#EXTINF:-1 , Premiere 4 SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/79.m3u8 
+#EXTINF:-1 , Premiere 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/78.m3u8 
+#EXTINF:-1 ,Premiere 5 HD Alternativo
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/1465.m3u8 
+#EXTINF:-1 , Premiere 5 SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/77.m3u8 
+#EXTINF:-1 , Premiere 6 HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/76.m3u8 
+#EXTINF:-1 ,Premiere 6 HD Alternativo
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/1466.m3u8 
+#EXTINF:-1 , Premiere 6 SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/75.m3u8 
+#EXTINF:-1 , Premiere 7 HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/74.m3u8 
+#EXTINF:-1 ,Premiere 7 HD Alternativo
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/1467.m3u8 
+#EXTINF:-1 , Premiere 7 SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/73.m3u8
+#EXTINF:-1 ,Record HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/240.m3u8
+#EXTINF:-1 ,Record HD 2  
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/68.m3u8 
+#EXTINF:-1 ,Record News HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/67.m3u8 
+#EXTINF:-1 ,Record News SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/66.m3u8 
+#EXTINF:-1 ,Record SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/239.m3u8 
+#EXTINF:-1 ,Record SP HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/65.m3u8 
+#EXTINF:-1 ,Record SP SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/64.m3u8 
+#EXTINF:-1 ,REDE TV FHD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/3071.m3u8 
+#EXTINF:-1 ,Rede Vida HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/62.m3u8 
+#EXTINF:-1 ,Rede Vida SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/63.m3u8
+#EXTINF:-1 ,RedeTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/61.m3u8 
+#EXTINF:-1 ,RedeTV SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/60.m3u8
+#EXTINF:-1 ,RA-Tim Bum- HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/70.m3u8
+#EXTINF:-1 ,RA- Tim- Bum SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/69.m3u8 
+#EXTINF:-1 ,SBT FHD INTERIOR 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/3060.m3u8
+#EXTINF:-1 ,Sbt HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/59.m3u8
+#EXTINF:-1 ,Sbt SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/58.m3u
+#EXTINF:-1 ,Sextreme HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/57.m3u8 
+#EXTINF:-1 ,Sextreme SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/56.m3u8 
+#EXTINF:-1 ,Sexy Hot HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/55.m3u8 
+#EXTINF:-1 ,Sexy Hot SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/54.m3u8 
+#EXTINF:-1 ,Show da Luna 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/559.m3u8
+#EXTINF:-1 ,Sony HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/53.m3u8
+#EXTINF:-1 ,Sony SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/52.m3u8  
+#EXTINF:-1 ,South Park 24H 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/544.m3u8 
+#EXTINF:-1 ,Space HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/51.m3u8 
+#EXTINF:-1 ,Space SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/50.m3u8 
+#EXTINF:-1 ,SporTV HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/49.m3u8 
+#EXTINF:-1 ,SporTV SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/48.m3u8 
+#EXTINF:-1 , SporTV2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/47.m3u8
+#EXTINF:-1 , SporTV2 SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/46.m3u8 
+#EXTINF:-1 , SporTV3 HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/45.m3u8 
+#EXTINF:-1 , SporTV3 SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/44.m3u8 
+#EXTINF:-1 ,Studio Universal HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/43.m3u8 
+#EXTINF:-1 ,Studio Universal SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/42.m3u8 
+#EXTINF:-1 ,Syfy HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/41.m3u8
+#EXTINF:-1 ,Syfy SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/40.m3u8
+#EXTINF:-1 ,Tbs HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/39.m3u8
+#EXTINF:-1 ,Tbs SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/38.m3u8 
+#EXTINF:-1 ,TCM HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/37.m3u8 
+#EXTINF:-1 ,TCM SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/36.m3u8
+#EXTINF:-1 ,Telecine Action HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/35.m3u8 
+#EXTINF:-1 ,Telecine Action SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/34.m3u8 
+#EXTINF:-1 ,Telecine Cult HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/33.m3u8 
+#EXTINF:-1 ,Telecine Cult SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/32.m3u8 
+#EXTINF:-1 ,Telecine Fun HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/31.m3u8 
+#EXTINF:-1 ,Telecine Fun SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/30.m3u8 
+#EXTINF:-1 ,Telecine Pipoca HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/29.m3u8 
+#EXTINF:-1 ,Telecine Pipoca SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/28.m3u8
+#EXTINF:-1 ,Telecine Premium HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/27.m3u8 
+#EXTINF:-1 ,Telecine Premium SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/26.m3u8 
+#EXTINF:-1 ,Telecine Touch HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/25.m3u8 
+#EXTINF:-1 ,Telecine Touch SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/24.m3u8 
+#EXTINF:-1 ,The Backyardigans 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/558.m3u8
+#EXTINF:-1 ,The Big Bang Theory 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/543.m3u8 
+#EXTINF:-1 ,TLC HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/23.m3u8 
+#EXTINF:-1 ,TLC SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/22.m3u8 
+#EXTINF:-1 ,TNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/21.m3u8 
+#EXTINF:-1 ,TNT SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/20.m3u8 
+#EXTINF:-1 , TNT Series HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/517.m3u8 
+#EXTINF:-1 , TNT Series SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/18.m3u8 
+#EXTINF:-1 ,Todo Mundo Odeia o Cris 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/317.m3u8
+#EXTINF:-1 ,Tom & Jerry  24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/557.m3u8 
+#EXTINF:-1 ,Tooncast HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/17.m3u8 
+#EXTINF:-1 ,Tooncast SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/16.m3u8 
+#EXTINF:-1 ,TV Aparecida HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/15.m3u8 
+#EXTINF:-1 ,TV Aparecida SD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/14.m3u8 
+#EXTINF:-1 ,TV Rio Preto 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/13.m3u8 
+#EXTINF:-1 ,Two And a Half Man 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/542.m3u8 
+#EXTINF:-1 ,Um Maluco No Pedaco  24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/541.m3u8 
+#EXTINF:-1 ,Universal Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/12.m3u8
+#EXTINF:-1 ,Universal Channel SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/11.m3u8 
+#EXTINF:-1 ,Venus HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/10.m3u8
+#EXTINF:-1 ,Venus SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/9.m3u8 
+#EXTINF:-1 ,VH1 HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/8.m3u8 
+#EXTINF:-1 ,VH1 SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/7.m3u8 
+#EXTINF:-1 ,Viva HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/6.m3u8 
+#EXTINF:-1 ,Viva SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/5.m3u8 
+#EXTINF:-1 ,Warner Bros HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/4.m3u8 
+#EXTINF:-1 ,Warner Bros SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/3.m3u8 
+#EXTINF:-1 ,X-Men Evolution 24H
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/1483.m3u8 
+#EXTINF:-1 ,Zoomoo HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/2.m3u8 
+#EXTINF:-1 ,Zoomoo SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyred][B]KallPlay[/B][/COLOR]&streamtype=HLSRETRY&amp;url=http://maxptv.net:8080/live/rafael01/rafael01/1.m3u8 
