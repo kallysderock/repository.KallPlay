@@ -1,0 +1,682 @@
+#EXTM3U 
+
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/A&E.png ", A&E 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/898
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/A&E.png ", A&E HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4203
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/A&E.png ", A&E [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4167
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/AMC_HD.png", AMC 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5077
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/AMC_HD.png", AMC HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5076
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/AMC_HD.png", AMC [PLUS] 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4644
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/AXN_HD.png", AXN
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/893     #EXTINF:-1  tvg-logo="http://img.miptv.ws/AXN_HD.png", AXN HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/892     #EXTINF:-1  tvg-logo="http://img.miptv.ws/AXN_HD.png", AXN HD [PLUS] 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4165
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Animal_Planet_HD.png", Animal Planet
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/897     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Animal_Planet_HD.png", Animal Planet HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/896     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Animal_Planet_HD.png", Animal Planet Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5436
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Animal_Planet_HD.png", Animal Planet [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4166
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Arte_1.png", Arte 1
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/894     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Arte_1.png", Arte 1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5329
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Baby_TV.png", Baby TV
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5078
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/BIS.png", BIS
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/886     #EXTINF:-1  tvg-logo="http://img.miptv.ws/BIS.png", BIS HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/885     #EXTINF:-1  tvg-logo="http://img.miptv.ws/BIS.png", BIS Full HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5447
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/BIS.png", BIS HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4162
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Band_HD.png", Band
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/887     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Band_HD.png", Band HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/891     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Band_HD.png", Band Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5475
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Band_HD.png", Band HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4164
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/BandNews.png", Band News
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/890     #EXTINF:-1  tvg-logo="http://img.miptv.ws/BandNews.png", Band News HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5162
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/BandNews.png", Band News Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5435
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/BandNews.png", Band News [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4163
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/BandSports.png", Band Sports
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/889     #EXTINF:-1  tvg-logo="http://img.miptv.ws/BandSports.png", Band Sports HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/888     #EXTINF:-1  tvg-logo="http://img.miptv.ws/BandSports.png", Band Sports [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1831
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Canal_Brasil.png", Canal Brasil
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/883     #EXTINF:-1  tvg-logo="http://img.miptv.ws/lbv.png", Rede Boa Vontade 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5328
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Boomerang_HD.png", Boomerang
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/884     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Boomerang_HD.png", Boomerang HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5327
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Boomerang_HD.png", Boomerang Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5434
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Cancao_Nova.png", Canção Nova
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/879     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Cartoon_Network.png", Cartoon Network
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/878     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Cartoon_Network.png", Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/877     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Cartoon_Network.png", Cartoon Network [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4159
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Cinemax.png", Cinemax
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/876     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Cinemax.png", Cinemax HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1495
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Cinemax.png", Cinemax HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5124
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Comedy_Central.png", Comedy Central
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/873     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Comedy_Central.png", Comedy Central HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5326
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Comedy_Central.png", Comedy Central HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1833
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Combate.png", Combate
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/875     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Combate.png", Combate HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/874     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Combate.png", Combate Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5474
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Combate.png", Combate HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1832
+#EXTINF:-1  tvg-logo="https://img.miptv.ws/1552071549m.jpg", COPA LIBERTADORES HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11444
+#EXTINF:-1  tvg-logo="https://img.miptv.ws/9AAq0LjW_400x400.jpg", DAZN HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11443
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Curta!.png", Curta!
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/872     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Curta!.png", Curta! HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5325
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_Home_Health.png", Discovery Home & Health
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/868     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_Home_Health.png", Discovery Home & Health HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/867     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_Home_Health.png", Discovery Home & Health Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5433
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_Home_Health.png", Discovery Home & Health [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4156
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_Civilization.png", Discovery Civilization
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/869     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_Civilization.png", Discovery Civilization HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5324
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_Civilization.png", Discovery Civilization [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4157
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_Channel_HD.png", Discovery Channel
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/871     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_Channel_HD.png", Discovery Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/870     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_Channel_HD.png", Discovery Channel Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5448
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_Channel_HD.png", Discovery Channel HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1834
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_Kids.png", Discovery Kids
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/866     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_Kids.png", Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1494
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_Kids.png", Discovery kids Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5432
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_Kids.png", Discovery Kids HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1835
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_Science.png", Discovery Science
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/865     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_Science.png", Discovery Science HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5075
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_Science.png", Discovery Science [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4154
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_Theater.png", Discovery Theater
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5323
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_Theater.png", Discovery Theater HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/864     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_Theater.png", Discovery Theater HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4153
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_World.png", Discovery World
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5322
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_World.png", Discovery World HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/861     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_World.png", Discovery World Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5430
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_World.png", Discovery World [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4151
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Disney_Channel.png", Disney Channel
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/860     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Disney_Channel.png", Disney Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1493
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Disney_Channel.png", Disney Channel Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5446
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Disney_Channel.png", Disney Channel HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4150
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Disney_Junior.png", Disney Junior
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/859     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Disney_Junior.png", Disney Junior HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5562
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Disney_XD.png", Disney XD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/858     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Disney_XD.png", Disney XD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4149
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_Turbo_HD.png", Discovery Turbo
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/863     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_Turbo_HD.png", Discovery Turbo HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/862     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_Turbo_HD.png", Discovery Turbo Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5431
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Discovery_Turbo_HD.png", Discovery Turbo HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4152
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/E!.png", E!
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/857     #EXTINF:-1  tvg-logo="http://img.miptv.ws/E!.png", E! HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4204
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/E!.png", EI PLUS SD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11483
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/E!.png", EI PLUS HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11484
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/ESPN.png", ESPN
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4643
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/ESPN.png", ESPN HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/848     #EXTINF:-1  tvg-logo="http://img.miptv.ws/ESPN.png", ESPN Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5458
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/ESPN.png", ESPN HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1839
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/ESPN_Mais.png", ESPN+ HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/851    #EXTINF:-1  tvg-logo="http://img.miptv.ws/ESPN_HD.png", ESPN EXTRA HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1837
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/ESPN_Brasil.png", ESPN Brasil
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/850     #EXTINF:-1  tvg-logo="http://img.miptv.ws/ESPN_Brasil.png", ESPN Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/849     #EXTINF:-1  tvg-logo="http://img.miptv.ws/ESPN_Brasil.png", ESPN Brasil Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5459
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/ESPN_Brasil.png", ESPN Brasil HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1838
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/ESPN_EXTRA.png", Espn Extra
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5321
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/ESPN_EXTRA.png", Espn Extra HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5320
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/ESPN_EXTRA.png", ESPN Extra Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5457
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/FishTV.png", Fish TV
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/846     #EXTINF:-1  tvg-logo="http://img.miptv.ws/FishTV.png", Fish TV HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5319
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Food_Network.png", Food Network
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/845     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Food_Network.png", Food Network HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1491
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Food_Network.png", Food Network [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4145
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/FOX.png",FOX
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/844     #EXTINF:-1  tvg-logo="http://img.miptv.ws/FOX.png",FOX HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/841     #EXTINF:-1  tvg-logo="http://img.miptv.ws/FOX.png",Fox Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5473
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/FOX.png",FOX [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1842
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/FOX_Premium_1_HD.png", Fox Premium
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5318
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/FOX_Premium_1_HD.png", FOX Premium HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/843     #EXTINF:-1  tvg-logo="http://img.miptv.ws/FOX_Premium_1_HD.png", FOX Premium HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4144
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/FOX_Premium_2_HD.png",Fox Premium 2
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5317
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/FOX_Premium_2_HD.png",FOX Premium 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/842     #EXTINF:-1  tvg-logo="http://img.miptv.ws/FOX_Premium_2_HD.png",Fox Premium 2 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5429
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/FOX_Premium_2_HD.png",FOX Premium 2 HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4143
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/FOX_Life.png", Fox Life
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/840     #EXTINF:-1  tvg-logo="http://img.miptv.ws/FOX_Life.png", FOX Life HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/839     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png", Fox Sports
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/837     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png", Fox Sports HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/838     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png", Fox Sports Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5418
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png", Fox Sports HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1844
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/FOX_Sports_2_HD.png", Fox Sports 2
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/836     #EXTINF:-1  tvg-logo="http://img.miptv.ws/FOX_Sports_2_HD.png", FOX Sports 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/835     #EXTINF:-1  tvg-logo="http://img.miptv.ws/FOX_Sports_2_HD.png", Fox Sports 2 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5456
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/FOX_Sports_2_HD.png", FOX Sports 2 HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1843
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Futura.png", Futura
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/834     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Futura.png", Futura HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5316
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/FX.png", FX
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/833     #EXTINF:-1  tvg-logo="http://img.miptv.ws/FX.png", FX HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/832     #EXTINF:-1  tvg-logo="http://img.miptv.ws/FX.png", FX HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1845
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Gazeta_HD.png", Gazeta HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/400     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo_Brasilia.png", Globo Brasilia
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/831     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo_Brasilia.png", Globo Brasilia HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5315
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo TV Centro America
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5127
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo EPTV Campinas
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5130
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5314
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo EPTV Sao Carlos
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5129
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo Ribeirão Preto
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5312
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo Ribeirão Preto HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5313
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo - TV Bahia
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5071
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo - TV Bahia HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5309
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo Minas
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/830     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo Minas HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5093
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo Minas Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5472
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo_Internacional.png", Globo Internacional
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/604 
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/GloboNews.png", Globo News
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/826     #EXTINF:-1  tvg-logo="http://img.miptv.ws/GloboNews.png", Globo News HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1498
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/GloboNews.png", Globo News Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5442
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/GloboNews.png", Globo News HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1846
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo Nordeste 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5067
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo Nordeste HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5073
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/RBS_TV_Porto_Alegre.png", Globo - RBS TV
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/764     #EXTINF:-1  tvg-logo="http://img.miptv.ws/RBS_TV_Porto_Alegre.png", Globo - RBS TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5311
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo_RJ_HD.png", Globo RJ
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/829     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo_RJ_HD.png", Globo RJ HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/828     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo_RJ_HD.png", Globo RJ Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5471
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo Rede HD [PLUS] 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1847
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo NSC TV Florianopolis
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5421
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo NSC TV Florianopolis HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5420
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo Curitiba
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5128
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo Curitiba HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5310
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo RPC Curitiba Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5469
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo_SP.png", Globo SP
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/827     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo_SP.png", Globo SP HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5095
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo TV Gazeta Vitória
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/12077
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo TV Gazeta Vitória Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/12078
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo TV Gazeta Vitória HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/12079
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo TV Gazeta SUL ES Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/12080
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo TV Gazeta ES HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/12081
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo_SP.png", Globo SP Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5470
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo_SP.png", Globo SP HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5528
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo Anhaguera Goiania
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5074
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo Goias - TV Anhanguera HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5072
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo TV Tribuna Santos
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5126
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", TV Vanguarda Sao Jose dos Campos
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5125
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo Para (Belem) - TV Liberal
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5069
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo TV TEM S.J. Rio Preto
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5307
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo TV TEM S.J. Rio Preto HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5308
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo - TV TEM Bauru
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/714     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo - TV TEM Sorocaba
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/713     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Globo.png", Globo - TV Verdes Mares
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5068
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Mais_Globosat.png", Globosat
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/804     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Mais_Globosat.png", Globosat HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1488
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Mais_Globosat.png", Globosat HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4135
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Gloob.png", Gloob
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/825     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Gloob.png", Gloob HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1490
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Gloob.png", Gloob Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5441
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Gloob.png", Gloob HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1848
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Gloobinho.png", Gloobinho
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5306
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Gloobinho.png", Gloobinho HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5305
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/GNT.png", GNT
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/824     #EXTINF:-1  tvg-logo="http://img.miptv.ws/GNT.png", GNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/823     #EXTINF:-1  tvg-logo="http://img.miptv.ws/GNT.png", GNT HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4142
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/H2.png", H2
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/822     #EXTINF:-1  tvg-logo="http://img.miptv.ws/H2.png", H2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/821     #EXTINF:-1  tvg-logo="http://img.miptv.ws/H2.png", H2 [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4141
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/HBO.png", HBO
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/820     #EXTINF:-1  tvg-logo="http://img.miptv.ws/HBO.png", HBO HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/816     #EXTINF:-1  tvg-logo="http://img.miptv.ws/HBO.png", HBO Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5467
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/HBO.png", HBO HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1850
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/HBO_2_HD.png", HBO 2
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/810     #EXTINF:-1  tvg-logo="http://img.miptv.ws/HBO_2_HD.png", HBO 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/819     #EXTINF:-1  tvg-logo="http://img.miptv.ws/HBO_2_HD.png", HBO 2 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5468
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/HBO_2_HD.png", HBO 2 HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1849
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/HBO_Family.png", HBO Family
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/818     #EXTINF:-1  tvg-logo="http://img.miptv.ws/HBO_Family.png", HBO Family HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/817     #EXTINF:-1  tvg-logo="http://img.miptv.ws/HBO_Family.png", HBO Family HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4140
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/HBO_Plus.png", HBO Plus
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/815     #EXTINF:-1  tvg-logo="http://img.miptv.ws/HBO_Plus.png", HBO Plus HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/813     #EXTINF:-1  tvg-logo="http://img.miptv.ws/HBO_Plus.png", HBO Plus HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4139
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/HBO_Signature_HD.png", HBO Signature
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/812     #EXTINF:-1  tvg-logo="http://img.miptv.ws/HBO_Signature_HD.png", HBO Signature HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/811     #EXTINF:-1  tvg-logo="http://img.miptv.ws/HBO_Signature_HD.png", HBO Signature HD [PLUS] 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4138
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Max_HD.png", HBO MUNDI 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/803     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Max_HD.png", HBO MUNDI HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1497
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Max_Prime.png", HBO XTREME
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/802 
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Max_Prime.png", HBO Xtreme HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1487
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/History_Channel.png", History
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/726     #EXTINF:-1  tvg-logo="http://img.miptv.ws/History_Channel.png", History HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/809     #EXTINF:-1  tvg-logo="http://img.miptv.ws/History_Channel.png", History Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5424
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/History_Channel.png", History HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4137
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/ID.png", ID
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/807     #EXTINF:-1  tvg-logo="http://img.miptv.ws/ID.png", ID HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/806     #EXTINF:-1  tvg-logo="http://img.miptv.ws/ID.png", ID HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4155
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Lifetime.png", Lifetime
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/805     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Lifetime.png", Lifetime HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1489
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Lifetime.png", Lifetime [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4136
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Canal_Sony.png", Sony
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/881     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Canal_Sony.png", Sony HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/880     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Canal_Sony.png", Sony HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4115
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Max_UP.png", Maxup HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4134
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Megapix_HD.png", MegaPix
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/799     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Megapix_HD.png", Megapix HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/798     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Megapix_HD.png", Megapix HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1851
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/MTV.png", MTV
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/797     #EXTINF:-1  tvg-logo="http://img.miptv.ws/MTV.png", MTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1485
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/MTV.png", MTV HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4133
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Multishow.png", Multishow
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/796     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Multishow.png", Multishow HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/795     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Multishow.png", Multishow HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4131
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Music_Box_Brazil.png", Music Box Brasil
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/794     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Music_Box_Brazil.png", Music Box Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5304
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Nat_Geo_Wild_HD.png", NatGeo Wild
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/793     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Nat_Geo_Wild_HD.png", NatGeo Wild HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/702     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Nat_Geo_Wild_HD.png", Nat Geo Wild Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5428
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Natgeo_Kids.png", Natgeo Kids
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5303
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Natgeo_Kids.png", Natgeo Kids HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5302
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Nat_Geo_HD.png", National Geographic 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/792     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Nat_Geo_HD.png", National Geographic HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/791     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Nat_Geo_HD.png", National Geographic [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4129
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/NHK.png", NHK
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/789     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Nick.png", Nickelodeon
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/787     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Nick.png", Nickelodeon HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1484
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Nick.png", Nicklodeon Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5426
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Nick.png", Nickelodeon HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4128
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Nick_Jr..png", Nick Jr.
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/788     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Nick_Jr..png", Nick Jr. HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5301
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Nick_Jr..png", Nick JR Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5427
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/OFF.png", OFF
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/785     #EXTINF:-1  tvg-logo="http://img.miptv.ws/OFF.png", OFF HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/784     #EXTINF:-1  tvg-logo="http://img.miptv.ws/OFF.png", OFF HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4125
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Paramount.png", Paramount Channel
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/783     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Paramount.png", Paramount Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/782     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Paramount.png", Paramount HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4124
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_Clubes.png", Premiere Clubes
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/767     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_Clubes.png", Premiere Clubes HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/780     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_Clubes.png", Premiere Clubes Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5455
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_Clubes.png", Premiere Clubes HD [ALTERNATIVO]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1852
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_2.png", PFC 2
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/779     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_2.png", PFC 2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/778     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_2.png", PFC 2 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5454
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_2.png", PFC 2 [ALTERNATIVO]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1853
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_3.png", PFC 3
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/777     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_3.png", PFC 3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/776     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_3.png", PFC 3 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5453
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_3.png", PFC 3 [ALTERNATIVO]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1854
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_4.png", PFC 4
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/775     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_4.png", PFC 4 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/774     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_4.png", PFC 4 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5452
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_4.png", PFC 4 [ALTERNATIVO]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1855
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_5.png", PFC 5
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/773     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_5.png", PFC 5 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/772     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_5.png", PFC 5 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5451
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_5.png", PFC 5 [ALTERNATIVO]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1856
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_6.png", PFC 6
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/771     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_6.png", PFC 6 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4123
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_6.png", PFC 6 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5450
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_6.png", PFC 6 [ALTERNATIVO]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5330
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_7.png", PFC 7
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/770     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_7.png", PFC 7 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4122
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_7.png", PFC 7 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5449
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_7.png", PFC 7 [ALTERNATIVO]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5331
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_8.png", PFC 8
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/769     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Premiere_9.png", PFC 9
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/768     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Prime_Box_Brazil.png", Prime Box Brasil HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5300
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Record.png", Record
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/761     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Record.png", Record HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/763     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Record.png", Record Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5466
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Record.png", Record HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1857
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Record.png", Record BA
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11072
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Record.png", Record BA HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11071
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Record.png", Record DF
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11069
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Record.png", Record DF HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11068
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Record.png", Record MG
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/7565
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Record.png", Record MG HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/7566
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Record.png", Record RJ
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/7567
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Record.png", Record RJ HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/7568
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Record.png", Record RS
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11066
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Record.png", Record RS HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11065
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Record.png", Record Internacional
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/899     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Record_News.png", Record News
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/762     #EXTINF:-1  tvg-logo="http://img.miptv.ws/RedeTV!.png", RedeTV!
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/759     #EXTINF:-1  tvg-logo="http://img.miptv.ws/RedeTV!.png", RedeTV! HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/758     #EXTINF:-1  tvg-logo="http://img.miptv.ws/RedeTV!.png", RedeTV! HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4119
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Rede_Vida.png", Rede Vida
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/757     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Rede_Vida.png", Rede Vida HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5653
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/SBT.png", SBT
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/756     #EXTINF:-1  tvg-logo="http://img.miptv.ws/SBT.png", SBT HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/755     #EXTINF:-1  tvg-logo="http://img.miptv.ws/SBT.png", SBT Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5465
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/SBT.png", SBT HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1858
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/SBT.png", SBT SP Interior
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5297
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/smithsonianc1.png", Smithsonian Channel
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11419
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/smithsonianc1.png", Smithsonian Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11420
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/RTP_Internacional.png", RTP Internacional
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/574     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Space_HD.png", Space
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/753     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Space_HD.png", Space HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/752     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Space_HD.png", Space HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4114
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/SporTV.png", SporTV
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/748     #EXTINF:-1  tvg-logo="http://img.miptv.ws/SporTV.png", SporTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/749     #EXTINF:-1  tvg-logo="http://img.miptv.ws/SporTV.png", Sportv Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5438
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/SporTV.png", SporTV HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1859
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/SporTV_2.png", SporTV2
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/747     #EXTINF:-1  tvg-logo="http://img.miptv.ws/SporTV_2.png", SporTV2 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/751     #EXTINF:-1  tvg-logo="http://img.miptv.ws/SporTV_2.png", Sportv 2 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5439
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/SporTV_2.png", SporTV2 HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1860
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/SporTV_3.png", SporTV3
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/745     #EXTINF:-1  tvg-logo="http://img.miptv.ws/SporTV_3.png", SporTV3 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/750     #EXTINF:-1  tvg-logo="http://img.miptv.ws/SporTV_3.png", Sportv 3 Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5440
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/SporTV_3.png", SporTV3 HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1861
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Studio_Universal_HD.png", Studio Universal
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/743     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Studio_Universal_HD.png", Studio Universal HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1480
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Studio_Universal_HD.png", Studio Universal HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4113
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Sundance_TV.jpg",SundanceTV
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5296
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Sundance_TV.jpg",SundanceTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5295
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Syfy.png", Syfy
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/742     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Syfy.png", Syfy HD 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1483
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Syfy.png", SyFy HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4111
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/TBS.png", TBS
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/741     #EXTINF:-1  tvg-logo="http://img.miptv.ws/TBS.png", TBS HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/740     #EXTINF:-1  tvg-logo="http://img.miptv.ws/TBS.png", TBS [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4110
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/TCM.png", TCM
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/734     #EXTINF:-1  tvg-logo="http://img.miptv.ws/TCM.png", TCM HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4109
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/TCV_Internacional.png", TCV INTERNACIONAL
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/983     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Telecine_Action_HD.png", Telecine Action
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/733     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Telecine_Action_HD.png", Telecine Action HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/739     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Telecine_Action_HD.png", Telecine Action Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5464
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Telecine_Action_HD.png", Telecine Action HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1862
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Telecine_Cult.png", Telecine Cult
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/732     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Telecine_Cult.png", Telecine Cult HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1482
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Telecine_Cult.png", Telecine Cult HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4108
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Telecine_Fun_HD.png", Telecine Fun
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/731     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Telecine_Fun_HD.png", Telecine Fun HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/738     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Telecine_Fun_HD.png", Telecine Fun Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5463
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Telecine_Fun_HD.png", Telecine Fun HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1863
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Telecine_Pipoca_HD.png", Telecine Pipoca
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/730     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Telecine_Pipoca_HD.png", Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/737     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Telecine_Pipoca_HD.png", Telecine Pipoca Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5462
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Telecine_Pipoca_HD.png", Telecine Pipoca HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1864
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Telecine_Premium_HD.png", Telecine Premium
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/729     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Telecine_Premium_HD.png", Telecine Premium HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/736     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Telecine_Premium_HD.png", Telecine Premium Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5461
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Telecine_Premium_HD.png", Telecine Premium HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1865
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Telecine_Touch_HD.png", Telecine Touch
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/728     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Telecine_Touch_HD.png", Telecine Touch HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/735     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Telecine_Touch_HD.png", Telecine Touch Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5460
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Telecine_Touch_HD.png", Telecine Touch HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1866
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Terra_Viva.png", Terra Viva
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/727     #EXTINF:-1  tvg-logo="http://img.miptv.ws/TLC.png", TLC
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/725     #EXTINF:-1  tvg-logo="http://img.miptv.ws/TLC.png", TLC HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1481
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/TLC.png", TLC HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1867
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/TV_Justica.png", TV Justica
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5293
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/TNT.png", TNT
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/724     #EXTINF:-1  tvg-logo="http://img.miptv.ws/TNT.png", TNT HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/723     #EXTINF:-1  tvg-logo="http://img.miptv.ws/TNT.png", TNT HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1868
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/TNT_Series.png", TNT Séries
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/722     #EXTINF:-1  tvg-logo="http://img.miptv.ws/TNT_Series.png", TNT Séries HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/721     #EXTINF:-1  tvg-logo="http://img.miptv.ws/TNT_Series.png", TNT Series HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4107
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/PlayKids.jpg", PlayKids
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/7563
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/PlayKids.jpg", PlayKids HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/7564
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Tooncast.png", Tooncast
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/720     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Tooncast.png", Tooncast HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4106
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/TruTV.png", TruTV
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/719     #EXTINF:-1  tvg-logo="http://img.miptv.ws/TruTV.png", TruTV HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5291
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/TV_Aparecida.png", TV Aparecida
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/895     #EXTINF:-1  tvg-logo="http://img.miptv.ws/TV_Cultura.png", TV Cultura
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5161
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/TV_Cultura.png", TV Cultura HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5656
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/TV_Brasil.png", TV Brasil
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/717     #EXTINF:-1  tvg-logo="http://img.miptv.ws/TV_Camara.png", TV Câmara
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/602     #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Diário_logo.svg/200px-TV_Diário_logo.svg.png", TV Diário Fortaleza
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11063
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Diário_logo.svg/200px-TV_Diário_logo.svg.png", TV Diário Fortaleza HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/11062
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/TV_Ra_Tim_Bum.png", TV RÁ Tim Bum
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/715     #EXTINF:-1  tvg-logo="http://img.miptv.ws/TV_Ra_Tim_Bum.png",  TV Ra Tim Bum HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5292
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Universal_Channel.png", Universal Channel
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/711     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Universal_Channel.png", Universal Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/710     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Universal_Channel.png", Universal Channel HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4103
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/VH1.png", VH1
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5290
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/VH1.png", VH1 HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/1479
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/VH1.png", VH1 HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4101
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/VH1_MegaHits.png", VH1 Mega Hits
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/709     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Viva.png", Viva
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/708     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Viva.png", Viva HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/707     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Viva.png", Viva Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5437
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Viva.png", Viva HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4100
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Warner_Channel.png", Warner Channel
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/706     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Warner_Channel.png", Warner Channel HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/705     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Warner_Channel.png", Warner Full HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5425
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Warner_Channel.png", Warner Channel HD [PLUS]
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/4099
+#EXTINF:-1  tvg-logo="http://img.miptv.ws/Woohoo.png", Woohoo 
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/704     #EXTINF:-1  tvg-logo="http://img.miptv.ws/Woohoo.png", Woohoo HD
+plugin://plugin.video.f4mTester/?name=[COLOR deepskyblue][B]KallPlay[/COLOR][/B]&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/138906/138906/5657     
