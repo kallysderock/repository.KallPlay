@@ -1740,7 +1740,8 @@ Quando vuoi. Dove vuoi.
     <platform>all</platform>
     <forum></forum>
     <website></website>
-  </exte
+  </extension>
+</addon>
 
 <addon id="plugin.video.Escanor"
        name="[COLOR firebrick][B]ESCANOR[/B][/COLOR]"
