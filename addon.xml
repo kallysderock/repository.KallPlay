@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.KallPlay" name="[B][COLOR lightsteelblue]Kall[COLOR deepskyblue][B]P[/B][COLOR  lightsteelblue][B]ay[/COLOR][COLOR white]-[COLOR deepskyblue]Multi[COLOR white]-[COLOR dodgerblue]Addons[/COLOR][/B]" 
 version="0.0.4" 
 provider-name="[B][COLOR deepskyblue]Equipe:[/B] [B][COLOR lightsteelblue]Kall[COLOR deepskyblue][B]P[/B][COLOR  lightsteelblue][B]ay[/COLOR][COLOR white]-[COLOR deepskyblue]Multi[COLOR white]-[COLOR dodgerblue]Addons[/COLOR][/B]">
@@ -8,7 +8,7 @@ provider-name="[B][COLOR deepskyblue]Equipe:[/B] [B][COLOR lightsteelblue]Kall[C
 <import addon="script.module.t0mm0.common" optional="true" />
 <import addon="script.module.urlresolver" optional="true" />
 </requires>
-	<extension point="xbmc.addon.repository" name="KallPlay">
+	<extension point="xbmc.addon.repository" name="repository.KallPlay">
 		<info compressed="false">https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/repo/Plugins/</datadir>
