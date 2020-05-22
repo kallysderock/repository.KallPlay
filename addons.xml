@@ -1101,25 +1101,6 @@ www.brasilfull.gq</news>
 </extension>
 </addon>
 
-<addon id="plugin.video.canaldabiblia" name="Canal da Biblia" version="1.0.0" provider-name="Kodishmc">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.addon.common" version="2.0.0"/>
-    <import addon="plugin.video.youtube" version="5.0.0"/>
-  </requires>
-	
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-	
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Canal da Biblia</summary>
-    <description lang="en">Addon que tem os Livros completos da Biblia Na Voz Inenaravel Cid Morreira </description>
-    <platform>all</platform>
-    <forum></forum>
-    <website></website>
-  </extension>
-</addon>
 
 <addon id="plugin.video.Brlive" name="[COLOR white][B]Br[/B][/COLOR][COLOR red][B]Live[/B][/COLOR]" version="1.8.1" provider-name="Mattos">
   <requires>
@@ -1302,23 +1283,7 @@ O autor não é de forma alguma afiliado à Kodi, à Team Kodi ou à XBMC Founda
 </extension>
 </addon>
 
-<addon id="plugin.video.classicrockcolection" name="Classic Rock Colection" version="1.0.0" provider-name="Kodish MC">
-<requires>
-<import addon="xbmc.python" version="2.1.0"/>
-<import addon="script.module.addon.common" version="2.0.0"/>
-<import addon="plugin.video.youtube" version="5.0.0"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="default.py">
-<provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-<summary lang="en">Classic Rock Colection</summary>
-<description lang="en">Este addon fans Rock Classico</description>
-<platform>all</platform>
-<forum/>
-<website/>
-</extension>
-</addon>
+
 
 <addon id="plugin.video.cinemalivre" name="[COLOR white]Cinema[COLOR red] Livre[/COLOR]" version="1.0" provider-name="Lojink">
   <requires>
