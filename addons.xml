@@ -828,5 +828,246 @@ Channels and Playlists organized by categories. Source: Youtube Website.
         <license>GNU GENERAL PUBLIC LICENSE. Version 3.</license>
         <platform>all</platform>
     </extension>
+</addon>
+<addon id="plugin.video.badrtech" name="Badr For Tech
+" version="1.0" provider-name="Kodish MC">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary>Badr For Tech</summary>
+        <description>Badr For Tech</description>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="plugin.video.apollo" name="[COLOR deepskyblue][B]APOLLO[/COLOR][/B]" version="1.4.4" provider-name="[COLOR deepskyblue][B]TEAM[/COLOR][/B][COLOR orange][B] APOLLO[/COLOR][/B]">
+<requires>
+
+<import addon="xbmc.python" version="2.25.0"/>
+	<import addon="script.module.t0mm0.common"/>
+    <import addon="script.module.beautifulsoup"/>
+    <import addon="script.module.simple.downloader"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+	<import addon="script.common.plugin.cache"/>
+    <import addon="script.module.metahandler"/>
+    <import addon="script.module.livestreamer"/>
+    <import addon="script.module.pyamf"/>
+	<import addon="script.module.addon.common" />
+	<import addon="script.module.addon.signals"/>
+    <import addon = "script.module.unidecode"/>
+
+</requires>
+<extension point="xbmc.python.pluginsource" library="apollo.py">
+<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.repository" name="Repositorio [COLOR orange][B]APOLLO[/B][/COLOR][COLOR deepskyblue][B][/B][/COLOR]">
+<info compressed="true">https://raw.githubusercontent.com/Tiagotj/repo.apollo/master/addons.xml</info>
+<checksum>https://raw.githubusercontent.com/Tiagotj/repo.apollo/master/addons.xml.md5</checksum>
+<datadir zip="true">https://raw.githubusercontent.com/Tiagotj/repo.apollo/master</datadir>
+</extension>
+<extension point="xbmc.addon.metadata">
+<summary lang="en">[COLOR orange][B]FEITO PARA FAMILIA![/COLOR][/B]</summary>
+<description lang="en">[COLOR deepskyblue][B]O AUTOR NAO E RESPONSAVEL POR QUALQUER CONTEUDOS ENCONTRADO NESSE[/COLOR][/B] [COLOR orange][B] ADDON[/COLOR][/B]</description>
+<disclaimer lang="en">O AUTOR NAO E DE FORMA ALGUMA FILIADO O KODI OU TEAM KODI, ESSES CONTEUDOS OU RECURSOS SEM FIM LUCRATIVOS ORGANIZADO EXCLUSIVAMENTE PARA FINS EDUCA CIONAIS E PROTEGIDO PELA DOUTRINA DE USO DA LEI DE DIREITOS AUTORAIS ESPECIFICAMENTE A SECAO 107 QUE PROMOVE A LIBERDADE DE EXPRESSAO PERMITIDO O USO DE OBRAS PROTEGIDAS POR DIREITOS AUTORAIS.</disclaimer>
+<platform>all</platform>
+</extension>
+</addon>
+
+<addon id="plugin.video.bandmania"
+       name="Bandmania"
+       version="1.9"
+       provider-name="frenchdj, Demagorgon e bit.ly/[COLOR blue][B]AMO[/B][/COLOR][COLOR green]box[/COLOR]">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" optional="true" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+     <import addon="script.module.livestreamer" optional="true"/>
+     <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Bandmania</summary>
+    <description>All your favourite bands, organized by music style. All sources are Youtube-based.
+	To play all videos as a playlist, open the context menu on the first video you want to see, and press "play from here".</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.beats.hd"
+       name="[COLOR white][B]Beats[COLOR lime].[COLOR white]HD[/B][/COLOR]"
+       version="1.4"
+       provider-name="frenchdj">
+ <requires>
+	<import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="plugin.video.youtube" optional="true" />
+    <import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">[ 1st Edition ]</summary>
+    <description>Djs live performances and Electronic Music videos in HD quality.
+Channels and Playlists organized by categories. Source: Youtube Website.
+[B][COLOR lime]Advised the latest version of youtube 6.*.*[/B][/COLOR]</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.bestporn" name="Best Porn Collection" version="3.0.1" provider-name=" CRITTER ">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.addon.common" />
+	<import addon="script.module.requests" />
+	<import addon="script.module.beautifulsoup4" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+	<summary lang="en">Videos from collectionofbestporn.com</summary>
+	<description lang="en">This plugin contains Contents that should not be viewed by anyone under the age 18. By opening this plugin you agree that you take responsibility for your own actions.</description>
+	<disclaimer lang="en">The original author neither hosts or stores any content, the original author has no affiliation with content hosts, it is the sole responsibility of the user to ensure they have permission to view any streams provided</disclaimer>
+	<platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.BlurayPlay" name="[B][COLOR red]BLURAY[/COLOR][/B] [B][COLOR white]PLAY'S[/COLOR][/B]" version="3.1.9" provider-name="[B][COLOR yellow]TEAM[/COLOR] [COLOR white]BLURAY[/COLOR] [COLOR red]PLAY'S[/B][/COLOR]">
+<requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.t0mm0.common"/>
+    <import addon="script.module.beautifulsoup"/>
+    <import addon="script.module.beautifulsoup4"/>
+    <import addon="script.module.simple.downloader"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.httplib2"/>
+    <import addon="script.module.urlresolver"/>
+    <import addon="script.module.simplejson"/>
+    <import addon="script.common.plugin.cache"/>
+    <import addon="script.module.metahandler"/>
+</requires>
+
+<extension point="xbmc.python.pluginsource" library="main.py">
+	<provides>video</provides>
+</extension>
+
+<extension point="xbmc.addon.repository" name="Bluray Plays REPO">
+	<info compressed="false">https://raw.githubusercontent.com/rauankeneddy/repository.bluraysplays/master/addons.xml</info>
+	<checksum>https://raw.githubusercontent.com/rauankeneddy/repository.bluraysplays/master/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.githubusercontent.com/rauankeneddy/repository.bluraysplays/master/addons</datadir>
+</extension>
+
+<extension point="xbmc.addon.metadata">
+    <summary>[COLOR white][B]FILMES, SERIES EM FHD, HD, SD, NOVELAS, DOCUMENTARIOS, DESENHOS, ETC, DUBLADOS e Legendados. O MELHOR ADDON DE FILMES E SERIES PRO SEU KODI!, AQUI VOCÊ ENCONTRA TUDO, GARANTIDO!. Se Não ACHA FALA COM NOSSO TEAM.[B][/COLOR]</summary>
+    <description lang="en">[COLOR red][B]BLURAY PLAY'S É Addon Do Kodi, Onde Organizamos Os Conteudos e Upamos Para Nosso Servidor Privado, Então Se Quiser Copiar Deixa Os Creditos, Fela Da Puta... Ateciosamente Team BLURAY PLAY'S[/B][/COLOR]</description>
+    <disclaimer lang="en">[COLOR yellow][B]O autor hospedar o conteúdo exibido por este complemento. BLURAY PLAY'S tem nenhuma afiliação com o provedor de conteúdo, somente é responsável por coletar os melhores filmes da Internet, categorização e otimizá-los, de modo a que esta ao alcance de seus clientes. tão fácil e descomplicada.[/B][/COLOR]</disclaimer>
+	<platform>all</platform>
+    <assets>
+	<icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+    <screenshot>resources/screenshots/01.jpg</screenshot>
+    <screenshot>resources/screenshots/02.jpg</screenshot>
+    <screenshot>resources/screenshots/03.jpg</screenshot>
+	</assets>
+</extension>
+
+</addon>
+
+<addon id="plugin.video.brasilfull" name="[B][COLOR firebrick]BRASIL[/COLOR][/B] [B][COLOR white]FULL[/COLOR][/B]" version="3.7" provider-name="TheusZ">
+<requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.t0mm0.common"/>
+    <import addon="script.module.beautifulsoup"/>
+    <import addon="script.module.beautifulsoup4"/>
+    <import addon="script.module.simple.downloader"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.httplib2"/>
+    <import addon="script.module.urlresolver"/>
+    <import addon="script.module.simplejson"/>
+    <import addon="script.common.plugin.cache"/>
+    <import addon="script.module.metahandler"/>
+</requires>
+
+<extension point="xbmc.python.pluginsource" library="core.py">
+	<provides>video</provides>
+</extension>
+
+<extension point="xbmc.addon.metadata">
+<description lang="en">[COLOR red]l[/COLOR] TV [COLOR red]l[/COLOR] FILMES [COLOR red]l[/COLOR] SERIES [COLOR red]l[/COLOR] DESENHOS [COLOR red]l[/COLOR]
+
+[COLOR red]l[/COLOR] A equipe Brasil Full disponibiliza gratuitamente um imenso acervo ondemand totalmente dublado e com ótimas qualidades à todos os usuários Kodi.[COLOR red]l[/COLOR]
+
+[COLOR red]l[/COLOR] Brasil Full - Saiu Dublado, Saiu Aqui![COLOR red]l[/COLOR]</description>
+    <disclaimer lang="en">Todo o conteúdo aqui encontrado pode ser facilmente encontrado pela internet, nosso trabalho é apenas armazenar todo este conteúdo em um banco de dados próprio e disponibiliza-los de forma mais "confortável" aos interessados nesse tipo de conteúdo. Entretando, qualquer plágio das páginas aqui encontradas estarão sujeitas a represárias.</disclaimer>
+        <news>[COLOR firebrick]l[/COLOR] Atualizacao v3.7 [COLOR firebrick]l[/COLOR]
+
+[COLOR firebrick]l[/COLOR] Integração direta com IMDb [COLOR firebrick]l[/COLOR]
+[COLOR firebrick]l[/COLOR] Integração com o Gdrive [COLOR firebrick]l[/COLOR]
+[COLOR firebrick]l[/COLOR] Todas as informações dos conteúdo disponíveis [COLOR firebrick]l[/COLOR]
+[COLOR firebrick]l[/COLOR] Conteúdos em 4K [COLOR firebrick]l[/COLOR]
+[COLOR firebrick]l[/COLOR] Correção de bugs [COLOR firebrick]l[/COLOR]
+
+[B][COLOR firebrick]BRASIL[/COLOR] [COLOR white]FULL[/COLOR][/B]
+www.brasilfull.gq</news>
+    <platform>all</platform>
+    <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+    <screenshot>resources/screenshots/01.png</screenshot>
+    <screenshot>resources/screenshots/02.png</screenshot>
+    <screenshot>resources/screenshots/03.png</screenshot>
+    </assets>
+</extension>
+
+</addon>
+
+<addon id="plugin.video.braziltv" name="BrazilTV" version="1.2.5" provider-name="teamBrazilTV">
+  <requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+    <import addon="plugin.video.f4mTester" version="2.7.9"/>
+    <import addon="plugin.video.youtube" version="6.5.2" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">[COLOR lightyellow]IPTV livre para todos.[/COLOR]</summary>
+    <description lang="en">[COLOR lightblue][B]ATENÇÃO:[/B] Não hospedamos nem temos ligação com nenhum dos conteúdos deste addon, apenas reunimos links e conteúdos de terceiros. Não vendemos IPTV.[/COLOR]</description>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+    <website>https://braziltv.yolasite.com</website>
+    <news>[B][COLOR lime]v1.2.5[/COLOR][/B]
+- Ajustes nos menus
+- Correção de novas dependências
+- Adicionada notificação de atualizações
+- Removida "área VIP" / bônus para doadores
+(leia o artigo na nossa página oficial do Facebook para saber o motivo)</news>
+  </extension>
 </addon>	
 </addons>
