@@ -45,9 +45,9 @@
 	</extension>
 </addon>
 
-<addon 	id="repository.KallPlay" name="[B][COLOR yellow]  KallPlay  [COLOR orange]Repositorio KallPlay Oficial, SEM BANIMENTO!![/B][/COLOR]"
-		version="0.0.4"
-		provider-name="[B][COLOR gold]kallysderock[/B][/COLOR]">
+<addon 	id="repository.KallPlay"  name="[B][COLOR green]Kall[COLOR white][B]P[/B][COLOR  lightsteelblue][B]ay[/COLOR][COLOR white]-[COLOR deepskyblue]Multi[COLOR white]-[COLOR dodgerblue]Addons[/COLOR][/B]"
+       version="0.0.4"
+       provider-name="[B][COLOR deepskyblue]Equipe:[/B] [B][COLOR lightsteelblue]Kall[COLOR deepskyblue][B]P[/B][COLOR  lightsteelblue][B]ay[/COLOR][COLOR white]-[COLOR deepskyblue]Multi[COLOR white]-[COLOR dodgerblue]Addons[/COLOR][/B]">
 
 	<requires>
             <import addon="xbmc.python" version="2.1.0"/>
@@ -65,9 +65,9 @@
 	<extension point="xbmc.addon.metadata">
 	<news>
 	[COLOR orange]LOG DE CORREÇÔES[/COLOR]
-	[COLOR red]*[/COLOR] V 1.53 - ajustes de dependencias...
-	[COLOR orange]*[/COLOR] V 1.15.1 - Excluido a instalação do plugin Youtube que provocava erros em algumas box...
-	[COLOR gold]*[/COLOR]   V 1.17.1 - Corrigido dependências que provocava erros quando instalado o repositório em Kodi Padrão.
+	[COLOR red]*[/COLOR] V 0.0.4 - ajustes de dependencias...
+	[COLOR orange]*[/COLOR] V 0.0.3 - Excluido a instalação do plugin Youtube que provocava erros em algumas box...
+	[COLOR gold]*[/COLOR]   V 0.0.2 - Corrigido dependências que provocava erros quando instalado o repositório em Kodi Padrão.
 	</news>
 		
 	<summary>Repositorio Vikings levando os melhores addons a sua familia e aos quatro cantos do Mundo!!!</summary>
