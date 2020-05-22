@@ -1,0 +1,38 @@
+﻿<addon 	id="repository.KallPlay"  name="[B][COLOR green]Kall[COLOR white][B]P[/B][COLOR  lightsteelblue][B]ay[/COLOR][COLOR white]-[COLOR deepskyblue]Multi[COLOR white]-[COLOR dodgerblue]Addons[/COLOR][/B]"
+       version="0.0.4"
+       provider-name="[B][COLOR deepskyblue]Equipe:[/B] [B][COLOR lightsteelblue]Kall[COLOR deepskyblue][B]P[/B][COLOR  lightsteelblue][B]ay[/COLOR][COLOR white]-[COLOR deepskyblue]Multi[COLOR white]-[COLOR dodgerblue]Addons[/COLOR][/B]">
+
+	<requires>
+            <import addon="xbmc.python" version="2.1.0"/>
+		    <import addon="script.module.addon.common" optional="true" />
+		    <import addon="script.module.t0mm0.common" optional="true" />
+		    <import addon="script.module.urlresolver" optional="true" />
+    </requires>
+	
+	<extension point="xbmc.addon.repository" name=".kallysderock">
+		<info compressed="true">https://github.com/kallysderock/repository.KallPlay/raw/master/addons.xml</info>
+			<checksum>https://github.com/kallysderock/repository.KallPlay/raw/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/kallysderock/repository.KallPlay/raw/master/addons/repo/Plugins/</datadir>
+	</extension>
+		
+	<extension point="xbmc.addon.metadata">
+	<news>
+	[COLOR orange]LOG DE CORREÇÔES[/COLOR]
+	[COLOR red]*[/COLOR] V 0.0.4 - ajustes de dependencias...
+	[COLOR orange]*[/COLOR] V 0.0.3 - Excluido a instalação do plugin Youtube que provocava erros em algumas box...
+	[COLOR gold]*[/COLOR]   V 0.0.2 - Corrigido dependências que provocava erros quando instalado o repositório em Kodi Padrão.
+	</news>
+		
+	<summary>Repositorio KallPlay levando os melhores addons a sua familia e aos quatro cantos do Mundo!!!</summary>
+		
+	<description>	
+                    [B][COLOR orange]Repositório KallPlay, SEM BANIMENTO! SEM SCRIPT MALICIOSO!! PURO, LIMPO E SIMPLES!!![/COLOR][/B]
+					[B][COLOR red]Repositório oficial KallPlay Build - Proibido reprodução total ou parcial sem prévia autorização[/COLOR][/B]
+					[B][COLOR white]Addons deste repositório é de uso gratuito!![/COLOR][/B]
+					[B][COLOR firebrick]Proibido a venda dos add-ons contidos neste repositório[/COLOR][/B]
+	</description>
+		
+<disclaimer>[B][COLOR orange]Repositório KallPlay é apenas um AGREGADOR de ADDONS e, assim como o Google.com, apenas agrega e organiza ADDONS DE TERCEIROS. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B]</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
