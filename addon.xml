@@ -1,22 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.KallPlay" name="KallPlay" version="0.0.3" provider-name="kallysderock">
+<addon id="repository.KallPlay" name="[B][COLOR lightsteelblue]Kall[COLOR deepskyblue][B]P[/B][COLOR  lightsteelblue][B]ay[/COLOR][COLOR white]-[COLOR deepskyblue]Multi[COLOR white]-[COLOR dodgerblue]Addons[/COLOR][/B]" 
+version="0.0.4" 
+provider-name="[B][COLOR deepskyblue]Equipe:[/B] [B][COLOR lightsteelblue]Kall[COLOR deepskyblue][B]P[/B][COLOR  lightsteelblue][B]ay[/COLOR][COLOR white]-[COLOR deepskyblue]Multi[COLOR white]-[COLOR dodgerblue]Addons[/COLOR][/B]">
 <requires>
 <import addon="xbmc.python" version="2.1.0"/>
-<import addon="script.module.beautifulsoup"/>
-<import addon="script.module.simple.downloader"/>
-<import addon="script.module.t0mm0.common"/>
-<import addon="script.module.beautifulsoup4"/>
-<import addon="script.module.requests"/>
-<import addon="script.module.httplib2"/>
-<import addon="script.module.simple.downloader"/>
-<import addon="script.module.urlresolver"/>
-<import addon="script.module.simplejson"/>    
-<import addon="script.module.livestreamer"/>
-<import addon="script.module.pyamf"/>
-<import addon="script.common.plugin.cache"/>
-<import addon="script.module.metahandler"/>
-<import addon="script.module.addon.common"/>
-<import addon="script.module.addon.signals"/>
+<import addon="script.module.addon.common" optional="true" />
+<import addon="script.module.t0mm0.common" optional="true" />
+<import addon="script.module.urlresolver" optional="true" />
 </requires>
 	<extension point="xbmc.addon.repository" name="KallPlay">
 		<info compressed="false">https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons.xml</info>
@@ -25,10 +15,10 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 <news>
-[COLOR blue]●[/COLOR] v1.3 - CORREÇÕES DE BUGS.
-[COLOR blue]●[/COLOR] v1.2 - UPDATES CORRIGIDOS.
-[COLOR blue]●[/COLOR] v1.1 - PEQUENAS CORREÇÕES.
-[COLOR blue]●[/COLOR] v1.0 - VERSÃO INICIAL.
+[COLOR blue]●[/COLOR] v0.4 - CORREÇÕES DE BUGS.
+[COLOR blue]●[/COLOR] v0.3 - UPDATES CORRIGIDOS.
+[COLOR blue]●[/COLOR] v0.2 - PEQUENAS CORREÇÕES.
+[COLOR blue]●[/COLOR] v0.1 - VERSÃO INICIAL.
 </news>
 <summary>Repositório KallPlay</summary>
 <description>[B][COLOR blue]●[/COLOR] [COLOR white]Repositório oficial do KallPlay - 2020[/COLOR][/B]
