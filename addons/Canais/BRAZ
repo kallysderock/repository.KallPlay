@@ -1,25 +1,11 @@
-
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/cv430Nh.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/V2fZwVUk</externallink>
-<fanart>https://i.imgur.com/oVVI97U.jpg</fanart>
-<info>[B][COLOR firebrick]●[/COLOR] [COLOR white]Proibido a venda dos add-ons do Brazuca Play.[/COLOR][/B][CR][B][COLOR firebrick]â—[/COLOR] [COLOR white]NÃ£o vendemos IPTV, caso ache sites ou mesmo apps Ã© falso.[/COLOR][/B]</info>
-</channel>
-</channels>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<channels>
-<channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B]TV AO VIVO [/B][/COLOR]</name>
+[B][COLOR lime]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
 <externallink><externallink>https://brazucaplay.forumeiros.com/h84-1</externallink>
 </externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
-<info>
-
-
-[COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
+<info>[B][COLOR firebrick]●[/COLOR] [COLOR white]Proibido a venda dos add-ons do KallPlay.[/COLOR][/B][CR][B][COLOR firebrick]●[/COLOR] [COLOR white]Não vendemos IPTV, caso ache sites ou mesmo apps é falso.[/COLOR][/B]</info>
 </channel>
 </channels>
 
@@ -27,14 +13,11 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] FILMES [/B][/COLOR]</name>
+[B][COLOR lime]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/Menu%20-%20Categoria.xml</externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
-<info>
-
-
-[COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
+<info>[B][COLOR firebrick]●[/COLOR] [COLOR white]Proibido a venda dos add-ons do KallPlay.[/COLOR][/B][CR][B][COLOR firebrick]●[/COLOR] [COLOR white]Não vendemos IPTV, caso ache sites ou mesmo apps é falso.[/COLOR][/B]</info>
 </channel>
 </channels>
 
@@ -43,14 +26,11 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B]  SERIES [/B][/COLOR]</name>
+[B][COLOR lime]●[/COLOR] [COLOR white]SERIES[/COLOR][/B]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
 <externallink>https://brazucaplay.forumeiros.com/h80-srs</externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
-<info>
-
-
-[COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
+<info>[B][COLOR firebrick]●[/COLOR] [COLOR white]Proibido a venda dos add-ons do KallPlay.[/COLOR][/B][CR][B][COLOR firebrick]●[/COLOR] [COLOR white]Não vendemos IPTV, caso ache sites ou mesmo apps é falso.[/COLOR][/B]</info>
 </channel>
 </channels>
 
@@ -60,14 +40,11 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] DESENHOS [/B][/COLOR]</name>
+[B][COLOR lime]●[/COLOR] [COLOR white]DESENHOS[/COLOR][/B]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
 <externallink>https://brazucaplay.forumeiros.com/h40-dsn</externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
-<info>
-
-
-[COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
+<info>[B][COLOR firebrick]●[/COLOR] [COLOR white]Proibido a venda dos add-ons do KallPlay.[/COLOR][/B][CR][B][COLOR firebrick]●[/COLOR] [COLOR white]Não vendemos IPTV, caso ache sites ou mesmo apps é falso.[/COLOR][/B]</info>
 </channel>
 </channels>
 
@@ -76,13 +53,10 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] ANIMES [/B][/COLOR]</name>
+[B][COLOR lime]●[/COLOR] [COLOR white]ANIMES[/COLOR][/B]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
 <externallink>https://brazucaplay.forumeiros.com/h60-anms</externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
-<info>
-
-
-[COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
+<info>[B][COLOR firebrick]●[/COLOR] [COLOR white]Proibido a venda dos add-ons do KallPlay.[/COLOR][/B][CR][B][COLOR firebrick]●[/COLOR] [COLOR white]Não vendemos IPTV, caso ache sites ou mesmo apps é falso.[/COLOR][/B]</info>
 </channel>
 </channels>
