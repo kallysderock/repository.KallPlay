@@ -1,6 +1,6 @@
 <channels>
 <channel>
-[B][COLOR lime]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
 <externallink><externallink>https://brazucaplay.forumeiros.com/h84-1</externallink>
 </externallink>
@@ -13,7 +13,7 @@
 
 <channels>
 <channel>
-[B][COLOR lime]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/Menu%20-%20Categoria.xml</externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
@@ -26,7 +26,7 @@
 
 <channels>
 <channel>
-[B][COLOR lime]●[/COLOR] [COLOR white]SERIES[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]SERIES[/COLOR][/B]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
 <externallink>https://brazucaplay.forumeiros.com/h80-srs</externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
@@ -40,7 +40,7 @@
 
 <channels>
 <channel>
-[B][COLOR lime]●[/COLOR] [COLOR white]DESENHOS[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]DESENHOS[/COLOR][/B]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
 <externallink>https://brazucaplay.forumeiros.com/h40-dsn</externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
@@ -53,7 +53,7 @@
 
 <channels>
 <channel>
-[B][COLOR lime]●[/COLOR] [COLOR white]ANIMES[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]ANIMES[/COLOR][/B]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
 <externallink>https://brazucaplay.forumeiros.com/h60-anms</externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
