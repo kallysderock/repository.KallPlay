@@ -1,22 +1,22 @@
 #EXTM3U  
 #EXTINF:-1,  A&E FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE FHD H265&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/9344
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/9344
 
 #EXTINF:-1,  A&E FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE FHD&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39320
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE FHD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39320
 
 #EXTINF:-1,  A&E HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE HD&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20892
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20892
 
 #EXTINF:-1,  A&E HD¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE HD&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/8139
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/8139
 
 #EXTINF:-1,  A&E SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE SD&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20893 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20893 
 
 
 #EXTINF:-1,  A&E SD¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE SD&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4404
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4404
          
                              
 #EXTINF:-1,  AGRO CANAL SD¹
