@@ -2,28 +2,39 @@
 #EXTINF:-1,  A&E FHD H265
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE FHD H265&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/9344
 
-#EXTINF:-1,AeEFHD²                                                                                                                                             plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE FHD² H265&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;thumbnailImage=&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39320                                                                                                                                                               #EXTINF:-1, AeE HD²
+#EXTINF:-1,AeE FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE FHD² H265&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;thumbnailImage=&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39320                                                                                                                                                               #EXTINF:-1, AeE HD²
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE HD²&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20892
+
 #EXTINF:-1,  AeE HD¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE HD¹&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/8139           
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE HD¹&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/8139  
+         
 #EXTINF:-1,AeE SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE SD²&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20893      
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE SD²&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20893
+      
 #EXTINF:-1, AeE SD¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE SD¹&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4404                              
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE SD¹&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4404 
+                             
 #EXTINF:-1,  AGRO CANAL SD¹
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AGRO CANAL SD¹&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/aovivoac-transparente.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/aovivoac-transparente.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/5983
+
 #EXTINF:-1, AMC FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AMC FHD H265&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/9343      
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AMC FHD H265&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/9343 
+     
 #EXTINF:-1,  AMC HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AMC HD²&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20890     
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AMC HD²&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20890 
+    
 #EXTINF:-1, AMC HD¹
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AMC HD¹&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/7691
+
 #EXTINF:-1,AMC SD*
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AMC SD*&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20891                                                                                                                                                            #EXTINF:-1,AMC SD¹
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AMC SD¹&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/7448                                                                                                                                                               #EXTINF:-1, ANIMAL PLANET FHD H265
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=ANIMAL PLANET FHD H265&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/13205                                                                                                                                                         #EXTINF:-1,  Animal Planet FHD² H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Animal Planet FHD² H265&amp;iconImage=&amp;thumbnailImage=&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39321           
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Animal Planet FHD² H265&amp;iconImage=&amp;thumbnailImage=&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39321  
+         
 #EXTINF:-1,ANIMAL PLANET HD²
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=ANIMAL PLANET HD²&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/24628                               
 #EXTINF:-1,ANIMAL PLANET HD¹
+
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=ANIMAL PLANET HD¹&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6142 
