@@ -3,7 +3,7 @@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE FHD H265&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/9344
 
 #EXTINF:-1, AeE FHD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE FHD² H265&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39320   
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE FHD² H265&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;thumbnailImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39320   
                                                                                                                                                             
 #EXTINF:-1, AeE HD²
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=AeE HD²&amp;iconImage=http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20892
