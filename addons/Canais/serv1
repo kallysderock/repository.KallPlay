@@ -97,7 +97,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=BAND RJ HD&amp
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=BAND RS HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/25018
 #EXTINF:-1,BAND SD²
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=BAND SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20875
-
 #EXTINF:-1,BAND SD¹
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=BAND SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4400
 #EXTINF:-1,Band Sports FHD² H265
@@ -480,3 +479,1293 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo EPTV Sul
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO GAZETA SUL ES  HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/33612
 #EXTINF:-1,GLOBO GAZETA SUL ES SD¹
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO GAZETA SUL ES SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/33611
+#EXTINF:-1,GLOBO GOIAS SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO GOIAS SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/21985
+#EXTINF:-1,GLOBO INTER TV CABUGI SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO INTER TV CABUGI SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39560
+#EXTINF:-1,Globo Inter TV Grande Minas FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo Inter TV Grande Minas FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39442
+#EXTINF:-1,Globo Inter TV Grande Minas HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo Inter TV Grande Minas HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39246
+#EXTINF:-1,GLOBO INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO INTERNACIONAL&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/24928
+#EXTINF:-1,GLOBO INTERTV CABUGI SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO INTERTV CABUGI SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/22763&
+#EXTINF:-1,GLOBO MANAUS  HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO MANAUS  HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34431
+#EXTINF:-1,GLOBO MG FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO MG FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34530&
+#EXTINF:-1,GLOBO MINAS FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO MINAS FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/31114
+#EXTINF:-1,GLOBO MINAS SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO MINAS SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/22761
+#EXTINF:-1,GLOBO MINAS SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO MINAS SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/10276
+#EXTINF:-1,GLOBO NEWS FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO NEWS FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/25010
+#EXTINF:-1,Globo News FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo News FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39350
+#EXTINF:-1,GLOBO NEWS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO NEWS HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/11043
+#EXTINF:-1,GLOBO NEWS HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO NEWS HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/7442
+#EXTINF:-1,GLOBO NEWS SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO NEWS SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/11243
+#EXTINF:-1,GLOBO NEWS SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO NEWS SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4432
+#EXTINF:-1,GLOBO NORDESTE FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO NORDESTE FHD H264&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/25011
+#EXTINF:-1,GLOBO NORDESTE HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO NORDESTE HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39207
+#EXTINF:-1,GLOBO NORDESTE HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO NORDESTE HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39218
+#EXTINF:-1,GLOBO NORDESTE HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO NORDESTE HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/33266
+#EXTINF:-1,Globo Nordeste SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo Nordeste SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39532
+#EXTINF:-1,GLOBO NORDESTE SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO NORDESTE SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/7527
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO NSC FLORIANOPOLIS FHD H265&amp;http://srv.tvprodigital.net:80/renato10/renato10/32806
+#EXTINF:-1,GLOBO NSC TV Blumenau FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO NSC TV Blumenau FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39445
+#EXTINF:-1,Globo NSC Florianopolis HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo NSC Florianopolis HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39241
+#EXTINF:-1,Globo NSC Florianopolis SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo NSC Florianopolis SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39581
+#EXTINF:-1,Globo Paraiba  HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo Paraiba  HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34527
+#EXTINF:-1,GLOBO RBS FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO RBS FHD H264&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/31110
+#EXTINF:-1,GLOBO RBS POA  HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO RBS POA  HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/33287
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO RBS PORTO ALEGRE SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39562
+#EXTINF:-1,GLOBO RBS TV POA FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO RBS TV POA FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39351
+#EXTINF:-1,GLOBO RBS TV POA SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO RBS TV POA SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39585
+#EXTINF:-1,GLOBO RBS TV POA SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO RBS TV POA SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/33265
+#EXTINF:-1,GLOBO REDE AMAZONICA MANAUS SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO REDE AMAZONICA MANAUS SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/33264
+#EXTINF:-1,GLOBO REDE AMAZÔNICA MANAUS SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO REDE AMAZÔNICA MANAUS SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39563
+#EXTINF:-1,Globo RJ FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo RJ FHD H264&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34526
+#EXTINF:-1,Globo RJ FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo RJ FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39454
+#EXTINF:-1,GLOBO RJ HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO RJ HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/22756
+#EXTINF:-1,GLOBO RJ HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO RJ HD¹&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6113
+#EXTINF:-1,GLOBO RJ SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO RJ SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/7547
+#EXTINF:-1,Globo RPC Paranaense FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo RPC Paranaense FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39403
+#EXTINF:-1,Globo RPC Paranaense HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo RPC Paranaense HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39239
+#EXTINF:-1,Globo RPC Paranaense SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo RPC Paranaense SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39582
+#EXTINF:-1,GLOBO RPC TV CURITIBA SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO RPC TV CURITIBA SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/33258
+#EXTINF:-1,GLOBO SOROCABA SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO SOROCABA SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/7684
+#EXTINF:-1,GLOBO SP FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO SP FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39352
+#EXTINF:-1,GLOBO SP HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO SP HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/22755
+#EXTINF:-1,GLOBO SP HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO SP HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/7529
+#EXTINF:-1,Globo SP SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo SP SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39580
+#EXTINF:-1,GLOBO SP SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO SP SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4431
+#EXTINF:-1,GLOBO TV ANHANGUERA FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO TV ANHANGUERA FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/33286
+#EXTINF:-1,GLOBO TV ANHANGUERA HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO TV ANHANGUERA HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/22004
+#EXTINF:-1,Globo TV Anhanguera SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo TV Anhanguera SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39533
+#EXTINF:-1,Globo TV Bahia FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo TV Bahia FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39405
+#EXTINF:-1,Globo TV Bahia HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo TV Bahia HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39234
+#EXTINF:-1,GLOBO TV BAHIA SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO TV BAHIA SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/33261
+#EXTINF:-1,Globo TV Belem FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo TV Belem FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39440
+#EXTINF:-1,Globo TV Belem HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo TV Belem HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39233
+#EXTINF:-1,Globo TV Belem SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo TV Belem SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39583
+#EXTINF:-1Globo TV Brasilia FHD² H265,
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo TV Brasilia FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39452
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO TV CENTRO AMERICA CUIABA SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/22017
+#EXTINF:-1,GLOBO TV GAZETA ES FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO TV GAZETA ES FHD H264&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20476
+#EXTINF:-1,GLOBO TV GAZETA ES HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO TV GAZETA ES HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/24959
+#EXTINF:-1,GLOBO TV GAZETA ES SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO TV GAZETA ES SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/24958
+#EXTINF:-1,GLOBO TV LIBERAL BELEM SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO TV LIBERAL BELEM SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39565
+#EXTINF:-1,GLOBO TV MIRANTE COCAIS SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO TV MIRANTE COCAIS SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/22744
+#EXTINF:-1,Globo TV Mirante FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo TV Mirante FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39406
+#EXTINF:-1,Globo TV Mirante HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo TV Mirante HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39242
+#EXTINF:-1,GLOBO TV MIRANTE MARANHAO HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO TV MIRANTE MARANHAO HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/33282
+#EXTINF:-1,Globo TV Morena FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo TV Morena FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39407
+#EXTINF:-1,Globo TV Morena HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo TV Morena HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39237
+#EXTINF:-1,GLOBO TV Morena Ponta Pora HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO TV Morena Ponta Pora HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/22734
+#EXTINF:-1,Globo TV Morena SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo TV Morena SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39584
+#EXTINF:-1,GLOBO TV RIO SUL  HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO TV RIO SUL  HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34430
+#EXTINF:-1,GLOBO TV SERGIPE HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO TV SERGIPE HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/24750
+#EXTINF:-1,TV Sergipe FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV Sergipe FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39453
+#EXTINF:-1,GLOBO TV SANTA CRUZ SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO TV SANTA CRUZ SD&ampurl=http://srv.tvprodigital.net:80/renato10/renato10/10238
+#EXTINF:-1,GLOBO TV TEM BAURU SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO TV TEM BAURU SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/22738
+#EXTINF:-1,GLOBO TV TEM BAURU SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO TV TEM BAURU SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/9465
+#EXTINF:-1,GLOBO TV TEM SOROCABA SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO TV TEM SOROCABA SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/22737
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO TV TRIBUNA SANTOS SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39566
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO TV TRIBUNA SANTOS SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/22732
+#EXTINF:-1,GLOBO TV VANGUARDA SJ DOS CAMPOS SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO TV VANGUARDA SJ DOS CAMPOS SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/22735
+#EXTINF:-1,GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39567
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO TV VERDES MARES FORTALEZA SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39568
+#EXTINF:-1,Globo TV Verdes Mares HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo TV Verdes Mares HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39236
+#EXTINF:-1,Globo TV Verdes Mares SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Globo TV Verdes Mares SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39536
+#EXTINF:-1,GLOBO TV VERDES MARES SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO TV VERDES MARES SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/22733
+#EXTINF:-1,GLOBO VERDES MARES FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO VERDES MARES FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/32807
+#EXTINF:-1,GLOBO VERDES MARES HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO VERDES MARES HD¹&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20623
+#EXTINF:-1,GloboTV Anhanguera FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GloboTV Anhanguera FHD² H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39404
+#EXTINF:-1,GloboTV Anhanguera HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GloboTV Anhanguera HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39240
+#EXTINF:-1,Gloob FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Gloob FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39421
+#EXTINF:-1,GLOOB HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOOB HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20749
+#EXTINF:-1,GLOOB HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOOB HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/7526
+#EXTINF:-1,GLOOB SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOOB SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20750
+#EXTINF:-1,GLOOB SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOOB SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4369
+#EXTINF:-1,GLOOBINHO FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOOBINHO FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/25013
+#EXTINF:-1,GLOOBINHO  HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOOBINHO  HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39201
+#EXTINF:-1,GLOOBINHO SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOOBINHO SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20701
+#EXTINF:-1,GLOOBINHO SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOOBINHO SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/10270
+#EXTINF:-1,GNT FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GNT FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/31123
+#EXTINF:-1,GNT FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GNT FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39416
+#EXTINF:-1,GNT HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GNT HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20752
+#EXTINF:-1,GNT HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GNT HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6956
+#EXTINF:-1,GNT SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GNT SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20751
+#EXTINF:-1,GNT SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GNT SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4368
+#EXTINF:-1,H2 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=H2 FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/13187
+#EXTINF:-1,H2 FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=H2 FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39353
+#EXTINF:-1,H2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=H2 HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20698
+#EXTINF:-1,H2 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=H2 HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6111
+#EXTINF:-1,H2 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=H2 SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20700
+#EXTINF:-1,H2 SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=H2 SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4367
+#EXTINF:-1,HBO 2 FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO 2 FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/11567
+#EXTINF:-1,HBO 2 FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO 2 FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39354
+#EXTINF:-1,HBO 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO 2 HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20690
+#EXTINF:-1,HBO 2 HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO 2 HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6110
+#EXTINF:-1,HBO 2 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO 2 SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20692
+#EXTINF:-1,HBO 2 SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO 2 SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4365
+#EXTINF:-1,HBO FAMILY FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO FAMILY FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/11568
+#EXTINF:-1,HBO Family FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO Family FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39355
+#EXTINF:-1,HBO FAMILY HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO FAMILY HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20687
+#EXTINF:-1,FAMILY HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO FAMILY HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6109
+#EXTINF:-1,HBO FAMILY SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO FAMILY SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20688
+#EXTINF:-1,HBO FAMILY SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO FAMILY SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4364
+#EXTINF:-1,HBO FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/11566
+#EXTINF:-1,HBO FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39356
+#EXTINF:-1,HBO HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20694
+#EXTINF:-1,HBO HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6108
+#EXTINF:-1,HBO MUNDI HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO MUNDI HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20662
+#EXTINF:-1,HBO MUNDI HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO MUNDI HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/10266
+#EXTINF:-1,HBO MUNDI SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO MUNDI SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20664
+#EXTINF:-1,HBO MUNDI SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO MUNDI SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4358
+#EXTINF:-1,HBO PLUS FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO PLUS FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/13190
+#EXTINF:-1,HBO Plus FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO Plus FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39357
+#EXTINF:-1,HBO PLUS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO PLUS HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20920
+#EXTINF:-1,HBO PLUS HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO PLUS HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6106
+#EXTINF:-1,HBO PLUS SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO PLUS SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20684
+#EXTINF:-1,HBO PLUS SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO PLUS SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4363
+#EXTINF:-1,HBO POP FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO POP FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/25015
+#EXTINF:-1,HBO POP FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO POP FHD H265&ampurl=http://srv.tvprodigital.net:80/renato10/renato10/39363
+#EXTINF:-1,HBO POP HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO POP HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20659
+#EXTINF:-1,HBO POP HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO POP HD&ampurl=http://srv.tvprodigital.net:80/renato10/renato10/10265
+#EXTINF:-1,HBO POP SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO POP SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20660
+#EXTINF:-1,HBO POP SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO POP SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4355
+#EXTINF:-1,HBO SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20696
+#EXTINF:-1,HBO SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4366
+#EXTINF:-1,HBO SIGNATURE FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO SIGNATURE FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/11570
+#EXTINF:-1, HBO Signature FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO Signature FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39358
+#EXTINF:-1,HBO SIGNATURE HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO SIGNATURE HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20678
+#EXTINF:-1,HBO SIGNATURE HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO SIGNATURE HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6105
+#EXTINF:-1,HBO SIGNATURE SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO SIGNATURE SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20679
+#EXTINF:-1,HBO SIGNATURE SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO SIGNATURE SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4361
+#EXTINF:-1,HBO XTREME FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO XTREME FHD H265&ampurl=http://srv.tvprodigital.net:80/renato10/renato10/39362
+#EXTINF:-1,HBO XTREME HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO XTREME HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20657
+#EXTINF:-1,HBO XTREME HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO XTREME HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/7850&
+#EXTINF:-1,HBO XTREME SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO XTREME SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20658
+#EXTINF:-1,HBO XTREME SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO XTREME SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4357
+#EXTINF:-1,HBO XTREMEFHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO XTREMEFHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/25014
+#EXTINF:-1,HGTV FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HGTV FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/13208
+#EXTINF:-1,HGTV FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HGTV FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39332
+#EXTINF:-1,HGTV HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HGTV HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20820
+#EXTINF:-1,HGTV HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HGTV HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/7862
+#EXTINF:-1,HGTV SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HGTV SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39571
+#EXTINF:-1,HGTV SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HGTV SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/10236
+#EXTINF:-1,HISTORY CHANNEL FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HISTORY CHANNEL FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/13211
+#EXTINF:-1,HISTORY CHANNEL FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HISTORY CHANNEL FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39394
+#EXTINF:-1,HISTORY CHANNEL HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HISTORY CHANNEL HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20468
+#EXTINF:-1,HISTORY CHANNEL HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HISTORY CHANNEL HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6104
+#EXTINF:-1,HISTORY CHANNEL SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HISTORY CHANNEL SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20469
+#EXTINF:-1,HISTORY CHANNEL SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HISTORY CHANNEL SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4314
+#EXTINF:-1,I SAT FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=I SAT FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39429
+#EXTINF:-1,I SAT  HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=I SAT  HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39229
+#EXTINF:-1,I SAT SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=I SAT SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39537
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY FHD H265 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=ID - INVESTIGACAO DISCOVERY FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/9143
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=ID - INVESTIGACAO DISCOVERY HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20672
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=ID - INVESTIGACAO DISCOVERY HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6869
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=ID - INVESTIGACAO DISCOVERY SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20673
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=ID - INVESTIGACAO DISCOVERY SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4360
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=ID - INVESTIGACAO DISCOVERY&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39216
+#EXTINF:-1, ID Investigation Discovery FHD  H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=ID Investigation Discovery FHD  H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/30696
+#EXTINF:-1,IDEAL TV SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=IDEAL TV SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20674
+#EXTINF:-1,IMPD TV SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=IMPD TV SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/25915
+#EXTINF:-1,Inter TV dos Vales FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Inter TV dos Vales FHD H265&amp; url=http://srv.tvprodigital.net:80/renato10/renato10/39449 #EXTINF:-1,InterTv Cabo Frio  HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=InterTv Cabo Frio  HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34531 #EXTINF:-1,LIFETIME FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=LIFETIME FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/11540 #EXTINF:-1,Lifetime FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Lifetime FHD H265&amp;iconImage=&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39360
+#EXTINF:-1,LIFETIME HD²plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=LIFETIME HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20668
+#EXTINF:-1,LIFETIME HD¹plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=LIFETIME HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/7525
+#EXTINF:-1,LIFETIME SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=LIFETIME SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20670
+#EXTINF:-1,LIFETIME SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=LIFETIME SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/7876 #EXTINF:-1,Mais Globosat FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Mais Globosat FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39411 #EXTINF:-1,MAIS GLOBOSAT HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MAIS GLOBOSAT HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20665 #EXTINF:-1,MAIS GLOBOSAT HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MAIS GLOBOSAT HD&amp; url=http://srv.tvprodigital.net:80/renato10/renato10/9262 #EXTINF:-1,MAIS GLOBOSAT SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MAIS GLOBOSAT SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20666 #EXTINF:-1,MAIS GLOBOSAT SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MAIS GLOBOSAT SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6953 #EXTINF:-1,MAX FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MAX FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/13189
+#EXTINF:-1,MAX FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MAX FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39361 #EXTINF:-1,MEGAPIX FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MEGAPIX FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/8146 #EXTINF:-1,Megapix FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Megapix FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39364 #EXTINF:-1,MEGAPIX HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MEGAPIX HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20653 #EXTINF:-1,MEGAPIX HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MEGAPIX HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6101
+#EXTINF:-1,MEGAPIX SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MEGAPIX SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20654 #EXTINF:-1,MEGAPIX SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MEGAPIX SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4354
+#EXTINF:-1,MTV FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MTV FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/11573
+#EXTINF:-1, MTV FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MTV FHD² H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39365
+#EXTINF:-1,MTV HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MTV HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20644
+#EXTINF:-1,MTV HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MTV HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/7524
+#EXTINF:-1,MTV SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MTV SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20646
+#EXTINF:-1,MTV SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MTV SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4353
+#EXTINF:-1,MULTISHOW FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MULTISHOW FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/13201 #EXTINF:-1,Multishow FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Multishow FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39366 #EXTINF:-1,MULTISHOW HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MULTISHOW HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20648 #EXTINF:-1,MULTISHOW HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MULTISHOW HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6867 #EXTINF:-1,MULTISHOW SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MULTISHOW SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20650
+#EXTINF:-1,MULTISHOW SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MULTISHOW SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4352 #EXTINF:-1,Music Box Brasil FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Music Box Brasil FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39427 #EXTINF:-1,Music Box Brasil HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Music Box Brasil HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39228 #EXTINF:-1,MUSIC BOX BRASIL SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MUSIC BOX BRASIL SDurl=http://srv.tvprodigital.net:80/renato10/renato10/20655 #EXTINF:-1,MUSIC BOX BRASIL SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MUSIC BOX BRASIL SDurl=http://srv.tvprodigital.net:80/renato10/renato10/7848 #EXTINF:-1,Natgeo FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Natgeo FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39367 #EXTINF:-1,NATGEO KIDS FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NATGEO KIDS FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/13198 #EXTINF:-1,Natgeo Kids FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Natgeo Kids FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39368 #EXTINF:-1,NATGEO KIDS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NATGEO KIDS HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20632 #EXTINF:-1,NATGEO KIDS HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NATGEO KIDS HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/10261 #EXTINF:-1,NATGEO KIDS SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NATGEO KIDS SDurl=http://srv.tvprodigital.net:80/renato10/renato10/20642
+#EXTINF:-1,NATGEO KIDS SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NATGEO KIDS SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4350 #EXTINF:-1,NATGEO WILD FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NATGEO WILD FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/11528 #EXTINF:-1,Natgeo Wild FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Natgeo Wild FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39369 #EXTINF:-1,NATGEO WILD HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NATGEO WILD HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20640 #EXTINF:-1,NATGEO WILD HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NATGEO WILD HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6099 #EXTINF:-1,NATGEO WILD SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NATGEO WILD SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20641 #EXTINF:-1,NATGEO WILD SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NATGEO WILD SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4349 #EXTINF:-1,NATIONAL GEOGRAPHY FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHY FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/13188 #EXTINF:-1,NATIONAL GEOGRAPHY HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHY HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20629 #EXTINF:-1,NATIONAL GEOGRAPHY HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHY HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6098 #EXTINF:-1,NATIONAL GEOGRAPHY SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHY SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20630 #EXTINF:-1,NATIONAL GEOGRAPHY SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHY SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4348 #EXTINF:-1,NHK SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NHK SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6949
+#EXTINF:-1,Nick FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Nick FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39370 #EXTINF:-1,NICK JR FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NICK JR FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/11527 #EXTINF:-1,Nick JR FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Nick JR FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39371 #EXTINF:-1,NICK JR HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NICK JR HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20631
+#EXTINF:-1,NICK JR HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NICK JR HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/10260
+#EXTINF:-1,NICK JR SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NICK JR SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20637
+#EXTINF:-1,NICK JR SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NICK JR SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4346 #EXTINF:-1,NICKELODEON FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NICKELODEON FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/11526 #EXTINF:-1,NICKELODEON HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NICKELODEON HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20635 #EXTINF:-1,NICKELODEON HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NICKELODEON HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/7537 #EXTINF:-1,NICKELODEON SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NICKELODEON SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20636 #EXTINF:-1,NICKELODEON SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NICKELODEON SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4345 #EXTINF:-1,NOVO TEMPO SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NOVO TEMPO SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6948
+#EXTINF:-1,OFF FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=OFF FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/9152
+#EXTINF:-1,OFF FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=OFF FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39410
+#EXTINF:-1,OFF HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=OFF HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20622
+#EXTINF:-1,OFF HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=OFF HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6947
+#EXTINF:-1,OFF SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=OFF SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39539
+#EXTINF:-1,OFF SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=OFF SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4344
+
+#EXTINF:-1,Paramount Channel FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Paramount Channel FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39372 
+#EXTINF:-1,PARAMOUNT FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=PARAMOUNT FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/13185 
+#EXTINF:-1,PARAMOUNT HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=PARAMOUNT HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20619 
+#EXTINF:-1,PARAMOUNT HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=PARAMOUNT HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6945 
+#EXTINF:-1,PARAMOUNT SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=PARAMOUNT SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20621 
+#EXTINF:-1,PARAMOUNT SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=PARAMOUNT SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6946 
+#EXTINF:-1,PLAY KIDS HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=PLAY KIDS HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/32164 
+#EXTINF:-1,Play TV FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Play TV FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39414 
+#EXTINF:-1,PLAY TV SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=PLAY TV SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39540 
+#EXTINF:-1,PLAY TV SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=PLAY TV SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20617 
+#EXTINF:-1,PlayTV  HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Play TV HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39222 
+#EXTINF:-1,POLISHOP TV SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=POLISHOP TV SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4342 
+#EXTINF:-1,Prime Box Brasil FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Prime Box Brasil FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39419 
+#EXTINF:-1,Prime Box Brasil  HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Prime Box Brasil  HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39224 
+#EXTINF:-1,PRIME BOX BRASIL SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=PRIME BOX BRASIL SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20587 
+#EXTINF:-1,PRIME BOX BRAZIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=PRIME BOX BRAZIL SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4332 
+#EXTINF:-1,RECORD BAHIA HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD BAHIA HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39262 
+#EXTINF:-1,RECORD BRASILIA HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD BRASILIA HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39261 
+#EXTINF:-1,RECORD BRASILIA HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD BRASILIA HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/33275 
+#EXTINF:-1,RECORD CAMPINAS HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD CAMPINAS HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/33277 
+#EXTINF:-1,RECORD ES SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD ES SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6817 
+#EXTINF:-1,RECORD FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/13183 
+#EXTINF:-1,Record  FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Record  FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39380 
+#EXTINF:-1,RECORD GOIANIA FHD  H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD GOIANIA FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/30437 
+#EXTINF:-1,RECORD HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20571 
+#EXTINF:-1,RECORD HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/7836 
+#EXTINF:-1,RECORD MARANHAO HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD MARANHAO HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34429 
+#EXTINF:-1,RECORD MINAS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD MINAS HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39263 
+#EXTINF:-1,RECORD MINAS HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD MINAS HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/30435 
+#EXTINF:-1,RECORD NEWS ES FHD H264
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD NEWS ES FHD H264&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20557 
+#EXTINF:-1,RECORD NEWS ES HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD NEWS ES HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/10255 
+#EXTINF:-1,RECORD NEWS ES SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD NEWS ES SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6941 
+#EXTINF:-1,Record News FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Record News FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39441 
+#EXTINF:-1,RECORD NEWS  HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD NEWS  HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39208 
+#EXTINF:-1,RECORD NEWS Santa Catarina HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD NEWS Santa Catarina HD(MANUTENCAO)&amp;
+url=http://srv.tvprodigital.net:80/renato10/renato10/24923 
+#EXTINF:-1,RECORD NEWS SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD NEWS SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39544 
+#EXTINF:-1,RECORD NEWS SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD NEWS SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/30707 
+#EXTINF:-1,RECORD PARANA HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD PARANA HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/18148 
+#EXTINF:-1,RECORD RIO HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD RIO HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/25543 
+#EXTINF:-1,RECORD RJ HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD RJ HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39264 
+#EXTINF:-1,RECORD RS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD RS HD&ampurl=http://srv.tvprodigital.net:80/renato10/renato10/39265 
+#EXTINF:-1,RECORD RS HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD RS HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/25017 
+#EXTINF:-1,RECORD SANTA CATARINA HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD SANTA CATARINA HD&ampurl=http://srv.tvprodigital.net:80/renato10/renato10/18153 
+#EXTINF:-1,RECORD SAO JOSE DO RIO PRETO HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD SAO JOSE DO RIO PRETO HD&amp;
+url=http://srv.tvprodigital.net:80/renato10/renato10/30432 
+#EXTINF:-1,RECORD SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4423 
+#EXTINF:-1,Record SP FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Record SP FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34529 
+#EXTINF:-1,RECORD SP HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD SP &amp;url=http://srv.tvprodigital.net:80/renato10/renato10/18168 
+#EXTINF:-1,RECORD TV ATALAIA HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD TV ATALAIA HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/24751 
+#EXTINF:-1,RECORD TV BELEM HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD TV BELEM HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/30426 
+#EXTINF:-1,RECORD TV GOIANIA HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD TV GOIANIA HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/30708 
+#EXTINF:-1,RECORD TV GOIAS SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD TV GOIAS SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/18151 
+#EXTINF:-1,RECORD TV LITORAL SANTOS HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RECORD TV LITORAL SANTOS HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/30423 
+#EXTINF:-1,REDE BRASIL SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=REDE BRASIL SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4421 
+#EXTINF:-1,Rede Genisis FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Rede Genisis FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39447 
+#EXTINF:-1,REDE GOSPEL SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=REDE GOSPEL SD&ampurl=http://srv.tvprodigital.net:80/renato10/renato10/25975 
+#EXTINF:-1,Rede Super FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Rede Super FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39446 
+#EXTINF:-1,Rede TV FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Rede TV FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39428 
+#EXTINF:-1,REDE TV HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=REDE TV HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20574 
+#EXTINF:-1,REDE TV HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=REDE TV HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6940 
+#EXTINF:-1,REDE TV SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=REDE TV SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20575 
+#EXTINF:-1,REDE TV SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=REDE TV SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4420 
+#EXTINF:-1,REDE VIDA SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=REDE VIDA SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6939 
+#EXTINF:-1,RPC PR HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RPC PR HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20483 
+#EXTINF:-1,TV APERIPER  ARACAJU HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV APERIPER  ARACAJU HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/24753 
+#EXTINF:-1,SBT BRASILIA HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SBT BRASILIA HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/33276 
+#EXTINF:-1,SBT FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SBT FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39431 
+#EXTINF:-1,SBT HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SBT HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20554 
+#EXTINF:-1,SBT HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SBT HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6889 
+#EXTINF:-1,SBT PARANA HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SBT PARANA HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/24925 
+#EXTINF:-1,SBT RJ HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SBT RJ HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/25544 
+#EXTINF:-1,SBT RJ HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SBT RS HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/25303 
+#EXTINF:-1, SBT SANTA CATARINA HD¹(MANUTENCAO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SBT SANTA CATARINA HD&amp;
+url=http://srv.tvprodigital.net:80/renato10/renato10/33293 
+#EXTINF:-1,SBT SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SBT SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20555 
+#EXTINF:-1,SBT SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SBT SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4331 
+#EXTINF:-1,SBT SERRA DOURADA FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SBT SERRA DOURADA FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/33284 
+#EXTINF:-1,SBT Serra Dourada  HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SBT Serra Dourada  HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/33768 
+#EXTINF:-1,Shoptime FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Shoptime FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39455 
+#EXTINF:-1,Sony FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Sony FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39381 
+#EXTINF:-1, SPACE FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SPACE FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/13197 
+#EXTINF:-1,SPACE FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SPACE FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39382 
+#EXTINF:-1,SPACE HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SPACE HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20532 
+#EXTINF:-1,SPACE HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SPACE HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6085 
+#EXTINF:-1, SPACE SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SPACE SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39545 
+#EXTINF:-1,SPACE SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SPACE SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4328 
+#EXTINF:-1,STUDIO UNIVERSAL FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=STUDIO UNIVERSAL FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/13194 
+#EXTINF:-1,Studio Universal FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Studio Universal FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39386 
+#EXTINF:-1,STUDIO UNIVERSAL HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=STUDIO UNIVERSAL HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20546 
+#EXTINF:-1,STUDIO UNIVERSAL HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=STUDIO UNIVERSAL HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/7874 
+#EXTINF:-1,STUDIO UNIVERSAL SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=STUDIO UNIVERSAL SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20547 
+#EXTINF:-1,STUDIO UNIVERSAL SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=STUDIO UNIVERSAL SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4324 
+#EXTINF:-1,SYFY FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SYFY FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/13195 
+#EXTINF:-1,SYFY FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SYFY FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39387 
+#EXTINF:-1,                                                                                                                                                    
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SYFY HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20550 
+#EXTINF:-1,SYFY HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SYFY HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/7795 
+#EXTINF:-1,SYFY SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SYFY SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20551 
+#EXTINF:-1,SYFY SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SYFY SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4323 
+#EXTINF:-1,TBS FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TBS FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39418 
+#EXTINF:-1,TBS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TBS HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20521 
+#EXTINF:-1,TBS HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TBS HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/7873 
+#EXTINF:-1,TBS SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TBS SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20522 
+#EXTINF:-1,TBS SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TBS SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4322 
+#EXTINF:-1,TC ACTION FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TC ACTION FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39388 
+#EXTINF:-1,TC Cult FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TC Cult FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39389 
+#EXTINF:-1,TC Fun FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TC Fun FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39390 
+#EXTINF:-1,TC Pipoca FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TC Pipoca FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39391 
+#EXTINF:-1,TC Premium FHD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TC Premium FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39392 
+#EXTINF:-1,TC Touch FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TC Touch FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39393 
+#EXTINF:-1,TCM FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TCM FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39413 
+#EXTINF:-1,TCM  HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TCM  HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39209 
+#EXTINF:-1,TCM SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TCM SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20496 
+#EXTINF:-1,TCM SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TCM SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4321 
+#EXTINF:-1,TELECINE ACTION FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE ACTION FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/8141 
+#EXTINF:-1,TELECINE ACTION HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE ACTION HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20517 
+#EXTINF:-1, TELECINE ACTION HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE ACTION HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6080 
+#EXTINF:-1,TELECINE ACTION SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE ACTION SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20518 
+#EXTINF:-1,TELECINE ACTION SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE ACTION SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4320 
+#EXTINF:-1,TELECINE CULT FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE CULT FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/8143 
+#EXTINF:-1,TELECINE CULT HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE CULT HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20513 
+#EXTINF:-1,TELECINE CULT HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE CULT HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/10247 
+#EXTINF:-1,TELECINE CULT SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE CULT SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20514 
+#EXTINF:-1, TELECINE CULT SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE CULT SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4319 
+#EXTINF:-1,TELECINE FUN FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE FUN FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/11561 
+#EXTINF:-1,TELECINE FUN HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE FUN HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20509 
+#EXTINF:-1,TELECINE FUN HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE FUN HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6079 
+#EXTINF:-1,TELECINE FUN SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE FUN SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20510 
+#EXTINF:-1,TELECINE FUN SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE FUN SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4318 
+#EXTINF:-1,TELECINE PIPOCA FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE PIPOCA FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/8144 
+#EXTINF:-1,TELECINE PIPOCA HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE PIPOCA HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20505 
+#EXTINF:-1,TELECINE PIPOCA HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE PIPOCA HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6078 
+#EXTINF:-1,TELECINE PIPOCA SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE PIPOCA SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39546 
+#EXTINF:-1,TELECINE PIPOCA SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE PIPOCA SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4317 
+#EXTINF:-1,TELECINE PREMIUM FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE PREMIUM FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/8140 
+#EXTINF:-1,TELECINE PREMIUM HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE PREMIUM HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20501 
+#EXTINF:-1,TELECINE PREMIUM HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE PREMIUM HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6077 
+#EXTINF:-1,TELECINE PREMIUM SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE PREMIUM SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39547 
+#EXTINF:-1,TELECINE PREMIUM SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE PREMIUM SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4316 
+#EXTINF:-1,TELECINE TOUCH FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE TOUCH FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/25016 
+#EXTINF:-1,TELECINE TOUCH HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE TOUCH HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20497 
+#EXTINF:-1,TELECINE TOUCH HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE TOUCH HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6076 
+#EXTINF:-1,TELECINE TOUCH SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE TOUCH SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39548 
+#EXTINF:-1,TELECINE TOUCH SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE TOUCH SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4315 
+#EXTINF:-1,TERRA VIVA SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TERRA VIVA SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6936 
+#EXTINF:-1,TLC FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TLC FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39415 
+#EXTINF:-1,TLC HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TLC HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39210 
+#EXTINF:-1,TLC HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TLC HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/24786 
+#EXTINF:-1,TLC SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TLC SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39550 
+#EXTINF:-1,TLC SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TLC SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4313 
+#EXTINF:-1,TNT FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TNT FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/13181 
+#EXTINF:-1,TNT FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TNT FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39395 
+#EXTINF:-1,TNT HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TNT HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20493 
+#EXTINF:-1,TNT HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TNT HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6074 
+#EXTINF:-1,TNT SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TNT SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39552 
+#EXTINF:-1,TNT SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TNT SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4312 
+#EXTINF:-1,TNT SERIES FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TNT SERIES FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/13186 
+#EXTINF:-1,TNT SERIES FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TNT SERIES FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39396 
+#EXTINF:-1,TNT SERIES HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TNT SERIES HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20489 
+#EXTINF:-1,TNT SERIES HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TNT SERIES HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6073 
+#EXTINF:-1,TNT SERIES SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TNT SERIES SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39551 
+#EXTINF:-1,TNT SERIES SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TNT SERIES SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4311 
+#EXTINF:-1,Tooncast FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Tooncast FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39423 
+#EXTINF:-1,TOONCAST HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TOONCAST HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20485 
+#EXTINF:-1,TOONCAST SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TOONCAST SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20486 
+#EXTINF:-1,TOONCAST SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TOONCAST SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4310 
+#EXTINF:-1,TruTV FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TruTV FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39426 
+#EXTINF:-1,TRUTV  HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TRUTV  HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39227 
+#EXTINF:-1,TruTV SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TruTV SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39576 
+#EXTINF:-1,TRUTV SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TRUTV SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6935 
+#EXTINF:-1, TV ALTEROSA SBT DIVINOPOLIS MG SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV ALTEROSA SBT DIVINOPOLIS MG SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/30433 
+
+#EXTINF:-1,TV ALTEROSA SBT MINAS HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV ALTEROSA SBT MINAS HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/30434 
+#EXTINF:-1,TV ANHANGUERA GOIANIA HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV ANHANGUERA GOIANIA HD¹&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/30439 
+#EXTINF:-1,TV APARECIDA SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV APARECIDA SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4438 
+#EXTINF:-1,TV ARATU SBT BAHIA HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV ARATU SBT BAHIA HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/30428 
+#EXTINF:-1,TV BRASIL SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV BRASIL SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20482 
+#EXTINF:-1,TV CABRALIA RECORD BAHIA HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV CABRALIA RECORD BAHIA HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/30429 
+#EXTINF:-1,TV CAMARA SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV CAMARA SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/10245 
+#EXTINF:-1,TV CIDADE OESTE SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV CIDADE OESTE SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20484 
+#EXTINF:-1,TV CLUBE  HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV CLUBE  HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34641 
+#EXTINF:-1,TV CULTURA SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV CULTURA SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4412 
+#EXTINF:-1,Tv Diario FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Tv Diario FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39443 
+#EXTINF:-1,TV DIARIO HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV DIARIO HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39247 
+#EXTINF:-1,TV DIARIO  HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV DIARIO HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34642 
+#EXTINF:-1,TV ESCOLA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV ESCOLA SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20477 
+#EXTINF:-1,TV EVANGELIZAR SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV EVANGELIZAR SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6206 
+#EXTINF:-1,TV Gazeta Alagoas FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV Gazeta Alagoas FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39450 
+#EXTINF:-1,TV Gazeta FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV Gazeta FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39451 
+#EXTINF:-1,TV GAZETA SP HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV GAZETA SP HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/30425 
+#EXTINF:-1,TV GLOBO RPC CURITIBA SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV GLOBO RPC CURITIBA SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/7866 
+#EXTINF:-1,TV JUSTICA SD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV JUSTICA SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20475 
+#EXTINF:-1,TV LIBERAL BELEM SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV LIBERAL BELEM SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/33256 
+#EXTINF:-1,TV Liberal  HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV Liberal  HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34640 
+#EXTINF:-1,TV PARANAIBA RECORD UBERLANDIA MG HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV PARANAIBA RECORD UBERLANDIA MG HD&amp;
+url=http://srv.tvprodigital.net:80/renato10/renato10/30424 
+#EXTINF:-1,TV RA TIM BUM FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV RA TIM BUM FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39422 
+#EXTINF:-1,TV RA TIM BUM HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV RA TIM BUM HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39212 
+#EXTINF:-1,TV RA TIM BUM HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV RA TIM BUM HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/24787 
+#EXTINF:-1,TV RA TIM BUM  SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV RA TIM BUM  SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39553 
+#EXTINF:-1,TV RA TIM BUM SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV RA TIM BUM SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6933 
+#EXTINF:-1,TV SANTA CRUZ GLOBO BAHIA HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV SANTA CRUZ GLOBO BAHIA HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/30431
+#EXTINF:-1,TV SENADO SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV SENADO SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/10246 
+#EXTINF:-1,TV SUBAE GLOBO BAHIA HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV SUBAE GLOBO BAHIA HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/30430 
+#EXTINF:-1,TV TEM BAURU SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV TEM BAURU SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/33255 
+#EXTINF:-1,TV TEM SOROCABA SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV TEM SOROCABA SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/33254 
+#EXTINF:-1, TV TEM São José do Rio Preto SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV TEM São José do Rio Preto SD&amp;
+url=http://srv.tvprodigital.net:80/renato10/renato10/4308 
+#EXTINF:-1,TV TRIBUNA ES FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV TRIBUNA ES FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/33610 
+#EXTINF:-1,TV TRIBUNA ES HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV TRIBUNA ES HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/33609 
+#EXTINF:-1,TV TRIBUNA ES SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV TRIBUNA ES SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/33608 
+#EXTINF:-1,TV VITORIA ES FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV VITORIA ES FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/33604 
+#EXTINF:-1,TV VITORIA ES HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV VITORIA ES HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/33603 
+#EXTINF:-1,TV VITORIA ES SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV VITORIA ES SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/33602 
+#EXTINF:-1,TV5  HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV5 HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39213 
+#EXTINF:-1,TV IDEONE SWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV IDEONE SWS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34496 
+#EXTINF:-1,UNIVERSAL CHANNEL FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=UNIVERSAL CHANNEL FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/13192 
+#EXTINF:-1,Universal Channel FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Universal Channel FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39397 
+#EXTINF:-1,UNIVERSAL CHANNEL HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=UNIVERSAL CHANNEL HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20464 
+#EXTINF:-1,UNIVERSAL CHANNEL HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=UNIVERSAL CHANNEL HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/5987 
+#EXTINF:-1,Universal Channel SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Universal Channel SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39554 
+#EXTINF:-1,UNIVERSAL CHANNEL SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=UNIVERSAL CHANNEL SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20465 
+#EXTINF:-1,VH1 Mega Hits FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=VH1 Mega Hits FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39398 
+#EXTINF:-1,VH1 MEGA HITS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=VH1 MEGA HITS HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39221 
+#EXTINF:-1,VH1 MEGA HITS HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=VH1 MEGA HITS HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/10361 
+#EXTINF:-1,VH1 Mega Hits SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=VH1 Mega Hits SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39555 
+#EXTINF:-1,VH1 MEGA HITS SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=VH1 MEGA HITS SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/10243 
+#EXTINF:-1,VH1 MEGA HITS SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Viva FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39412 
+#EXTINF:-1,VIVA HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=VIVA HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20460 
+#EXTINF:-1,VIVA HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=VIVA HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6848 
+#EXTINF:-1,VIVA SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=VIVA SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20461 
+#EXTINF:-1,VIVA SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=VIVA SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6928 
+#EXTINF:-1,WARNER CHANNEL FHD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=WARNER CHANNEL FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/11525 
+#EXTINF:-1,Warner Channel FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Warner Channel FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39399 
+#EXTINF:-1,WARNER CHANNEL HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=WARNER CHANNEL HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20456 
+#EXTINF:-1,WARNER CHANNEL HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=WARNER CHANNEL HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/6072 
+#EXTINF:-1,WARNER CHANNEL SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=WARNER CHANNEL SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20457 
+#EXTINF:-1,WARNER CHANNEL SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=WARNER CHANNEL SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/4307 
+#EXTINF:-1,Wohoo FHD² H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Wohoo FHD H265&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39448 
+#EXTINF:-1,WOOHOO SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=WOOHOO SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20453 
+#EXTINF:-1,YU-GI-OH 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=YU-GI-OH 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34939 
+#EXTINF:-1,YU-YU-Hakusho 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=YU-YU-Hakusho 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34940 
+#EXTINF:-1,ZOOMOO SD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=ZOOMOO SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/20450 
+
+
+#EXTINF:-1,3 Palavrinhas 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=3 Palavrinhas 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34941 
+#EXTINF:-1,A Feiticeira 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=A Feiticeira 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34948 
+#EXTINF:-1,A Grande Familia 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=A Grande Familia 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34942 
+#EXTINF:-1,ALADIN 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=ALADIN 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34864 
+#EXTINF:-1,As Meninas Superpoderosas 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=As Meninas Superpoderosas 24HRS&amp;url=
+http://srv.tvprodigital.net:80/renato10/renato10/34865 
+#EXTINF:-1,BEN 10 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=BEN 10 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34866 
+#EXTINF:-1,Bita e os Animais 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Bita e os Animais 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34943 
+#EXTINF:-1,BOB ESPONJA 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=BOB ESPONJA 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34867 
+#EXTINF:-1,Breaking Bad 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Breaking Bad 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34868 
+#EXTINF:-1,CAO CORAGEM 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=CAO CORAGEM 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34869 
+#EXTINF:-1,Caverna do Dragão 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Caverna do Dragão 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34870 
+#EXTINF:-1,Chapolin Colorado 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Chapolin Colorado 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34871
+#EXTINF:-1,CHAVES 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=CHAVES 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34872 
+#EXTINF:-1,CHAVES DESENHO 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=CHAVES DESENHO 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34873 
+#EXTINF:-1,Denis o Pimentinha 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Denis o Pimentinha 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34874 
+#EXTINF:-1,Desenhos Biblicos 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Desenhos Biblicos 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34875 
+#EXTINF:-1,Desenhos Disney 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Desenhos Disney 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34876 
+#EXTINF:-1,Digimon 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Digimon 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34877 
+#EXTINF:-1,Dois Homens e Meio 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Dois Homens e Meio 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34878 
+#EXTINF:-1,Doug 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Doug 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34879 
+#EXTINF:-1,DRAGON BALL 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DRAGON BALL 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34880 
+#EXTINF:-1,DRAGON BALL SUPER 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DRAGON BALL SUPER 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34881 
+#EXTINF:-1,DRAGON BALL Z 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DRAGON BALL Z 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34882 
+#EXTINF:-1,Eu a Patroa e as Crianças 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Eu a Patroa e as Crianças 24HRS&amp;url=
+http://srv.tvprodigital.net:80/renato10/renato10/34883 
+#EXTINF:-1,Formiga Atómica 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Formiga Atómica 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34884 
+#EXTINF:-1,Galinha Pintadinha 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Galinha Pintadinha 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34885 
+#EXTINF:-1,Guardiões da Galaxia 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Guardiões da Galaxia 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34886 
+#EXTINF:-1,He-Man 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=He-Man 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34887 
+#EXTINF:-1,Historias Disney 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Historias Disney 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34889 
+#EXTINF:-1,HOMEM ARANHA 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HOMEM ARANHA 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34890 
+#EXTINF:-1,Homem de Ferro 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Homem de Ferro 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34891 
+#EXTINF:-1,HOMEMS DE PRETO 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HOMEMS DE PRETO 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34892 
+#EXTINF:-1,Hércules 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Hércules 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34888 
+#EXTINF:-1,Incrível Hulk 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Incrível Hulk 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34893 
+#EXTINF:-1,Jack-Chan 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Jack-Chan 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34894 
+#EXTINF:-1,Jaspion 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Jaspion 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34895 
+#EXTINF:-1,JIRAYA O Incrível Ninja 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=JIRAYA O Incrível Ninja 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34896
+#EXTINF:-1,Kenan e Kel 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Kenan e Kel 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34897& 
+#EXTINF:-1,Liga da Justica 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Liga da Justica 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34944 
+#EXTINF:-1,Luluzinha 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Luluzinha 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34898 
+#EXTINF:-1,Medabots 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Medabots 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34899 
+#EXTINF:-1,MegaMan 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MegaMan 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34900 
+#EXTINF:-1,Mortal Kombat 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Mortal Kombat 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34901 
+#EXTINF:-1,Mr.Ben 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Mr.Ben 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34902 
+#EXTINF:-1,NARUTO 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NARUTO 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34903 
+#EXTINF:-1,Naruto Shippuden DUB 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Naruto Shippuden DUB 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34904 
+#EXTINF:-1, O Fantástico Mundo de Bobby 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=O Fantástico Mundo de Bobby 24HRS&amp;url=
+http://srv.tvprodigital.net:80/renato10/renato10/34905 
+#EXTINF:-1,O INSPETOR 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=O INSPETOR 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34906 
+#EXTINF:-1,O MASKARA 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=O MASKARA 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34907 
+#EXTINF:-1,Os Anjinhos - Rugrats 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Os Anjinhos - Rugrats 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34908
+#EXTINF:-1,OS CAVALEIROS DO ZODIACO 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=OS CAVALEIROS DO ZODIACO 24HRS&amp;url=
+http://srv.tvprodigital.net:80/renato10/renato10/34909 
+#EXTINF:-1,OS FLINTSTONES 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=OS FLINTSTONES 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34910 
+#EXTINF:-1,OS SIMPSONS 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=OS SIMPSONS 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34911 
+#EXTINF:-1,Os Vingadores 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Os Vingadores 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34912 
+#EXTINF:-1,Papa-Léguas 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Papa-Léguas 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34913 
+#EXTINF:-1,Peppa Pig 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Peppa Pig 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34914 
+#EXTINF:-1,PERNALONGA 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=PERNALONGA 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34915 
+#EXTINF:-1,Phineas e Ferb 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Phineas e Ferb 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34916 
+#EXTINF:-1,PICA PAU 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=PICA PAU 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34917 
+#EXTINF:-1,Pink-e-Cerebro 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Pink-e-Cerebro 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34918 
+#EXTINF:-1,POKEMON 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=POKEMON 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34919 
+#EXTINF:-1,Popeye O Marinheiro 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Popeye O Marinheiro 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34920 
+#EXTINF:-1,Rambo 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Rambo 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34921 
+#EXTINF:-1,Scooby-Doo 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Scooby-Doo 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34922 
+#EXTINF:-1,Smallville 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Smallville 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34923 
+#EXTINF:-1,Sobrenatural 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Sobrenatural 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34924 
+#EXTINF:-1,South Park 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=South Park 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34925 
+#EXTINF:-1,Steven Universe 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Steven Universe 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34926 
+#EXTINF:-1,Super Choque 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Super Choque 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34947 
+#EXTINF:-1,Superman 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Superman 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34927 
+#EXTINF:-1,TARTARUGAS NINJAS 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TARTARUGAS NINJAS 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34928 
+#EXTINF:-1,Thundercats 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Thundercats 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34929 
+#EXTINF:-1,TIMAO E PUMBA 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TIMAO E PUMBA 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34930 
+#EXTINF:-1, TODO MUNDO ODEIA O CHRIS 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TODO MUNDO ODEIA O CHRIS 24HRS&amp;url=
+http://srv.tvprodigital.net:80/renato10/renato10/34931 
+#EXTINF:-1,Tom e Jerry 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Tom e Jerry 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34932 
+#EXTINF:-1,Tres Espias Demais 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Tres Espias Demais 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34933 
+#EXTINF:-1,UM MALUCO NO PEDAÇO 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=UM MALUCO NO PEDAÇO 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34934 
+#EXTINF:-1,Uma Família da Pesada 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Uma Família da Pesada 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34935 
+#EXTINF:-1,Ursinhos Carinhos 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Ursinhos Carinhos 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34936 
+#EXTINF:-1,Vai Que Cola 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Vai Que Cola 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34946 
+#EXTINF:-1,X-MAN 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=X-MAN 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34937 
+#EXTINF:-1,Xena 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Xena 24HRS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/34938 
+#EXTINF:-1,24H OS SIMPSONS 1989/1999
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H OS SIMPSONS 1989/1999&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/43637 
+#EXTINF:-1,24H BOB ESPONJA LONGAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H BOB ESPONJA LONGAS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/43638 
+#EXTINF:-1,24H BOB ESPONJA (HardBlog)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H BOB ESPONJA&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/43639 
+#EXTINF:-1,24H PEGADINHAS AMERICANAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H PEGADINHAS AMERICANAS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/44322 
+#EXTINF:-1,GLOBO SP FHD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO SP FHD¹&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/44713 
+#EXTINF:-1,CNN Brasil HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=CNN Brasil HD¹&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/44723 
+#EXTINF:-1,CNN Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=CNN Brasil FHD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/44724 
+#EXTINF:-1,24H CAVERNA DO DRAGÃO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H CAVERNA DO DRAGÃO&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/44808 
+#EXTINF:-1,24H POWER RANGERS CLASSICO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H POWER RANGERS CLASSICO&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45063 
+#EXTINF:-1,24H KILLING EVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H KILLING EVE&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45098 
+#EXTINF:-1,24H LIE TO ME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H LIE TO ME&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45099 
+#EXTINF:-1,24H MARVEL DEMOLIDOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H MARVEL DEMOLIDOR&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45167 
+#EXTINF:-1,24H JIRAYA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H JIRAYA&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45168 
+#EXTINF:-1,24H JASPION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H JASPION&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45169 
+#EXTINF:-1,24H CHANGEMAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H CHANGEMAN&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45170 
+#EXTINF:-1,24H GOOGLE V
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H GOOGLE V&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45484 
+#EXTINF:-1,24H BLACK KAMEN RIDER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H BLACK KAMEN RIDER&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45485 
+#EXTINF:-1,24H CHIPS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H CHIPS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45486 
+#EXTINF:-1,24H OS SIMPSONS 2000/2010
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H OS SIMPSONS 2000/2010&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45487 
+#EXTINF:-1,24H ESCOLINHA DO PROFESSOR RAIMUNDO CLASSICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H ESCOLINHA DO PROFESSOR RAIMUNDO&amp;
+url=http://srv.tvprodigital.net:80/renato10/renato10/45488 
+#EXTINF:-1,24H CARGA PESADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H CARGA PESADA&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45489 
+#EXTINF:-1,Record SP HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Record SP HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45490 
+#EXTINF:-1,Record DF HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Record DF HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45492 
+#EXTINF:-1,Record BH HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Record BH HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45493 
+#EXTINF:-1,Record BA HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Record BA HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45494 
+#EXTINF:-1,Record PA HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Record PA HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45495 
+#EXTINF:-1,Record GO HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Record GO HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45496 
+#EXTINF:-1,Record ES HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Record ES HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45497 
+#EXTINF:-1,24H O INCRIVEL HULK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H O INCRIVEL HULK&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45561 
+#EXTINF:-1,24H JORNADA NAS ESTRELAS CLASSICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H JORNADA NAS ESTRELAS CLASSICA&amp;
+url=http://srv.tvprodigital.net:80/renato10/renato10/45573 
+#EXTINF:-1,24H FAISCA e FUMAÇA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H FAISCA e FUMAÇA&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45582 
+#EXTINF:-1,24H TRÊS ESPIÃS É DEMAIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H TRÊS ESPIÃS É DEMAIS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45584 
+#EXTINF:-1,24H DESENHOS BIBLICOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H DESENHOS BIBLICOS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45587 
+#EXTINF:-1,REDE VIDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=REDE VIDA HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45590 
+#EXTINF:-1,TV APARECIDA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV APARECIDA FHD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45593 
+#EXTINF:-1,TV SÉCULO 21 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV SÉCULO 21 SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45594 
+#EXTINF:-1,TV PAI ETERNO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV PAI ETERNO SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45595 
+#EXTINF:-1,TV FÉ BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV FÉ BRASIL SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45596 
+#EXTINF:-1,TV ESPIRITA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV ESPIRITA SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45597 
+#EXTINF:-1,TV UNIVERSAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV UNIVERSAL SD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45598 
+#EXTINF:-1,TV PLENITUDE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV PLENITUDE HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45599 
+#EXTINF:-1,TV REDE GOSPEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TV REDE GOSPEL&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45601 
+#EXTINF:-1,CINE PRO DIGITAL FAROESTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=CINE PRO DIGITAL FAROESTE&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45629 
+#EXTINF:-1,24H TOM 7JERRY CLASSICO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H TOM 7JERRY CLASSICO&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45687 
+#EXTINF:-1,24H PONTO CEGO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H PONTO CEGO&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/45811 
+#EXTINF:-1,24H RAMBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H RAMBO&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/46148 
+#EXTINF:-1,24H COMANDOS EM AÇÃO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H COMANDOS EM AÇÃO&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/46149 
+#EXTINF:-1,24H SHAZZAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H SHAZZAM&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/46708 
+#EXTINF:-1,24H PLIC PLOC E CHUVISCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H PLIC PLOC E CHUVISCO&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/46719 
+#EXTINF:-1,24H AS MUMIAS VIVAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H AS MUMIAS VIVAS&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/46735 
+#EXTINF:-1,24H BRAVESTAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H BRAVESTAR&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/46736 
+#EXTINF:-1,24H A SUPER MAQUINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H A SUPER MAQUINA&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/46787 
+#EXTINF:-1,24H DRAGONBALL SUPER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H DRAGONBALL SUPER&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/47241 
+#EXTINF:-1,NANDO REIS LIVE #FIQUE EM CASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NANDO REIS LIVE&amp;
+url=http://srv.tvprodigital.net:80/renato10/renato10/47692                       
+#EXTINF:-1,TONICO E TINOCO #FIQUEM EM CASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TONICO E TINOCO&amp;
+url=http://srv.tvprodigital.net:80/renato10/renato10/47693 
+#EXTINF:-1,DISCOVERY THEATER FHD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DISCOVERY THEATER FHD LEG&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/47747
+#EXTINF:-1,DISCOVERY THEATER HD LEGENDADO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=DISCOVERY THEATER HD LEGENDADO&amp;
+url=http://srv.tvprodigital.net:80/renato10/renato10/47748 
+#EXTINF:-1,FOX PREMIUM 1 HD LEGENDADO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=FOX PREMIUM 1 HD LEGENDADO&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/47749 
+#EXTINF:-1,HBO  HD LEGENDADO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO  HD LEGENDADO&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/47750 
+#EXTINF:-1,HBO + PLUS HD LEGENDADO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO + PLUS HD LEGENDADO&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/47751 
+#EXTINF:-1,HBO FHD LEGENDADO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO FHD LEGENDADO&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/47752 
+#EXTINF:-1,HBO PLUS + FHD LEGENDADO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=HBO PLUS + FHD LEGENDADO&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/47753 
+#EXTINF:-1,MAX UP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=MAX UP FHD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/47756 
+#EXTINF:-1,SYFY FHD LEGENDADO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SYFY FHD LEGENDADO&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/47757 
+#EXTINF:-1,SYFY HD LEGENDADO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SYFY HD LEGENDADO&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/47758 
+#EXTINF:-1,TELECINE CULT FHD LEGENDADO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE CULT FHD LEGENDADO&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/47759 
+#EXTINF:-1,TELECINE CULT HD LEGENDADO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE CULT HD LEGENDADO&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/47760
+
+#EXTINF:-1,TELECINE PREMIUM FHD LEGENDADO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE PREMIUM FHD LEGENDADO&amp;
+url=http://srv.tvprodigital.net:80/renato10/renato10/47761
+#EXTINF:-1,TELECINE PREMIUM HD LEGENDADO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=TELECINE PREMIUM HD LEGENDADO&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/47762
+#EXTINF:-1,ZOOMO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=ZOOMO HD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/47764 
+#EXTINF:-1,ZOOMO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=ZOOMO FHD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/47765 
+#EXTINF:-1,WOHOO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=WOHOO FHD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/47766 
+#EXTINF:-1,24H IRMÃOS A OBRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H IRMÃOS A OBRA&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/48033 
+#EXTINF:-1,24H FREAKAZOID!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H FREAKAZOID&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/48034 
+#EXTINF:-1,24H NIPTUCK/ESTETICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=24H NIPTUCK ESTETICA&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/48066 
+#EXTINF:-1,LUAN SANTANA #FIQUE EM CASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=LUAN SANTANA&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/48095 
+#EXTINF:-1,SIMONE E SIMARIA #FIQUE EM CASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=SIMONE E SIMARIA&amp;
+url=http://srv.tvprodigital.net:80/renato10/renato10/48096 
+#EXTINF:-1,RIO NEGRO E SOLIMOES #FIQUE EM CASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RIO NEGRO E SOLIMOES&amp;
+url=http://srv.tvprodigital.net:80/renato10/renato10/48097 
+#EXTINF:-1,RAÇA NEGRA #FIQUE EM CASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RAÇA NEGRA&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/48098 
+#EXTINF:-1,GIAN e GIOVANE #FIQUE EM CASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GIAN e GIOVANE&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/48100
+ 
+#EXTINF:-1,CORONA VÍRUS PELO MUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=CORONA VÍRUS PELO MUNDO&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/48415
