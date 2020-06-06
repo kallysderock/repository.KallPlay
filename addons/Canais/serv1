@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,  A&E FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=A&E FHD H265&amp;url=http://elitex.me:80/Eliezer3034/765OehDzeS/6283
+#EXTINF:-1,  GLOBO SPFHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=GLOBO SP FHD&amp;url=http://forcestrem.com:9000/alex2407/alex2407/71237
 #EXTINF:-1,  A&E FHD²
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=A&E FHD&amp;url=http://srv.tvprodigital.net:80/renato10/renato10/39320
 #EXTINF:-1,  A&E HD²
