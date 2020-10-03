@@ -2,7 +2,7 @@
 <channel>
 <name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B] TV AO VIVO [/B][/COLOR]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
-<externallink>https://brazucaplay.forumeiros.com/h96-brtv1.xml</externallink>
+<externallink>http://farrokhdwight.hopto.org:25461/live/RBFOQylJJnW4NG/SCG7yeSjqrKq/29.ts|user-agent=GoPlayer</externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
 <info>[COLOR white][B]Vários Canais. F4mteste, SportsDervil e de Sites[/B][/COLOR]</info>
 <genre>Canais de Tv</genre>
@@ -19,7 +19,7 @@
 <channel>
 <name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B]FILMES[/B][/COLOR]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
-<externallink>https://cld.pt/dl/download/05126816-b9bc-4fbb-bb28-01714d765177/Home%20Filmes.xml?download=true</externallink>
+<externallink>https://raw.github.com/skyrisk/brazucaplay/master/outros/Menu - Categoria.xml</externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
 <info>[COLOR white][B]Vários Filmes de todos os generos[/B][/COLOR]</info>
 <genre>Filmes</genre>
@@ -34,7 +34,7 @@
 <channel>
 <name>[COLOR gold]|[/COLOR] [COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR] [COLOR gold]|[/COLOR] [COLOR orange][B]SÉRIES[/B][/COLOR]</name>
 <thumbnail>https://imgur.com/CIpu0DP.jpg</thumbnail>
-<externallink>https://cld.pt/dl/download/f1357a26-d45b-42ed-974f-01cf5eafb044/Series%20tvchannelhd.xml?download=true</externallink>
+<externallink>https://raw.github.com/skyrisk/brazucaplay/master/outros/Series.xml</externallink>
 <fanart>https://imgur.com/7hf1Lxe.jpg</fanart>
 <info>[COLOR white][B]Variedades De Séries Antigas e as Mais Atuais para todos Os Gostos[/B][/COLOR]</info>
 <genre>Séries</genre>
