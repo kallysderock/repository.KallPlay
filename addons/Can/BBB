@@ -5,20 +5,20 @@
 ###########15.04.2020##########################
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 8 HD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 8 HD ³
-plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70433
-#EXTINF:-1 tvg-id="" tvg-name="BBB MOSAICO HD ¹" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB MOSAICO HD ¹
-plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/66595
-#EXTINF:-1 tvg-id="" tvg-name="BBB TELA 1 SD ¹" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB TELA 1 SD ¹
-plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70410
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 1 HD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 1 HD ³
-plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70414
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 2 HD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 2 HD ³
-plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70415
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 2 SD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 2 SD ³
-plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70416
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 1 SD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 1 SD ³
-plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70417
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 CAM 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 8 HD ³
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/201345
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 CAM 4 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB MOSAICO HD ¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/203811
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 CAM 5 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB TELA 1 SD ¹
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/203812
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 CAM PRINCIPAL 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 1 HD ³
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/201343
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 CAM PRINCIPAL 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 2 HD ³
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/201344
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 CAM MOSAICO 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 2 SD ³
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/201342
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 CAM MOSAICO 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 1 SD ³
+plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://lista.lorddark.club:80/5247/5247/201341
 #EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 3 HD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 3 HD ³
 plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=http://quatv2.com:9000/eduardo10/eduardo10/70418
 #EXTINF:-1 tvg-id="" tvg-name="BBB 20 CAM 3 SD ³" tvg-logo="plugin://plugin.video.f4mTester/?name=KALLPLAY&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/uONN4YM.png" group-title="CANAIS | BBB 2020",[B][COLOR orange][B]KALLPLAY[/B][/COLOR] BBB 20 CAM 3 SD ³
