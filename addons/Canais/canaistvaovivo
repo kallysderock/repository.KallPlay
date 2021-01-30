@@ -169,6 +169,21 @@
 
 <channels>
 <channel>
+<name>[COLOR gold]|[/COLOR][COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR][COLOR gold]|[/COLOR][COLOR cyan][B]MEGA TV[/B][/COLOR]</name>
+<thumbnail>https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png</thumbnail>
+<externallink>https://pastebin.com/raw/ZA6kvr7J</externallink>
+<fanart>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/imgs/fanart.jpg</fanart>
+<info>
+
+[COLOR gold]|[/COLOR]- O MELHOR ENTRETENIMENTO PARA SUA CASA -[COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
 <name>[COLOR gold]|[/COLOR][COLOR White][B]KALL[/B][/COLOR][COLOR gold][B]PLAY[/B][/COLOR][COLOR gold]|[/COLOR][COLOR cyan][B]FAUSTINO TV[/B][/COLOR]</name>
 <thumbnail>https://github.com/kallysderock/KallPlay/raw/master/imgs/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kallysderock/repository.KallPlay/master/addons/Canais/F</externallink>
